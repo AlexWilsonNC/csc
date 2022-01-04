@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='icon' href='../assets/logo.png' type='image/x-icon'>
+    <title>Carolina Series | Rankings</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../css/rankings.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="progressbar"></div>
+
+    <nav id="top-nav">
+        <div id="nav-left">
+            <a href="../index.html">
+                <img src="../assets/logo.png" alt="pokeball logo">
+                <h1>Carolina Series</h1>
+            </a>
+        </div>
+        <div id="nav-right">
+            <a class="inactive" href="./about.html">About</a>
+            <a class="inactive" href="./events.html">Events</a>
+            <a class="inactive" href="./results.html">Results</a>
+            <a class="active" href="./rankings.html">Rankings</a>
+        </div>
+    </nav>
+
+    <a href="#top-nav" class='scrollTop'><i class="fas fa-chevron-up"></i></a>
+
+    <!-- <div id="organizer">
+        <select name="organize" id="organize">
+            <option value="rank-sort">Sort by Rank</option>
+            <option value="name-sort">Sort by Name</option>
+        </select>
+    </div> -->
+
+    <main>
+        <div id="rankings">
+            <div id="rank-intro">
+                <h2>2022 Rankings</h2>
+                <p>(Events haven't started yet, check back soon.)</p>
+            </div>
+            <div id="center-info">
+                <div id="player-info">
+                    <p id="player-name"> Name</p>
+                    <p id="player-points">CS Points</p>
+                </div>
+            </div>
+            <hr>
+            <ol>
+                <li>
+                    <span class="name">Ash Ketchum</span>
+                    <span class="pts">25</span>
+                </li>
+                <li>
+                    <span class="name">Gary Oak</span>
+                    <span class="pts">20</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+                <li>
+                    <span class="name">---</span>
+                    <span class="pts">-</span>
+                </li>
+            </ol>
+        </div>
+    </main>
+    
+    <footer>
+        <div id='foot-top'>
+            <a href="./index.html">Home</a>
+            <a href="./about.html">About</a>
+            <a href="./events.html">Events</a>
+            <a href="./results.html">Results</a>
+            <a href="./rankings.html">Rankings</a>
+        </div>
+        <div id='foot-bottom'>This tournament series and its related events are in no way related nor correlated to Play! Pokemon or TPCI, it is simply an outing for players to enjoy the TCG in a competitive and local manner.</div>
+    </footer>
+
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <script src="index.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script type="text/javascript">
+        window.addEventListener('scroll', function() {
+            var scroll = document.querySelector('.scrollTop');
+            scroll.classList.toggle('active', window.scrollY > 300)
+        });
+    </script>
+</body>
+
+</html>

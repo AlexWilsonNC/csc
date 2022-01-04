@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='icon' href='./assets/logo.png' type='image/x-icon'>
+    <title>Carolina Series Championships</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav id="top-nav">
+        <div id="nav-left">
+            <a href="./index.html">
+                <img src="./assets/logo.png" alt="pokeball logo">
+                <h1>Carolina Series</h1>
+            </a>
+        </div>
+        <div id="nav-right">
+            <a class="inactive" href="./pages/about.html">About</a>
+            <a class="inactive" href="./pages/events.html">Events</a>
+            <a class="inactive" href="./pages/results.html">Results</a>
+            <a class="inactive" href="./pages/rankings.html">Rankings</a>
+        </div>
+    </nav>
+
+    <img id="container" src="assets/hand-zoom.jpg" alt="hand of pokemon cards"></img>
+
+    <article>
+        <a id="main-news" href="./pages/about.html">
+            <div>
+                <h2>The 2022 Carolina Series Begins Soon</h2>
+                <p>We're excited to announce that events and a new Invitational Championship Series will begin in
+                    January!
+                    <span class='readmore'>Read more...</span>
+                </p>
+            </div>
+        </a>
+    </article>
+
+    <div id="compete-info">
+        <div class="main-compete">
+            <img id="champion" src="assets/champion.png" alt="person holding trophy">
+            <h3>Become the Carolina State Champion!</h3>
+            <p>Compete in events throughout the Carolinas from January to June to earn CS points, the more you earn,
+                the better. The Top 32 playes at the end of the season will earn an exclusive invitation to the Carolina
+                State Championships! Compete for cash, prizes, playmats, that sweet 1st Place Trophy, and the bragging
+                rights
+                of being THE best player of the Carolinas!</p>
+        </div>
+    </div>
+
+    <div id='add-an-event'>
+        <div class="main-compete">
+            <h4 id='contact-h4'>Contact Us for more Events</h4>
+            <p>Want to particpate in a Carolina Series event at your own store, or would like to host one? Email us or
+                have your store/organizer email us at <a
+                    href='mailto:carolinaseriestcg@gmail.com'>carolinaseriestcg@gmail.com</a> to sign up!</p>
+        </div>
+    </div>
+
+    <footer>
+        <div id='foot-top'>
+            <a href="./index.html">Home</a>
+            <a href="./pages/about.html">About</a>
+            <a href="./pages/events.html">Events</a>
+            <a href="./pages/results.html">Results</a>
+            <a href="./pages/rankings.html">Rankings</a>
+        </div>
+        <div id='foot-bottom'>This tournament series and its related events are in no way related nor correlated to
+            Play! Pokemon or TPCI, it is simply an outing for players to enjoy the TCG in a competitive and local
+            manner.</div>
+    </footer>
+
+    <script src="index.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script type="text/javascript">
+        window.addEventListener('scroll', function () {
+            var scroll = document.querySelector('.scrollTop');
+            scroll.classList.toggle('active', window.scrollY > 300)
+        });
+    </script>
+</body>
+
+</html>

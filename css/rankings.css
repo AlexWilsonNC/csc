@@ -1,0 +1,99 @@
+#organizer {
+    display: flex;
+    justify-content: center;
+}
+
+#organize {
+    width: 225px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+main {
+    margin: 25px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+#rankings {
+    width: 65%;
+    border-radius: 15px;
+    border: 1px solid grey;
+    box-shadow: 8px 8px 15px 8px rgba(0, 0, 0, 0.5);
+    padding-bottom: 25px;
+    background-color: rgb(233, 233, 233);
+}
+
+#rank-intro {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px 0px;
+}
+
+#rank-intro h2 {
+    font-size: 40px;
+}
+
+#rank-intro p {
+    margin-top: 15px;
+}
+
+#center-info {
+    display: flex;
+    justify-content: center;
+}
+
+#player-info {
+    width: 90%;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#player-name {
+    float: left;
+}
+
+#player-points {
+    float: right;
+}
+
+ol {
+    display: flex;
+    align-items: flex-start;    
+    flex-direction: column;
+    margin: 15px 0px 0px 50px;
+}
+
+li {
+    width: 100%;
+    margin-top: 6.5px;
+}
+
+.name {
+    float: left;
+    margin-left: 15px;
+}
+
+.pts {
+    float: right;
+    margin-right: 80px;
+}
+
+@media screen and (max-width: 700px) {
+    #rank-intro h2 {
+        font-size: 28px;
+    }
+    #rank-intro p {
+        margin-bottom: 40px;
+        padding: 0px 40px;
+        text-align: center;
+    }
+    .pts {
+        margin-right: 30px;
+    }
+    #rankings {
+        width: 85%;
+    }
+}
