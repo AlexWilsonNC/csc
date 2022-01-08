@@ -55,6 +55,10 @@ main {
     float: left;
 }
 
+#player-name span {
+    font-size: 12px;
+}
+
 #player-points {
     float: right;
 }
