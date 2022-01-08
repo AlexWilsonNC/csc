@@ -98,6 +98,7 @@ h2 {
 }
 .result {
     display: flex;
+    justify-content: space-between;
 }
 .result p {
     font-size: 18px;
@@ -191,5 +192,8 @@ p a {
     #calendar iframe {
         height: 400px;
         width: 96.5%;
+    }
+    .result p {
+        font-size: 14px;
     }
 }

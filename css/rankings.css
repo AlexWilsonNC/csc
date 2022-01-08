@@ -8,6 +8,12 @@
     width: 100%;
 }
 
+.result {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
 #organize {
     width: 225px;
     font-size: 20px;
@@ -105,4 +111,5 @@ li {
     #rankings {
         width: 85%;
     }
+    
 }
