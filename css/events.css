@@ -107,8 +107,14 @@ h2 {
     margin-left: 10px;
     font-size: 21px;
 }
-.deck {
-    font-size: 15px;
+.deck-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.deck-list img {
+    height: 40px;
 }
 .deck-list i {
     font-size: 22px;
