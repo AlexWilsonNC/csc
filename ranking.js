@@ -32,7 +32,7 @@ let list_items = [
   },
   {
     firstName: "Mitch O'Neill",
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 15
   },
   {
@@ -47,8 +47,8 @@ let list_items = [
   },
   {
     firstName: 'Olivia Farmer',
-    attendancePoints: 1,
-    csPoints: 8
+    attendancePoints: 2,
+    csPoints: 23
   },
   {
     firstName: 'Phillip Lineberry',
@@ -62,7 +62,7 @@ let list_items = [
   },
   {
     firstName: 'Jennifer Perez',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0
   },
   {
@@ -82,17 +82,17 @@ let list_items = [
   },
   {
     firstName: 'Landon Hawkins',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0
   },
   {
     firstName: 'Jeremiah Lynch',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0
   },
   {
     firstName: 'Jason Joyce',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0
   },
   {
@@ -107,11 +107,61 @@ let list_items = [
   },
   {
     firstName: 'Jonathan Arias',
+    attendancePoints: 2,
+    csPoints: 20
+  },
+  {
+    firstName: 'James Quick',
     attendancePoints: 1,
     csPoints: 0
   },
   {
-    firstName: 'James Quick',
+    firstName: 'Caleb Reyerson',
+    attendancePoints: 1,
+    csPoints: 25
+  },
+  {
+    firstName: 'Tristan Bennett',
+    attendancePoints: 1,
+    csPoints: 15
+  },
+  {
+    firstName: 'Carl Simpson',
+    attendancePoints: 1,
+    csPoints: 8
+  },
+  {
+    firstName: 'Nathan Ostevkats',
+    attendancePoints: 1,
+    csPoints: 8
+  },
+  {
+    firstName: 'Tony Vuong',
+    attendancePoints: 1,
+    csPoints: 8
+  },
+  {
+    firstName: 'Cole Lewis',
+    attendancePoints: 1,
+    csPoints: 8
+  },
+  {
+    firstName: 'Alex Robbins',
+    attendancePoints: 1,
+    csPoints: 0
+  },
+  {
+    firstName: 'Dick Collier',
+    attendancePoints: 1,
+    csPoints: 0
+  },
+  {
+    firstName: 'Justin Chestnut',
+    attendancePoints: 1,
+    csPoints: 0
+  },
+  {
+    firstName: 'Carter Petrocci',
     attendancePoints: 1,
     csPoints: 0
   }
