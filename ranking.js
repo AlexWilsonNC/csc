@@ -138,25 +138,25 @@ function sort_array_by_name (array, sort, desc) {
   return array;
 }
 
-// sortAttendance.addEventListener('click', () => {
-//   let array = sort_array_by(list_items, 'attendancePoints', desc);
-//   displayList(array);
-//   desc = !desc;
-//   sortName.style.backgroundColor = 'rgb(206, 46, 46)';
-//   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
-//   sortAttendance.style.backgroundColor = 'rgb(207, 83, 83)';
-// });
-// function sort_array_by (array, sort, desc) {
-//   array.sort(function (a, b) {
-//     if (a[sort] < b[sort]) return 1;
-//     if (a[sort] > b[sort]) return -1;
-//     return 0;
-//   })
+sortAttendance.addEventListener('click', () => {
+  let array = sort_array_by(list_items, 'attendancePoints', desc);
+  displayList(array);
+  desc = !desc;
+  sortName.style.backgroundColor = 'rgb(206, 46, 46)';
+  sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
+  sortAttendance.style.backgroundColor = 'rgb(207, 83, 83)';
+});
+function sort_array_by (array, sort, desc) {
+  array.sort(function (a, b) {
+    if (a[sort] < b[sort]) return 1;
+    if (a[sort] > b[sort]) return -1;
+    return 0;
+  })
 
-//   // if (desc) array.reverse();
+  // if (desc) array.reverse();
 
-//   return array;
-// }
+  return array;
+}
 
 sortCsPoints.addEventListener('click', () => {
   let array = sort_array_by_cs(list_items, 'csPoints', desc);
