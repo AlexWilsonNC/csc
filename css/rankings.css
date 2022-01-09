@@ -69,11 +69,12 @@ main {
 
 .player-name {
     font-size: 18px;
+    padding-left: 10px;
 }
 
-.player-name span {
+/* .player-name span {
     font-size: 11px;
-}
+} */
 
 .small-a-points {
     font-size: 7px;
@@ -83,7 +84,7 @@ main {
     display: flex;
     align-items: center;    
     flex-direction: column;
-    margin: 15px 15px 0px 37px;
+    margin: 15px 15px 0px 45px;
 }
 .list-item {
     display: flex;
