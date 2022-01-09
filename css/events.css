@@ -42,7 +42,7 @@
     display: flex;
     align-items: center;    
     flex-direction: column;
-    margin-top: 10px;
+    margin-top: 10px auto;
 }
 
 .top-info-box {
@@ -99,13 +99,14 @@ h2 {
 .result {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .result p {
     font-size: 18px;
 }
 .result-player {
     margin-left: 10px;
-    font-size: 21px;
+    font-size: 18px;
 }
 .deck-list {
     display: flex;
