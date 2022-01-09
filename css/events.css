@@ -38,12 +38,6 @@
     color: blue;
 }
 
-.decklist {
-    margin: 5px auto;
-    text-align: center;
-    font-size: 22px;
-}
-
 #top-info {
     display: flex;
     align-items: center;    
@@ -59,6 +53,12 @@
     border: 1px solid grey;
     box-shadow: 7px 7px 15px 3.5px rgba(0, 0, 0, 0.4);
     margin-bottom: 25px;
+}
+.decklist {
+    margin: 5px auto 25px;
+    text-align: center;
+    font-size: 22px;
+    width: 40%;
 }
 
 .top-info-box-grey {
