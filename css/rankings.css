@@ -1,6 +1,19 @@
-#organizer {
+.sort-buttons {
     display: flex;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+.sort-btn {
+    width: 33%;
+    padding: 2px 7px;
+    background-color: rgb(206, 46, 46);
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    margin: 0px 10px;
 }
 
 .ranking-hr {
@@ -8,22 +21,11 @@
     width: 100%;
 }
 
-.result {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-}
-
-#organize {
-    width: 225px;
-    font-size: 20px;
-    border-radius: 5px;
-}
-
 main {
     margin: 25px 0px;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 #rankings {
@@ -56,45 +58,44 @@ main {
 }
 
 #player-info {
-    width: 90%;
-    margin: 10px;
+    width: 100%;
     font-weight: 600;
+    font-size: 18px;
+    margin: 5px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.player-name {
     font-size: 18px;
 }
 
-#player-name {
-    float: left;
-}
-
-#player-name span {
+.player-name span {
     font-size: 11px;
 }
 
-#player-points {
-    float: right;
+.small-a-points {
+    font-size: 7px;
 }
 
-#ranking-ol {
+.list {
     display: flex;
-    align-items: flex-start;    
+    align-items: center;    
     flex-direction: column;
-    margin: 15px 0px 0px 50px;
+    margin: 15px 15px 0px 37px;
 }
-
-li {
+.list-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     width: 100%;
-    margin: 10px;
+    margin: 5px 0px;
 }
-
-.name {
-    float: left;
-    margin-left: 15px;
-}
-
-.pts {
-    float: right;
-    margin-right: 80px;
-}
+/* .list .list-item idv:nth-child(1),
+.list .list-item idv:nth-child(2) {
+    flex: 1;
+} */
 
 @media screen and (max-width: 700px) {
     #rank-intro h2 {

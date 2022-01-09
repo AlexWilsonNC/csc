@@ -34,114 +34,28 @@
 
     <a href="#top-nav" class='scrollTop'><i class="fas fa-chevron-up"></i></a>
 
-    <!-- <div id="organizer">
-        <select name="organize" id="organize">
-            <option value="rank-sort">Sort by Rank</option>
-            <option value="name-sort">Sort by Name</option>
-        </select>
-    </div> -->
-
     <main>
+        <div class='sort-buttons'>
+            <button class='sort-btn sort-name'>Sort by First Name</button>
+            <!-- <button class='sort-btn sort-a-points'>Attendance Points</button> -->
+            <button class='sort-btn sort-cs-points'>Sort by CS Points</button>
+        </div>
+
         <div id="rankings">
             <div id="rank-intro">
                 <h2>2022 Rankings</h2>
             </div>
             <div id="center-info">
                 <div id="player-info">
-                    <p id="player-name"> Name <span>(Attendance Points)</span></p>
+                    <p class="player-name">Name <span>(Attendance Points)</span></p>
                     <p id="player-points">CS Points</p>
                 </div>
             </div>
             <hr>
-            <ol id='ranking-ol'>
-                <li>
-                    <span class="name">James Briglia (1)</span>
-                    <span class="pts">25</span>
-                </li>
-                <li>
-                    <span class="name">Ricky (Zane) Carter (1)</span>
-                    <span class="pts">20</span>
-                </li>
-                <li>
-                    <span class="name">Mitchell Oneill (1)</span>
-                    <span class="pts">15</span>
-                </li>
-                <li>
-                    <span class="name">Samuel Roach (1)</span>
-                    <span class="pts">15</span>
-                </li>
-                <li>
-                    <span class="name">Anthony Nimmons (1)</span>
-                    <span class="pts">8</span>
-                </li>
-                <li>
-                    <span class="name">Chris Diller (1)</span>
-                    <span class="pts">8</span>
-                </li>
-                <li>
-                    <span class="name">Olivia Farmer (1)</span>
-                    <span class="pts">8</span>
-                </li>
-                <li>
-                    <span class="name">Phillip Lineberry (1)</span>
-                    <span class="pts">8</span>
-                </li>
-                <li>
-                    <span class="name">Gaberiel Labra (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">Jennifer Perez (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">Chris Urcinola (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">Joseph Bjerg (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">Jessica (Raven) Carter (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">Landon Hawkins (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">Jeremiah Lynch (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">Jason Joyce (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">Zak Kobos (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">Kelly Nimmons (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">Bennet Kobos (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">Jonathan Arias (1)</span>
-                    <span class="pts">0</span>
-                </li>
-                <li>
-                    <span class="name">James Quick (1)</span>
-                    <span class="pts">0</span>
-                </li>
-            </ol>
+            <ol class='list'><!--ranking.js list_items--></ol>
         </div>
     </main>
-    
+
     <footer>
         <div id='foot-top'>
             <a href="../index.html">Home</a>
@@ -151,14 +65,16 @@
             <a href="./rankings.html">Rankings</a>
             <a href='./events.html#toc01'>Decklist</a>
         </div>
-        <div id='foot-bottom'>This tournament series and its related events are in no way related nor correlated to Play! Pokemon or TPCI, it is simply an outing for players to enjoy the TCG in a competitive and local manner.</div>
+        <div id='foot-bottom'>This tournament series and its related events are in no way related nor correlated to
+            Play! Pokemon or TPCI, it is simply an outing for players to enjoy the TCG in a competitive and local
+            manner.</div>
     </footer>
 
     <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
-    <script src="index.js"></script>
+    <script src='../ranking.js'></script>
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     <script type="text/javascript">
-        window.addEventListener('scroll', function() {
+        window.addEventListener('scroll', function () {
             var scroll = document.querySelector('.scrollTop');
             scroll.classList.toggle('active', window.scrollY > 300)
         });
