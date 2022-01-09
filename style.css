@@ -305,7 +305,7 @@ footer a {
 
 #foot-bottom {
     color: #fff;
-    text-align: center;
+    text-align: start;
     margin: 20px 50px;
     font-size: 11px;
 }
