@@ -116,7 +116,7 @@ let list_items = [
     csPoints: 0
   },
   {
-    firstName: 'Caleb Reyerson',
+    firstName: 'Caleb Rogerson',
     attendancePoints: 1,
     csPoints: 25
   },
@@ -131,7 +131,7 @@ let list_items = [
     csPoints: 8
   },
   {
-    firstName: 'Nathan Ostevkats',
+    firstName: 'Nathan Osterkatz',
     attendancePoints: 1,
     csPoints: 8
   },
