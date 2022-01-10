@@ -176,6 +176,7 @@ sortName.addEventListener('click', () => {
   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
   sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
   document.querySelector('.list').classList.remove('color-rank');
+  document.querySelector('.list').classList.remove('bold-rank');
 });
 function sort_array_by_name (array, sort, desc) {
   array.sort(function (a, b) {
@@ -197,6 +198,7 @@ sortAttendance.addEventListener('click', () => {
   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
   sortAttendance.style.backgroundColor = 'rgb(151, 14, 14)';
   document.querySelector('.list').classList.add('color-rank');
+  document.querySelector('.list').classList.remove('bold-rank');
 });
 function sort_array_by (array, sort, desc) {
   array.sort(function (a, b) {
@@ -218,6 +220,7 @@ sortCsPoints.addEventListener('click', () => {
   sortCsPoints.style.backgroundColor = 'rgb(151, 14, 14)';
   sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
   document.querySelector('.list').classList.add('color-rank');
+  document.querySelector('.list').classList.add('bold-rank');
 });
 function sort_array_by_cs (array, sort, desc) {
   array.sort(function (a, b) {
