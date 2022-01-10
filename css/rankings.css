@@ -3,6 +3,7 @@
     flex-direction: column;
     align-items: start;
     margin: 0px 15px;
+    max-width: 95%;
 }
 #reminder p {
     margin-bottom: 7px;
@@ -99,6 +100,16 @@ main {
     align-items: center;    
     flex-direction: column;
     margin: 15px 25px 0px 45px;
+}
+.color-rank .list-item:first-child {
+    background: linear-gradient(to bottom right, #fff, #FFD700, #ff9100);
+}
+.color-rank .list-item:nth-child(2) {
+    background: linear-gradient(to bottom right, #fff, #C0C0C0, #686868);
+}
+.color-rank .list-item:nth-child(3),
+.color-rank .list-item:nth-child(4) {
+    background: linear-gradient(to bottom right, #fff, #ca7825, #8a4500);
 }
 .list-item {
     display: flex;

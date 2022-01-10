@@ -4,7 +4,7 @@ const sortName = document.querySelector('.sort-name')
 const sortAttendance = document.querySelector('.sort-a-points')
 const sortCsPoints = document.querySelector('.sort-cs-points')
 
-let list_items = [
+let players = [
   // {
   //   firstName: 'Alex Wilson',
   //   attendancePoints: 0,
@@ -169,12 +169,13 @@ let list_items = [
 
 let desc = false;
 sortName.addEventListener('click', () => {
-  let array = sort_array_by_name(list_items, 'firstName', desc);
+  let array = sort_array_by_name(players, 'firstName', desc);
   displayList(array);
   desc = !desc;
   sortName.style.backgroundColor = 'rgb(151, 14, 14)';
   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
   sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
+  document.querySelector('.list').classList.remove('color-rank');
 });
 function sort_array_by_name (array, sort, desc) {
   array.sort(function (a, b) {
@@ -189,12 +190,13 @@ function sort_array_by_name (array, sort, desc) {
 }
 
 sortAttendance.addEventListener('click', () => {
-  let array = sort_array_by(list_items, 'attendancePoints', desc);
+  let array = sort_array_by(players, 'attendancePoints', desc);
   displayList(array);
   desc = !desc;
   sortName.style.backgroundColor = 'rgb(206, 46, 46)';
   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
   sortAttendance.style.backgroundColor = 'rgb(151, 14, 14)';
+  document.querySelector('.list').classList.add('color-rank');
 });
 function sort_array_by (array, sort, desc) {
   array.sort(function (a, b) {
@@ -209,12 +211,13 @@ function sort_array_by (array, sort, desc) {
 }
 
 sortCsPoints.addEventListener('click', () => {
-  let array = sort_array_by_cs(list_items, 'csPoints', desc);
+  let array = sort_array_by_cs(players, 'csPoints', desc);
   displayList(array);
   desc = !desc;
   sortName.style.backgroundColor = 'rgb(206, 46, 46)';
   sortCsPoints.style.backgroundColor = 'rgb(151, 14, 14)';
   sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
+  document.querySelector('.list').classList.add('color-rank');
 });
 function sort_array_by_cs (array, sort, desc) {
   array.sort(function (a, b) {
@@ -251,7 +254,7 @@ function displayList (array = []) {
     // item_element.appendChild(meta);
 
     let cs = document.createElement('div');
-    cs.classList.add('item-age');
+    cs.classList.add('item-point');
     cs.innerHTML = item.csPoints;
 
     item_element.appendChild(cs);
@@ -260,7 +263,7 @@ function displayList (array = []) {
   }
 }
 
-displayList(list_items);
+displayList(players);
 
 window.onload = function () {
   document.querySelector('.sort-cs-points').click();
