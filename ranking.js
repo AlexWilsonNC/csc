@@ -175,9 +175,6 @@ sortName.addEventListener('click', () => {
   sortName.style.backgroundColor = 'rgb(151, 14, 14)';
   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
   sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
-  sortName.style.border = '2px solid rgba(0,0,0,0.5';
-  sortCsPoints.style.border = 'none';
-  sortAttendance.style.border = 'none';
 });
 function sort_array_by_name (array, sort, desc) {
   array.sort(function (a, b) {
@@ -198,9 +195,6 @@ sortAttendance.addEventListener('click', () => {
   sortName.style.backgroundColor = 'rgb(206, 46, 46)';
   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
   sortAttendance.style.backgroundColor = 'rgb(151, 14, 14)';
-  sortAttendance.style.border = '2px solid rgba(0,0,0,0.5';
-  sortCsPoints.style.border = 'none';
-  sortName.style.border = 'none';
 });
 function sort_array_by (array, sort, desc) {
   array.sort(function (a, b) {
@@ -221,9 +215,6 @@ sortCsPoints.addEventListener('click', () => {
   sortName.style.backgroundColor = 'rgb(206, 46, 46)';
   sortCsPoints.style.backgroundColor = 'rgb(151, 14, 14)';
   sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
-  sortCsPoints.style.border = '2px solid rgba(0,0,0,0.5';
-  sortName.style.border = 'none'; 
-  sortAttendance.style.border = 'none'; 
 });
 function sort_array_by_cs (array, sort, desc) {
   array.sort(function (a, b) {
