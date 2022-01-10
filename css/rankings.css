@@ -7,13 +7,16 @@
 .sort-btn {
     width: 33%;
     padding: 2px 7px;
-    background-color: rgb(206, 46, 46);
+    background-color: rgb(151, 14, 14);
     color: white;
     font-size: 18px;
     text-align: center;
     border-radius: 10px;
     border: none;
     margin: 0px 10px;
+}
+.sort-btn:hover {
+    cursor: pointer;
 }
 
 .ranking-hr {

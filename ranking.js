@@ -172,7 +172,7 @@ sortName.addEventListener('click', () => {
   let array = sort_array_by_name(list_items, 'firstName', desc);
   displayList(array);
   desc = !desc;
-  sortName.style.backgroundColor = 'rgb(207, 83, 83)';
+  sortName.style.backgroundColor = 'rgb(151, 14, 14)';
   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
   sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
 });
@@ -194,7 +194,7 @@ sortAttendance.addEventListener('click', () => {
   desc = !desc;
   sortName.style.backgroundColor = 'rgb(206, 46, 46)';
   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
-  sortAttendance.style.backgroundColor = 'rgb(207, 83, 83)';
+  sortAttendance.style.backgroundColor = 'rgb(151, 14, 14)';
 });
 function sort_array_by (array, sort, desc) {
   array.sort(function (a, b) {
@@ -213,7 +213,7 @@ sortCsPoints.addEventListener('click', () => {
   displayList(array);
   desc = !desc;
   sortName.style.backgroundColor = 'rgb(206, 46, 46)';
-  sortCsPoints.style.backgroundColor = 'rgb(207, 83, 83)';
+  sortCsPoints.style.backgroundColor = 'rgb(151, 14, 14)';
   sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
 });
 function sort_array_by_cs (array, sort, desc) {
