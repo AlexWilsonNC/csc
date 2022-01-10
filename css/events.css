@@ -115,6 +115,9 @@ h2 {
     margin-left: 10px;
     font-size: 18px;
 }
+.w {
+    font-weight: 600;
+}
 .deck-list {
     display: flex;
     flex-direction: row;
