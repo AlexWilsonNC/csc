@@ -1,8 +1,19 @@
+#reminder {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin: 0px 15px;
+}
+#reminder p {
+    margin-bottom: 7px;
+    font-style: italic;
+}
+
 .sort-buttons {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-bottom: 25px;
+    margin: 10px 0px 25px;
 }
 .sort-btn {
     width: 33%;
