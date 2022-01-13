@@ -137,6 +137,61 @@ main {
     flex: 1;
 } */
 
+.modal-section {
+}
+.modal {
+    width: 280px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 25px;
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -140px;
+    margin-left: -170px;
+    transition: all ease 0.8s;
+    z-index: 50;
+}
+.modal p {
+    margin-bottom: 15px;
+}
+.modal-name {
+    font-size: 28px;
+    font-weight: bold;
+}
+.modal-places{font-size: 20px;}
+/* .place-1{color:gold;} */
+.modal-deck {
+    text-align: center;
+}       
+.modal-pics {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+.modal-pics img {
+    width: 200px;
+    margin-top: -20px;
+}
+.behind-modal {
+    width:100%;height:100%;
+    position: fixed;
+    top: 0;left: 0;
+    background-color: rgba(0,0,0,0.6);
+    z-index: 30;
+    display: none;
+}
+.modal-top {
+    display: flex;
+    justify-content: space-between;
+}
+.modal-x {
+    font-size: 18px;
+}
+
 @media screen and (max-width: 700px) {
     #rank-intro h2 {
         font-size: 28px;
@@ -152,5 +207,4 @@ main {
     #rankings {
         width: 85%;
     }
-    
 }
