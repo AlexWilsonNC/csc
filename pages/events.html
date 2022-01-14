@@ -8,6 +8,7 @@
     <link rel='icon' href='../assets/logo.png' type='image/x-icon'>
     <title>Carolina Series | Events</title>
     <link rel='stylesheet' href='../style.css'>
+    <link rel='stylesheet' href='../css/alert.css'>
     <link rel='stylesheet' href='../css/events.css'>
     <link rel='preconnect' href='https://fonts.googleapis.com'>
     <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
@@ -15,6 +16,16 @@
 </head>
 
 <body>
+    <div class='weather-alert'>
+        <div class='close-alert-section'>
+            <p class='close-alert'>X</p>
+        </div>
+        <p>This Sunday's events in Durham & Cornelius have been POSTPONED due to the winter storm's dangerous driving
+            conditions. Stay safe!</p>
+            <a href='#postponed'>
+                <p>See new dates here</p>
+        </a>
+    </div>
     <nav id='top-nav'>
         <div id='nav-left'>
             <a href='../index.html'>
@@ -35,30 +46,31 @@
     <div id='ToC2'>
         <ul id='event-toc'>
             <p>Table of Contents:</p>
-            <li><a href='#toc01'>- Printable Decklist</a></li>
-            <li><a href='#toc1'>- Carolina Series Events</a></li>
-            <li><a href='#toc2'>- State Championships</a></li>
+            <li><a href='#toc01'>• Printable Decklist</a></li>
+            <li><a href='#toc1'>• Upcoming Events</a></li>
+            <li><a href='#toc2'>• State Championships</a></li>
             <hr>
-            <li><a href='#toc25'>- Regionals & NAIC</a></li>
+            <li><a href='#toc25'>• Regionals & NAIC</a></li>
             <hr>
-            <li><a href='#toc3'>- Standard & Expanded Rules</a></li>
-            <li><a href='#toc4'>- GLC Format Rules</a></li>
-            <li><a href='#toc5'>- 2010 Worlds Rules</a></li>
-            <li><a href='#toc6'>- 2017 Worlds Rules</a></li>
+            <li><a href='#toc3'>• Standard & Expanded Rules</a></li>
+            <li><a href='#toc4'>• GLC Format Rules</a></li>
+            <li><a href='#toc5'>• 2010 Worlds Rules</a></li>
+            <li><a href='#toc6'>• 2017 Worlds Rules</a></li>
         </ul>
     </div>
 
     <div id='calendar'>
         <iframe
             src='https://calendar.google.com/calendar/embed?src=carolinaseriestcg%40gmail.com&ctz=America%2FNew_York'
-            style='border: 0' width='80%' height='550' frameborder='0' scrolling='no' showPrint='0' showTitle='0'></iframe>
+            style='border: 0' width='80%' height='550' frameborder='0' scrolling='no' showPrint='0'
+            showTitle='0'></iframe>
     </div>
 
     <div class='decklist top-info-box' id='toc01'>
         <a href="../assets/decklist-standard.pdf" download target="_">
             <div class="download-pdf">
                 <p>Download & Print Decklist</p>
-                <img src='../assets/decklist-screenshot.png' alt='decklist' style='height:250px;margin-top:15px;'/>
+                <img src='../assets/decklist-screenshot.png' alt='decklist' style='height:250px;margin-top:15px;' />
             </div>
         </a>
     </div>
@@ -123,34 +135,6 @@
         </div>
 
         <div class='top-info-box'>
-            <div id='toc1' class='store-date'>
-                <h2>Parker Banner Kent & Wayne</h2>
-                <p>Format: Standard</p>
-                <p class='bold-date'>January 16 (Sunday)</p>
-                <p>Registration:</p>
-                <p>11am - 12pm</p>
-                <p><a href='https://goo.gl/maps/vH8SHamtLt5Ab9xe6' target='_'>21500 Catawba Ave, Suite A</p>
-                <p>Cornelius, NC 28031</a></p>
-                <p>Entry: $10</p>
-                <p>Masks: Optional if Vaccinated</p>
-            </div>
-        </div>
-        <div class='top-info-box'>
-            <div id='toc1' class='store-date'>
-                <h2>Atomic Empire</h2>
-                <p>Format: Standard</p>
-                <p class='bold-date'>January 16 (Sunday)</p>
-                <p>Registration:</p>
-                <p>12pm - 1pm</p>
-                <a href='https://www.atomicempire.com/Store/Event/4379' target='_'><p>Online Registration</p></a>
-                <p><a href='https://goo.gl/maps/Z8NZeMeK3PqPBJsS6' target='_'>3400 Westgate Dr #14b</p>
-                <p>Durham, NC 27707</a></p>
-                <p>Entry: $10</p>
-                <p>Masks: <span class='bold-date'>Required</span></p>
-            </div>
-        </div>
-
-        <div class='top-info-box'>
             <div class='store-date'>
                 <h2>Rare Candy Games</h2>
                 <p>Format: Standard</p>
@@ -179,6 +163,19 @@
             </div>
         </div>
 
+        <div class='top-info-box' id='postponed'>
+            <div id='toc1' class='store-date'>
+                <h2>Parker Banner Kent & Wayne</h2>
+                <p>Format: Standard</p>
+                <p class='bold-date'>January 29 (Saturday)</p>
+                <p>Registration:</p>
+                <p>11am - 12pm</p>
+                <p><a href='https://goo.gl/maps/vH8SHamtLt5Ab9xe6' target='_'>21500 Catawba Ave, Suite A</p>
+                <p>Cornelius, NC 28031</a></p>
+                <p>Entry: $10</p>
+                <p>Masks: Optional if Vaccinated</p>
+            </div>
+        </div>
         <div class='top-info-box'>
             <div id='toc1' class='store-date'>
                 <h2>Boardwalk</h2>
@@ -193,7 +190,6 @@
                 <p>Masks: TBD</p>
             </div>
         </div>
-
         <div class='top-info-box'>
             <div class='store-date'>
                 <h2>Unbound Gaming</h2>
@@ -207,7 +203,6 @@
                 <p>Masks: TBD</p>
             </div>
         </div>
-
         <div class='top-info-box'>
             <div class='store-date'>
                 <h2>Final Round (Summersville)</h2>
@@ -224,19 +219,6 @@
 
         <div class='top-info-box'>
             <div class='store-date'>
-                <h2>Final Round (Summersville)</h2>
-                <p>Format: Standard</p>
-                <p class='bold-date'>January 30 (Sunday)</p>
-                <p>Registration:</p>
-                <p>12pm - 1pm</p>
-                <p><a href='https://goo.gl/maps/psSjhtAYCho7vsFt8' target='_'>4530 Ladson Rd</p>
-                <p>Summerville, SC 29485</a></p>
-                <p>Entry: $5</p>
-                <p>Masks: <span class='bold-date'>Required</span></p>
-            </div>
-        </div>
-        <div class='top-info-box'>
-            <div class='store-date'>
                 <h2>Mighty Meeple</h2>
                 <p>Format: Standard</p>
                 <p class='bold-date'>January 30 (Sunday)</p>
@@ -247,6 +229,35 @@
                 <p>Entry: $10</p>
                 <p>Masks: Optional if Vaccinated</p>
                 <p>FYI: This store has an adult beverage bar</p>
+            </div>
+        </div>
+        <div class='top-info-box'>
+            <div id='toc1' class='store-date'>
+                <h2>Atomic Empire</h2>
+                <p>Format: Standard</p>
+                <p class='bold-date'>January 30 (Sunday)</p>
+                <p>Registration:</p>
+                <p>12pm - 1pm</p>
+                <a href='https://www.atomicempire.com/Store/Event/4379' target='_'>
+                    <p>Online Registration</p>
+                </a>
+                <p><a href='https://goo.gl/maps/Z8NZeMeK3PqPBJsS6' target='_'>3400 Westgate Dr #14b</p>
+                <p>Durham, NC 27707</a></p>
+                <p>Entry: $10</p>
+                <p>Masks: <span class='bold-date'>Required</span></p>
+            </div>
+        </div>
+        <div class='top-info-box'>
+            <div class='store-date'>
+                <h2>Final Round (Summersville)</h2>
+                <p>Format: Standard</p>
+                <p class='bold-date'>January 30 (Sunday)</p>
+                <p>Registration:</p>
+                <p>12pm - 1pm</p>
+                <p><a href='https://goo.gl/maps/psSjhtAYCho7vsFt8' target='_'>4530 Ladson Rd</p>
+                <p>Summerville, SC 29485</a></p>
+                <p>Entry: $5</p>
+                <p>Masks: <span class='bold-date'>Required</span></p>
             </div>
         </div>
 
@@ -614,7 +625,8 @@
 
         <div id='toc3' class='format-card'>
             <h3>Standard Format</h3>
-            <p>Only cards with the regulation marks of either D, E and F are legal. (Any set or promo released since Sword &
+            <p>Only cards with the regulation marks of either D, E and F are legal. (Any set or promo released since
+                Sword &
                 Shield)</p>
             <p>Player who goes first cannot attack, nor use a Supporter.</p>
             <p>English cards ONLY.</p>
@@ -687,6 +699,7 @@
             manner.</div>
     </footer>
 
+    <script src='../js/close-alert.js'></script>
     <script src='https://kit.fontawesome.com/b99e675b6e.js'></script>
     <script src='index.js'></script>
     <script src='https://code.jquery.com/jquery-3.4.1.js'></script>

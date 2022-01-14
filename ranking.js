@@ -246,7 +246,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 1
+    top8: 1,
+    img1: '../assets/sprites/calyrex-ice-rider.png',
+    img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Nathan Osterkatz',
@@ -255,7 +257,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 1
+    top8: 1,
+    img1: '../assets/sprites/jolteon.png',
+    img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Tony Vuong',
@@ -264,7 +268,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 1
+    top8: 1,
+    img1: '../assets/sprites/duraludon-gmax.png',
+    img2: '../assets/sprites/zacian-crowned.png'
   },
   {
     firstName: 'Cole Lewis',
@@ -273,7 +279,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 1
+    top8: 1,
+    img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
+    img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Alex Robbins',

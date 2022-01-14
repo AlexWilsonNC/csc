@@ -9,12 +9,24 @@
     <link rel='image_src' href='./assets/oceania-tcg-crowd-1.jpg'>
     <title>Carolina Series Championships</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./css/alert.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
 </head>
 
 <body>
+    <div class='weather-alert'>
+        <div class='close-alert-section'>
+            <p class='close-alert'>X</p>
+        </div>
+        <p>This Sunday's events in Durham & Cornelius have been POSTPONED due to the winter storm's dangerous driving
+            conditions. Stay safe!</p>
+        <a href='./pages/events.html#postponed'>
+            <p>See new dates here</p>
+        </a>
+    </div>
+
     <nav id="top-nav">
         <div id="nav-left">
             <a href="./index.html">
@@ -79,6 +91,7 @@
             manner.</div>
     </footer>
 
+    <script src='./js/close-alert.js'></script>
     <script src="index.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     <script type="text/javascript">

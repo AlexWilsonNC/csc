@@ -8,6 +8,7 @@
     <link rel='icon' href='../assets/logo.png' type='image/x-icon'>
     <title>Carolina Series | Rankings</title>
     <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../css/alert.css">
     <link rel="stylesheet" href="../css/rankings.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,7 +16,16 @@
 </head>
 
 <body>
-    <div id="progressbar"></div>
+    <div class='weather-alert'>
+        <div class='close-alert-section'>
+            <p class='close-alert'>X</p>
+        </div>
+        <p>This Sunday's events in Durham & Cornelius have been POSTPONED due to the winter storm's dangerous driving
+            conditions. Stay safe!</p>
+            <a href='./events.html#postponed'>
+                <p>See new dates here</p>
+        </a>
+    </div>
 
     <nav id="top-nav">
         <div id="nav-left">
@@ -71,10 +81,10 @@
                         <p>X</p>
                     </div>
                 </div>
-                <p class='modal-places'>1st Places: <span class='place1'>-</span></p>
-                <p class='modal-places'>2nd Places: <span class='place2'>-</span></p>
-                <p class='modal-places'>Top 4 Places: <span class='place3'>-</span></p>
-                <p class='modal-places'>Top 8 Places: <span class='place4'>-</span></p>
+                <p class='modal-places'>1st Place: <span class='place1'>-</span></p>
+                <p class='modal-places'>2nd Place: <span class='place2'>-</span></p>
+                <p class='modal-places'>Top 4 Finish: <span class='place3'>-</span></p>
+                <p class='modal-places'>Top 8 Finish: <span class='place4'>-</span></p>
                 <p class='modal-deck'>Player's Most Successful Deck</p>
                 <div class='modal-pics'>
                     <img class='modal-img1' src='' alt='pokemon'>
@@ -100,6 +110,7 @@
             manner.</div>
     </footer>
 
+    <script src='../js/close-alert.js'></script>
     <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
     <script src='../ranking.js'></script>
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
