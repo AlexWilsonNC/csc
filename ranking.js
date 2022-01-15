@@ -46,10 +46,10 @@ let players = [
   {
     firstName: 'Ricky (Zane) Carter',
     attendancePoints: 2,
-    csPoints: 20,
+    csPoints: 35,
     first: 0,
     second: 1,
-    top4: 0,
+    top4: 1,
     top8: 0,
     img1: '../assets/sprites/eternatus-eternamax.png',
     img2: '../assets/sprites/weezing-galar.png'
@@ -79,10 +79,10 @@ let players = [
   {
     firstName: 'Kelly Nimmons',
     attendancePoints: 2,
-    csPoints: 0,
+    csPoints: 15,
     first: 0,
     second: 0,
-    top4: 0,
+    top4: 1,
     top8: 0
   },
   {
