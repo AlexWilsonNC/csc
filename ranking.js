@@ -471,6 +471,15 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0
+  },
+  {
+    firstName: 'Matthew Reimels',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
   }
 ]
 
