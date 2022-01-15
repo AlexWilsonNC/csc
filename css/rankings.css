@@ -59,15 +59,12 @@ main {
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin: 10px 0px 0px;
+    margin: 10px 0px;
 }
 
 #rank-intro h2 {
     font-size: 40px;
-}
-
-#rank-intro p {
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #center-info {
@@ -199,9 +196,9 @@ main {
         font-size: 28px;
     }
     #rank-intro p {
-        margin-bottom: 40px;
-        padding: 0px 40px;
+        padding: 0px 30px;
         text-align: center;
+        font-size: 10px;
     }
     .pts {
         margin-right: 30px;
