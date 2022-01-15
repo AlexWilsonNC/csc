@@ -200,7 +200,7 @@ let players = [
   {
     firstName: 'Jonathan Arias',
     attendancePoints: 3,
-    csPoints: 20,
+    csPoints: 40,
     first: 0,
     second: 1,
     top4: 0,
@@ -322,7 +322,7 @@ let players = [
   {
     firstName: 'Nathon Trimberger',
     attendancePoints: 1,
-    csPoints: 0,
+    csPoints: 25,
     first: 0,
     second: 0,
     top4: 0,
