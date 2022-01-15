@@ -45,7 +45,7 @@ let players = [
   },
   {
     firstName: 'Ricky (Zane) Carter',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 20,
     first: 0,
     second: 1,
@@ -67,7 +67,7 @@ let players = [
   },
   {
     firstName: 'Anthony Nimmons',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 8,
     first: 0,
     second: 0,
@@ -78,7 +78,7 @@ let players = [
   },
   {
     firstName: 'Kelly Nimmons',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -87,7 +87,7 @@ let players = [
   },
   {
     firstName: 'Olivia Farmer',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 23,
     first: 0,
     second: 0,
@@ -118,7 +118,7 @@ let players = [
   },
   {
     firstName: 'Jennifer Perez',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -145,7 +145,7 @@ let players = [
   },
   {
     firstName: 'Jessica (Raven) Carter',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -172,7 +172,7 @@ let players = [
   },
   {
     firstName: 'Jason Joyce',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -199,7 +199,7 @@ let players = [
   },
   {
     firstName: 'Jonathan Arias',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 20,
     first: 0,
     second: 1,
@@ -263,7 +263,7 @@ let players = [
   },
   {
     firstName: 'Tony Vuong',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 8,
     first: 0,
     second: 0,
@@ -317,9 +317,160 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0,
-    img1: 'none',
-    img2: 'none'
+    top8: 0
+  },
+  {
+    firstName: 'Nathon Trimberger',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Jake Pilch',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Clint Quinn',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Karla Wilson',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Jorden Hamilton',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Vernon Hoffman',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Maxwell Hoffman',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Taylor Greenstreet',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Kevin Fallin',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Joshua Frowley',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Tim Weaver',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Chase Weaver',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Cody Criner',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Robbie Trittschuh',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Jonathan Jiro',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Dillon Bussert',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Brady Bussert',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
   }
 ]
 
