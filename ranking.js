@@ -202,7 +202,7 @@ let players = [
     attendancePoints: 3,
     csPoints: 40,
     first: 0,
-    second: 1,
+    second: 2,
     top4: 0,
     top8: 0,
     img1: '../assets/sprites/mew.png',
@@ -323,10 +323,12 @@ let players = [
     firstName: 'Nathon Trimberger',
     attendancePoints: 1,
     csPoints: 25,
-    first: 0,
+    first: 1,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+    img1: '../assets/sprites/mew.png',
+    img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Jake Pilch',
