@@ -90,11 +90,11 @@ let players = [
   {
     firstName: 'Olivia Farmer',
     attendancePoints: 3,
-    csPoints: 23,
+    csPoints: 31,
     first: 0,
     second: 0,
     top4: 1,
-    top8: 1,
+    top8: 2,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -266,13 +266,13 @@ let players = [
   {
     firstName: 'Tony Vuong',
     attendancePoints: 2,
-    csPoints: 8,
+    csPoints: 16,
     first: 0,
     second: 0,
     top4: 0,
-    top8: 1,
-    img1: '../assets/sprites/duraludon-gmax.png',
-    img2: '../assets/sprites/zacian-crowned.png'
+    top8: 2,
+    img1: '../assets/sprites/urshifu-gmax.png',
+    img2: '../assets/sprites/umbreon.png'
   },
   {
     firstName: 'Cole Lewis',
@@ -362,11 +362,13 @@ let players = [
   {
     firstName: 'Jorden Hamilton',
     attendancePoints: 1,
-    csPoints: 0,
-    first: 0,
+    csPoints: 25,
+    first: 1,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+    img1: '../assets/sprites/mew.png',
+    img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Vernon Hoffman',
@@ -389,11 +391,13 @@ let players = [
   {
     firstName: 'Taylor Greenstreet',
     attendancePoints: 1,
-    csPoints: 0,
+    csPoints: 8,
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 1,
+    img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
+    img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Kevin Fallin',
@@ -407,11 +411,13 @@ let players = [
   {
     firstName: 'Joshua Frowley',
     attendancePoints: 1,
-    csPoints: 0,
+    csPoints: 15,
     first: 0,
     second: 0,
-    top4: 0,
-    top8: 0
+    top4: 1,
+    top8: 0,
+    img1: '../assets/sprites/mew.png',
+    img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Tim Weaver',
@@ -443,11 +449,13 @@ let players = [
   {
     firstName: 'Robbie Trittschuh',
     attendancePoints: 1,
-    csPoints: 0,
+    csPoints: 20,
     first: 0,
-    second: 0,
+    second: 1,
     top4: 0,
-    top8: 0
+    top8: 0,
+    img1: '../assets/sprites/mew.png',
+    img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Jonathan Jiro',
@@ -461,11 +469,13 @@ let players = [
   {
     firstName: 'Dillon Bussert',
     attendancePoints: 1,
-    csPoints: 0,
+    csPoints: 15,
     first: 0,
     second: 0,
-    top4: 0,
-    top8: 0
+    top4: 1,
+    top8: 0,
+    img1: '../assets/sprites/zacian-crowned.png',
+    img2: '../assets/sprites/zamazenta-crowned.png'
   },
   {
     firstName: 'Brady Bussert',
@@ -479,11 +489,13 @@ let players = [
   {
     firstName: 'Matthew Reimels',
     attendancePoints: 1,
-    csPoints: 0,
+    csPoints: 8,
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 1,
+    img1: '../assets/sprites/urshifu-gmax.png',
+    img2: '../assets/sprites/umbreon.png'
   }
 ]
 
