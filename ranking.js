@@ -83,7 +83,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 1,
-    top8: 0
+    top8: 0,
+    img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
+    img2: '../assets/sprites/sylveon.png'
   },
   {
     firstName: 'Olivia Farmer',
