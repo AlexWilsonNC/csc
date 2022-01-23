@@ -160,7 +160,7 @@ let players = [
   },
   {
     firstName: 'Landon Hawkins',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -169,19 +169,19 @@ let players = [
   },
   {
     firstName: 'Jeremiah Lynch',
-    attendancePoints: 2,
-    csPoints: 0,
+    attendancePoints: 3,
+    csPoints: 15,
     first: 0,
     second: 0,
-    top4: 0,
+    top4: 1,
     top8: 0
   },
   {
     firstName: 'Jason Joyce',
-    attendancePoints: 4,
-    csPoints: 20,
+    attendancePoints: 5,
+    csPoints: 40,
     first: 0,
-    second: 1,
+    second: 2,
     top4: 0,
     top8: 0,
     img1: '../assets/sprites/moltres-galar.png',
@@ -227,11 +227,11 @@ let players = [
   },
   {
     firstName: 'Caleb Rogerson',
-    attendancePoints: 1,
-    csPoints: 25,
+    attendancePoints: 2,
+    csPoints: 40,
     first: 1,
     second: 0,
-    top4: 0,
+    top4: 1,
     top8: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
@@ -311,7 +311,7 @@ let players = [
   },
   {
     firstName: 'Justin Chestnut',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -554,6 +554,33 @@ let players = [
   },
   {
     firstName: 'Daniel Henson',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Frankie Puleio',
+    attendancePoints: 1,
+    csPoints: 25,
+    first: 1,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Stephen Tysinger',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Steven Bauer',
     attendancePoints: 1,
     csPoints: 0,
     first: 0,
