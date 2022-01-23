@@ -5,11 +5,15 @@ const sortAttendance = document.querySelector('.sort-a-points')
 const sortCsPoints = document.querySelector('.sort-cs-points')
 
 let players = [
-  // {
-  //   firstName: 'Alex Wilson',
-  //   attendancePoints: 0,
-  //   csPoints: 0
-  // },
+  {
+    firstName: 'Alex Wilson',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 1,
+    top8: 0
+  },
   {
     firstName: 'Samuel Roach',
     attendancePoints: 1,
@@ -56,18 +60,18 @@ let players = [
   },
   {
     firstName: "Mitch O'Neill",
-    attendancePoints: 2,
-    csPoints: 15,
+    attendancePoints: 3,
+    csPoints: 30,
     first: 0,
     second: 0,
-    top4: 1,
+    top4: 2,
     top8: 0,
     img1: '../assets/sprites/jolteon.png',
     img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Anthony Nimmons',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 8,
     first: 0,
     second: 0,
@@ -78,7 +82,7 @@ let players = [
   },
   {
     firstName: 'Kelly Nimmons',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 15,
     first: 0,
     second: 0,
@@ -129,7 +133,7 @@ let players = [
   },
   {
     firstName: 'Chris Urcinola',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -174,12 +178,14 @@ let players = [
   },
   {
     firstName: 'Jason Joyce',
-    attendancePoints: 3,
-    csPoints: 0,
+    attendancePoints: 4,
+    csPoints: 20,
     first: 0,
-    second: 0,
+    second: 1,
     top4: 0,
-    top8: 0
+    top8: 0,
+    img1: '../assets/sprites/moltres-galar.png',
+    img2: '../assets/sprites/zapdos-galar.png'
   },
   {
     firstName: 'Zak Kobos',
@@ -201,7 +207,7 @@ let players = [
   },
   {
     firstName: 'Jonathan Arias',
-    attendancePoints: 3,
+    attendancePoints: 4,
     csPoints: 40,
     first: 0,
     second: 2,
@@ -496,8 +502,76 @@ let players = [
     top8: 1,
     img1: '../assets/sprites/urshifu-gmax.png',
     img2: '../assets/sprites/umbreon.png'
+  },
+  {
+    firstName: 'Evan Campbell',
+    attendancePoints: 1,
+    csPoints: 25,
+    first: 1,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    img1: '../assets/sprites/mew.png',
+    img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'Gabriel Hernandez',
+    attendancePoints: 1,
+    csPoints: 15,
+    first: 0,
+    second: 0,
+    top4: 1,
+    top8: 0,
+    img1: '../assets/sprites/urshifu-gmax.png',
+    img2: '../assets/sprites/umbreon.png'
+  },
+  {
+    firstName: 'Justin Nesmith',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Tyler Pesry',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Jerry Riley',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
+  },
+  {
+    firstName: 'Daniel Henson',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0
   }
 ]
+// ,
+//   {
+//     firstName: 'name',
+//     attendancePoints: 1,
+//     csPoints: 0,
+//     first: 0,
+//     second: 0,
+//     top4: 0,
+//     top8: 0
+//   }
 
 let desc = false;
 sortName.addEventListener('click', () => {
