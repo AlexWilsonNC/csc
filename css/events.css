@@ -45,11 +45,22 @@
     margin-top: 10px auto;
 }
 
+.name-n-date,
+.format-n-reg,
+.entry-n-masks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.flex-enders {
+    text-align: end;
+}
+
 .top-info-box {
     width: 50%;
     /* background-color: rgb(233, 233, 233); */
-    padding: 15px;
-    border-radius: 10px;    
+    border-radius: 10px;  
+    padding: 15px;  
     border: 1px solid grey;
     box-shadow: 7px 7px 15px 3.5px rgba(0, 0, 0, 0.4);
     margin-bottom: 25px;
@@ -76,28 +87,26 @@
     height: 0.02em;
     background-color: grey;
 }
-
 hr {
     border: 0;
     height: 0.02em;
     background-color: grey;
 }
-
 .time-margin {
     margin-left: 15px;
 }
-
-h2 {
+.event-h2 {
     text-decoration: underline;
+    font-size: 24px;
 }
-
-.store-date * {
-    margin-bottom: 9px;
-}
-
 .store-date p {
-    font-size: 22px;
-    width: 80%;
+    font-size: 20px;
+}
+.store-date * {
+    margin: 3px 0px;
+}
+.one-more {
+    margin-bottom: 10px;
 }
 
 .results-list {
@@ -203,10 +212,11 @@ p a {
 @media screen and (max-width: 700px) {
     .top-info-box,
     .top-info-box-grey {
-        width: 80%;
+        width: 87%;
+        margin-bottom: 12px;
     }
     .format-card {
-        width: 80%;
+        width: 87%;
     }
     #calendar iframe {
         height: 400px;
@@ -214,5 +224,18 @@ p a {
     }
     .result p {
         font-size: 14px;
+    }
+    .event-h2 {
+        font-size: 18px;
+        width: 45%;
+    }
+    .store-date p {
+        font-size: 14px;
+    }
+    .store-date * {
+        margin-bottom: 3px;
+    }
+    .one-more {
+        margin-bottom: 7px;
     }
 }
