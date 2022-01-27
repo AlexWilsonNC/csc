@@ -688,7 +688,7 @@ function displayList(array = []) {
     item_element.appendChild(title);
 
     if (item.csPoints >= 1) {
-      title.addEventListener('click', function () {
+      item_element.addEventListener('click', function () {
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.modal-name').innerHTML = item.firstName;
