@@ -137,12 +137,13 @@ main {
     flex: 1;
 } */
 
-.modal-section {
-}
+
 .modal {
     width: 280px;
-    background-color: white;
-    border: 1px solid black;
+    background: linear-gradient(140deg, rgb(255, 27, 27) 0%, rgb(255, 107, 107) 19%, white 20%, rgb(255, 119, 119) 21%, rgb(255, 144, 144) 22%, white 23%, white 77%, rgb(255, 144, 144) 78%, rgb(255, 119, 119) 79%, white 80%, rgb(255, 107, 107) 81%, rgb(255, 27, 27) 100%);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border: 3px solid black;
     border-radius: 15px;
     padding: 25px;
     display: none;
@@ -163,6 +164,7 @@ main {
 }
 .cs-plus-ap p {
     font-size: 13px;
+    font-weight: bold;
 }
 .modal p {
     margin-bottom: 15px;
@@ -175,6 +177,7 @@ main {
 /* .place-1{color:gold;} */
 .modal-deck {
     text-align: center;
+    font-weight: bold;
 }       
 .modal-pics {
     display: flex;
