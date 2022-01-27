@@ -9,7 +9,9 @@
     margin-bottom: 7px;
     font-style: italic;
 }
-
+.tiny-x {
+    font-size: 14px;
+}
 .sort-buttons {
     display: flex;
     flex-direction: row;
