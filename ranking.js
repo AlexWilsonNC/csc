@@ -174,7 +174,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 1,
-    top8: 0
+    top8: 0,
+    img1: '../assets/sprites/zekrom.png',
+    img2: '../assets/sprites/raikou.png'
   },
   {
     firstName: 'Jason Joyce',
@@ -568,7 +570,9 @@ let players = [
     first: 1,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+    img1: '../assets/sprites/gardevoir.png',
+    img2: '../assets/sprites/dragapult.png'
   },
   {
     firstName: 'Stephen Tysinger',
