@@ -194,6 +194,7 @@ main {
     position: fixed;
     top: 0;left: 0;
     background-color: rgba(0,0,0,0.6);
+    background: linear-gradient(140deg, rgba(87, 8, 8, 0.6) 0%, rgba(90, 25, 25, 0.6) 19%, rgba(0,0,0,0.6) 20%, rgba(95, 41, 41, 0.6) 21%, rgba(97, 48, 48, 0.6) 22%, rgba(0,0,0,0.6) 23%, rgba(0,0,0,0.6) 77%, rgba(97, 48, 48, 0.6) 78%, rgba(95, 41, 41, 0.6) 79%, rgba(0,0,0,0.6) 80%, rgba(90, 25, 25, 0.6) 81%, rgba(87, 8, 8, 0.6) 100%);
     z-index: 30;
     display: none;
 }
