@@ -154,6 +154,16 @@ main {
     transition: all ease 0.8s;
     z-index: 50;
 }
+.cs-plus-ap {
+    display: flex;
+    flex-direction: row;
+}
+.cs-plus-ap * {
+    margin-right: 10px;
+}
+.cs-plus-ap p {
+    font-size: 13px;
+}
 .modal p {
     margin-bottom: 15px;
 }
