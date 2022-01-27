@@ -11,23 +11,22 @@
 }
 
 #event-toc {
-    width: 260px;
+    width: 200px;
     border-radius: 10px;
     border: 1px solid grey;
-    padding: 15px;
+    padding: 10px;
     list-style: none;
     box-shadow: 5px 5px 10px 1.5px rgba(0, 0, 0, 0.5);
 }
 
 #event-toc p {
-    font-weight: 600;
     text-decoration: underline;
     margin-bottom: 10px;
     font-size: 20px;
 }
 
 #event-toc li {
-    line-height: 35px;
+    line-height: 25px;
 }
 
 #event-toc li a {
