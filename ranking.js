@@ -728,6 +728,15 @@ modalX.addEventListener('click', () => {
   behind.style.display = 'none';
 })
 
+// function closeModal() {
+//   modal.style.display = 'none';
+//   behind.style.display = 'none';
+// }
+
+// document.addEventListener('click', function (event) {
+//   if (target.matches(modalX) || !target.closest(modal)) {closeModal()}
+// }, false)
+
 displayList(players);
 
 window.onload = function () {

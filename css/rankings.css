@@ -148,7 +148,7 @@ main {
     padding: 25px;
     display: none;
     position: fixed;
-    top: 50%;
+    top: 40%;
     left: 50%;
     margin-top: -140px;
     margin-left: -170px;
@@ -211,7 +211,7 @@ main {
     #rank-intro p {
         padding: 0px 30px;
         text-align: center;
-        font-size: 10px;
+        font-size: 12px;
     }
     .pts {
         margin-right: 30px;
