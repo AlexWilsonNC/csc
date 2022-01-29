@@ -71,25 +71,25 @@ let players = [
   },
   {
     firstName: 'Anthony Nimmons',
-    attendancePoints: 3,
-    csPoints: 8,
+    attendancePoints: 4,
+    csPoints: 23,
     first: 0,
     second: 0,
     top4: 0,
     top8: 1,
-    img1: '../assets/sprites/duraludon-gmax.png',
-    img2: '../assets/sprites/blank.png'
+    img1: '../assets/sprites/moltres-galar.png',
+    img2: '../assets/sprites/zapdos-galar.png'
   },
   {
     firstName: 'Kelly Nimmons',
-    attendancePoints: 3,
-    csPoints: 15,
-    first: 0,
+    attendancePoints: 4,
+    csPoints: 40,
+    first: 1,
     second: 0,
     top4: 1,
     top8: 0,
-    img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
-    img2: '../assets/sprites/sylveon.png'
+    img1: '../assets/sprites/duraludon-gmax.png',
+    img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Olivia Farmer',
@@ -353,12 +353,14 @@ let players = [
   },
   {
     firstName: 'Clint Quinn',
-    attendancePoints: 1,
-    csPoints: 0,
+    attendancePoints: 2,
+    csPoints: 15,
     first: 0,
     second: 0,
-    top4: 0,
-    top8: 0
+    top4: 1,
+    top8: 0,
+    img1: '../assets/sprites/jolteon.png',
+    img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Karla Wilson',
@@ -509,7 +511,7 @@ let players = [
   },
   {
     firstName: 'Evan Campbell',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 25,
     first: 1,
     second: 0,
@@ -593,6 +595,71 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0
+  },
+  {
+    firstName: 'Nathan Hall',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Morgan Dunn',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Brandon Kassab',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Abby Kassab',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Samantha Mills',
+      attendancePoints: 1,
+      csPoints: 20,
+      first: 0,
+      second: 1,
+      top4: 0,
+      top8: 0,
+      img1: '../assets/sprites/moltres-galar.png',
+      img2: '../assets/sprites/weezing-galar.png'
+  },
+  {
+    firstName: 'Kameron Cox',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Will Whitener',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
   }
 ]
 // ,
