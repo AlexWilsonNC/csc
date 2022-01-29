@@ -7,7 +7,7 @@ const sortCsPoints = document.querySelector('.sort-cs-points')
 let players = [
   {
     firstName: 'Alex Wilson',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -16,7 +16,7 @@ let players = [
   },
   {
     firstName: 'Samuel Roach',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 15,
     first: 0,
     second: 0,
@@ -60,7 +60,7 @@ let players = [
   },
   {
     firstName: "Mitch O'Neill",
-    attendancePoints: 3,
+    attendancePoints: 4,
     csPoints: 30,
     first: 0,
     second: 0,
@@ -78,7 +78,7 @@ let players = [
     top4: 0,
     top8: 1,
     img1: '../assets/sprites/duraludon-gmax.png',
-    img2: '../assets/sprites/zacian-crowned.png'
+    img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Kelly Nimmons',
@@ -133,16 +133,18 @@ let players = [
   },
   {
     firstName: 'Chris Urcinola',
-    attendancePoints: 2,
-    csPoints: 0,
+    attendancePoints: 3,
+    csPoints: 15,
     first: 0,
     second: 0,
-    top4: 0,
-    top8: 0
+    top4: 1,
+    top8: 0,
+    img1: '../assets/sprites/dracozolt.png',
+    img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Joseph Bjerg',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -180,9 +182,9 @@ let players = [
   },
   {
     firstName: 'Jason Joyce',
-    attendancePoints: 5,
-    csPoints: 40,
-    first: 0,
+    attendancePoints: 6,
+    csPoints: 65,
+    first: 1,
     second: 2,
     top4: 0,
     top8: 0,
@@ -209,10 +211,10 @@ let players = [
   },
   {
     firstName: 'Jonathan Arias',
-    attendancePoints: 4,
-    csPoints: 40,
+    attendancePoints: 5,
+    csPoints: 60,
     first: 0,
-    second: 2,
+    second: 3,
     top4: 0,
     top8: 0,
     img1: '../assets/sprites/mew.png',
@@ -331,11 +333,11 @@ let players = [
   },
   {
     firstName: 'Nathon Trimberger',
-    attendancePoints: 1,
-    csPoints: 25,
+    attendancePoints: 2,
+    csPoints: 40,
     first: 1,
     second: 0,
-    top4: 0,
+    top4: 1,
     top8: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
@@ -537,8 +539,8 @@ let players = [
     top8: 0
   },
   {
-    firstName: 'Tyler Pesry',
-    attendancePoints: 1,
+    firstName: 'Tyler Perry',
+    attendancePoints: 2,
     csPoints: 0,
     first: 0,
     second: 0,
