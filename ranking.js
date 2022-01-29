@@ -124,7 +124,7 @@ let players = [
   },
   {
     firstName: 'Jennifer Perez',
-    attendancePoints: 3,
+    attendancePoints: 4,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -373,27 +373,29 @@ let players = [
   },
   {
     firstName: 'Jorden Hamilton',
-    attendancePoints: 1,
-    csPoints: 25,
+    attendancePoints: 2,
+    csPoints: 40,
     first: 1,
     second: 0,
-    top4: 0,
+    top4: 1,
     top8: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Vernon Hoffman',
-    attendancePoints: 1,
-    csPoints: 0,
+    attendancePoints: 2,
+    csPoints: 15,
     first: 0,
     second: 0,
-    top4: 0,
-    top8: 0
+    top4: 1,
+    top8: 0,
+    img1: '../assets/sprites/zacian-crowned.png',
+    img2: '../assets/sprites/zamazenta-crowned.png'
   },
   {
     firstName: 'Maxwell Hoffman',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -402,7 +404,7 @@ let players = [
   },
   {
     firstName: 'Taylor Greenstreet',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 8,
     first: 0,
     second: 0,
@@ -413,18 +415,20 @@ let players = [
   },
   {
     firstName: 'Kevin Fallin',
-    attendancePoints: 1,
-    csPoints: 0,
+    attendancePoints: 2,
+    csPoints: 20,
     first: 0,
-    second: 0,
+    second: 1,
     top4: 0,
-    top8: 0
+    top8: 0,
+    img1: '../assets/sprites/jolteon.png',
+    img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Joshua Frowley',
-    attendancePoints: 1,
-    csPoints: 15,
-    first: 0,
+    attendancePoints: 2,
+    csPoints: 40,
+    first: 1,
     second: 0,
     top4: 1,
     top8: 0,
@@ -442,7 +446,7 @@ let players = [
   },
   {
     firstName: 'Chase Weaver',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -747,18 +751,44 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0
+  },
+  {
+    firstName: 'Alexander D’Amico',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Timothy Weaver',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Nathan Wilkins',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Charlie Matteson',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
   }
 ]
-// ,
-//   {
-//     firstName: 'name',
-//     attendancePoints: 1,
-//     csPoints: 0,
-//     first: 0,
-//     second: 0,
-//     top4: 0,
-//     top8: 0
-//   }
 
 let desc = false;
 sortName.addEventListener('click', () => {
