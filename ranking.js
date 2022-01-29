@@ -49,11 +49,11 @@ let players = [
   },
   {
     firstName: 'Ricky (Zane) Carter',
-    attendancePoints: 2,
-    csPoints: 35,
-    first: 0,
-    second: 1,
-    top4: 1,
+    attendancePoints: 3,
+    csPoints: 60,
+    first: 1, // ice rider
+    second: 1, // eternatus
+    top4: 1, // eternatus
     top8: 0,
     img1: '../assets/sprites/eternatus-eternamax.png',
     img2: '../assets/sprites/weezing-galar.png'
@@ -153,7 +153,7 @@ let players = [
   },
   {
     firstName: 'Jessica (Raven) Carter',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -654,6 +654,93 @@ let players = [
   },
   {
     firstName: 'Will Whitener',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Brian Fox',
+      attendancePoints: 1,
+      csPoints: 20,
+      first: 0,
+      second: 1,
+      top4: 0,
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/victini.png'
+  },
+  {
+    firstName: 'Nicholas Vause',
+      attendancePoints: 1,
+      csPoints: 15,
+      first: 0,
+      second: 0,
+      top4: 1,
+      top8: 0,
+      img1: '../assets/sprites/mew.png',
+      img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'Jean-luc Pennington',
+      attendancePoints: 1,
+      csPoints: 15,
+      first: 0,
+      second: 0,
+      top4: 1,
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/duraludon-gmax.png'
+  },
+  {
+    firstName: 'Keith Luehrs',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Roxie Bair',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Adam Pennington',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Brianna Krausmann',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Matthew Krausmann',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Aaron Bair',
       attendancePoints: 1,
       csPoints: 0,
       first: 0,
