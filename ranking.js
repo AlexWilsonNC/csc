@@ -231,11 +231,11 @@ let players = [
   },
   {
     firstName: 'Caleb Rogerson',
-    attendancePoints: 2,
-    csPoints: 40,
+    attendancePoints: 3,
+    csPoints: 55,
     first: 1,
     second: 0,
-    top4: 1,
+    top4: 2,
     top8: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
@@ -253,12 +253,12 @@ let players = [
   },
   {
     firstName: 'Carl Simpson',
-    attendancePoints: 1,
-    csPoints: 8,
+    attendancePoints: 2,
+    csPoints: 16,
     first: 0,
     second: 0,
     top4: 0,
-    top8: 1,
+    top8: 2,
     img1: '../assets/sprites/calyrex-ice-rider.png',
     img2: '../assets/sprites/inteleon.png'
   },
@@ -275,7 +275,7 @@ let players = [
   },
   {
     firstName: 'Tony Vuong',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 16,
     first: 0,
     second: 0,
@@ -297,12 +297,14 @@ let players = [
   },
   {
     firstName: 'Alex Robbins',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0,
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 1,
+    img1: '../assets/sprites/mew.png',
+    img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Dick Collier',
@@ -464,12 +466,12 @@ let players = [
   },
   {
     firstName: 'Robbie Trittschuh',
-    attendancePoints: 1,
-    csPoints: 20,
+    attendancePoints: 2,
+    csPoints: 28,
     first: 0,
     second: 1,
     top4: 0,
-    top8: 0,
+    top8: 1,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -753,7 +755,7 @@ let players = [
       top8: 0
   },
   {
-    firstName: 'Alexander D’Amico',
+    firstName: "Alexander D’Amico",
       attendancePoints: 1,
       csPoints: 0,
       first: 0,
@@ -781,6 +783,113 @@ let players = [
   },
   {
     firstName: 'Charlie Matteson',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Evan Lee',
+      attendancePoints: 1,
+      csPoints: 25,
+      first: 1,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      img1: '../assets/sprites/mew.png',
+      img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'Grant Manley',
+      attendancePoints: 1,
+      csPoints: 20,
+      first: 0,
+      second: 1,
+      top4: 0,
+      top8: 0,
+      img1: '../assets/sprites/urshifu-gmax.png',
+      img2: '../assets/sprites/umbreon.png'
+  },
+  {
+    firstName: 'Chip Richey',
+      attendancePoints: 1,
+      csPoints: 15,
+      first: 0,
+      second: 0,
+      top4: 1,
+      top8: 0,
+      img1: '../assets/sprites/malamar.png',
+      img2: '../assets/sprites/octillery.png'
+  },
+  {
+    firstName: 'Jay Quick',
+      attendancePoints: 1,
+      csPoints: 8,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 1,
+      img1: '../assets/sprites/mew.png',
+      img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'Joseph Ennis',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'George Wynn',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Miguel Sotelo',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Luis Sotelo',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Andrew Wisniewsky',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Ryan Moore',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0
+  },
+  {
+    firstName: 'Ruby Best',
       attendancePoints: 1,
       csPoints: 0,
       first: 0,
