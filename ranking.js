@@ -13,6 +13,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -24,6 +25,7 @@ let players = [
     second: 0,
     top4: 1,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/urshifu-gmax.png',
     img2: '../assets/sprites/umbreon.png'
   },
@@ -35,17 +37,19 @@ let players = [
     second: 0,
     top4: 0,
     top8: 1,
+    top16: 0,
     img1: '../assets/sprites/sableye.png',
     img2: '../assets/sprites/weezing-galar.png'
   },
   {
     firstName: 'James Briglia',
     attendancePoints: 2,
-    csPoints: 33,
+    csPoints: 41,
     first: 1, // etern
     second: 0,
     top4: 0,
     top8: 1, // etern
+    top16: 0,
     img1: '../assets/sprites/eternatus-eternamax.png',
     img2: '../assets/sprites/umbreon.png'
   },
@@ -57,6 +61,7 @@ let players = [
     second: 1, // eternatus
     top4: 1, // eternatus
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/eternatus-eternamax.png',
     img2: '../assets/sprites/weezing-galar.png'
   },
@@ -66,8 +71,9 @@ let players = [
     csPoints: 30,
     first: 0,
     second: 0,
-    top4: 2,
+    top4: 2, // jolt
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/jolteon.png',
     img2: '../assets/sprites/inteleon.png'
   },
@@ -77,8 +83,9 @@ let players = [
     csPoints: 23,
     first: 0,
     second: 0,
-    top4: 0,
-    top8: 1,
+    top4: 1, // moltres zap
+    top8: 1, // duraludon
+    top16: 0,
     img1: '../assets/sprites/moltres-galar.png',
     img2: '../assets/sprites/zapdos-galar.png'
   },
@@ -86,10 +93,11 @@ let players = [
     firstName: 'Kelly Nimmons',
     attendancePoints: 4,
     csPoints: 40,
-    first: 1,
+    first: 1, // duraludon
     second: 0,
-    top4: 1,
+    top4: 1, // sylv rs ursh
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/duraludon-gmax.png',
     img2: '../assets/sprites/blank.png'
   },
@@ -99,8 +107,9 @@ let players = [
     csPoints: 39,
     first: 0,
     second: 0,
-    top4: 1,
-    top8: 3,
+    top4: 1, // mew
+    top8: 3, // jolt 2 | mew 1 
+    top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -111,7 +120,8 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 1,
+    top8: 0,
+    top16: 1,
     img1: '../assets/sprites/malamar.png',
     img2: '../assets/sprites/octillery.png'
   },
@@ -123,6 +133,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -134,6 +145,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -145,6 +157,7 @@ let players = [
     second: 0,
     top4: 1,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/dracozolt.png',
     img2: '../assets/sprites/blank.png'
   },
@@ -156,6 +169,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -167,6 +181,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -178,6 +193,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -189,6 +205,7 @@ let players = [
     second: 0,
     top4: 1,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/zekrom.png',
     img2: '../assets/sprites/raikou.png'
   },
@@ -196,10 +213,11 @@ let players = [
     firstName: 'Jason Joyce',
     attendancePoints: 7,
     csPoints: 65,
-    first: 1,
-    second: 2,
+    first: 1, // moltre
+    second: 2, // moltre 1 | glc 1
     top4: 0,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/moltres-galar.png',
     img2: '../assets/sprites/zapdos-galar.png'
   },
@@ -211,6 +229,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -222,6 +241,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -230,9 +250,10 @@ let players = [
     attendancePoints: 6,
     csPoints: 60,
     first: 0,
-    second: 3,
+    second: 3, // mew 3
     top4: 0,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -244,6 +265,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -251,10 +273,11 @@ let players = [
     firstName: 'Caleb Rogerson',
     attendancePoints: 4,
     csPoints: 90,
-    first: 2,
+    first: 2, // mew 2
     second: 0,
-    top4: 2,
+    top4: 2, // mew 2
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -266,6 +289,7 @@ let players = [
     second: 0,
     top4: 1,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
     img2: '../assets/sprites/inteleon.png'
   },
@@ -277,6 +301,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 2,
+    top16: 0,
     img1: '../assets/sprites/calyrex-ice-rider.png',
     img2: '../assets/sprites/inteleon.png'
   },
@@ -286,8 +311,9 @@ let players = [
     csPoints: 30,
     first: 0,
     second: 0,
-    top4: 1,
-    top8: 1,
+    top4: 1, // 30+ players | mew
+    top8: 1, // mew
+    top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -298,7 +324,8 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 2,
+    top8: 2, // ursh 2
+    top16: 1,
     img1: '../assets/sprites/urshifu-gmax.png',
     img2: '../assets/sprites/umbreon.png'
   },
@@ -310,17 +337,19 @@ let players = [
     second: 0,
     top4: 0,
     top8: 1,
+    top16: 0,
     img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
     img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Alex Robbins',
     attendancePoints: 2,
-    csPoints: 0,
+    csPoints: 8,
     first: 0,
     second: 0,
     top4: 0,
     top8: 1,
+    top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -332,6 +361,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -343,6 +373,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 1, // 30+ players
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -354,6 +385,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -361,10 +393,11 @@ let players = [
     firstName: 'Nathon Trimberger',
     attendancePoints: 2,
     csPoints: 40,
-    first: 1,
+    first: 1, // mew
     second: 0,
-    top4: 1,
+    top4: 1, // mew
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -376,6 +409,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -387,6 +421,7 @@ let players = [
     second: 0,
     top4: 1,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/jolteon.png',
     img2: '../assets/sprites/inteleon.png'
   },
@@ -398,6 +433,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -409,6 +445,7 @@ let players = [
     second: 1, // mew
     top4: 1, // mew
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -420,6 +457,7 @@ let players = [
     second: 0,
     top4: 1,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/zacian-crowned.png',
     img2: '../assets/sprites/zamazenta-crowned.png'
   },
@@ -431,6 +469,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -442,6 +481,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 2,
+    top16: 0,
     img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
     img2: '../assets/sprites/inteleon.png'
   },
@@ -453,6 +493,7 @@ let players = [
     second: 1, // jolteon
     top4: 0,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
     img2: '../assets/sprites/inteleon.png'
   },
@@ -460,10 +501,11 @@ let players = [
     firstName: 'Joshua Frowley',
     attendancePoints: 3,
     csPoints: 55,
-    first: 1,
+    first: 1, // mew
     second: 0,
-    top4: 2,
+    top4: 2, // mew 2
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -475,6 +517,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 1,
+    top16: 0,
     img1: '../assets/sprites/blank.png',
     img2: '../assets/sprites/blank.png'
   },
@@ -486,6 +529,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -497,6 +541,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -505,9 +550,10 @@ let players = [
     attendancePoints: 2,
     csPoints: 28,
     first: 0,
-    second: 1,
+    second: 1, // mew
     top4: 0,
-    top8: 1,
+    top8: 1, // mew
+    top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -519,6 +565,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -530,6 +577,7 @@ let players = [
     second: 0,
     top4: 1,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/zacian-crowned.png',
     img2: '../assets/sprites/zamazenta-crowned.png'
   },
@@ -541,6 +589,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -552,6 +601,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 1,
+    top16: 0,
     img1: '../assets/sprites/urshifu-gmax.png',
     img2: '../assets/sprites/umbreon.png'
   },
@@ -563,6 +613,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
@@ -574,6 +625,7 @@ let players = [
     second: 0,
     top4: 1,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/urshifu-gmax.png',
     img2: '../assets/sprites/umbreon.png'
   },
@@ -585,6 +637,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -596,6 +649,7 @@ let players = [
     second: 0,
     top4: 1,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/calyrex-ice-rider.png',
     img2: '../assets/sprites/inteleon.png'
   },
@@ -607,6 +661,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -618,6 +673,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -629,6 +685,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
     img1: '../assets/sprites/gardevoir.png',
     img2: '../assets/sprites/dragapult.png'
   },
@@ -640,6 +697,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -651,6 +709,7 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -662,6 +721,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -673,6 +733,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -684,6 +745,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -695,6 +757,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -706,6 +769,7 @@ let players = [
       second: 1,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/moltres-galar.png',
       img2: '../assets/sprites/weezing-galar.png'
   },
@@ -717,6 +781,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -728,6 +793,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -739,6 +805,7 @@ let players = [
       second: 2, // victini 2
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/victini.png'
   },
@@ -750,6 +817,7 @@ let players = [
       second: 0,
       top4: 1,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/mew.png',
       img2: '../assets/sprites/genesect.png'
   },
@@ -761,6 +829,7 @@ let players = [
       second: 0,
       top4: 1,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/duraludon-gmax.png'
   },
@@ -772,6 +841,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -783,6 +853,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -794,6 +865,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -805,6 +877,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -816,6 +889,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -827,6 +901,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -838,6 +913,7 @@ let players = [
       second: 0,
       top4: 1,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/gengar-gmax.png',
       img2: '../assets/sprites/houndoom.png'
   },
@@ -849,6 +925,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -860,6 +937,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -871,6 +949,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 1,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -879,9 +958,10 @@ let players = [
       attendancePoints: 2,
       csPoints: 55,
       first: 1, // mew 1
-      second: 1, // mew 1
+      second: 1, // 30+ players| mew 1
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/mew.png',
       img2: '../assets/sprites/genesect.png'
   },
@@ -892,7 +972,8 @@ let players = [
       first: 0,
       second: 1, // ss umb
       top4: 0,
-      top8: 1, // ss umb
+      top8: 1, // 30+ players | ss umb
+      top16: 0,
       img1: '../assets/sprites/urshifu-gmax.png',
       img2: '../assets/sprites/umbreon.png'
   },
@@ -904,17 +985,19 @@ let players = [
       second: 0,
       top4: 1,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/malamar.png',
       img2: '../assets/sprites/octillery.png'
   },
   {
     firstName: 'Jay Quick',
       attendancePoints: 1,
-      csPoints: 8,
+      csPoints: 16,
       first: 0,
       second: 0,
       top4: 0,
-      top8: 1,
+      top8: 1, // 30+ players
+      top16: 0,
       img1: '../assets/sprites/mew.png',
       img2: '../assets/sprites/genesect.png'
   },
@@ -926,6 +1009,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -937,6 +1021,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -948,6 +1033,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -959,6 +1045,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -968,8 +1055,9 @@ let players = [
       csPoints: 22,
       first: 0,
       second: 0,
-      top4: 1,
+      top4: 1, // 30+ players
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/zacian-crowned.png',
       img2: '../assets/sprites/zamazenta-crowned.png'
   },
@@ -981,6 +1069,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -992,6 +1081,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1002,7 +1092,8 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 1,
+      top8: 1, // 30+ players
+      top16: 0,
       img1: '../assets/sprites/duraludon-gmax.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1013,7 +1104,8 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 1,
+      top8: 1, // 30+ players
+      top16: 0,
       img1: '../assets/sprites/sylveon.png',
       img2: '../assets/sprites/urshifu-rapid-strike-gmax.png'
   },
@@ -1025,6 +1117,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1036,6 +1129,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 1,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1047,6 +1141,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 1,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1058,6 +1153,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1069,6 +1165,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1080,6 +1177,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1091,6 +1189,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1102,6 +1201,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1113,6 +1213,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 1,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1124,6 +1225,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1135,6 +1237,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1146,6 +1249,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 1,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1157,6 +1261,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1168,6 +1273,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1179,6 +1285,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1190,6 +1297,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1201,6 +1309,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 1,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1212,6 +1321,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1223,6 +1333,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 1,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1234,6 +1345,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1245,6 +1357,7 @@ let players = [
       second: 0,
       top4: 1,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/sylveon.png',
       img2: '../assets/sprites/urshifu-rapid-strike-gmax.png'
   },
@@ -1254,8 +1367,9 @@ let players = [
       csPoints: 15,
       first: 0,
       second: 0,
-      top4: 0,
+      top4: 1,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
       img2: '../assets/sprites/falinks.png'
   },
@@ -1267,6 +1381,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1278,6 +1393,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1289,6 +1405,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1300,6 +1417,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/mew.png',
       img2: '../assets/sprites/genesect.png'
   },
@@ -1311,6 +1429,7 @@ let players = [
       second: 1,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/jolteon.png',
       img2: '../assets/sprites/inteleon.png'
   },
@@ -1322,6 +1441,7 @@ let players = [
       second: 0,
       top4: 1,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/leafeon.png',
       img2: '../assets/sprites/inteleon.png'
   },
@@ -1333,6 +1453,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1344,6 +1465,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1355,6 +1477,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1366,6 +1489,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1377,6 +1501,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1388,6 +1513,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1399,6 +1525,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1410,6 +1537,7 @@ let players = [
       second: 0,
       top4: 0,
       top8: 0,
+      top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
@@ -1420,7 +1548,8 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      top16: 0
   }
 ]
 
