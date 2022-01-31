@@ -41,7 +41,7 @@ let players = [
   {
     firstName: 'James Briglia',
     attendancePoints: 2,
-    csPoints: 41,
+    csPoints: 33,
     first: 1, // etern
     second: 0,
     top4: 0,
