@@ -12,7 +12,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Samuel Roach',
@@ -120,7 +122,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Jennifer Perez',
@@ -129,7 +133,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Chris Urcinola',
@@ -149,7 +155,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Jessica (Raven) Carter',
@@ -158,7 +166,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Landon Hawkins',
@@ -167,7 +177,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Jeremiah Lynch',
@@ -198,7 +210,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Bennet Kobos',
@@ -207,7 +221,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Jonathan Arias',
@@ -227,7 +243,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Caleb Rogerson',
@@ -313,7 +331,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Justin Chestnut',
@@ -322,7 +342,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Carter Petrocci',
@@ -331,7 +353,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Nathon Trimberger',
@@ -351,7 +375,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Clint Quinn',
@@ -371,7 +397,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Jorden Hamilton',
@@ -402,7 +430,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Taylor Greenstreet',
@@ -444,7 +474,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 1
+    top8: 1,
+    img1: '../assets/sprites/blank.png',
+    img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Chase Weaver',
@@ -453,7 +485,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Cody Criner',
@@ -462,7 +496,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Robbie Trittschuh',
@@ -482,7 +518,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Dillon Bussert',
@@ -502,7 +540,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Matthew Reimels',
@@ -544,7 +584,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Tyler Perry',
@@ -564,7 +606,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Daniel Henson',
@@ -573,7 +617,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Frankie Puleio',
@@ -593,7 +639,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Steven Bauer',
@@ -602,7 +650,9 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0
+    top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Nathan Hall',
@@ -611,7 +661,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Morgan Dunn',
@@ -620,7 +672,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Brandon Kassab',
@@ -629,7 +683,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Abby Kassab',
@@ -638,7 +694,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Samantha Mills',
@@ -658,7 +716,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Will Whitener',
@@ -667,7 +727,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Brian Fox',
@@ -709,7 +771,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Roxie Bair',
@@ -718,7 +782,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Adam Pennington',
@@ -727,7 +793,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Brianna Krausmann',
@@ -736,7 +804,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Matthew Krausmann',
@@ -745,7 +815,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Aaron Bair',
@@ -754,7 +826,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: "Alexander D’Amico",
@@ -774,7 +848,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Nathan Wilkins',
@@ -783,7 +859,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Charlie Matteson',
@@ -792,7 +870,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 1
+      top8: 1,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Evan Lee',
@@ -845,7 +925,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'George Wynn',
@@ -854,7 +936,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Miguel Sotelo',
@@ -863,7 +947,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Luis Sotelo',
@@ -872,7 +958,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Andrew Wisniewsky',
@@ -892,7 +980,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Ruby Best',
@@ -901,7 +991,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Ethan Haynes',
@@ -932,7 +1024,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Bradley Kampa',
@@ -941,7 +1035,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Kian Watkins',
@@ -950,7 +1046,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Shane Caughell',
@@ -959,7 +1057,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'IsaBella Sztyber',
@@ -968,7 +1068,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Simon Snell',
@@ -977,7 +1079,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'John Orgel',
@@ -986,7 +1090,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Kermit Jones',
@@ -995,7 +1101,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Jason Pike',
@@ -1004,7 +1112,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Vaughan Mitchell',
@@ -1013,7 +1123,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Benjamin Pelton',
@@ -1022,7 +1134,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Nate Warren',
@@ -1031,7 +1145,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Jackson Connor',
@@ -1040,7 +1156,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Jose Hidalgo',
@@ -1049,7 +1167,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Emilio Hidalgo',
@@ -1058,7 +1178,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'John Baires',
@@ -1067,7 +1189,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Elijah Crane',
@@ -1076,7 +1200,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Thomas Roche',
@@ -1085,7 +1211,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Blaine Hill',
@@ -1094,7 +1222,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Kevin Rogerson',
@@ -1103,7 +1233,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Dillon Shumpert',
@@ -1134,7 +1266,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Paulo Castelo',
@@ -1143,7 +1277,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Brienna Krausmann',
@@ -1152,7 +1288,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Andrew Walker',
@@ -1194,7 +1332,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Tyle Krayah',
@@ -1203,7 +1343,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Brianna Austin',
@@ -1212,7 +1354,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Brian Meredith',
@@ -1221,7 +1365,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Addison Gercon',
@@ -1230,7 +1376,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Tony Austin',
@@ -1239,7 +1387,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Stephen Kennedy ',
@@ -1248,7 +1398,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Jessica Austin',
@@ -1257,7 +1409,9 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0
+      top8: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Chase Weaver',
