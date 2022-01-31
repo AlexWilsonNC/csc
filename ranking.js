@@ -1647,6 +1647,7 @@ function displayList(array = []) {
         document.querySelector('.place2').innerHTML = item.second;
         document.querySelector('.place3').innerHTML = item.top4;
         document.querySelector('.place4').innerHTML = item.top8;
+        document.querySelector('.place5').innerHTML = item.top16;
         document.querySelector('.modal-img1').src = item.img1;
         document.querySelector('.modal-img2').src = item.img2;
       })
