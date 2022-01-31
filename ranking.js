@@ -120,8 +120,8 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0,
-    top16: 1,
+    top8: 1,
+    top16: 0,
     img1: '../assets/sprites/malamar.png',
     img2: '../assets/sprites/octillery.png'
   },
