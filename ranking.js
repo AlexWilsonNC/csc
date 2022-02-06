@@ -62,8 +62,8 @@ let players = [
     top4: 2, // eternatus | jolteon
     top8: 0,
     top16: 0,
-    img1: '../assets/sprites/calyrex-ice-rider.png',
-    img2: '../assets/sprites/inteleon.png'
+    img1: '../assets/sprites/eternatus-eternamax.png',
+    img2: '../assets/sprites/weezing-galar.png'
   },
   {
     firstName: "Mitch O'Neill",
