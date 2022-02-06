@@ -101,7 +101,8 @@ main {
     display: flex;
     align-items: center;    
     flex-direction: column;
-    margin: 15px 25px 0px 45px;
+    margin: 15px 0px 0px 0px;
+    padding: 0px 15px 0px 55px;
 }
 .color-rank .list-item:first-child {
     background: linear-gradient(to bottom right, #fff, #FFD700, #ff9100);
