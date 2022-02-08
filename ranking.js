@@ -258,7 +258,7 @@ let players = [
     img2: '../assets/sprites/genesect.png'
   },
   {
-    firstName: 'James Quick',
+    firstName: 'James (Jay) Quick',
     attendancePoints: 3,
     csPoints: 24,
     first: 0,
