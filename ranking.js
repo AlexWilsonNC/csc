@@ -45,7 +45,7 @@ let players = [
     firstName: 'James Briglia',
     attendancePoints: 3,
     csPoints: 66,
-    first: 2, // etern | ?
+    first: 2, // etern | etern
     second: 0,
     top4: 0,
     top8: 1, // etern
@@ -57,10 +57,10 @@ let players = [
     firstName: 'Ricky (Zane) Carter',
     attendancePoints: 6,
     csPoints: 108,
-    first: 2, // ice rider 1 | mew 2
+    first: 2, // ice rider 1 | mew 1
     second: 1, // eternatus
     top4: 2, // eternatus | jolteon
-    top8: 1, // ?
+    top8: 1, // mew
     top16: 0,
     img1: '../assets/sprites/eternatus-eternamax.png',
     img2: '../assets/sprites/weezing-galar.png'
@@ -204,7 +204,7 @@ let players = [
     first: 0,
     second: 0,
     top4: 1, // glc lightning
-    top8: 1, // ?
+    top8: 1, // bolt
     top16: 0,
     img1: '../assets/sprites/zekrom.png',
     img2: '../assets/sprites/raikou.png'
@@ -251,7 +251,7 @@ let players = [
     csPoints: 75,
     first: 0,
     second: 3, // mew 3
-    top4: 1, // ?
+    top4: 1, // mew 1
     top8: 0,
     top16: 0,
     img1: '../assets/sprites/mew.png',
@@ -264,7 +264,7 @@ let players = [
     first: 0,
     second: 0,
     top4: 0,
-    top8: 2, // 30+ players mew | ?
+    top8: 2, // 30+ players mew | ir caly
     top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
@@ -959,7 +959,7 @@ let players = [
       csPoints: 70,
       first: 1, // mew 1
       second: 1, // 30+ players| mew 1
-      top4: 1, // ?
+      top4: 1, // mew
       top8: 0,
       top16: 0,
       img1: '../assets/sprites/mew.png',
@@ -1666,7 +1666,7 @@ let players = [
       first: 0,
       second: 0,
       top4: 0,
-      top8: 1, // ?
+      top8: 1, // sr caly
       top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
