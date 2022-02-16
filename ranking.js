@@ -1778,6 +1778,18 @@ let players = [
       top16: 0,
       img1: '../assets/sprites/weezing-galar.png',
       img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Ash Ketchum',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   }
 ]
 
