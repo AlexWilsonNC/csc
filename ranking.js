@@ -55,12 +55,12 @@ let players = [
   },
   {
     firstName: 'Ricky (Zane) Carter',
-    attendancePoints: 6,
-    csPoints: 108,
+    attendancePoints: 7,
+    csPoints: 128,
     first: 2, // ice rider 1 | mew 1
-    second: 1, // eternatus
-    top4: 2, // eternatus | jolteon
-    top8: 1, // mew
+    second: 2, // eternatus 1 | duraludon 1
+    top4: 2, // eternatus 1 | jolteon 1
+    top8: 1, // mew 1
     top16: 0,
     img1: '../assets/sprites/eternatus-eternamax.png',
     img2: '../assets/sprites/weezing-galar.png'
@@ -151,7 +151,7 @@ let players = [
   },
   {
     firstName: 'Chris Urcinola',
-    attendancePoints: 5,
+    attendancePoints: 6,
     csPoints: 15,
     first: 0,
     second: 0,
@@ -175,7 +175,7 @@ let players = [
   },
   {
     firstName: 'Jessica (Raven) Carter',
-    attendancePoints: 6,
+    attendancePoints: 7,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -619,11 +619,11 @@ let players = [
   },
   {
     firstName: 'Gabriel Hernandez',
-    attendancePoints: 1,
-    csPoints: 15,
+    attendancePoints: 2,
+    csPoints: 30,
     first: 0,
     second: 0,
-    top4: 1,
+    top4: 2, // ss urshi 1 | rs urshi 1
     top8: 0,
     top16: 0,
     img1: '../assets/sprites/urshifu-gmax.png',
@@ -1577,11 +1577,11 @@ let players = [
   },
   {
     firstName: 'Christopher Black',
-      attendancePoints: 1,
-      csPoints: 15,
+      attendancePoints: 2,
+      csPoints: 30,
       first: 0,
       second: 0,
-      top4: 1,
+      top4: 2, // sr caly 1 | ? 1
       top8: 0,
       top16: 0,
       img1: '../assets/sprites/calyrex-shadow-rider.png',
@@ -1589,7 +1589,7 @@ let players = [
   },
   {
     firstName: 'Aiden Brittain',
-      attendancePoints: 3,
+      attendancePoints: 4,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1637,15 +1637,15 @@ let players = [
   },
   {
     firstName: 'Stephanie Hurst',
-      attendancePoints: 1,
-      csPoints: 0,
-      first: 0,
+      attendancePoints: 2,
+      csPoints: 25,
+      first: 1,
       second: 0,
       top4: 0,
       top8: 0,
       top16: 0,
-      img1: '../assets/sprites/blank.png',
-      img2: '../assets/sprites/blank.png'
+      img1: '../assets/sprites/calyrex-shadow-rider.png',
+      img2: '../assets/sprites/articuno-galar.png'
   },
   {
     firstName: 'Wesley Gantt',
@@ -1765,6 +1765,18 @@ let players = [
       top8: 0,
       top16: 0,
       img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Jared Morales',
+      attendancePoints: 1,
+      csPoints: 15,
+      first: 0,
+      second: 0,
+      top4: 1,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/weezing-galar.png',
       img2: '../assets/sprites/blank.png'
   }
 ]
