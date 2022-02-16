@@ -1585,7 +1585,7 @@ let players = [
       top8: 0,
       top16: 0,
       img1: '../assets/sprites/calyrex-shadow-rider.png',
-      img2: '../assets/sprites/blank.png'
+      img2: '../assets/sprites/gengar.png'
   },
   {
     firstName: 'Aiden Brittain',
