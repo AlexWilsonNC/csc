@@ -7,7 +7,7 @@ const sortCsPoints = document.querySelector('.sort-cs-points')
 let players = [
   {
     firstName: 'Alex Wilson',
-    attendancePoints: 3,
+    attendancePoints: 4,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -19,12 +19,12 @@ let players = [
   },
   {
     firstName: 'Samuel Roach',
-    attendancePoints: 3,
-    csPoints: 16,
+    attendancePoints: 4,
+    csPoints: 26,
     first: 0,
     second: 0,
     top4: 1,
-    top8: 0,
+    top8: 1,
     top16: 0,
     img1: '../assets/sprites/urshifu-gmax.png',
     img2: '../assets/sprites/umbreon.png'
@@ -55,19 +55,19 @@ let players = [
   },
   {
     firstName: 'Ricky (Zane) Carter',
-    attendancePoints: 7,
-    csPoints: 182,
+    attendancePoints: 8,
+    csPoints: 192,
     first: 2, // ice rider 1 | mew 1
     second: 2, // eternatus 1 | duraludon 1
     top4: 2, // eternatus 1 | jolteon 1
-    top8: 1, // mew 1
+    top8: 2, // mew 1 | etern 1
     top16: 0,
     img1: '../assets/sprites/eternatus-eternamax.png',
     img2: '../assets/sprites/weezing-galar.png'
   },
   {
     firstName: "Mitch O'Neill",
-    attendancePoints: 5,
+    attendancePoints: 6,
     csPoints: 32,
     first: 0,
     second: 0,
@@ -79,23 +79,23 @@ let players = [
   },
   {
     firstName: 'Anthony Nimmons',
-    attendancePoints: 5,
-    csPoints: 66,
+    attendancePoints: 6,
+    csPoints: 76,
     first: 1, // moltres zap
     second: 0,
     top4: 1, // moltres zap
-    top8: 1, // duraludon
+    top8: 2, // duraludon 1 | molt zap 1
     top16: 0,
     img1: '../assets/sprites/moltres-galar.png',
     img2: '../assets/sprites/zapdos-galar.png'
   },
   {
     firstName: 'Kelly Nimmons',
-    attendancePoints: 5,
-    csPoints: 56,
+    attendancePoints: 6,
+    csPoints: 72,
     first: 1, // duraludon
     second: 0,
-    top4: 1, // sylv rs ursh
+    top4: 2, // sylv rs ursh 1 | dural 1
     top8: 0,
     top16: 0,
     img1: '../assets/sprites/duraludon-gmax.png',
@@ -175,7 +175,7 @@ let players = [
   },
   {
     firstName: 'Jessica (Raven) Carter',
-    attendancePoints: 7,
+    attendancePoints: 8,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -391,9 +391,9 @@ let players = [
   },
   {
     firstName: 'Nathon Trimberger',
-    attendancePoints: 2,
-    csPoints: 56,
-    first: 1, // mew
+    attendancePoints: 3,
+    csPoints: 96,
+    first: 2, // mew 2
     second: 0,
     top4: 1, // mew
     top8: 0,
@@ -427,7 +427,7 @@ let players = [
   },
   {
     firstName: 'Karla Wilson',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -607,12 +607,12 @@ let players = [
   },
   {
     firstName: 'Evan Campbell',
-    attendancePoints: 3,
-    csPoints: 70,
+    attendancePoints: 4,
+    csPoints: 80,
     first: 1, // mew
     second: 1, // mew
     top4: 0,
-    top8: 0,
+    top8: 1, // mew
     top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
@@ -643,7 +643,7 @@ let players = [
   },
   {
     firstName: 'Tyler Perry',
-    attendancePoints: 3,
+    attendancePoints: 4,
     csPoints: 16,
     first: 0,
     second: 0,
@@ -1577,7 +1577,7 @@ let players = [
   },
   {
     firstName: 'Christopher Black',
-      attendancePoints: 2,
+      attendancePoints: 3,
       csPoints: 32,
       first: 0,
       second: 0,
@@ -1637,7 +1637,7 @@ let players = [
   },
   {
     firstName: 'Stephanie Hurst',
-      attendancePoints: 2,
+      attendancePoints: 3,
       csPoints: 40,
       first: 1,
       second: 0,
@@ -1777,6 +1777,138 @@ let players = [
       top8: 0,
       top16: 0,
       img1: '../assets/sprites/weezing-galar.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Stephen Hunter',
+      attendancePoints: 1,
+      csPoints: 30,
+      first: 0,
+      second: 1,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/mew.png',
+      img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'Matt Pereira',
+      attendancePoints: 1,
+      csPoints: 16,
+      first: 0,
+      second: 0,
+      top4: 1,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/jolteon.png',
+      img2: '../assets/sprites/inteleon.png'
+  },
+  {
+    firstName: 'Trevor Wall',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Brandyn Osborne',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Max Lentz',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Jonathan Benitez',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Kyle Cook',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Evan Hearne',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Emily Smith',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Yubanny Lopez',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Victor Lopez',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
   {
