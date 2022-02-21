@@ -43,12 +43,12 @@ let players = [
   },
   {
     firstName: 'James Briglia',
-    attendancePoints: 3,
-    csPoints: 90,
+    attendancePoints: 4,
+    csPoints: 100,
     first: 2, // etern | etern
     second: 0,
     top4: 0,
-    top8: 1, // etern
+    top8: 2, // etern
     top16: 0,
     img1: '../assets/sprites/eternatus-eternamax.png',
     img2: '../assets/sprites/umbreon.png'
@@ -259,9 +259,9 @@ let players = [
   },
   {
     firstName: 'James (Jay) Quick',
-    attendancePoints: 4,
-    csPoints: 36,
-    first: 0,
+    attendancePoints: 5,
+    csPoints: 76,
+    first: 1, // mew 1
     second: 0,
     top4: 0,
     top8: 3, // 30+ players mew | ir caly 2
@@ -271,11 +271,11 @@ let players = [
   },
   {
     firstName: 'Caleb Rogerson',
-    attendancePoints: 6,
-    csPoints: 172,
+    attendancePoints: 7,
+    csPoints: 188,
     first: 2, // mew 2
     second: 2, // mew 1 | mew 1
-    top4: 2, // mew 2
+    top4: 3, // mew 3
     top8: 0,
     top16: 0,
     img1: '../assets/sprites/mew.png',
@@ -295,19 +295,19 @@ let players = [
   },
   {
     firstName: 'Carl Simpson',
-    attendancePoints: 3,
-    csPoints: 30,
+    attendancePoints: 4,
+    csPoints: 40,
     first: 0,
     second: 0,
     top4: 0,
-    top8: 3,
+    top8: 4,
     top16: 0,
     img1: '../assets/sprites/calyrex-ice-rider.png',
     img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Nathan Osterkatz',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 40,
     first: 0,
     second: 0,
@@ -343,7 +343,7 @@ let players = [
   },
   {
     firstName: 'Alex Robbins',
-    attendancePoints: 4,
+    attendancePoints: 5,
     csPoints: 50,
     first: 0,
     second: 1, // expanded dark
@@ -955,11 +955,11 @@ let players = [
   },
   {
     firstName: 'Evan Lee',
-      attendancePoints: 4,
-      csPoints: 146,
+      attendancePoints: 5,
+      csPoints: 162,
       first: 1, // mew 1
       second: 1, // 30+ players mew 1
-      top4: 1, // mew 1
+      top4: 2, // mew 2
       top8: 1, // mew 1
       top16: 0,
       img1: '../assets/sprites/mew.png',
@@ -1075,7 +1075,7 @@ let players = [
   },
   {
     firstName: 'Ethan Haynes',
-      attendancePoints: 1,
+      attendancePoints: 2,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1111,7 +1111,7 @@ let players = [
   },
   {
     firstName: 'Bradley Kampa',
-      attendancePoints: 1,
+      attendancePoints: 2,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1291,12 +1291,12 @@ let players = [
   },
   {
     firstName: 'Elijah Crane',
-      attendancePoints: 2,
-      csPoints: 10,
+      attendancePoints: 3,
+      csPoints: 20,
       first: 0,
       second: 0,
       top4: 0,
-      top8: 0,
+      top8: 1,
       top16: 1,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
@@ -1327,7 +1327,7 @@ let players = [
   },
   {
     firstName: 'Kevin Rogerson',
-      attendancePoints: 2,
+      attendancePoints: 3,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1910,6 +1910,66 @@ let players = [
       top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Luna Dunham',
+      attendancePoints: 1,
+      csPoints: 30,
+      first: 0,
+      second: 1,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/suicune.png',
+      img2: '../assets/sprites/inteleon.png'
+  },
+  {
+    firstName: 'Chesney Anderson',
+      attendancePoints: 1,
+      csPoints: 10,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 1,
+      top16: 0,
+      img1: '../assets/sprites/suicune.png',
+      img2: '../assets/sprites/inteleon.png'
+  },
+  {
+    firstName: 'Richard Collier',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/suicune.png',
+      img2: '../assets/sprites/inteleon.png'
+  },
+  {
+    firstName: 'Dino Ioannou',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/suicune.png',
+      img2: '../assets/sprites/inteleon.png'
+  },
+  {
+    firstName: 'Milton Powell',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/suicune.png',
+      img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Ash Ketchum',
