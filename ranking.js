@@ -956,7 +956,7 @@ let players = [
   {
     firstName: 'Evan Lee',
       attendancePoints: 5,
-      csPoints: 162,
+      csPoints: 112,
       first: 1, // mew 1
       second: 1, // 30+ players mew 1
       top4: 2, // mew 2
