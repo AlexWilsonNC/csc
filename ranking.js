@@ -475,22 +475,22 @@ let players = [
   },
   {
     firstName: 'Taylor Greenstreet',
-    attendancePoints: 6,
-    csPoints: 36,
-    first: 0,
+    attendancePoints: 7,
+    csPoints: 76,
+    first: 1, // suicune 1
     second: 0,
     top4: 1, // mew 1
     top8: 2, // mew 2
     top16: 0,
-    img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
+    img1: '../assets/sprites/suicune.png',
     img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Kevin Fallin',
-    attendancePoints: 6,
-    csPoints: 70,
+    attendancePoints: 7,
+    csPoints: 100,
     first: 1, // rs intel
-    second: 1, // jolteon
+    second: 2, // jolteon 1 | gengar 1
     top4: 0,
     top8: 0,
     top16: 0,
@@ -559,7 +559,7 @@ let players = [
   },
   {
     firstName: 'Robbie Trittschuh',
-    attendancePoints: 3,
+    attendancePoints: 4,
     csPoints: 40,
     first: 0,
     second: 1, // mew
@@ -1507,7 +1507,7 @@ let players = [
   },
   {
     firstName: 'Brianna Austin',
-      attendancePoints: 1,
+      attendancePoints: 2,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1543,7 +1543,7 @@ let players = [
   },
   {
     firstName: 'Tony Austin',
-      attendancePoints: 1,
+      attendancePoints: 2,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2057,6 +2057,18 @@ let players = [
   },
   {
     firstName: 'Raymundo Prado',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Alberto Torres',
       attendancePoints: 1,
       csPoints: 0,
       first: 0,
