@@ -7,7 +7,7 @@ const sortCsPoints = document.querySelector('.sort-cs-points')
 let players = [
   {
     firstName: 'Alex Wilson',
-    attendancePoints: 4,
+    attendancePoints: 5,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -415,19 +415,19 @@ let players = [
   },
   {
     firstName: 'Nathon Trimberger',
-    attendancePoints: 3,
-    csPoints: 96,
+    attendancePoints: 4,
+    csPoints: 106,
     first: 2, // mew 2
     second: 0,
     top4: 1, // mew
-    top8: 0,
+    top8: 1,
     top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Jake Pilch',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -498,8 +498,20 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
+    firstName: 'Zac Cooper',
+    attendancePoints: 1,
+    csPoints: 10,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 1,
+    top16: 0,
+      img1: '../assets/sprites/bunnelby.png',
+      img2: '../assets/sprites/cinccino.png'
+  },
+  {
     firstName: 'Taylor Greenstreet',
-    attendancePoints: 7,
+    attendancePoints: 8,
     csPoints: 76,
     first: 1, // suicune 1
     second: 0,
@@ -511,12 +523,12 @@ let players = [
   },
   {
     firstName: 'Kevin Fallin',
-    attendancePoints: 7,
-    csPoints: 100,
+    attendancePoints: 8,
+    csPoints: 110,
     first: 1, // rs intel
     second: 2, // jolteon 1 | gengar 1
     top4: 0,
-    top8: 0,
+    top8: 1,
     top16: 0,
     img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
     img2: '../assets/sprites/inteleon.png'
@@ -583,7 +595,7 @@ let players = [
   },
   {
     firstName: 'Robbie Trittschuh',
-    attendancePoints: 4,
+    attendancePoints: 5,
     csPoints: 40,
     first: 0,
     second: 1, // mew
@@ -679,11 +691,11 @@ let players = [
   },
   {
     firstName: 'Tyler Perry',
-    attendancePoints: 5,
-    csPoints: 16,
+    attendancePoints: 6,
+    csPoints: 32,
     first: 0,
     second: 0,
-    top4: 1,
+    top4: 2,
     top8: 0,
     top16: 0,
     img1: '../assets/sprites/calyrex-ice-rider.png',
@@ -715,15 +727,15 @@ let players = [
   },
   {
     firstName: 'Frankie Puleio',
-    attendancePoints: 1,
-    csPoints: 40,
-    first: 1,
+    attendancePoints: 2,
+    csPoints: 80,
+    first: 2,
     second: 0,
     top4: 0,
     top8: 0,
     top16: 0,
-    img1: '../assets/sprites/gardevoir.png',
-    img2: '../assets/sprites/dragapult.png'
+    img1: '../assets/sprites/malamar.png',
+    img2: '../assets/sprites/blacephalon.png'
   },
   {
     firstName: 'Stephen Tysinger',
@@ -1039,12 +1051,12 @@ let players = [
   },
   {
     firstName: 'Grant Manley',
-      attendancePoints: 4,
-      csPoints: 126,
+      attendancePoints: 5,
+      csPoints: 136,
       first: 2, // expanded necro 1 | mew 1
       second: 1, // ss umb
       top4: 0,
-      top8: 1, // 30+ players | ss umb
+      top8: 2, // 30+ players | ss umb
       top16: 0,
       img1: '../assets/sprites/mew.png',
       img2: '../assets/sprites/genesect.png'
@@ -1243,15 +1255,15 @@ let players = [
   },
   {
     firstName: 'John Orgel',
-      attendancePoints: 1,
-      csPoints: 0,
+      attendancePoints: 2,
+      csPoints: 30,
       first: 0,
-      second: 0,
+      second: 1,
       top4: 0,
       top8: 0,
       top16: 0,
-      img1: '../assets/sprites/blank.png',
-      img2: '../assets/sprites/blank.png'
+      img1: '../assets/sprites/raikou.png',
+      img2: '../assets/sprites/flaaffy.png'
   },
   {
     firstName: 'Kermit Jones',
@@ -1446,6 +1458,18 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
+    firstName: 'Patton Courie',
+      attendancePoints: 1,
+      csPoints: 16,
+      first: 0,
+      second: 0,
+      top4: 1,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/weezing-galar.png',
+      img2: '../assets/sprites/guzzlord.png'
+  },
+  {
     firstName: 'Paulo Castelo',
       attendancePoints: 1,
       csPoints: 0,
@@ -1459,6 +1483,18 @@ let players = [
   },
   {
     firstName: 'Brienna Krausmann',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Andrew Nance',
       attendancePoints: 1,
       csPoints: 0,
       first: 0,
@@ -1661,7 +1697,7 @@ let players = [
   },
   {
     firstName: 'Christopher Black',
-      attendancePoints: 3,
+      attendancePoints: 4,
       csPoints: 32,
       first: 0,
       second: 0,
@@ -1721,7 +1757,7 @@ let players = [
   },
   {
     firstName: 'Stephanie Hurst',
-      attendancePoints: 3,
+      attendancePoints: 4,
       csPoints: 40,
       first: 1,
       second: 0,
@@ -2009,7 +2045,7 @@ let players = [
   },
   {
     firstName: 'Chesney Anderson',
-      attendancePoints: 1,
+      attendancePoints: 2,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -2080,8 +2116,20 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
-    firstName: 'Loren Chester',
+    firstName: 'Gibby Archer',
       attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Loren Chester',
+      attendancePoints: 2,
       csPoints: 30,
       first: 0,
       second: 1,
