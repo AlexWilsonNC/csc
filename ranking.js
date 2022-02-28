@@ -1075,15 +1075,27 @@ let players = [
   },
   {
     firstName: 'Evan Lee',
-      attendancePoints: 6,
-      csPoints: 142,
+      attendancePoints: 7,
+      csPoints: 152,
       first: 1, // mew 1
       second: 2, // 30+ players mew 1 | mew 1
       top4: 2, // mew 2
       top8: 1, // mew 1
-      top16: 0,
+      top16: 1,
       img1: '../assets/sprites/mew.png',
       img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'Bryan Lindley',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Grant Manley',
