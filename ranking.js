@@ -2226,7 +2226,7 @@ let players = [
   {
     firstName: 'Gibby Tang',
       attendancePoints: 2,
-      csPoints: 0,
+      csPoints: 16,
       first: 0,
       second: 0,
       top4: 0,
