@@ -319,11 +319,11 @@ let players = [
   },
   {
     firstName: 'Carl Simpson',
-    attendancePoints: 5,
-    csPoints: 50,
+    attendancePoints: 6,
+    csPoints: 66,
     first: 0,
     second: 0,
-    top4: 0,
+    top4: 1,
     top8: 4,
     top16: 1,
     img1: '../assets/sprites/calyrex-ice-rider.png',
@@ -535,10 +535,10 @@ let players = [
   },
   {
     firstName: 'Taylor Greenstreet',
-    attendancePoints: 9,
-    csPoints: 86,
+    attendancePoints: 10,
+    csPoints: 116,
     first: 1, // suicune 1
-    second: 0,
+    second: 1, // mew 1
     top4: 1, // mew 1
     top8: 2, // mew 2
     top16: 1,
@@ -547,9 +547,9 @@ let players = [
   },
   {
     firstName: 'Kevin Fallin',
-    attendancePoints: 9,
-    csPoints: 110,
-    first: 1, // rs intel
+    attendancePoints: 10,
+    csPoints: 150,
+    first: 2, // rs intel | mew 1
     second: 2, // jolteon 1 | gengar 1
     top4: 0,
     top8: 1,
@@ -583,7 +583,7 @@ let players = [
   },
   {
     firstName: 'Tim Weaver',
-    attendancePoints: 3,
+    attendancePoints: 5,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -595,7 +595,7 @@ let players = [
   },
   {
     firstName: 'Chase Weaver',
-    attendancePoints: 3,
+    attendancePoints: 4,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -631,11 +631,11 @@ let players = [
   },
   {
     firstName: 'Robbie Trittschuh',
-    attendancePoints: 6,
-    csPoints: 40,
+    attendancePoints: 7,
+    csPoints: 56,
     first: 0,
     second: 1, // mew
-    top4: 0,
+    top4: 1,
     top8: 1, // mew
     top16: 0,
     img1: '../assets/sprites/mew.png',
@@ -1074,18 +1074,6 @@ let players = [
       img2: '../assets/sprites/houndoom.png'
   },
   {
-    firstName: 'Timothy Weaver',
-      attendancePoints: 1,
-      csPoints: 0,
-      first: 0,
-      second: 0,
-      top4: 0,
-      top8: 0,
-      top16: 0,
-      img1: '../assets/sprites/blank.png',
-      img2: '../assets/sprites/blank.png'
-  },
-  {
     firstName: 'Nathan Wilkins',
       attendancePoints: 1,
       csPoints: 0,
@@ -1243,6 +1231,18 @@ let players = [
   },
   {
     firstName: 'Ruby Best',
+      attendancePoints: 1,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Ethan Weaver',
       attendancePoints: 1,
       csPoints: 0,
       first: 0,
@@ -2333,7 +2333,7 @@ let players = [
   },
   {
     firstName: 'Alberto Torres',
-      attendancePoints: 1,
+      attendancePoints: 2,
       csPoints: 0,
       first: 0,
       second: 0,
