@@ -7,12 +7,12 @@ const sortCsPoints = document.querySelector('.sort-cs-points')
 let players = [
   {
     firstName: 'Alex Wilson',
-    attendancePoints: 6,
-    csPoints: 10,
+    attendancePoints: 7,
+    csPoints: 20,
     first: 0,
     second: 0,
     top4: 0,
-    top8: 1,
+    top8: 2, // mew 1 | 2010 1
     top16: 0,
       img1: '../assets/sprites/mew.png',
       img2: '../assets/sprites/genesect.png'
@@ -55,19 +55,19 @@ let players = [
   },
   {
     firstName: 'Terry Harris',
-    attendancePoints: 1,
-    csPoints: 0,
+    attendancePoints: 2,
+    csPoints: 10,
     first: 0,
     second: 0,
     top4: 0,
-    top8: 0,
+    top8: 1, // 2010 1
     top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Ricky (Zane) Carter',
-    attendancePoints: 12,
+    attendancePoints: 13,
     csPoints: 272,
     first: 4, // ice rider=40 | mew=40 | arceus dura=40 | build=40
     second: 2, // eternatus=30 | duraludon=30
@@ -79,7 +79,7 @@ let players = [
   },
   {
     firstName: "Mitch O'Neill",
-    attendancePoints: 13,
+    attendancePoints: 14,
     csPoints: 144,
     first: 1, // jolt 30+
     second: 1, // jolt 1
@@ -91,7 +91,7 @@ let players = [
   },
   {
     firstName: 'Anthony Nimmons',
-    attendancePoints: 9,
+    attendancePoints: 10,
     csPoints: 138,
     first: 1, // moltres zap
     second: 1, // arc int 1
@@ -103,12 +103,12 @@ let players = [
   },
   {
     firstName: 'Kelly Nimmons',
-    attendancePoints: 9,
-    csPoints: 104,
+    attendancePoints: 10,
+    csPoints: 114,
     first: 1, // duraludon
     second: 0,
     top4: 3, // sylv rs ursh 1 | dural 1 | mew 1
-    top8: 1, // leaf 30+
+    top8: 2, // leaf 30+ | 2010 1
     top16: 0,
     img1: '../assets/sprites/duraludon-gmax.png',
     img2: '../assets/sprites/blank.png'
@@ -163,11 +163,11 @@ let players = [
   },
   {
     firstName: 'Chris Urcinola',
-    attendancePoints: 9,
-    csPoints: 32,
+    attendancePoints: 10,
+    csPoints: 48,
     first: 0,
     second: 0,
-    top4: 2, // draco 1 | arc int 1
+    top4: 3, // draco 1 | arc int 1 | 2010 1
     top8: 0,
     top16: 0,
     img1: '../assets/sprites/arceus.png',
@@ -475,12 +475,12 @@ let players = [
   },
   {
     firstName: 'Nathon Trimberger',
-    attendancePoints: 7,
-    csPoints: 106,
+    attendancePoints: 8,
+    csPoints: 116,
     first: 2, // mew 2
     second: 0,
     top4: 1, // mew
-    top8: 1,
+    top8: 2, // 2010 1
     top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
@@ -667,10 +667,10 @@ let players = [
   },
   {
     firstName: 'Robbie Trittschuh',
-    attendancePoints: 10,
-    csPoints: 96,
+    attendancePoints: 11,
+    csPoints: 126,
     first: 1, // mew
-    second: 1, // mew
+    second: 2, // mew 1 | 2010 1
     top4: 1,
     top8: 1, // mew
     top16: 0,
@@ -709,6 +709,42 @@ let players = [
     second: 0,
     top4: 0,
     top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Matthew Kuykendall',
+    attendancePoints: 1,
+    csPoints: 16,
+    first: 0,
+    second: 0,
+    top4: 1, // 2010 1
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Mason Daus',
+    attendancePoints: 1,
+    csPoints: 10,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 1, // 2010 1
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Steffan Daus',
+    attendancePoints: 1,
+    csPoints: 10,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 1, // 2010 1
     top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
@@ -763,7 +799,7 @@ let players = [
   },
   {
     firstName: 'Caleb Rice',
-    attendancePoints: 1,
+    attendancePoints: 2,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -775,9 +811,9 @@ let players = [
   },
   {
     firstName: 'Perry Going',
-    attendancePoints: 1,
-    csPoints: 10,
-    first: 0,
+    attendancePoints: 2,
+    csPoints: 50,
+    first: 1, // 2010 1
     second: 0,
     top4: 0,
     top8: 1, // gengar 1
@@ -787,12 +823,12 @@ let players = [
   },
   {
     firstName: 'Tyler Perry',
-    attendancePoints: 8,
-    csPoints: 32,
+    attendancePoints: 9,
+    csPoints: 42,
     first: 0,
     second: 0,
-    top4: 2,
-    top8: 0,
+    top4: 2, // ir caly 2
+    top8: 1, // 2010 1
     top16: 0,
     img1: '../assets/sprites/calyrex-ice-rider.png',
     img2: '../assets/sprites/inteleon.png'
@@ -1984,6 +2020,30 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
+    firstName: 'Erik Nance',
+    attendancePoints: 1,
+    csPoints: 10,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 1, // 2010 1
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Naomi Nance',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
     firstName: 'Tryston Black',
       attendancePoints: 1,
       csPoints: 0,
@@ -2201,12 +2261,12 @@ let players = [
   },
   {
     firstName: 'Matt Pereira',
-      attendancePoints: 5,
-      csPoints: 48,
+      attendancePoints: 6,
+      csPoints: 58,
       first: 0,
       second: 0,
       top4: 3, // jolt 3
-      top8: 0,
+      top8: 1, // 2010 1
       top16: 0,
       img1: '../assets/sprites/jolteon.png',
       img2: '../assets/sprites/inteleon.png'
@@ -2489,6 +2549,18 @@ let players = [
   },
   {
     firstName: 'Alex Baer',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Tyler Rathbone',
     attendancePoints: 1,
     csPoints: 0,
     first: 0,
