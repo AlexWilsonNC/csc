@@ -533,18 +533,18 @@ let players = [
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
-  {
-    firstName: 'Jorden Hamilton',
-    attendancePoints: 5,
-    csPoints: 116,
-    first: 1, // mew
-    second: 2, // mew 1 | arc int 1
-    top4: 1, // mew
-    top8: 0,
-    top16: 0,
-    img1: '../assets/sprites/mew.png',
-    img2: '../assets/sprites/genesect.png'
-  },
+  // {
+  //   firstName: 'Jorden Hamilton',
+  //   attendancePoints: 5,
+  //   csPoints: 116,
+  //   first: 1, // mew
+  //   second: 2, // mew 1 | arc int 1
+  //   top4: 1, // mew
+  //   top8: 0,
+  //   top16: 0,
+  //   img1: '../assets/sprites/mew.png',
+  //   img2: '../assets/sprites/genesect.png'
+  // },
   {
     firstName: 'Vernon Hoffman',
     attendancePoints: 2,
