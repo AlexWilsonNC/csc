@@ -115,7 +115,7 @@ let players = [
   },
   {
     firstName: 'Olivia Farmer',
-    attendancePoints: 5,
+    attendancePoints: 6,
     csPoints: 56,
     first: 0,
     second: 0,
@@ -151,7 +151,7 @@ let players = [
   },
   {
     firstName: 'Jennifer Perez',
-    attendancePoints: 7,
+    attendancePoints: 8,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -607,10 +607,10 @@ let players = [
   },
   {
     firstName: 'Taylor Greenstreet',
-    attendancePoints: 12,
-    csPoints: 126,
+    attendancePoints: 13,
+    csPoints: 156,
     first: 1, // suicune 1
-    second: 1, // mew 1
+    second: 2, // mew 1 | suicun ludi 1
     top4: 1, // mew 1
     top8: 3, // mew 3
     top16: 1,
@@ -619,9 +619,9 @@ let players = [
   },
   {
     firstName: 'Kevin Fallin',
-    attendancePoints: 12,
-    csPoints: 206,
-    first: 3, // rs intel 1 | mew 2
+    attendancePoints: 13,
+    csPoints: 246,
+    first: 4, // rs intel 1 | mew 3
     second: 2, // jolteon 1 | gengar 1
     top4: 1, // mew 1
     top8: 1,
@@ -643,7 +643,7 @@ let players = [
   },
   {
     firstName: 'Joshua Frowley',
-    attendancePoints: 5,
+    attendancePoints: 6,
     csPoints: 112,
     first: 1, // mew
     second: 1, // mew
@@ -787,7 +787,7 @@ let players = [
   },
   {
     firstName: 'Matthew Reimels',
-    attendancePoints: 2,
+    attendancePoints: 3,
     csPoints: 26,
     first: 0,
     second: 0,
@@ -1267,7 +1267,7 @@ let players = [
   },
   {
     firstName: 'Charlie Matteson',
-      attendancePoints: 4,
+      attendancePoints: 5,
       csPoints: 20,
       first: 0,
       second: 0,
