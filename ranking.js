@@ -608,7 +608,7 @@ let players = [
   {
     firstName: 'Taylor Greenstreet',
     attendancePoints: 13,
-    csPoints: 156,
+    csPoints: 136,
     first: 1, // suicune 1
     second: 2, // mew 1 | suicun ludi 1
     top4: 1, // mew 1
@@ -620,7 +620,7 @@ let players = [
   {
     firstName: 'Kevin Fallin',
     attendancePoints: 13,
-    csPoints: 246,
+    csPoints: 226,
     first: 4, // rs intel 1 | mew 3
     second: 2, // jolteon 1 | gengar 1
     top4: 1, // mew 1
