@@ -355,7 +355,7 @@ let players = [
   },
   {
     firstName: 'Carl Simpson',
-    attendancePoints: 8,
+    attendancePoints: 9,
     csPoints: 126,
     first: 1, // arc ir caly 1 30+
     second: 0,
@@ -403,7 +403,7 @@ let players = [
   },
   {
     firstName: 'Alex Robbins',
-    attendancePoints: 8,
+    attendancePoints: 9,
     csPoints: 80,
     first: 0,
     second: 1, // expanded dark
@@ -415,7 +415,7 @@ let players = [
   },
   {
     firstName: 'Dick Collier',
-    attendancePoints: 5,
+    attendancePoints: 6,
     csPoints: 76,
     first: 0,
     second: 1, // malamar 1 30+
@@ -607,10 +607,10 @@ let players = [
   },
   {
     firstName: 'Taylor Greenstreet',
-    attendancePoints: 13,
-    csPoints: 136,
+    attendancePoints: 14,
+    csPoints: 156,
     first: 1, // suicune 1
-    second: 2, // mew 1 | suicun ludi 1
+    second: 3, // mew 1 | suicun ludi 2
     top4: 1, // mew 1
     top8: 3, // mew 3
     top16: 1,
@@ -619,7 +619,7 @@ let players = [
   },
   {
     firstName: 'Kevin Fallin',
-    attendancePoints: 13,
+    attendancePoints: 14,
     csPoints: 226,
     first: 4, // rs intel 1 | mew 3
     second: 2, // jolteon 1 | gengar 1
@@ -655,9 +655,9 @@ let players = [
   },
   {
     firstName: 'Tim Weaver',
-    attendancePoints: 6,
-    csPoints: 26,
-    first: 0,
+    attendancePoints: 7,
+    csPoints: 56,
+    first: 1, // malamar
     second: 0,
     top4: 1, // malamar 1
     top8: 1,
@@ -667,7 +667,7 @@ let players = [
   },
   {
     firstName: 'Chase Weaver',
-    attendancePoints: 5,
+    attendancePoints: 6,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -2813,7 +2813,7 @@ let players = [
   },
   {
     firstName: 'Alberto Torres',
-      attendancePoints: 2,
+      attendancePoints: 3,
       csPoints: 0,
       first: 0,
       second: 0,
