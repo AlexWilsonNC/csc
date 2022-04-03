@@ -163,8 +163,8 @@ let players = [
   },
   {
     firstName: 'Chris Urcinola',
-    attendancePoints: 40,
-    csPoints: 48,
+    attendancePoints: 11,
+    csPoints: 78,
     first: 0,
     second: 1, // mew 1
     top4: 3, // draco 1 | arc int 1 | 2010 1
