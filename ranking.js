@@ -2549,7 +2549,7 @@ let players = [
   },
   {
     firstName: 'Luna Dunham',
-      attendancePoints: 5,
+      attendancePoints: 6,
       csPoints: 50,
       first: 0,
       second: 1,
@@ -2990,6 +2990,18 @@ let players = [
       top16: 0,
       img1: '../assets/sprites/arceus.png',
       img2: '../assets/sprites/rayquaza.png'
+  },
+  {
+    firstName: 'Gabriel Semendo',
+    attendancePoints: 1,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Landon Wilson',
