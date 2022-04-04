@@ -2289,8 +2289,8 @@ let players = [
     top4: 1, // arc ray 1
     top8: 3, // 2010 1 | durant 1 30+
     top16: 0,
-      img1: '../assets/sprites/durant.png',
-      img2: '../assets/sprites/blank.png'
+      img1: '../assets/sprites/arceus.png',
+      img2: '../assets/sprites/rayquaza.png'
   },
   {
     firstName: 'Naomi Nance',
