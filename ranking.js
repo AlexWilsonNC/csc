@@ -73,8 +73,8 @@ let players = [
   {
     firstName: 'Ricky (Zane) Carter',
     attendancePoints: 15,
-    bfl: 12,
-    csPoints: 304,
+    bfl: 10,
+    csPoints: 284,
     first: 4, // ice rider=40 | mew=40 | arceus dura=40 | build=40
     second: 2, // eternatus=30 | duraludon=30
     top4: 4, // eternatus=16 | jolteon=16 | arc ray 1 | arc bird 1
@@ -333,8 +333,8 @@ let players = [
   {
     firstName: 'Caleb Rogerson',
     attendancePoints: 12,
-    bfl: 12,
-    csPoints: 300,
+    bfl: 10,
+    csPoints: 280,
     first: 3, // mew 3
     second: 3, // mew 1 | mew 1
     top4: 4, // mew 4
@@ -1411,8 +1411,8 @@ let players = [
   {
     firstName: 'Evan Lee',
       attendancePoints: 12,
-      bfl: 12,
-      csPoints: 288,
+      bfl: 10,
+      csPoints: 268,
       first: 3, // mew 3
       second: 2, // 30+ players mew 1 | mew 1
       top4: 4, // mew 3 (1 30+)
@@ -3344,7 +3344,7 @@ function displayList(array = []) {
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.modal-name').innerHTML = item.firstName;
-        document.querySelector('.modal-bfl').innerHTML = `${item.bfl}/12`;
+        document.querySelector('.modal-bfl').innerHTML = `${item.bfl}/10`;
         document.querySelector('.modal-cs').innerHTML = item.csPoints;
         document.querySelector('.modal-ap').innerHTML = item.attendancePoints;
         document.querySelector('.place1').innerHTML = item.first;
