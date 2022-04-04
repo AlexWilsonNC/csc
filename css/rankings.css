@@ -159,13 +159,18 @@ main {
 .cs-plus-ap {
     display: flex;
     flex-direction: row;
-}
-.cs-plus-ap * {
-    margin-right: 10px;
+    justify-content: space-between;
 }
 .cs-plus-ap p {
-    font-size: 13px;
+    font-size: 11px;
     font-weight: bold;
+    text-align: center;
+}
+.update {
+    font-size: 10px;
+    font-style: italic;
+    color: grey;
+    text-align: center;
 }
 .modal p {
     margin-bottom: 15px;

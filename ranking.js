@@ -8,6 +8,7 @@ let players = [
   {
     firstName: 'Alex Wilson',
     attendancePoints: 9,
+    bfl: 4,
     csPoints: 40,
     first: 0,
     second: 0,
@@ -20,6 +21,7 @@ let players = [
   {
     firstName: 'Samuel Roach',
     attendancePoints: 5,
+    bfl: 2,
     csPoints: 26,
     first: 0,
     second: 0,
@@ -32,6 +34,7 @@ let players = [
   {
     firstName: 'Chris Diller',
     attendancePoints: 1,
+    bfl: 1,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -44,6 +47,7 @@ let players = [
   {
     firstName: 'James Briglia',
     attendancePoints: 7,
+    bfl: 6,
     csPoints: 140,
     first: 2, // etern 1
     second: 1, // etern 1
@@ -56,6 +60,7 @@ let players = [
   {
     firstName: 'Terry Harris',
     attendancePoints: 2,
+    bfl: 1,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -68,6 +73,7 @@ let players = [
   {
     firstName: 'Ricky (Zane) Carter',
     attendancePoints: 15,
+    bfl: 12,
     csPoints: 304,
     first: 4, // ice rider=40 | mew=40 | arceus dura=40 | build=40
     second: 2, // eternatus=30 | duraludon=30
@@ -80,6 +86,7 @@ let players = [
   {
     firstName: "Mitch O'Neill",
     attendancePoints: 18,
+    bfl: 7,
     csPoints: 154,
     first: 1, // jolt 30+
     second: 1, // jolt 1
@@ -92,6 +99,7 @@ let players = [
   {
     firstName: 'Anthony Nimmons',
     attendancePoints: 13,
+    bfl: 9,
     csPoints: 164,
     first: 1, // moltres zap
     second: 1, // arc int 1
@@ -104,6 +112,7 @@ let players = [
   {
     firstName: 'Kelly Nimmons',
     attendancePoints: 13,
+    bfl: 7,
     csPoints: 124,
     first: 1, // duraludon
     second: 0,
@@ -116,6 +125,7 @@ let players = [
   {
     firstName: 'Olivia Farmer',
     attendancePoints: 6,
+    bfl: 5,
     csPoints: 56,
     first: 0,
     second: 0,
@@ -128,6 +138,7 @@ let players = [
   {
     firstName: 'Phillip Lineberry',
     attendancePoints: 3,
+    bfl: 1,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -140,6 +151,7 @@ let players = [
   {
     firstName: 'Gaberiel Labra',
     attendancePoints: 2,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -152,6 +164,7 @@ let players = [
   {
     firstName: 'Jennifer Perez',
     attendancePoints: 9,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -164,6 +177,7 @@ let players = [
   {
     firstName: 'Chris Urcinola',
     attendancePoints: 11,
+    bfl: 4,
     csPoints: 78,
     first: 0,
     second: 1, // mew 1
@@ -176,6 +190,7 @@ let players = [
   {
     firstName: 'Joseph Bjerg',
     attendancePoints: 5,
+    bfl: 1,
     csPoints: 30,
     first: 0,
     second: 1,
@@ -188,6 +203,7 @@ let players = [
   {
     firstName: 'Jessica (Raven) Carter',
     attendancePoints: 12,
+    bfl: 1,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -200,6 +216,7 @@ let players = [
   {
     firstName: 'Landon Hawkins',
     attendancePoints: 7,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -212,6 +229,7 @@ let players = [
   {
     firstName: 'Jeremiah Lynch',
     attendancePoints: 7,
+    bfl: 2,
     csPoints: 26,
     first: 0,
     second: 0,
@@ -224,6 +242,7 @@ let players = [
   {
     firstName: 'Jason Joyce',
     attendancePoints: 11,
+    bfl: 5,
     csPoints: 120,
     first: 1, // moltre
     second: 2, // moltre 1 | glc 1
@@ -236,6 +255,7 @@ let players = [
   {
     firstName: 'Zak Kobos',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -248,6 +268,7 @@ let players = [
   {
     firstName: 'Bennet Kobos',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -260,6 +281,7 @@ let players = [
   {
     firstName: 'Ben Fletcher',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -272,6 +294,7 @@ let players = [
   {
     firstName: 'James Hollis',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -284,6 +307,7 @@ let players = [
   {
     firstName: 'Jonathan Arias',
     attendancePoints: 17,
+    bfl: 10,
     csPoints: 252,
     first: 2, // mew 2
     second: 4, // mew 3 | arc ray 1
@@ -296,6 +320,7 @@ let players = [
   {
     firstName: 'James (Jay) Quick',
     attendancePoints: 9,
+    bfl: 5,
     csPoints: 92,
     first: 1, // mew 1
     second: 0,
@@ -308,6 +333,7 @@ let players = [
   {
     firstName: 'Caleb Rogerson',
     attendancePoints: 12,
+    bfl: 12,
     csPoints: 300,
     first: 3, // mew 3
     second: 3, // mew 1 | mew 1
@@ -320,6 +346,7 @@ let players = [
   {
     firstName: 'Tristan Bennett',
     attendancePoints: 1,
+    bfl: 1,
     csPoints: 16,
     first: 0,
     second: 0,
@@ -332,6 +359,7 @@ let players = [
   {
     firstName: 'Tristan Lackey',
       attendancePoints: 2,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -344,6 +372,7 @@ let players = [
   {
     firstName: 'Carson Walker',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -356,6 +385,7 @@ let players = [
   {
     firstName: 'Carl Simpson',
     attendancePoints: 9,
+    bfl: 8,
     csPoints: 126,
     first: 1, // arc ir caly 1 30+
     second: 0,
@@ -368,6 +398,7 @@ let players = [
   {
     firstName: 'Nathan Osterkatz',
     attendancePoints: 5,
+    bfl: 4,
     csPoints: 96,
     first: 1, // mew 1
     second: 0,
@@ -380,6 +411,7 @@ let players = [
   {
     firstName: 'Tony Vuong',
     attendancePoints: 7,
+    bfl: 3,
     csPoints: 30,
     first: 0,
     second: 0,
@@ -392,6 +424,7 @@ let players = [
   {
     firstName: 'Cole Lewis',
     attendancePoints: 1,
+    bfl: 1,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -404,6 +437,7 @@ let players = [
   {
     firstName: 'Alex Robbins',
     attendancePoints: 9,
+    bfl: 4,
     csPoints: 80,
     first: 0,
     second: 1, // expanded dark
@@ -416,6 +450,7 @@ let players = [
   {
     firstName: 'Dick Collier',
     attendancePoints: 6,
+    bfl: 4,
     csPoints: 76,
     first: 0,
     second: 1, // malamar 1 30+
@@ -428,6 +463,7 @@ let players = [
   {
     firstName: 'Kalie Kren',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -440,6 +476,7 @@ let players = [
   {
     firstName: 'Ollie Harrison',
     attendancePoints: 1,
+    bfl: 1,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -452,6 +489,7 @@ let players = [
   {
     firstName: 'Justin Chestnut',
     attendancePoints: 3,
+    bfl: 1,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -464,6 +502,7 @@ let players = [
   {
     firstName: 'Carter Petrocci',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -476,6 +515,7 @@ let players = [
   {
     firstName: 'Nathon Trimberger',
     attendancePoints: 10,
+    bfl: 5,
     csPoints: 116,
     first: 2, // mew 2
     second: 0,
@@ -488,6 +528,7 @@ let players = [
   {
     firstName: 'Jake Pilch',
     attendancePoints: 4,
+    bfl: 1,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -500,6 +541,7 @@ let players = [
   {
     firstName: 'Larry Huber',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -512,6 +554,7 @@ let players = [
   {
     firstName: 'Jake Boone',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -524,6 +567,7 @@ let players = [
   {
     firstName: 'Jake Larres',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -536,6 +580,7 @@ let players = [
   {
     firstName: 'Kim Bullington',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -548,6 +593,7 @@ let players = [
   {
     firstName: 'Clint Quinn',
     attendancePoints: 5,
+    bfl: 3,
     csPoints: 42,
     first: 0,
     second: 0,
@@ -560,6 +606,7 @@ let players = [
   {
     firstName: 'Karla Wilson',
     attendancePoints: 3,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -584,6 +631,7 @@ let players = [
   {
     firstName: 'Vernon Hoffman',
     attendancePoints: 3,
+    bfl: 1,
     csPoints: 16,
     first: 0,
     second: 0,
@@ -596,6 +644,7 @@ let players = [
   {
     firstName: 'Maxwell Hoffman',
     attendancePoints: 3,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -608,6 +657,7 @@ let players = [
   {
     firstName: 'Zac Cooper',
     attendancePoints: 2,
+    bfl: 2,
     csPoints: 50,
     first: 0,
     second: 1, // jolt 30+
@@ -620,6 +670,7 @@ let players = [
   {
     firstName: 'Taylor Greenstreet',
     attendancePoints: 15,
+    bfl: 9,
     csPoints: 156,
     first: 1, // suicune 1
     second: 3, // mew 1 | suicun ludi 2
@@ -632,6 +683,7 @@ let players = [
   {
     firstName: 'Kevin Fallin',
     attendancePoints: 15,
+    bfl: 8,
     csPoints: 226,
     first: 4, // rs intel 1 | mew 3
     second: 2, // jolteon 1 | gengar 1
@@ -644,6 +696,7 @@ let players = [
   {
     firstName: 'Josh Lynn',
     attendancePoints: 2,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -656,6 +709,7 @@ let players = [
   {
     firstName: 'Joshua Frowley',
     attendancePoints: 7,
+    bfl: 5,
     csPoints: 112,
     first: 1, // mew
     second: 1, // mew
@@ -668,6 +722,7 @@ let players = [
   {
     firstName: 'Tim Weaver',
     attendancePoints: 7,
+    bfl: 3,
     csPoints: 56,
     first: 1, // malamar
     second: 0,
@@ -680,6 +735,7 @@ let players = [
   {
     firstName: 'Chase Weaver',
     attendancePoints: 6,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -692,6 +748,7 @@ let players = [
   {
     firstName: 'Cody Criner',
     attendancePoints: 3,
+    bfl: 1,
     csPoints: 40,
     first: 1,
     second: 0,
@@ -704,6 +761,7 @@ let players = [
   {
     firstName: 'Cody Smith',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -716,6 +774,7 @@ let players = [
   {
     firstName: 'Robbie Trittschuh',
     attendancePoints: 14,
+    bfl: 8,
     csPoints: 182,
     first: 1, // mew
     second: 2, // mew 1 | 2010 1
@@ -728,6 +787,7 @@ let players = [
   {
     firstName: 'Jonathan Jiro',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -740,6 +800,7 @@ let players = [
   {
     firstName: 'Dillon Bussert',
     attendancePoints: 3,
+    bfl: 3,
     csPoints: 72,
     first: 1, // glc
     second: 0,
@@ -752,6 +813,7 @@ let players = [
   {
     firstName: 'Brady Bussert',
     attendancePoints: 2,
+    bfl: 1,
     csPoints: 30,
     first: 0,
     second: 1, // glc
@@ -764,6 +826,7 @@ let players = [
   {
     firstName: 'Matthew Kuykendall',
     attendancePoints: 1,
+    bfl: 1,
     csPoints: 16,
     first: 0,
     second: 0,
@@ -776,6 +839,7 @@ let players = [
   {
     firstName: 'Mason Daus',
     attendancePoints: 1,
+    bfl: 1,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -788,6 +852,7 @@ let players = [
   {
     firstName: 'Steffan Daus',
     attendancePoints: 1,
+    bfl: 1,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -800,6 +865,7 @@ let players = [
   {
     firstName: 'Matthew Reimels',
     attendancePoints: 4,
+    bfl: 2,
     csPoints: 26,
     first: 0,
     second: 0,
@@ -812,6 +878,7 @@ let players = [
   {
     firstName: 'Evan Campbell',
     attendancePoints: 8,
+    bfl: 6,
     csPoints: 140,
     first: 2, // mew 1 | gengar 1
     second: 1, // mew
@@ -824,6 +891,7 @@ let players = [
   {
     firstName: 'Gabriel Hernandez',
     attendancePoints: 6,
+    bfl: 4,
     csPoints: 88,
     first: 1, // malamar
     second: 0,
@@ -836,6 +904,7 @@ let players = [
   {
     firstName: 'Justin Nesmith',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -848,6 +917,7 @@ let players = [
   {
     firstName: 'Caleb Rice',
     attendancePoints: 3,
+    bfl: 2,
     csPoints: 50,
     first: 1, // mew 1
     second: 0,
@@ -860,6 +930,7 @@ let players = [
   {
     firstName: 'Perry Going',
     attendancePoints: 2,
+    bfl: 2,
     csPoints: 50,
     first: 1, // 2010 1
     second: 0,
@@ -872,6 +943,7 @@ let players = [
   {
     firstName: 'Tyler Perry',
     attendancePoints: 12,
+    bfl: 5,
     csPoints: 68,
     first: 0,
     second: 0,
@@ -884,6 +956,7 @@ let players = [
   {
     firstName: 'Jerry Riley',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -896,6 +969,7 @@ let players = [
   {
     firstName: 'Daniel Henson',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -908,6 +982,7 @@ let players = [
   {
     firstName: 'Frankie Puleio',
     attendancePoints: 2,
+    bfl: 2,
     csPoints: 80,
     first: 2,
     second: 0,
@@ -920,6 +995,7 @@ let players = [
   {
     firstName: 'Stephen Tysinger',
     attendancePoints: 2,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -932,6 +1008,7 @@ let players = [
   {
     firstName: 'Marco Mandujano',
     attendancePoints: 3,
+    bfl: 1,
     csPoints: 10,
     first: 0,
     second: 0,
@@ -944,6 +1021,7 @@ let players = [
   {
     firstName: 'Steven Bauer',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -956,6 +1034,7 @@ let players = [
   {
     firstName: 'Steven Hollingsworth',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -968,6 +1047,7 @@ let players = [
   {
     firstName: 'Nathan Hall',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -980,6 +1060,7 @@ let players = [
   {
     firstName: 'Morgan Dunn',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -992,6 +1073,7 @@ let players = [
   {
     firstName: 'Brandon Kassab',
       attendancePoints: 2,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1004,6 +1086,7 @@ let players = [
   {
     firstName: 'Abby Kassab',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1016,6 +1099,7 @@ let players = [
   {
     firstName: 'Samantha Mills',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 30,
       first: 0,
       second: 1,
@@ -1028,6 +1112,7 @@ let players = [
   {
     firstName: 'Kameron Cox',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1040,6 +1125,7 @@ let players = [
   {
     firstName: 'Will Whitener',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1052,6 +1138,7 @@ let players = [
   {
     firstName: 'Kris Hackelman',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1064,6 +1151,7 @@ let players = [
   {
     firstName: 'Brian Fox',
       attendancePoints: 4,
+      bfl: 4,
       csPoints: 100,
       first: 0,
       second: 3, // victini 2
@@ -1076,6 +1164,7 @@ let players = [
   {
     firstName: 'Nicholas Vause',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1088,6 +1177,7 @@ let players = [
   {
     firstName: 'Casey Yount',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1100,6 +1190,7 @@ let players = [
   {
     firstName: 'Lucas Clark',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1112,6 +1203,7 @@ let players = [
   {
     firstName: 'Clark Tew',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1124,6 +1216,7 @@ let players = [
   {
     firstName: 'Jean-luc Pennington',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1136,6 +1229,7 @@ let players = [
   {
     firstName: 'Keith Sundeen',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1148,6 +1242,7 @@ let players = [
   {
     firstName: 'Keith Luehrs',
       attendancePoints: 3,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1160,6 +1255,7 @@ let players = [
   {
     firstName: 'Roxie Bair',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1172,6 +1268,7 @@ let players = [
   {
     firstName: 'Bailey Kernoodle',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1184,6 +1281,7 @@ let players = [
   {
     firstName: 'Adam Pennington',
       attendancePoints: 2,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1196,6 +1294,7 @@ let players = [
   {
     firstName: 'Raul Garay',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1208,6 +1307,7 @@ let players = [
   {
     firstName: 'Brianna Krausmann',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1220,6 +1320,7 @@ let players = [
   {
     firstName: 'Matthew Krausmann',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1232,6 +1333,7 @@ let players = [
   {
     firstName: 'Aaron Bair',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1244,6 +1346,7 @@ let players = [
   {
     firstName: 'Ross Carpenter',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1256,6 +1359,7 @@ let players = [
   {
     firstName: 'Micah Hayden',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1268,6 +1372,7 @@ let players = [
   {
     firstName: "Alexander D’Amico",
       attendancePoints: 3,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1280,6 +1385,7 @@ let players = [
   {
     firstName: 'Nathan Wilkins',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1292,6 +1398,7 @@ let players = [
   {
     firstName: 'Charlie Matteson',
       attendancePoints: 5,
+      bfl: 2,
       csPoints: 20,
       first: 0,
       second: 0,
@@ -1304,6 +1411,7 @@ let players = [
   {
     firstName: 'Evan Lee',
       attendancePoints: 12,
+      bfl: 12,
       csPoints: 288,
       first: 3, // mew 3
       second: 2, // 30+ players mew 1 | mew 1
@@ -1316,6 +1424,7 @@ let players = [
   {
     firstName: 'Bryan Lindley',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1328,6 +1437,7 @@ let players = [
   {
     firstName: 'Grant Manley',
       attendancePoints: 7,
+      bfl: 6,
       csPoints: 166,
       first: 2, // expanded necro 1 | mew 1
       second: 2, // ss umb 1 | malamar 1
@@ -1340,6 +1450,7 @@ let players = [
   {
     firstName: 'Chip Richey',
       attendancePoints: 4,
+      bfl: 4,
       csPoints: 88,
       first: 1, // mew 1
       second: 0,
@@ -1352,6 +1463,7 @@ let players = [
   {
     firstName: 'Joseph Ennis',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1364,6 +1476,7 @@ let players = [
   {
     firstName: 'Alfredo Sepulveda',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1376,6 +1489,7 @@ let players = [
   {
     firstName: 'George Wynn',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1388,6 +1502,7 @@ let players = [
   {
     firstName: 'Miguel Sotelo',
       attendancePoints: 4,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1400,6 +1515,7 @@ let players = [
   {
     firstName: 'Luis Gasca',
       attendancePoints: 2,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1412,6 +1528,7 @@ let players = [
   {
     firstName: 'Luis Sotelo',
       attendancePoints: 2,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1424,6 +1541,7 @@ let players = [
   {
     firstName: 'Andrew Wisniewsky',
       attendancePoints: 3,
+      bfl: 2,
       csPoints: 40,
       first: 0,
       second: 0,
@@ -1436,6 +1554,7 @@ let players = [
   {
     firstName: 'Ryan Moore',
       attendancePoints: 3,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1448,6 +1567,7 @@ let players = [
   {
     firstName: 'Ruby Best',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1460,6 +1580,7 @@ let players = [
   {
     firstName: 'Ethan Weaver',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1472,6 +1593,7 @@ let players = [
   {
     firstName: 'Ethan Haynes',
       attendancePoints: 3,
+      bfl: 2,
       csPoints: 26,
       first: 0,
       second: 0,
@@ -1484,6 +1606,7 @@ let players = [
   {
     firstName: 'Fretty Jay',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1496,6 +1619,7 @@ let players = [
   {
     firstName: 'Michael Delgado',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1508,6 +1632,7 @@ let players = [
   {
     firstName: 'Cordelia Ramont',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1520,6 +1645,7 @@ let players = [
   {
     firstName: 'Bradley Kampa',
       attendancePoints: 3,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1532,6 +1658,7 @@ let players = [
   {
     firstName: 'Kian Watkins',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1544,6 +1671,7 @@ let players = [
   {
     firstName: 'Shane Caughell',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1556,6 +1684,7 @@ let players = [
   {
     firstName: 'IsaBella Sztyber',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1568,6 +1697,7 @@ let players = [
   {
     firstName: 'Simon Snell',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1580,6 +1710,7 @@ let players = [
   {
     firstName: 'John Orgel',
       attendancePoints: 4,
+      bfl: 3,
       csPoints: 90,
       first: 0,
       second: 2, // glc | arc mol 1
@@ -1592,6 +1723,7 @@ let players = [
   {
     firstName: 'Kermit Jones',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1604,6 +1736,7 @@ let players = [
   {
     firstName: 'Jason Pike',
       attendancePoints: 2,
+      bfl: 2,
       csPoints: 26,
       first: 0,
       second: 0,
@@ -1616,6 +1749,7 @@ let players = [
   {
     firstName: 'Vaughan Mitchell',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1628,6 +1762,7 @@ let players = [
   {
     firstName: 'Benjamin Pelton',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1640,6 +1775,7 @@ let players = [
   {
     firstName: 'Nate Warren',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1652,6 +1788,7 @@ let players = [
   {
     firstName: 'Jackson Connor',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1664,6 +1801,7 @@ let players = [
   {
     firstName: 'Jacob Muser',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1676,6 +1814,7 @@ let players = [
   {
     firstName: 'Jose Hidalgo',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1688,6 +1827,7 @@ let players = [
   {
     firstName: 'Emilio Hidalgo',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1700,6 +1840,7 @@ let players = [
   {
     firstName: 'John Baires',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1712,6 +1853,7 @@ let players = [
   {
     firstName: 'Elijah Crane',
       attendancePoints: 7,
+      bfl: 3,
       csPoints: 40,
       first: 0,
       second: 0,
@@ -1724,6 +1866,7 @@ let players = [
   {
     firstName: 'Thomas Roche',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1736,6 +1879,7 @@ let players = [
   {
     firstName: 'Blaine Hill',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1748,6 +1892,7 @@ let players = [
   {
     firstName: 'Kevin Arreola',
       attendancePoints: 2,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -1760,6 +1905,7 @@ let players = [
   {
     firstName: 'Kevin Rogerson',
       attendancePoints: 8,
+      bfl: 3,
       csPoints: 36,
       first: 0,
       second: 0,
@@ -1772,6 +1918,7 @@ let players = [
   {
     firstName: 'Dillon Shumpert',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1784,6 +1931,7 @@ let players = [
   {
     firstName: 'Thomas Pierson',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1796,6 +1944,7 @@ let players = [
   {
     firstName: 'Emma Pierson',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1808,6 +1957,7 @@ let players = [
   {
     firstName: 'Patton Courie',
       attendancePoints: 2,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1820,6 +1970,7 @@ let players = [
   {
     firstName: 'Paulo Castelo',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1832,6 +1983,7 @@ let players = [
   {
     firstName: 'Brienna Krausmann',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1844,6 +1996,7 @@ let players = [
   {
     firstName: 'Andrew Nance',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1856,6 +2009,7 @@ let players = [
   {
     firstName: 'Andrew Walker',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 40,
       first: 1,
       second: 0,
@@ -1868,6 +2022,7 @@ let players = [
   {
     firstName: 'Oliver Harrison',
       attendancePoints: 2,
+      bfl: 1,
       csPoints: 30,
       first: 0,
       second: 1,
@@ -1880,6 +2035,7 @@ let players = [
   {
     firstName: 'Ness Foster',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -1892,6 +2048,7 @@ let players = [
   {
     firstName: 'Megan Wadsworth',
       attendancePoints: 3,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1904,6 +2061,7 @@ let players = [
   {
     firstName: 'Tyle Krayah',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1916,6 +2074,7 @@ let players = [
   {
     firstName: 'Brianna Austin',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1928,6 +2087,7 @@ let players = [
   {
     firstName: 'Brian Meredith',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1940,6 +2100,7 @@ let players = [
   {
     firstName: 'Addison Gercon',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1952,6 +2113,7 @@ let players = [
   {
     firstName: 'Tony Austin',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1964,6 +2126,7 @@ let players = [
   {
     firstName: 'Stephen Kennedy ',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1976,6 +2139,7 @@ let players = [
   {
     firstName: 'Austin Murray',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1988,6 +2152,7 @@ let players = [
   {
     firstName: 'Jessica Austin',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -1998,18 +2163,9 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
-    firstName: 'Chase Weaver',
-      attendancePoints: 1,
-      csPoints: 0,
-      first: 0,
-      second: 0,
-      top4: 0,
-      top8: 0,
-      top16: 0
-  },
-  {
     firstName: 'Adam Crowe',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -2022,6 +2178,7 @@ let players = [
   {
     firstName: 'Grayson Flax',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2034,6 +2191,7 @@ let players = [
   {
     firstName: 'Allison Flowers',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -2046,6 +2204,7 @@ let players = [
   {
     firstName: 'Will Whitey',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2058,6 +2217,7 @@ let players = [
   {
     firstName: 'Christopher Black',
       attendancePoints: 10,
+      bfl: 3,
       csPoints: 62,
       first: 0,
       second: 1, // arc ray 1
@@ -2070,6 +2230,7 @@ let players = [
   {
     firstName: 'Aiden Brittain',
       attendancePoints: 6,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2082,6 +2243,7 @@ let players = [
   {
     firstName: 'Braxton Collier',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2094,6 +2256,7 @@ let players = [
   {
     firstName: 'Tenchi Wilson',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2106,6 +2269,7 @@ let players = [
   {
     firstName: 'Russell Hylton',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2118,6 +2282,7 @@ let players = [
   {
     firstName: 'Erik Nance',
     attendancePoints: 4,
+    bfl: 4,
     csPoints: 52,
     first: 0,
     second: 0,
@@ -2130,6 +2295,7 @@ let players = [
   {
     firstName: 'Naomi Nance',
     attendancePoints: 4,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -2142,6 +2308,7 @@ let players = [
   {
     firstName: 'Tryston Black',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2154,6 +2321,7 @@ let players = [
   {
     firstName: 'Stephanie Hurst',
       attendancePoints: 9,
+      bfl: 3,
       csPoints: 60,
       first: 1, // caly sr 1
       second: 0,
@@ -2166,6 +2334,7 @@ let players = [
   {
     firstName: 'Wesley Gantt',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2178,6 +2347,7 @@ let players = [
   {
     firstName: 'Caleb Shelton',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -2190,6 +2360,7 @@ let players = [
   {
     firstName: 'Danny Schmidinger',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2202,6 +2373,7 @@ let players = [
   {
     firstName: 'Benjamin Bussert',
       attendancePoints: 2,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -2214,6 +2386,7 @@ let players = [
   {
     firstName: 'Vincent Lee',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2226,6 +2399,7 @@ let players = [
   {
     firstName: 'Vincent Pruitt',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2238,6 +2412,7 @@ let players = [
   {
     firstName: 'Gerald Pruitt',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2250,6 +2425,7 @@ let players = [
   {
     firstName: 'Maddilyn Hargan',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2262,6 +2438,7 @@ let players = [
   {
     firstName: 'Harrison Burch',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2274,6 +2451,7 @@ let players = [
   {
     firstName: 'Ryan Harrison',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2286,6 +2464,7 @@ let players = [
   {
     firstName: 'Ravynia',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2298,6 +2477,7 @@ let players = [
   {
     firstName: 'Diego Valdivia',
       attendancePoints: 3,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2310,6 +2490,7 @@ let players = [
   {
     firstName: 'Wesley Johnson',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2322,6 +2503,7 @@ let players = [
   {
     firstName: 'Jared Thomas',
       attendancePoints: 2,
+      bfl: 2,
       csPoints: 26,
       first: 0,
       second: 0,
@@ -2334,6 +2516,7 @@ let players = [
   {
     firstName: 'Jared Morales',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -2346,6 +2529,7 @@ let players = [
   {
     firstName: 'Stephen Hunter',
       attendancePoints: 2,
+      bfl: 1,
       csPoints: 30,
       first: 0,
       second: 1,
@@ -2358,6 +2542,7 @@ let players = [
   {
     firstName: 'Matt Pereira',
       attendancePoints: 8,
+      bfl: 4,
       csPoints: 58,
       first: 0,
       second: 0,
@@ -2370,6 +2555,7 @@ let players = [
   {
     firstName: 'Trevor Wall',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2382,6 +2568,7 @@ let players = [
   {
     firstName: 'Brandyn Osborne',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2394,6 +2581,7 @@ let players = [
   {
     firstName: 'Max Lentz',
       attendancePoints: 3,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2406,6 +2594,7 @@ let players = [
   {
     firstName: 'Jonathan Benitez',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2418,6 +2607,7 @@ let players = [
   {
     firstName: 'Jonathan Cook',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2430,6 +2620,7 @@ let players = [
   {
     firstName: 'Kyle Cook',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2442,6 +2633,7 @@ let players = [
   {
     firstName: 'Evan Hearne',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2454,6 +2646,7 @@ let players = [
   {
     firstName: 'William Stephenson',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -2466,6 +2659,7 @@ let players = [
   {
     firstName: 'Liam Nervo-Jabaut',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2478,6 +2672,7 @@ let players = [
   {
     firstName: 'Jacob Smith',
     attendancePoints: 2,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -2490,6 +2685,7 @@ let players = [
   {
     firstName: 'Emily Smith',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2502,6 +2698,7 @@ let players = [
   {
     firstName: 'Yubanny Lopez',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2514,6 +2711,7 @@ let players = [
   {
     firstName: 'Victor Lopez',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2526,6 +2724,7 @@ let players = [
   {
     firstName: 'Adrian Suggs',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -2538,6 +2737,7 @@ let players = [
   {
     firstName: 'Frank Hamilton',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2550,6 +2750,7 @@ let players = [
   {
     firstName: 'Luna Dunham',
       attendancePoints: 6,
+      bfl: 2,
       csPoints: 50,
       first: 0,
       second: 1,
@@ -2562,6 +2763,7 @@ let players = [
   {
     firstName: 'Chesney Anderson',
       attendancePoints: 5,
+      bfl: 3,
       csPoints: 42,
       first: 0,
       second: 0,
@@ -2574,6 +2776,7 @@ let players = [
   {
     firstName: 'Richard Collier',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2586,6 +2789,7 @@ let players = [
   {
     firstName: 'Jacob Maxwell',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -2598,6 +2802,7 @@ let players = [
   {
     firstName: 'Andre Maldorado',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2610,6 +2815,7 @@ let players = [
   {
     firstName: 'Wallace Johnson',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2622,6 +2828,7 @@ let players = [
   {
     firstName: 'Van Weick',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2634,6 +2841,7 @@ let players = [
   {
     firstName: 'Colby Barrett',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2646,6 +2854,7 @@ let players = [
   {
     firstName: 'Wyatt Sonnenberg',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2658,6 +2867,7 @@ let players = [
   {
     firstName: 'Guy Bennett',
       attendancePoints: 3,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2670,6 +2880,7 @@ let players = [
   {
     firstName: 'Vaughn Stetser',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2682,6 +2893,7 @@ let players = [
   {
     firstName: 'Roswood Forsyth',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2694,6 +2906,7 @@ let players = [
   {
     firstName: 'Daniel Knight',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2706,6 +2919,7 @@ let players = [
   {
     firstName: 'Jacob Mishler',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2718,6 +2932,7 @@ let players = [
   {
     firstName: 'Micah Todd',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2730,6 +2945,7 @@ let players = [
   {
     firstName: 'Dino Ioannou',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2742,6 +2958,7 @@ let players = [
   {
     firstName: 'Ty Wilson',
       attendancePoints: 3,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2754,6 +2971,7 @@ let players = [
   {
     firstName: 'Eva Edwards',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2766,6 +2984,7 @@ let players = [
   {
     firstName: 'Milton Powell',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2778,6 +2997,7 @@ let players = [
   {
     firstName: 'Louis Powell',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2790,6 +3010,7 @@ let players = [
   {
     firstName: 'Gibby Tang',
       attendancePoints: 2,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -2802,6 +3023,7 @@ let players = [
   {
     firstName: 'Loren Chester',
       attendancePoints: 6,
+      bfl: 4,
       csPoints: 80,
       first: 0,
       second: 2, // arc dural 1
@@ -2814,6 +3036,7 @@ let players = [
   {
     firstName: 'Raymundo Prado',
       attendancePoints: 2,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2826,6 +3049,7 @@ let players = [
   {
     firstName: 'Alberto Torres',
       attendancePoints: 3,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2838,6 +3062,7 @@ let players = [
   {
     firstName: 'Derrick Lee',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 10,
       first: 0,
       second: 0,
@@ -2850,6 +3075,7 @@ let players = [
   {
     firstName: 'Kyle Rosko',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2862,6 +3088,7 @@ let players = [
   {
     firstName: 'Dominic Cenceli',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 16,
       first: 0,
       second: 0,
@@ -2874,6 +3101,7 @@ let players = [
   {
     firstName: 'Alex Baer',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -2886,6 +3114,7 @@ let players = [
   {
     firstName: 'Tyler Rathbone',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -2898,6 +3127,7 @@ let players = [
   {
     firstName: 'Tyler Birk',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -2910,6 +3140,7 @@ let players = [
   {
     firstName: 'Chris Lu',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2922,6 +3153,7 @@ let players = [
   {
     firstName: 'Jaxen Wolf',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2934,6 +3166,7 @@ let players = [
   {
     firstName: 'Luke Pike',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2946,6 +3179,7 @@ let players = [
   {
     firstName: 'Austin Roop',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2958,6 +3192,7 @@ let players = [
   {
     firstName: 'Zachary Roos',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2970,6 +3205,7 @@ let players = [
   {
     firstName: 'Joey Bullington',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -2982,6 +3218,7 @@ let players = [
   {
     firstName: 'Larry Schalles',
       attendancePoints: 1,
+      bfl: 1,
       csPoints: 40,
       first: 1,
       second: 0,
@@ -2994,6 +3231,7 @@ let players = [
   {
     firstName: 'Gabriel Semendo',
     attendancePoints: 1,
+    bfl: 0,
     csPoints: 0,
     first: 0,
     second: 0,
@@ -3006,6 +3244,7 @@ let players = [
   {
     firstName: 'Landon Wilson',
       attendancePoints: 1,
+      bfl: 0,
       csPoints: 0,
       first: 0,
       second: 0,
@@ -3105,6 +3344,7 @@ function displayList(array = []) {
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.modal-name').innerHTML = item.firstName;
+        document.querySelector('.modal-bfl').innerHTML = `${item.bfl}/12`;
         document.querySelector('.modal-cs').innerHTML = item.csPoints;
         document.querySelector('.modal-ap').innerHTML = item.attendancePoints;
         document.querySelector('.place1').innerHTML = item.first;
