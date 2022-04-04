@@ -180,7 +180,9 @@ main {
     font-weight: bold;
 }
 .modal-places{font-size: 20px;}
-/* .place-1{color:gold;} */
+.place1, .place2, .place3, .place4, .place5 {
+    font-weight: bold;
+}
 .modal-deck {
     text-align: center;
     font-weight: bold;
