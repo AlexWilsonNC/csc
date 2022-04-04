@@ -334,7 +334,7 @@ let players = [
     firstName: 'Caleb Rogerson',
     attendancePoints: 12,
     bfl: 10,
-    csPoints: 280,
+    csPoints: 284,
     first: 3, // mew 3
     second: 3, // mew 1 | mew 1
     top4: 4, // mew 4
