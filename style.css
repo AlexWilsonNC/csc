@@ -243,6 +243,14 @@ article p,
     width: 325px;
     max-width: 100%;
 }
+#cs-structure-reg {
+    width: 315px;
+    max-width: 100%;
+}
+#cs-structure-sen {
+    width: 265px;
+    max-width: 100%;
+}
 
 #ball {
     position: absolute;
