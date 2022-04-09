@@ -169,7 +169,7 @@ main {
 .update {
     font-size: 10px;
     font-style: italic;
-    color: grey;
+    color: rgb(37, 37, 37);
     text-align: center;
 }
 .modal p {
