@@ -7,12 +7,12 @@ const sortCsPoints = document.querySelector('.sort-cs-points')
 let players = [
   {
     firstName: 'Alex Wilson',
-    attendancePoints: 9,
-    bfl: 4,
-    csPoints: 40,
+    attendancePoints: 10,
+    bfl: 5,
+    csPoints: 56,
     first: 0,
     second: 0,
-    top4: 0,
+    top4: 1, // 2010 1
     top8: 4, // mew 1 | 2010 1 | rs ursh 2
     top16: 0,
       img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
@@ -669,12 +669,12 @@ let players = [
   },
   {
     firstName: 'Taylor Greenstreet',
-    attendancePoints: 15,
-    bfl: 9,
-    csPoints: 156,
+    attendancePoints: 16,
+    bfl: 10,
+    csPoints: 172,
     first: 1, // suicune 1
     second: 3, // mew 1 | suicun ludi 2
-    top4: 1, // mew 1
+    top4: 2, // mew 1 | 2010 1
     top8: 3, // mew 3
     top16: 1,
     img1: '../assets/sprites/suicune.png',
@@ -682,7 +682,7 @@ let players = [
   },
   {
     firstName: 'Kevin Fallin',
-    attendancePoints: 15,
+    attendancePoints: 16,
     bfl: 8,
     csPoints: 226,
     first: 4, // rs intel 1 | mew 3
@@ -825,7 +825,7 @@ let players = [
   },
   {
     firstName: 'Matthew Kuykendall',
-    attendancePoints: 1,
+    attendancePoints: 2,
     bfl: 1,
     csPoints: 16,
     first: 0,
@@ -851,7 +851,7 @@ let players = [
   },
   {
     firstName: 'Steffan Daus',
-    attendancePoints: 1,
+    attendancePoints: 2,
     bfl: 1,
     csPoints: 10,
     first: 0,
@@ -929,10 +929,10 @@ let players = [
   },
   {
     firstName: 'Perry Going',
-    attendancePoints: 2,
-    bfl: 2,
-    csPoints: 50,
-    first: 1, // 2010 1
+    attendancePoints: 3,
+    bfl: 3,
+    csPoints: 90,
+    first: 2, // 2010 2
     second: 0,
     top4: 0,
     top8: 1, // gengar 1
@@ -1436,11 +1436,11 @@ let players = [
   },
   {
     firstName: 'Grant Manley',
-      attendancePoints: 7,
-      bfl: 6,
-      csPoints: 166,
+      attendancePoints: 8,
+      bfl: 7,
+      csPoints: 196,
       first: 2, // expanded necro 1 | mew 1
-      second: 2, // ss umb 1 | malamar 1
+      second: 3, // ss umb 1 | malamar 1 | 2010 1
       top4: 0,
       top8: 2, // 30+ players | ss umb
       top16: 0,
@@ -2541,7 +2541,7 @@ let players = [
   },
   {
     firstName: 'Matt Pereira',
-      attendancePoints: 8,
+      attendancePoints: 9,
       bfl: 4,
       csPoints: 58,
       first: 0,
@@ -2866,7 +2866,7 @@ let players = [
   },
   {
     firstName: 'Guy Bennett',
-      attendancePoints: 3,
+      attendancePoints: 4,
       bfl: 0,
       csPoints: 0,
       first: 0,
