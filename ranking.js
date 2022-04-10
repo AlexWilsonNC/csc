@@ -71,6 +71,19 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
+    firstName: 'Caleb Rogerson',
+    attendancePoints: 13,
+    bfl: 10,
+    csPoints: 284,
+    first: 3, // mew 3
+    second: 3, // mew 1 | mew 1
+    top4: 4, // mew 4
+    top8: 3, // weez 30+ | mew 1 30+
+    top16: 0,
+    img1: '../assets/sprites/mew.png',
+    img2: '../assets/sprites/genesect.png'
+  },
+  {
     firstName: 'Ricky (Zane) Carter',
     attendancePoints: 16,
     bfl: 10,
@@ -326,19 +339,6 @@ let players = [
     second: 0,
     top4: 0,
     top8: 4, // 30+ players mew | ir caly 2
-    top16: 0,
-    img1: '../assets/sprites/mew.png',
-    img2: '../assets/sprites/genesect.png'
-  },
-  {
-    firstName: 'Caleb Rogerson',
-    attendancePoints: 13,
-    bfl: 10,
-    csPoints: 284,
-    first: 3, // mew 3
-    second: 3, // mew 1 | mew 1
-    top4: 4, // mew 4
-    top8: 3, // weez 30+ | mew 1 30+
     top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
