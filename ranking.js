@@ -707,6 +707,19 @@ let players = [
       img2: '../assets/sprites/inteleon.png'
   },
   {
+    firstName: 'Grant Manley',
+      attendancePoints: 9,
+      bfl: 8,
+      csPoints: 236,
+      first: 2, // expanded necro 1 | mew 1
+      second: 4, // ss umb 1 | malamar 1 | 2010 1 | arc molt 1 30+
+      top4: 0,
+      top8: 2, // 30+ players | ss umb
+      top16: 0,
+      img1: '../assets/sprites/mew.png',
+      img2: '../assets/sprites/genesect.png'
+  },
+  {
     firstName: 'Taylor Greenstreet',
     attendancePoints: 18,
     bfl: 10,
@@ -1498,19 +1511,6 @@ let players = [
       top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
-  },
-  {
-    firstName: 'Grant Manley',
-      attendancePoints: 9,
-      bfl: 8,
-      csPoints: 236,
-      first: 2, // expanded necro 1 | mew 1
-      second: 4, // ss umb 1 | malamar 1 | 2010 1 | arc molt 1 30+
-      top4: 0,
-      top8: 2, // 30+ players | ss umb
-      top16: 0,
-      img1: '../assets/sprites/mew.png',
-      img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Chip Richey',
