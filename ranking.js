@@ -97,19 +97,6 @@ let players = [
     img2: '../assets/sprites/weezing-galar.png'
   },
   {
-    firstName: "Mitch O'Neill",
-    attendancePoints: 19,
-    bfl: 8,
-    csPoints: 164,
-    first: 1, // jolt 30+
-    second: 1, // jolt 1
-    top4: 4, // jolt 4
-    top8: 1,
-    top16: 1,
-    img1: '../assets/sprites/jolteon.png',
-    img2: '../assets/sprites/inteleon.png'
-  },
-  {
     firstName: 'Anthony Nimmons',
     attendancePoints: 15,
     bfl: 9,
@@ -123,6 +110,19 @@ let players = [
     img2: '../assets/sprites/zapdos-galar.png'
   },
   {
+    firstName: "Mitch O'Neill",
+    attendancePoints: 19,
+    bfl: 8,
+    csPoints: 164,
+    first: 1, // jolt 30+
+    second: 1, // jolt 1
+    top4: 4, // jolt 4
+    top8: 1,
+    top16: 1,
+    img1: '../assets/sprites/jolteon.png',
+    img2: '../assets/sprites/inteleon.png'
+  },
+  {
     firstName: 'Kelly Nimmons',
     attendancePoints: 15,
     bfl: 7,
@@ -134,6 +134,19 @@ let players = [
     top16: 0,
     img1: '../assets/sprites/duraludon-gmax.png',
     img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Dillon Bussert',
+    attendancePoints: 3,
+    bfl: 3,
+    csPoints: 72,
+    first: 1, // glc
+    second: 0,
+    top4: 2, // zam 1 17 ppl | sirf 1 14 ppl
+    top8: 0,
+    top16: 0,
+    img1: '../assets/sprites/zacian-crowned.png',
+    img2: '../assets/sprites/zamazenta-crowned.png'
   },
   {
     firstName: 'Olivia Farmer',
@@ -459,19 +472,6 @@ let players = [
     top16: 0,
     img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
     img2: '../assets/sprites/inteleon.png'
-  },
-  {
-    firstName: 'Alex Robbins',
-    attendancePoints: 9,
-    bfl: 4,
-    csPoints: 80,
-    first: 0,
-    second: 1, // expanded dark
-    top4: 1, // mew 30+
-    top8: 2, // mew 2
-    top16: 0,
-    img1: '../assets/sprites/mew.png',
-    img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Dick Collier',
@@ -850,19 +850,6 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
-    firstName: 'Dillon Bussert',
-    attendancePoints: 3,
-    bfl: 3,
-    csPoints: 72,
-    first: 1, // glc
-    second: 0,
-    top4: 2, // zam 1 17 ppl | sirf 1 14 ppl
-    top8: 0,
-    top16: 0,
-    img1: '../assets/sprites/zacian-crowned.png',
-    img2: '../assets/sprites/zamazenta-crowned.png'
-  },
-  {
     firstName: 'Brady Bussert',
     attendancePoints: 2,
     bfl: 1,
@@ -939,6 +926,19 @@ let players = [
     top16: 1,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'Chip Richey',
+      attendancePoints: 4,
+      bfl: 4,
+      csPoints: 88,
+      first: 1, // mew 1
+      second: 0,
+      top4: 3, // mala | expanded caly | mew
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/mew.png',
+      img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Gabriel Hernandez',
@@ -1043,19 +1043,6 @@ let players = [
     top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
-  },
-  {
-    firstName: 'Frankie Puleio',
-    attendancePoints: 2,
-    bfl: 2,
-    csPoints: 80,
-    first: 2,
-    second: 0,
-    top4: 0,
-    top8: 0,
-    top16: 0,
-    img1: '../assets/sprites/malamar.png',
-    img2: '../assets/sprites/blacephalon.png'
   },
   {
     firstName: 'Stephen Tysinger',
@@ -1511,19 +1498,6 @@ let players = [
       top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
-  },
-  {
-    firstName: 'Chip Richey',
-      attendancePoints: 4,
-      bfl: 4,
-      csPoints: 88,
-      first: 1, // mew 1
-      second: 0,
-      top4: 3, // mala | expanded caly | mew
-      top8: 0,
-      top16: 0,
-      img1: '../assets/sprites/mew.png',
-      img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Joseph Ennis',
@@ -3112,6 +3086,19 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
+    firstName: 'Frankie Puleio',
+    attendancePoints: 2,
+    bfl: 2,
+    csPoints: 80,
+    first: 2,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+    img1: '../assets/sprites/malamar.png',
+    img2: '../assets/sprites/blacephalon.png'
+  },
+  {
     firstName: 'Loren Chester',
       attendancePoints: 6,
       bfl: 4,
@@ -3123,6 +3110,19 @@ let players = [
       top16: 2,
       img1: '../assets/sprites/duraludon-gmax.png',
       img2: '../assets/sprites/arceus.png'
+  },
+  {
+    firstName: 'Alex Robbins',
+    attendancePoints: 9,
+    bfl: 4,
+    csPoints: 80,
+    first: 0,
+    second: 1, // expanded dark
+    top4: 1, // mew 30+
+    top8: 2, // mew 2
+    top16: 0,
+    img1: '../assets/sprites/mew.png',
+    img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Raymundo Prado',
