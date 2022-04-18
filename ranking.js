@@ -337,8 +337,8 @@ let players = [
     csPoints: 106,
     first: 1, // mew 1
     second: 0,
-    top4: 0,
-    top8: 5, // 30+ players mew | ir caly 2 | MEW 1
+    top4: 1, // MEW 1
+    top8: 4, // 30+ players mew | ir caly 
     top16: 1,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
