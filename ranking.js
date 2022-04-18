@@ -334,7 +334,7 @@ let players = [
     firstName: 'James (Jay) Quick',
     attendancePoints: 11,
     bfl: 7,
-    csPoints: 106,
+    csPoints: 112,
     first: 1, // mew 1
     second: 0,
     top4: 1, // MEW 1
