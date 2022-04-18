@@ -46,11 +46,11 @@ let players = [
   },
   {
     firstName: 'James Briglia',
-    attendancePoints: 8,
-    bfl: 7,
-    csPoints: 190,
+    attendancePoints: 9,
+    bfl: 8,
+    csPoints: 220,
     first: 3, // etern 1
-    second: 1, // etern 1
+    second: 2, // etern 2
     top4: 0,
     top8: 3, // etern 1
     top16: 0,
@@ -332,13 +332,13 @@ let players = [
   },
   {
     firstName: 'James (Jay) Quick',
-    attendancePoints: 10,
-    bfl: 6,
-    csPoints: 102,
+    attendancePoints: 11,
+    bfl: 7,
+    csPoints: 118,
     first: 1, // mew 1
     second: 0,
     top4: 0,
-    top8: 4, // 30+ players mew | ir caly 2
+    top8: 5, // 30+ players mew | ir caly 2 | MEW 1
     top16: 1,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
@@ -423,12 +423,12 @@ let players = [
   },
   {
     firstName: 'Nathan Osterkatz',
-    attendancePoints: 6,
-    bfl: 5,
-    csPoints: 106,
-    first: 1, // mew 1
+    attendancePoints: 7,
+    bfl: 6,
+    csPoints: 146,
+    first: 2, // mew 1 | arc int 1
     second: 0,
-    top4: 2, // 30+ players | mew 1 | arc int 1
+    top4: 2, // 30+ players mew 1 | arc int 1
     top8: 1, // mew
     top16: 1,
     img1: '../assets/sprites/mew.png',
@@ -1670,7 +1670,7 @@ let players = [
   },
   {
     firstName: 'Fretty Jay',
-      attendancePoints: 1,
+      attendancePoints: 2,
       bfl: 1,
       csPoints: 16,
       first: 0,
@@ -2281,7 +2281,7 @@ let players = [
   },
   {
     firstName: 'Allison Flowers',
-      attendancePoints: 1,
+      attendancePoints: 2,
       bfl: 1,
       csPoints: 10,
       first: 0,
@@ -2385,7 +2385,7 @@ let players = [
   },
   {
     firstName: 'Erik Nance',
-    attendancePoints: 5,
+    attendancePoints: 6,
     bfl: 4,
     csPoints: 52,
     first: 0,
@@ -2840,7 +2840,7 @@ let players = [
   },
   {
     firstName: 'Frank Hamilton',
-      attendancePoints: 1,
+      attendancePoints: 2,
       bfl: 0,
       csPoints: 0,
       first: 0,
@@ -3425,6 +3425,71 @@ let players = [
   },
   {
     firstName: 'Henry Younkin',
+    attendancePoints: 1,
+    bfl: 0,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Alexander Camilleri',
+    attendancePoints: 1,
+    bfl: 0,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Leo Filley',
+    attendancePoints: 1,
+    bfl: 1,
+    csPoints: 16,
+    first: 0,
+    second: 0,
+    top4: 1,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/mew.png',
+      img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'Andrew DaSilva',
+    attendancePoints: 1,
+    bfl: 0,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Aralynn Fann',
+    attendancePoints: 1,
+    bfl: 0,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Hunter Fann',
     attendancePoints: 1,
     bfl: 0,
     csPoints: 0,
