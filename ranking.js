@@ -331,19 +331,6 @@ let players = [
     img2: '../assets/sprites/genesect.png'
   },
   {
-    firstName: 'James (Jay) Quick',
-    attendancePoints: 11,
-    bfl: 7,
-    csPoints: 112,
-    first: 1, // mew 1
-    second: 0,
-    top4: 1, // MEW 1
-    top8: 4, // 30+ players mew | ir caly 
-    top16: 1,
-    img1: '../assets/sprites/mew.png',
-    img2: '../assets/sprites/genesect.png'
-  },
-  {
     firstName: 'Tristan Bennett',
     attendancePoints: 1,
     bfl: 1,
@@ -755,6 +742,19 @@ let players = [
     top4: 2, // mew 2
     top8: 1, // molt arc 1
     top16: 0,
+    img1: '../assets/sprites/mew.png',
+    img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'James (Jay) Quick',
+    attendancePoints: 11,
+    bfl: 7,
+    csPoints: 112,
+    first: 1, // mew 1
+    second: 0,
+    top4: 1, // MEW 1
+    top8: 4, // 30+ players mew | ir caly 
+    top16: 1,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
   },
