@@ -72,7 +72,7 @@ let players = [
   },
   {
     firstName: 'Terry Harris',
-    attendancePoints: 4,
+    attendancePoints: 5,
     bfl: 1,
     csPoints: 10,
     first: 0,
@@ -98,7 +98,7 @@ let players = [
   },
   {
     firstName: 'Ricky (Zane) Carter',
-    attendancePoints: 19,
+    attendancePoints: 20,
     bfl: 10,
     csPoints: 284,
     first: 4, // ice rider=40 | mew=40 | arceus dura=40 | build=40
@@ -111,7 +111,7 @@ let players = [
   },
   {
     firstName: 'Anthony Nimmons',
-    attendancePoints: 15,
+    attendancePoints: 16,
     bfl: 9,
     csPoints: 164,
     first: 1, // moltres zap
@@ -137,12 +137,12 @@ let players = [
   },
   {
     firstName: 'Kelly Nimmons',
-    attendancePoints: 15,
-    bfl: 7,
-    csPoints: 124,
+    attendancePoints: 16,
+    bfl: 8,
+    csPoints: 140,
     first: 1, // duraludon
     second: 0,
-    top4: 3, // sylv rs ursh 1 | dural 1 | mew 1
+    top4: 4, // sylv rs ursh 1 | dural 1 | mew 1 | arc gyara 1
     top8: 3, // leaf 30+ | 2010 1
     top16: 0,
     img1: '../assets/sprites/duraludon-gmax.png',
@@ -215,7 +215,7 @@ let players = [
   },
   {
     firstName: 'Jessica (Raven) Carter',
-    attendancePoints: 15,
+    attendancePoints: 16,
     bfl: 1,
     csPoints: 10,
     first: 0,
@@ -605,11 +605,11 @@ let players = [
   },
   {
     firstName: 'Clint Quinn',
-    attendancePoints: 7,
-    bfl: 5,
-    csPoints: 98,
+    attendancePoints: 8,
+    bfl: 6,
+    csPoints: 128,
     first: 1, // arc mol 1
-    second: 0,
+    second: 1, // arc lyc 1
     top4: 2, // jolt 2
     top8: 2, // arc lyc 1 30+
     top16: 0,
@@ -812,7 +812,7 @@ let players = [
   },
   {
     firstName: 'Adam Reinhardt',
-      attendancePoints: 4,
+      attendancePoints: 5,
       bfl: 4,
       csPoints: 110,
       first: 1, // pult 1
@@ -929,10 +929,10 @@ let players = [
   },
   {
     firstName: 'Evan Campbell',
-    attendancePoints: 10,
-    bfl: 7,
-    csPoints: 156,
-    first: 2, // mew 1 | gengar 1
+    attendancePoints: 11,
+    bfl: 8,
+    csPoints: 196,
+    first: 3, // mew 1 | gengar 1 | arc lyc 1
     second: 1, // mew
     top4: 0,
     top8: 3, // mew 1 | molt arc 1
@@ -1111,7 +1111,7 @@ let players = [
   },
   {
     firstName: 'Nathan Hall',
-      attendancePoints: 1,
+      attendancePoints: 2,
       bfl: 0,
       csPoints: 0,
       first: 0,
@@ -1163,7 +1163,7 @@ let players = [
   },
   {
     firstName: 'Samantha Mills',
-      attendancePoints: 1,
+      attendancePoints: 2,
       bfl: 1,
       csPoints: 30,
       first: 0,
@@ -1202,16 +1202,16 @@ let players = [
   },
   {
     firstName: 'Will Whitener',
-      attendancePoints: 1,
-      bfl: 0,
-      csPoints: 0,
+      attendancePoints: 2,
+      bfl: 1,
+      csPoints: 16,
       first: 0,
       second: 0,
-      top4: 0,
+      top4: 1, // arc int
       top8: 0,
       top16: 0,
-      img1: '../assets/sprites/blank.png',
-      img2: '../assets/sprites/blank.png'
+      img1: '../assets/sprites/arceus.png',
+      img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Kris Hackelman',
@@ -2281,7 +2281,7 @@ let players = [
   },
   {
     firstName: 'Grayson Flax',
-      attendancePoints: 1,
+      attendancePoints: 2,
       bfl: 0,
       csPoints: 0,
       first: 0,
@@ -2762,6 +2762,45 @@ let players = [
   },
   {
     firstName: 'Kyle Cook',
+      attendancePoints: 1,
+      bfl: 0,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Brayden Earnhart',
+      attendancePoints: 1,
+      bfl: 0,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Kelsey Earnhart',
+      attendancePoints: 1,
+      bfl: 0,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Nolan Price',
       attendancePoints: 1,
       bfl: 0,
       csPoints: 0,
