@@ -136,6 +136,19 @@ let players = [
     img2: '../assets/sprites/inteleon.png'
   },
   {
+    firstName: 'Jason Joyce',
+    attendancePoints: 13,
+    bfl: 7,
+    csPoints: 140,
+    first: 1, // moltre
+    second: 2, // moltre 1 | glc 1
+    top4: 0,
+    top8: 2,
+    top16: 2,
+    img1: '../assets/sprites/moltres-galar.png',
+    img2: '../assets/sprites/zapdos-galar.png'
+  },
+  {
     firstName: 'Kelly Nimmons',
     attendancePoints: 16,
     bfl: 8,
@@ -251,19 +264,6 @@ let players = [
     top16: 0,
     img1: '../assets/sprites/zekrom.png',
     img2: '../assets/sprites/raikou.png'
-  },
-  {
-    firstName: 'Jason Joyce',
-    attendancePoints: 13,
-    bfl: 7,
-    csPoints: 140,
-    first: 1, // moltre
-    second: 2, // moltre 1 | glc 1
-    top4: 0,
-    top8: 2,
-    top16: 2,
-    img1: '../assets/sprites/moltres-galar.png',
-    img2: '../assets/sprites/zapdos-galar.png'
   },
   {
     firstName: 'Zak Kobos',
