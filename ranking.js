@@ -924,12 +924,12 @@ let players = [
   },
   {
     firstName: 'Matthew Reimels',
-    attendancePoints: 8,
-    bfl: 4,
-    csPoints: 76,
+    attendancePoints: 9,
+    bfl: 5,
+    csPoints: 92,
     first: 1, // arc bib 1
     second: 0,
-    top4: 1, // jolt
+    top4: 2, // jolt 1 | MEW 1
     top8: 1, // ss
     top16: 1,
     img1: '../assets/sprites/arceus.png',
