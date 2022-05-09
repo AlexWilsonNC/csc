@@ -1185,13 +1185,14 @@ let players = [
   {
     firstName: 'Brady Bussert',
     attendancePoints: 3,
-    bfl: 1,
-    csPoints: 30,
+    bfl: 2,
+    csPoints: 80,
     first: 0,
     second: 1, // glc
     top4: 0,
     top8: 0,
     top16: 0,
+    // top 8 regionals
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
   },
