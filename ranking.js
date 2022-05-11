@@ -19,6 +19,19 @@ let players = [
     img2: '../assets/sprites/zamazenta-crowned.png'
   },
   {
+    firstName: 'Matthew Reimels',
+    attendancePoints: 9,
+    bfl: 5,
+    csPoints: 92,
+    first: 1, // arc bib 1
+    second: 0,
+    top4: 2, // jolt 1 | MEW 1
+    top8: 1, // ss
+    top16: 1,
+    img1: '../assets/sprites/arceus.png',
+    img2: '../assets/sprites/crobat-shiny.png'
+  },
+  {
     firstName: 'Alex Wilson',
     attendancePoints: 13,
     bfl: 8,
@@ -149,6 +162,20 @@ let players = [
     top16: 2,
     img1: '../assets/sprites/moltres-galar.png',
     img2: '../assets/sprites/zapdos-galar.png'
+  },
+  {
+    firstName: 'Adam Reinhardt',
+      attendancePoints: 5,
+      bfl: 5,
+      csPoints: 150,
+      first: 1, // pult 1
+      second: 2, // pult 1
+      top4: 1, // jolt 1 30+
+      top8: 0,
+      top16: 1,
+      // top 64 regionals
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/dragapult.png'
   },
   {
     firstName: 'Kelly Nimmons',
@@ -817,20 +844,6 @@ let players = [
       img2: '../assets/sprites/rayquaza.png'
   },
   {
-    firstName: 'Adam Reinhardt',
-      attendancePoints: 5,
-      bfl: 5,
-      csPoints: 150,
-      first: 1, // pult 1
-      second: 2, // pult 1
-      top4: 1, // jolt 1 30+
-      top8: 0,
-      top16: 1,
-      // top 64 regionals
-      img1: '../assets/sprites/blank.png',
-      img2: '../assets/sprites/dragapult.png'
-  },
-  {
     firstName: 'Cody Criner',
     attendancePoints: 3,
     bfl: 1,
@@ -921,19 +934,6 @@ let players = [
     top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
-  },
-  {
-    firstName: 'Matthew Reimels',
-    attendancePoints: 9,
-    bfl: 5,
-    csPoints: 92,
-    first: 1, // arc bib 1
-    second: 0,
-    top4: 2, // jolt 1 | MEW 1
-    top8: 1, // ss
-    top16: 1,
-    img1: '../assets/sprites/arceus.png',
-    img2: '../assets/sprites/crobat-shiny.png'
   },
   {
     firstName: 'Evan Campbell',
@@ -1181,6 +1181,19 @@ let players = [
       top16: 0,
       img1: '../assets/sprites/moltres-galar.png',
       img2: '../assets/sprites/weezing-galar.png'
+  },
+  {
+    firstName: 'Frankie Puleio',
+    attendancePoints: 2,
+    bfl: 2,
+    csPoints: 80,
+    first: 2,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+    img1: '../assets/sprites/malamar.png',
+    img2: '../assets/sprites/blacephalon.png'
   },
   {
     firstName: 'Brady Bussert',
@@ -3211,19 +3224,6 @@ let players = [
       top16: 0,
       img1: '../assets/sprites/duraludon-gmax.png',
       img2: '../assets/sprites/blank.png'
-  },
-  {
-    firstName: 'Frankie Puleio',
-    attendancePoints: 2,
-    bfl: 2,
-    csPoints: 80,
-    first: 2,
-    second: 0,
-    top4: 0,
-    top8: 0,
-    top16: 0,
-    img1: '../assets/sprites/malamar.png',
-    img2: '../assets/sprites/blacephalon.png'
   },
   {
     firstName: 'Loren Chester',
