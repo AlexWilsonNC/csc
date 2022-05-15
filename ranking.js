@@ -113,11 +113,11 @@ let players = [
   },
   {
     firstName: 'Ricky (Zane) Carter',
-    attendancePoints: 22,
+    attendancePoints: 23,
     bfl: 10,
-    csPoints: 284,
+    csPoints: 288,
     first: 4, // ice rider=40 | mew=40 | arceus dura=40 | build=40
-    second: 2, // eternatus=30 | duraludon=30
+    second: 3, // eternatus=30 | duraludon=30 | arc corv 1
     top4: 5, // eternatus=16 | jolteon=16 | arc ray 1 | arc bird 1
     top8: 4, // mew=10 | etern=10 | mew=16
     top16: 1,
@@ -139,7 +139,7 @@ let players = [
   },
   {
     firstName: "Mitch O'Neill",
-    attendancePoints: 21,
+    attendancePoints: 22,
     bfl: 10,
     csPoints: 190,
     first: 1, // jolt 30+
@@ -257,7 +257,7 @@ let players = [
   },
   {
     firstName: 'Jessica (Raven) Carter',
-    attendancePoints: 18,
+    attendancePoints: 19,
     bfl: 1,
     csPoints: 10,
     first: 0,
@@ -2368,10 +2368,10 @@ let players = [
   },
   {
     firstName: 'Christopher Black',
-      attendancePoints: 16,
-      bfl: 8,
-      csPoints: 144,
-      first: 0,
+      attendancePoints: 17,
+      bfl: 9,
+      csPoints: 174,
+      first: 1, // mew 1
       second: 2, // arc ray 2
       top4: 3, // sr caly 1 | ? 1 | expanded 1
       top8: 2, // ray 1
@@ -2459,7 +2459,7 @@ let players = [
   },
   {
     firstName: 'Stephanie Hurst',
-      attendancePoints: 14,
+      attendancePoints: 15,
       bfl: 4,
       csPoints: 70,
       first: 1, // caly sr 1
@@ -3227,7 +3227,7 @@ let players = [
   },
   {
     firstName: 'Loren Chester',
-      attendancePoints: 8,
+      attendancePoints: 9,
       bfl: 4,
       csPoints: 80,
       first: 0,
