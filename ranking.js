@@ -428,7 +428,7 @@ let players = [
     firstName: 'Carl Simpson',
     attendancePoints: 13,
     bfl: 10,
-    csPoints: 212,
+    csPoints: 222,
     first: 3, // arc ir caly 3 (2 30+)
     second: 0,
     top4: 2,
