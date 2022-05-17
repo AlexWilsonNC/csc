@@ -270,7 +270,7 @@ let players = [
   },
   {
     firstName: 'Landon Hawkins',
-    attendancePoints: 8,
+    attendancePoints: 9,
     bfl: 0,
     csPoints: 0,
     first: 0,
@@ -283,7 +283,7 @@ let players = [
   },
   {
     firstName: 'Jeremiah Lynch',
-    attendancePoints: 8,
+    attendancePoints: 9,
     bfl: 3,
     csPoints: 36,
     first: 0,
@@ -348,10 +348,10 @@ let players = [
   },
   {
     firstName: 'Jonathan Arias',
-    attendancePoints: 19,
+    attendancePoints: 20,
     bfl: 10,
-    csPoints: 252,
-    first: 2, // mew 2
+    csPoints: 272,
+    first: 3, // mew 2 (1 4players)
     second: 4, // mew 3 | arc ray 1
     top4: 2, // mew 1 | arc ray 1
     top8: 2, // mew 2
@@ -1184,16 +1184,16 @@ let players = [
   },
   {
     firstName: 'Frankie Puleio',
-    attendancePoints: 2,
-    bfl: 2,
-    csPoints: 80,
+    attendancePoints: 3,
+    bfl: 3,
+    csPoints: 100,
     first: 2,
-    second: 0,
+    second: 1, // (1 4players)
     top4: 0,
     top8: 0,
     top16: 0,
-    img1: '../assets/sprites/malamar.png',
-    img2: '../assets/sprites/blacephalon.png'
+    img1: '../assets/sprites/blank.png',
+    img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Brady Bussert',
