@@ -4,6 +4,11 @@
     margin: 25px 0px;
 }
 
+.done p,
+.done h2 {
+    color: rgba(0, 0, 0, 0.4)
+}
+
 #ToC2 {
     display: flex;
     justify-content: center;
