@@ -1,7 +1,7 @@
 const list = document.querySelector('.list');
 
 const sortName = document.querySelector('.sort-name')
-const sortAttendance = document.querySelector('.sort-a-points')
+// const sortAttendance = document.querySelector('.sort-a-points')
 const sortCsPoints = document.querySelector('.sort-cs-points')
 
 let players = [
@@ -4030,7 +4030,7 @@ sortName.addEventListener('click', () => {
   desc = !desc;
   sortName.style.backgroundColor = 'rgb(151, 14, 14)';
   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
-  sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
+  // sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
   document.querySelector('.list').classList.remove('color-rank');
   document.querySelector('.list').classList.remove('bold-rank');
 });
@@ -4046,21 +4046,21 @@ function sort_array_by_name(array, sort, desc) {
   return array;
 }
 
-sortAttendance.addEventListener('click', () => {
-  let array = sort_array_by(players, 'attendancePoints', desc);
-  displayList(array);
-  desc = !desc;
-  sortName.style.backgroundColor = 'rgb(206, 46, 46)';
-  sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
-  sortAttendance.style.backgroundColor = 'rgb(151, 14, 14)';
-  document.querySelector('.list').classList.remove('color-rank');
-  document.querySelector('.list').classList.remove('bold-rank');
+// sortAttendance.addEventListener('click', () => {
+//   let array = sort_array_by(players, 'attendancePoints', desc);
+//   displayList(array);
+//   desc = !desc;
+//   sortName.style.backgroundColor = 'rgb(206, 46, 46)';
+//   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
+//   sortAttendance.style.backgroundColor = 'rgb(151, 14, 14)';
+//   document.querySelector('.list').classList.remove('color-rank');
+//   document.querySelector('.list').classList.remove('bold-rank');
 
-  // if (item.csPoints < 100) {
-  //   document.querySelector('.list').classList.add('bold-rank');
-  // }
+//   // if (item.csPoints < 100) {
+//   //   document.querySelector('.list').classList.add('bold-rank');
+//   // }
 
-});
+// });
 function sort_array_by(array, sort, desc) {
   array.sort(function (a, b) {
     if (a[sort] < b[sort]) return 1;
@@ -4077,7 +4077,7 @@ sortCsPoints.addEventListener('click', () => {
   desc = !desc;
   sortName.style.backgroundColor = 'rgb(206, 46, 46)';
   sortCsPoints.style.backgroundColor = 'rgb(151, 14, 14)';
-  sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
+  // sortAttendance.style.backgroundColor = 'rgb(206, 46, 46)';
   document.querySelector('.list').classList.add('color-rank');
   document.querySelector('.list').classList.add('bold-rank');
 });

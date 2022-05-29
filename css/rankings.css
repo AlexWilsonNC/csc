@@ -108,6 +108,13 @@ main {
     margin: 15px 0px 0px 0px;
     padding: 0px 15px 0px 55px;
 }
+.list-att {
+    display: flex;
+    align-items: center;    
+    flex-direction: column;
+    margin: 15px 0px 0px 0px;
+    padding: 0px 15px 0px 15px;
+}
 .color-rank .list-item:first-child,
 .attend1 {
     background: linear-gradient(to bottom right, #fff, #FFD700, #ff9100);
