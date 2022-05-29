@@ -33,21 +33,21 @@ let players = [
   },
   {
     firstName: 'Alex Wilson',
-    attendancePoints: 13,
-    bfl: 8,
-    csPoints: 92,
+    attendancePoints: 15,
+    bfl: 10,
+    csPoints: 152,
     first: 0,
-    second: 0,
+    second: 2, // retro 1 | arc moltr 1
     top4: 1, // 2010 1
     top8: 5, // mew 1 | 2010 1 | rs ursh 2 | arc ursh 1 30+
     top16: 1,
     // top 256 regionals
       img1: '../assets/sprites/arceus.png',
-      img2: '../assets/sprites/urshifu-rapid-strike-gmax.png'
+      img2: '../assets/sprites/moltres-galar.png'
   },
   {
     firstName: 'Samuel Roach',
-    attendancePoints: 8,
+    attendancePoints: 10,
     bfl: 5,
     csPoints: 46,
     first: 0,
@@ -664,7 +664,7 @@ let players = [
   },
   {
     firstName: 'Karla Wilson',
-    attendancePoints: 6,
+    attendancePoints: 8,
     bfl: 2,
     csPoints: 40,
     first: 0,
@@ -901,12 +901,12 @@ let players = [
   },
   {
     firstName: 'Matthew Kuykendall',
-    attendancePoints: 2,
-    bfl: 1,
-    csPoints: 16,
+    attendancePoints: 3,
+    bfl: 2,
+    csPoints: 32,
     first: 0,
     second: 0,
-    top4: 1, // 2010 1
+    top4: 2, // retro 2
     top8: 0,
     top16: 0,
       img1: '../assets/sprites/blank.png',
@@ -914,7 +914,7 @@ let players = [
   },
   {
     firstName: 'Mason Daus',
-    attendancePoints: 1,
+    attendancePoints: 2,
     bfl: 1,
     csPoints: 10,
     first: 0,
@@ -927,12 +927,12 @@ let players = [
   },
   {
     firstName: 'Steffan Daus',
-    attendancePoints: 2,
-    bfl: 1,
-    csPoints: 10,
+    attendancePoints: 3,
+    bfl: 2,
+    csPoints: 26,
     first: 0,
     second: 0,
-    top4: 0,
+    top4: 1, // retro 1
     top8: 1, // 2010 1
     top16: 0,
       img1: '../assets/sprites/blank.png',
@@ -1005,12 +1005,12 @@ let players = [
   },
   {
     firstName: 'Caleb Rice',
-    attendancePoints: 3,
-    bfl: 2,
-    csPoints: 50,
+    attendancePoints: 5,
+    bfl: 4,
+    csPoints: 82,
     first: 1, // mew 1
     second: 0,
-    top4: 0,
+    top4: 2, // bees 1 | retro 1
     top8: 1, // mew 1
     top16: 0,
       img1: '../assets/sprites/mew.png',
@@ -1018,16 +1018,16 @@ let players = [
   },
   {
     firstName: 'Perry Going',
-    attendancePoints: 3,
-    bfl: 3,
-    csPoints: 90,
-    first: 2, // 2010 2
+    attendancePoints: 5,
+    bfl: 5,
+    csPoints: 146,
+    first: 3, // retro 3
     second: 0,
-    top4: 0,
+    top4: 1, // mew 1
     top8: 1, // gengar 1
     top16: 0,
-    img1: '../assets/sprites/gengar-gmax.png',
-    img2: '../assets/sprites/houndoom.png'
+    img1: '../assets/sprites/mew.png',
+    img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Jerry Riley',
@@ -2150,7 +2150,7 @@ let players = [
   },
   {
     firstName: 'Ness Foster',
-      attendancePoints: 1,
+      attendancePoints: 2,
       bfl: 1,
       csPoints: 16,
       first: 0,
@@ -2670,10 +2670,10 @@ let players = [
   },
   {
     firstName: 'Matt Pereira',
-      attendancePoints: 14,
-      bfl: 6,
-      csPoints: 84,
-      first: 0,
+      attendancePoints: 16,
+      bfl: 7,
+      csPoints: 124,
+      first: 1, // arc lycan 1
       second: 0,
       top4: 4, // jolt 3 | mew 1
       top8: 2, // 2010 1 | arc lycan 1
@@ -3073,7 +3073,7 @@ let players = [
   },
   {
     firstName: 'Guy Bennett',
-      attendancePoints: 4,
+      attendancePoints: 5,
       bfl: 0,
       csPoints: 0,
       first: 0,
@@ -3243,7 +3243,7 @@ let players = [
   },
   {
     firstName: 'Loren Chester',
-      attendancePoints: 10,
+      attendancePoints: 11,
       bfl: 4,
       csPoints: 80,
       first: 0,
@@ -3321,7 +3321,7 @@ let players = [
   },
   {
     firstName: 'Joseph Bjerg',
-    attendancePoints: 7,
+    attendancePoints: 8,
     bfl: 1,
     csPoints: 30,
     first: 0,
@@ -3760,6 +3760,45 @@ let players = [
     top16: 0,
       img1: '../assets/sprites/mew.png',
       img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'Cam Haas',
+    attendancePoints: 1,
+    bfl: 0,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Tyler Stoyer',
+    attendancePoints: 1,
+    bfl: 0,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Kyle Trayah',
+    attendancePoints: 1,
+    bfl: 0,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Mike Reynolds',
