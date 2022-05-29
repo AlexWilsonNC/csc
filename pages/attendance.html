@@ -53,57 +53,80 @@
             <p>• Players with at least 5 Attendance Points can compete in the Last Chance Qualifier in July.</p>
         </div>
         <div class='sort-buttons'>
-            <button class='sort-btn sort-name'>First Name</button>
-            <a href='./attendance.html' class='sort-btn sort-a-points'>Attendance Points</a>
-            <button class='sort-btn sort-cs-points'>CS Points</button>
+            <a href='./rankings.html' class='sort-btn sort-name'>First Name</a>
+            <button class='sort-btn sort-a-points' style='background-color:rgb(151, 14, 14);'>Attendance Points</button>
+            <a href='./rankings.html' class='sort-btn sort-cs-points'>CS Points</a>
         </div>
 
         <div id="rankings">
             <div id="rank-intro">
                 <h2>2022 Rankings</h2>
-                <p>Click on a player's name to see their stats.</p>
-                <p style='font-style: italic;'>(Only available for players who've made cut)</p>
+                <p>This list only contains the top X players in Attendance Points.</p>
+                <p style='font-style: italic;'>(Not counting players already in Top 32 via CS Points)</p>
+                <p>If there's a tie for 4th, all players with the same Points earn an invite.</p>
             </div>
             <div id="center-info">
                 <div id="player-info">
-                    <p class="player-name">Name <span>(Attendance Points)</span></p>
-                    <p id="player-points">CS Points</p>
+                    <p class="player-name">Player Name</p>
+                    <p id="player-points">Attendance Points</p>
                 </div>
             </div>
             <hr>
             <ol class='list'>
-                <!--ranking.js list_items-->
+                <li class='list-item attend1'>
+                    <p class='player-name'>Jessica (Raven) Carter</p>
+                    <p class='item-point'>21</p>
+                </li>
+                <li class='list-item attend2'>
+                    <p class='player-name'>Stephanie Hurst</p>
+                    <p class='item-point'>16</p>
+                </li>            
+                <li class='list-item attend3'>
+                    <p class='player-name'>Elijah Crane</p>
+                    <p class='item-point'>16</p>
+                </li>            
+                <li class='list-item attend3'>
+                    <p class='player-name'>Jennifer Perez</p>
+                    <p class='item-point'>13</p>
+                </li>            
+                <li class='list-item'>
+                    <p class='player-name'>Kevin Rogerson</p>
+                    <p class='item-point'>12</p>
+                </li>            
+                <li class='list-item'>
+                    <p class='player-name'>Loren Chester</p>
+                    <p class='item-point'>11</p>
+                </li>            
+                <li class='list-item'>
+                    <p class='player-name'>Olivia Farmer</p>
+                    <p class='item-point'>10</p>
+                </li>            
+                <li class='list-item'>
+                    <p class='player-name'>Alex Robbins</p>
+                    <p class='item-point'>10</p>
+                </li>            
+                <li class='list-item'>
+                    <p class='player-name'>Samuel Roach</p>
+                    <p class='item-point'>10</p>
+                </li>            
+                <li class='list-item'>
+                    <p class='player-name'>Jeremiah Lynch</p>
+                    <p class='item-point'>9</p>
+                </li>            
+                <li class='list-item'>
+                    <p class='player-name'>Ty Wilson</p>
+                    <p class='item-point'>9</p>
+                </li>            
+                <li class='list-item'>
+                    <p class='player-name'>Miguel Sotelo</p>
+                    <p class='item-point'>9</p>
+                </li>            
+                <li class='list-item'>
+                    <p class='player-name'>Landon Hawkins</p>
+                    <p class='item-point'>9</p>
+                </li>            
             </ol>
         </div>
-        <div id='modal-section'>
-            <div class='modal'>
-                <div class='modal-top'>
-                    <p class='modal-name'></p>
-                    <div class='modal-x'>
-                        <p>X</p>
-                    </div>
-                </div>
-                <div class='cs-plus-ap'>
-                    <p>Series Points: <span class='modal-cs'>-</span></p>
-                    <p>Attendance Points: <span class='modal-ap'>-</span></p>
-                    <p>Best Finish Limit: <span class='modal-bfl'>-</span></p>
-                </div>
-                <p class='update'>Once a player's BFL is reached, only finishes higher than their worst can add CS Points to their ranking.</p>
-                <p class='modal-places'>1st Place: <span class='tiny-x'>x</span><span class='place1'>-</span></p>
-                <p class='modal-places'>2nd Place: <span class='tiny-x'>x</span><span class='place2'>-</span></p>
-                <p class='modal-places'>Top 4 Finish: <span class='tiny-x'>x</span><span class='place3'>-</span></p>
-                <p class='modal-places'>Top 8 Finish: <span class='tiny-x'>x</span><span class='place4'>-</span></p>
-                <p class='modal-places'>Top 16 Finish: <span class='tiny-x'>x</span><span class='place5'>-</span></p>
-                <p class='modal-deck'>Player's Most Successful Deck</p>
-                <div class='modal-pics'>
-                    <img class='modal-img1' src='' alt='pokemon'>
-                    <img class='modal-img2' src='' alt='pokemon'>
-                </div>
-                <div class='stripe'></div>
-            </div>
-        </div>
-        <div class='behind-modal'></div>
-
     </main>
 
     <footer>

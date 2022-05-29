@@ -108,16 +108,19 @@ main {
     margin: 15px 0px 0px 0px;
     padding: 0px 15px 0px 55px;
 }
-.color-rank .list-item:first-child {
+.color-rank .list-item:first-child,
+.attend1 {
     background: linear-gradient(to bottom right, #fff, #FFD700, #ff9100);
     font-weight: 600;
 }
-.color-rank .list-item:nth-child(2) {
+.color-rank .list-item:nth-child(2),
+.attend2 {
     background: linear-gradient(to bottom right, #fff, #C0C0C0, #686868);
     font-weight: 600;
 }
 .color-rank .list-item:nth-child(3),
-.color-rank .list-item:nth-child(4) {
+.color-rank .list-item:nth-child(4),
+.attend3 {
     background: linear-gradient(to bottom right, #fff, #cf751a, #aa5500);
     font-weight: 600;
 }
