@@ -3988,8 +3988,11 @@ sortAttendance.addEventListener('click', () => {
   sortName.style.backgroundColor = 'rgb(206, 46, 46)';
   sortCsPoints.style.backgroundColor = 'rgb(206, 46, 46)';
   sortAttendance.style.backgroundColor = 'rgb(151, 14, 14)';
-  document.querySelector('.list').classList.add('color-rank');
+  document.querySelector('.list').classList.remove('color-rank');
   document.querySelector('.list').classList.remove('bold-rank');
+  if (item.csPoints < 100) {
+    document.querySelector('.list').classList.add('bold-rank');
+  }
 });
 function sort_array_by(array, sort, desc) {
   array.sort(function (a, b) {
@@ -4038,6 +4041,7 @@ function displayList(array = []) {
     title.classList.add('item-title');
     title.classList.add('player-name');
     title.innerHTML = item.firstName + " " + "(" + item.attendancePoints + ")";
+    // item.attendancePoints.classList.add('small-points');
 
     item_element.appendChild(title);
 

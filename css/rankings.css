@@ -74,6 +74,10 @@ main {
     justify-content: center;
 }
 
+.small-points {
+    font-size: 14px;
+}
+
 #player-info {
     width: 100%;
     font-weight: 600;
