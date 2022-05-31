@@ -2526,7 +2526,7 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
-    firstName: 'Stephanie Hurst',
+    firstName: 'Stephanie Black',
       attendancePoints: 16,
       bfl: 4,
       csPoints: 70,
