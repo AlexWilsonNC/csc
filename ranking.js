@@ -35,10 +35,10 @@ let players = [
     firstName: 'Alex Wilson',
     attendancePoints: 15,
     bfl: 10,
-    csPoints: 152,
+    csPoints: 158,
     first: 0,
     second: 2, // retro 1 | arc moltr 1
-    top4: 1, // 2010 1
+    top4: 2, // 2010 1 | mew 1
     top8: 5, // mew 1 | 2010 1 | rs ursh 2 | arc ursh 1 30+
     top16: 1,
     // top 256 regionals
@@ -2528,11 +2528,11 @@ let players = [
   {
     firstName: 'Stephanie Black',
       attendancePoints: 18,
-      bfl: 4,
-      csPoints: 70,
+      bfl: 5,
+      csPoints: 86,
       first: 1, // caly sr 1
       second: 0,
-      top4: 0,
+      top4: 1, // mew 1
       top8: 3, // caly sr 1 | ?
       top16: 0,
       img1: '../assets/sprites/calyrex-shadow-rider.png',
