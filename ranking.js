@@ -127,7 +127,7 @@ let players = [
   },
   {
     firstName: 'Ricky (Zane) Carter',
-    attendancePoints: 25,
+    attendancePoints: 26,
     bfl: 10,
     csPoints: 288,
     first: 4, // ice rider=40 | mew=40 | arceus dura=40 | build=40
@@ -271,7 +271,7 @@ let players = [
   },
   {
     firstName: 'Jessica (Raven) Carter',
-    attendancePoints: 22,
+    attendancePoints: 23,
     bfl: 2,
     csPoints: 20,
     first: 0,
@@ -2436,7 +2436,7 @@ let players = [
   },
   {
     firstName: 'Christopher Black',
-      attendancePoints: 19,
+      attendancePoints: 20,
       bfl: 9,
       csPoints: 174,
       first: 1, // mew 1
@@ -2527,7 +2527,7 @@ let players = [
   },
   {
     firstName: 'Stephanie Black',
-      attendancePoints: 17,
+      attendancePoints: 18,
       bfl: 4,
       csPoints: 70,
       first: 1, // caly sr 1
@@ -2748,7 +2748,7 @@ let players = [
   },
   {
     firstName: 'Matt Pereira',
-      attendancePoints: 18,
+      attendancePoints: 19,
       bfl: 9,
       csPoints: 174,
       first: 2, // arc lycan 2
@@ -3034,7 +3034,7 @@ let players = [
   },
   {
     firstName: 'Tyler Perry',
-    attendancePoints: 15,
+    attendancePoints: 16,
     bfl: 7,
     csPoints: 100,
     first: 0,
@@ -3529,7 +3529,7 @@ let players = [
   },
   {
     firstName: 'Austin Roop',
-      attendancePoints: 5,
+      attendancePoints: 6,
       bfl: 2,
       csPoints: 20,
       first: 0,
@@ -3646,6 +3646,19 @@ let players = [
   },
   {
     firstName: 'Joey King',
+    attendancePoints: 1,
+    bfl: 0,
+    csPoints: 0,
+    first: 0,
+    second: 0,
+    top4: 0,
+    top8: 0,
+    top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Aaron Elmore',
     attendancePoints: 1,
     bfl: 0,
     csPoints: 0,
