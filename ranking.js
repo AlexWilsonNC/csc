@@ -2749,9 +2749,9 @@ let players = [
   {
     firstName: 'Matt Pereira',
       attendancePoints: 19,
-      bfl: 9,
-      csPoints: 174,
-      first: 2, // arc lycan 2
+      bfl: 10,
+      csPoints: 214,
+      first: 3, // arc lycan 2 | darkrai 1
       second: 0,
       top4: 4, // jolt 3 | mew 1
       top8: 3, // 2010 1 | arc lycan 1
@@ -3035,10 +3035,10 @@ let players = [
   {
     firstName: 'Tyler Perry',
     attendancePoints: 16,
-    bfl: 7,
-    csPoints: 100,
+    bfl: 8,
+    csPoints: 130,
     first: 0,
-    second: 0,
+    second: 1, // ir
     top4: 5, // ir caly 2 | mew 1 | arc mol 2
     top8: 2, // 2010 1
     top16: 0,
