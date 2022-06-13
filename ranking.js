@@ -729,7 +729,7 @@ let players = [
   },
   {
     firstName: 'Karla Wilson',
-    attendancePoints: 1,
+    attendancePoints: 11,
     bfl: 2,
     csPoints: 40,
     first: 0,
