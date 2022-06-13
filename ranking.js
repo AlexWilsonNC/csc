@@ -2826,7 +2826,7 @@ let players = [
       img2: '../assets/sprites/genesect.png'
   },
   {
-    firstName: 'Matt Peirera',
+    firstName: 'Matt Pereira',
       attendancePoints: 20,
       bfl: 10,
       csPoints: 214,
