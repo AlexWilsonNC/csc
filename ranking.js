@@ -127,12 +127,12 @@ let players = [
   },
   {
     firstName: 'Ricky (Zane) Carter',
-    attendancePoints: 27,
+    attendancePoints: 28,
     bfl: 10,
     csPoints: 288,
     first: 4, // ice rider=40 | mew=40 | arceus dura=40 | build=40
     second: 3, // eternatus=30 | duraludon=30 | arc corv 1
-    top4: 6, // eternatus=16 | jolteon=16 | arc ray 1 | arc bird 1
+    top4: 7, // eternatus=16 | jolteon=16 | arc ray 1 | arc bird 1
     top8: 4, // mew=10 | etern=10 | mew=16
     top16: 2,
     img1: '../assets/sprites/eternatus-eternamax.png',
@@ -297,7 +297,7 @@ let players = [
   },
   {
     firstName: 'Jessica (Raven) Carter',
-    attendancePoints: 23,
+    attendancePoints: 24,
     bfl: 2,
     csPoints: 20,
     first: 0,
@@ -388,7 +388,7 @@ let players = [
   },
   {
     firstName: 'Jonathan Arias',
-    attendancePoints: 23,
+    attendancePoints: 24,
     bfl: 10,
     csPoints: 272,
     first: 3, // mew 2 (1 4players)
@@ -726,19 +726,6 @@ let players = [
       top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
-  },
-  {
-    firstName: 'Karla Wilson',
-    attendancePoints: 11,
-    bfl: 2,
-    csPoints: 40,
-    first: 0,
-    second: 1, // mew
-    top4: 0,
-    top8: 0,
-    top16: 1,
-      img1: '../assets/sprites/mew.png',
-      img2: '../assets/sprites/genesect.png'
   },
   // {
   //   firstName: 'Jorden Hamilton',
@@ -1812,6 +1799,19 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
+    firstName: 'Cory Tretsky',
+      attendancePoints: 1,
+      bfl: 1,
+      csPoints: 40,
+      first: 1,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/dialga-origin.png'
+  },
+  {
     firstName: 'Cordelia Ramont',
       attendancePoints: 2,
       bfl: 0,
@@ -2619,7 +2619,7 @@ let players = [
   },
   {
     firstName: 'Stephanie Black',
-      attendancePoints: 18,
+      attendancePoints: 19,
       bfl: 5,
       csPoints: 86,
       first: 1, // caly sr 1
@@ -2840,7 +2840,7 @@ let players = [
   },
   {
     firstName: 'Matt Pereira',
-      attendancePoints: 20,
+      attendancePoints: 21,
       bfl: 10,
       csPoints: 214,
       first: 3, // arc lycan 2 | darkrai 1
@@ -3113,12 +3113,12 @@ let players = [
   },
   {
     firstName: 'Tyler Perry',
-    attendancePoints: 17,
-    bfl: 8,
-    csPoints: 130,
+    attendancePoints: 18,
+    bfl: 9,
+    csPoints: 146,
     first: 0,
     second: 1, // ir
-    top4: 5, // ir caly 2 | mew 1 | arc mol 2
+    top4: 6, // ir caly 2 | mew 1 | arc mol 2
     top8: 2, // 2010 1
     top16: 0,
     img1: '../assets/sprites/arceus.png',
@@ -3449,6 +3449,19 @@ let players = [
     top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'Karla Wilson',
+    attendancePoints: 12,
+    bfl: 3,
+    csPoints: 80,
+    first: 0,
+    second: 2, // mew
+    top4: 0,
+    top8: 0,
+    top16: 2,
+      img1: '../assets/sprites/mew.png',
+      img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Raymundo Prado',
