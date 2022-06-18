@@ -755,7 +755,7 @@ let players = [
   // },
   {
     firstName: 'Vernon Hoffman',
-    attendancePoints: 4,
+    attendancePoints: 5,
     bfl: 1,
     csPoints: 16,
     first: 0,
