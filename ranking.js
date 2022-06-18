@@ -768,16 +768,16 @@ let players = [
   },
   {
     firstName: 'Maxwell Hoffman',
-    attendancePoints: 3,
-    bfl: 0,
-    csPoints: 0,
+    attendancePoints: 5,
+    bfl: 1,
+    csPoints: 30,
     first: 0,
-    second: 0,
+    second: 1,
     top4: 0,
     top8: 0,
     top16: 0,
-      img1: '../assets/sprites/blank.png',
-      img2: '../assets/sprites/blank.png'
+      img1: '../assets/sprites/inteleon.png',
+      img2: '../assets/sprites/frosmoth.png'
   },
   {
     firstName: 'Zac Cooper',
@@ -809,12 +809,12 @@ let players = [
   },
   {
     firstName: 'Taylor Greenstreet',
-    attendancePoints: 21,
+    attendancePoints: 22,
     bfl: 10,
-    csPoints: 252,
+    csPoints: 258,
     first: 3, // suicune 1 | rs urshi 2
     second: 3, // mew 1 | suicun ludi 2
-    top4: 3, // mew 1 | 2010 1 | mew 1 30+
+    top4: 4, // mew 1 | 2010 1 | mew 1 30+
     top8: 3, // mew 3
     top16: 1,
     img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
@@ -1264,6 +1264,19 @@ let players = [
       top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Bradley ? III',
+      attendancePoints: 1,
+      bfl: 1,
+      csPoints: 16,
+      first: 0,
+      second: 0,
+      top4: 1,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/cinderace.png',
+      img2: '../assets/sprites/cinccino.png'
   },
   {
     firstName: 'Will Whitener',
@@ -2891,19 +2904,6 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
-    firstName: 'Max Hoffman',
-    attendancePoints: 1,
-    bfl: 0,
-    csPoints: 0,
-    first: 0,
-    second: 0,
-    top4: 0,
-    top8: 0,
-    top16: 0,
-      img1: '../assets/sprites/blank.png',
-      img2: '../assets/sprites/blank.png'
-  },
-  {
     firstName: 'Jonathan Benitez',
       attendancePoints: 4,
       bfl: 1,
@@ -3087,16 +3087,16 @@ let players = [
   },
   {
     firstName: 'Frank Hamilton',
-      attendancePoints: 3,
-      bfl: 0,
-      csPoints: 0,
-      first: 0,
+      attendancePoints: 4,
+      bfl: 1,
+      csPoints: 40,
+      first: 1,
       second: 0,
       top4: 0,
       top8: 0,
       top16: 0,
-      img1: '../assets/sprites/blank.png',
-      img2: '../assets/sprites/blank.png'
+      img1: '../assets/sprites/palkia-origin.png',
+      img2: '../assets/sprites/inteleon.png'
   },
   {
     firstName: 'Luna Dunham',
