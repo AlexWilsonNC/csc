@@ -546,11 +546,11 @@ let players = [
   {
     firstName: 'Clint Quinn',
     attendancePoints: 11,
-    bfl: 6,
-    csPoints: 128,
+    bfl: 7,
+    csPoints: 144,
     first: 1, // arc mol 1
     second: 1, // arc lyc 1
-    top4: 2, // jolt 2
+    top4: 3, // jolt 2
     top8: 2, // arc lyc 1 30+
     top16: 0,
     img1: '../assets/sprites/arceus.png',
@@ -1034,7 +1034,7 @@ let players = [
     firstName: 'Evan Campbell',
     attendancePoints: 16,
     bfl: 10,
-    csPoints: 296,
+    csPoints: 306,
     first: 5, // mew 1 | gengar 1 | arc lyc 1 | dialga 30+
     second: 2, // mew
     top4: 0,
@@ -3505,11 +3505,11 @@ let players = [
   {
     firstName: 'Karla Wilson',
     attendancePoints: 13,
-    bfl: 3,
-    csPoints: 80,
+    bfl: 4,
+    csPoints: 96,
     first: 0,
     second: 2, // mew
-    top4: 0,
+    top4: 1,
     top8: 0,
     top16: 2,
       img1: '../assets/sprites/mew.png',
