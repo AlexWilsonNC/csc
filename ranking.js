@@ -1618,11 +1618,11 @@ let players = [
   },
   {
     firstName: 'Evan Lee',
-      attendancePoints: 19,
+      attendancePoints: 20,
       bfl: 10,
       csPoints: 336,
       first: 4, // mew 3
-      second: 4, // 30+ players mew 1 | mew 1
+      second: 5, // 30+ players mew 1 | mew 1
       top4: 5, // mew 3 (1 30+)
       top8: 2, // mew 2
       top16: 1,
@@ -3165,10 +3165,10 @@ let players = [
   },
   {
     firstName: 'Chesney Anderson',
-      attendancePoints: 8,
-      bfl: 6,
-      csPoints: 98,
-      first: 0,
+      attendancePoints: 9,
+      bfl: 7,
+      csPoints: 128,
+      first: 1,
       second: 1,
       top4: 1, // arc molt 1
       top8: 3, // arc molt 2 (30+ 2)
