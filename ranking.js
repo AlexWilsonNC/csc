@@ -1040,8 +1040,8 @@ let players = [
     top4: 0,
     top8: 3, // mew 1 | molt arc 1
     top16: 1,
-    img1: '../assets/sprites/blank.png',
-    img2: '../assets/sprites/dialga-origin.png'
+    img1: '../assets/sprites/dialga-origin.png',
+    img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Chip Richey',
