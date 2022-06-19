@@ -33,11 +33,11 @@ let players = [
   },
   {
     firstName: 'Alex Wilson',
-    attendancePoints: 15,
+    attendancePoints: 16,
     bfl: 10,
-    csPoints: 158,
+    csPoints: 178,
     first: 0,
-    second: 2, // retro 1 | arc moltr 1
+    second: 3, // retro 1 | arc moltr 1
     top4: 2, // 2010 1 | mew 1
     top8: 5, // mew 1 | 2010 1 | rs ursh 2 | arc ursh 1 30+
     top16: 1,
@@ -545,7 +545,7 @@ let players = [
   },
   {
     firstName: 'Clint Quinn',
-    attendancePoints: 10,
+    attendancePoints: 11,
     bfl: 6,
     csPoints: 128,
     first: 1, // arc mol 1
@@ -1032,16 +1032,16 @@ let players = [
   },
   {
     firstName: 'Evan Campbell',
-    attendancePoints: 15,
+    attendancePoints: 16,
     bfl: 10,
-    csPoints: 276,
-    first: 4, // mew 1 | gengar 1 | arc lyc 1 | dialga 30+
+    csPoints: 296,
+    first: 5, // mew 1 | gengar 1 | arc lyc 1 | dialga 30+
     second: 2, // mew
     top4: 0,
     top8: 3, // mew 1 | molt arc 1
     top16: 1,
-    img1: '../assets/sprites/mew.png',
-    img2: '../assets/sprites/genesect.png'
+    img1: '../assets/sprites/blank.png',
+    img2: '../assets/sprites/dialga-origin.png'
   },
   {
     firstName: 'Chip Richey',
@@ -3190,6 +3190,32 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
+    firstName: 'Joshua Miller',
+      attendancePoints: 1,
+      bfl: 0,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
+    firstName: 'Andrew Miller',
+      attendancePoints: 1,
+      bfl: 0,
+      csPoints: 0,
+      first: 0,
+      second: 0,
+      top4: 0,
+      top8: 0,
+      top16: 0,
+      img1: '../assets/sprites/blank.png',
+      img2: '../assets/sprites/blank.png'
+  },
+  {
     firstName: 'Jacob Maxwell',
       attendancePoints: 2,
       bfl: 1,
@@ -3478,7 +3504,7 @@ let players = [
   },
   {
     firstName: 'Karla Wilson',
-    attendancePoints: 12,
+    attendancePoints: 13,
     bfl: 3,
     csPoints: 80,
     first: 0,
