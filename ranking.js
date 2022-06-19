@@ -531,6 +531,19 @@ let players = [
     img2: '../assets/sprites/genesect.png'
   },
   {
+    firstName: 'Chesney Anderson',
+      attendancePoints: 9,
+      bfl: 7,
+      csPoints: 128,
+      first: 1,
+      second: 1,
+      top4: 1, // arc molt 1
+      top8: 3, // arc molt 2 (30+ 2)
+      top16: 0,
+      img1: '../assets/sprites/arceus.png',
+      img2: '../assets/sprites/moltres-galar.png'
+  },
+  {
     firstName: 'Clint Quinn',
     attendancePoints: 10,
     bfl: 6,
@@ -3162,19 +3175,6 @@ let players = [
     top16: 0,
     img1: '../assets/sprites/arceus.png',
     img2: '../assets/sprites/inteleon.png'
-  },
-  {
-    firstName: 'Chesney Anderson',
-      attendancePoints: 9,
-      bfl: 7,
-      csPoints: 128,
-      first: 1,
-      second: 1,
-      top4: 1, // arc molt 1
-      top8: 3, // arc molt 2 (30+ 2)
-      top16: 0,
-      img1: '../assets/sprites/arceus.png',
-      img2: '../assets/sprites/moltres-galar.png'
   },
   {
     firstName: 'Richard Collier',
