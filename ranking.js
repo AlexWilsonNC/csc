@@ -4102,7 +4102,7 @@ let players = [
   },
   {
     firstName: 'Alex Robbins',
-    attendancePoints: 11,
+    attendancePoints: 12,
     bfl: 5,
     csPoints: 90,
     first: 0,
