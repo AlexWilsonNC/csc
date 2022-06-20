@@ -310,7 +310,7 @@ let players = [
   },
   {
     firstName: 'Landon Hawkins',
-    attendancePoints: 10,
+    attendancePoints: 11,
     bfl: 0,
     csPoints: 0,
     first: 0,
@@ -323,7 +323,7 @@ let players = [
   },
   {
     firstName: 'Jeremiah Lynch',
-    attendancePoints: 10,
+    attendancePoints: 11,
     bfl: 4,
     csPoints: 46,
     first: 0,
@@ -1136,7 +1136,7 @@ let players = [
   },
   {
     firstName: 'Nick Fry',
-    attendancePoints: 1,
+    attendancePoints: 2,
     bfl: 0,
     csPoints: 0,
     first: 0,
@@ -4102,7 +4102,7 @@ let players = [
   },
   {
     firstName: 'Alex Robbins',
-    attendancePoints: 12,
+    attendancePoints: 13,
     bfl: 5,
     csPoints: 90,
     first: 0,
