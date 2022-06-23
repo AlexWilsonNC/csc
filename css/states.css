@@ -28,3 +28,7 @@
     padding: 5px 10px;
     border-radius: 15px;
 }
+.side-event {
+    border: 1px solid black;
+    border-radius: 15px;
+}
