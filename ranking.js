@@ -47,7 +47,7 @@ let players = [
   },
   {
     firstName: 'Samuel Roach',
-    attendancePoints: 11,
+    attendancePoints: 12,
     bfl: 6,
     csPoints: 56,
     first: 0,
@@ -127,7 +127,7 @@ let players = [
   },
   {
     firstName: 'Ricky (Zane) Carter',
-    attendancePoints: 28,
+    attendancePoints: 29,
     bfl: 10,
     csPoints: 288,
     first: 4, // ice rider=40 | mew=40 | arceus dura=40 | build=40
@@ -153,7 +153,7 @@ let players = [
   },
   {
     firstName: "Mitch O'Neill",
-    attendancePoints: 26,
+    attendancePoints: 27,
     bfl: 10,
     csPoints: 220,
     first: 1, // jolt 30+
@@ -206,7 +206,7 @@ let players = [
   },
   {
     firstName: 'Caleb Rice',
-    attendancePoints: 6,
+    attendancePoints: 7,
     bfl: 5,
     csPoints: 92,
     first: 1, // mew 1
@@ -297,7 +297,7 @@ let players = [
   },
   {
     firstName: 'Jessica (Raven) Carter',
-    attendancePoints: 24,
+    attendancePoints: 25,
     bfl: 2,
     csPoints: 20,
     first: 0,
@@ -401,7 +401,7 @@ let players = [
   },
   {
     firstName: 'Jonathan Arias',
-    attendancePoints: 24,
+    attendancePoints: 25,
     bfl: 10,
     csPoints: 272,
     first: 3, // mew 2 (1 4players)
@@ -730,7 +730,7 @@ let players = [
   },
   {
     firstName: 'Nathon Trimberger',
-    attendancePoints: 14,
+    attendancePoints: 15,
     bfl: 5,
     csPoints: 116,
     first: 2, // mew 2
@@ -1021,7 +1021,7 @@ let players = [
   },
   {
     firstName: 'Matthew Kuykendall',
-    attendancePoints: 3,
+    attendancePoints: 4,
     bfl: 2,
     csPoints: 32,
     first: 0,
@@ -1073,7 +1073,7 @@ let players = [
   },
   {
     firstName: 'Chip Richey',
-      attendancePoints: 5,
+      attendancePoints: 6,
       bfl: 5,
       csPoints: 104,
       first: 1, // mew 1
@@ -1138,7 +1138,7 @@ let players = [
   },
   {
     firstName: 'Perry Going',
-    attendancePoints: 5,
+    attendancePoints: 6,
     bfl: 5,
     csPoints: 146,
     first: 3, // retro 3
@@ -1790,7 +1790,7 @@ let players = [
   },
   {
     firstName: 'Andrew Wisniewsky',
-      attendancePoints: 3,
+      attendancePoints: 4,
       bfl: 3,
       csPoints: 80,
       first: 0,
@@ -1908,7 +1908,7 @@ let players = [
   },
   {
     firstName: 'Cory Tretsky',
-      attendancePoints: 1,
+      attendancePoints: 3,
       bfl: 1,
       csPoints: 40,
       first: 1,
@@ -3013,7 +3013,7 @@ let players = [
   },
   {
     firstName: 'Matt Pereira',
-      attendancePoints: 21,
+      attendancePoints: 2,
       bfl: 10,
       csPoints: 214,
       first: 3, // arc lycan 2 | darkrai 1
@@ -3286,7 +3286,7 @@ let players = [
   },
   {
     firstName: 'Tyler Perry',
-    attendancePoints: 18,
+    attendancePoints: 19,
     bfl: 10,
     csPoints: 156,
     first: 0,
@@ -3417,7 +3417,7 @@ let players = [
   },
   {
     firstName: 'Guy Bennett',
-      attendancePoints: 5,
+      attendancePoints: 6,
       bfl: 0,
       csPoints: 0,
       first: 0,
@@ -3626,7 +3626,7 @@ let players = [
   },
   {
     firstName: 'Karla Wilson',
-    attendancePoints: 13,
+    attendancePoints: 14,
     bfl: 4,
     csPoints: 96,
     first: 0,
@@ -3795,7 +3795,7 @@ let players = [
   },
   {
     firstName: 'Austin Roop',
-      attendancePoints: 6,
+      attendancePoints: 7,
       bfl: 2,
       csPoints: 20,
       first: 0,
@@ -4328,7 +4328,7 @@ let players = [
   },
   {
     firstName: 'David Suddaby',
-    attendancePoints: 1,
+    attendancePoints: 2,
     bfl: 0,
     csPoints: 0,
     first: 0,
