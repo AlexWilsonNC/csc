@@ -403,9 +403,9 @@ let players = [
     firstName: 'Jonathan Arias',
     attendancePoints: 25,
     bfl: 10,
-    csPoints: 272,
+    csPoints: 292,
     first: 3, // mew 2 (1 4players)
-    second: 4, // mew 3 | arc ray 1
+    second: 5, // mew 3 | arc ray 1
     top4: 2, // mew 1 | arc ray 1
     top8: 2, // mew 2
     top16: 2,
@@ -1139,11 +1139,11 @@ let players = [
   {
     firstName: 'Perry Going',
     attendancePoints: 6,
-    bfl: 5,
-    csPoints: 146,
+    bfl: 6,
+    csPoints: 156,
     first: 3, // retro 3
     second: 0,
-    top4: 1, // mew 1
+    top4: 2, // mew 1
     top8: 1, // gengar 1
     top16: 0,
     img1: '../assets/sprites/mew.png',
@@ -3418,9 +3418,9 @@ let players = [
   {
     firstName: 'Guy Bennett',
       attendancePoints: 6,
-      bfl: 0,
-      csPoints: 0,
-      first: 0,
+      bfl: 1,
+      csPoints: 40,
+      first: 1,
       second: 0,
       top4: 0,
       top8: 0,
@@ -4329,11 +4329,11 @@ let players = [
   {
     firstName: 'David Suddaby',
     attendancePoints: 2,
-    bfl: 0,
-    csPoints: 0,
+    bfl: 1,
+    csPoints: 16,
     first: 0,
     second: 0,
-    top4: 0,
+    top4: 1,
     top8: 0,
     top16: 0,
       img1: '../assets/sprites/blank.png',
