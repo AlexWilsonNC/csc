@@ -3013,7 +3013,7 @@ let players = [
   },
   {
     firstName: 'Matt Pereira',
-      attendancePoints: 2,
+      attendancePoints: 22,
       bfl: 10,
       csPoints: 214,
       first: 3, // arc lycan 2 | darkrai 1
