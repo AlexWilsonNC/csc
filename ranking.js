@@ -159,7 +159,7 @@ let players = [
     first: 1, // jolt 30+
     second: 2, // jolt 1 | whim 1
     top4: 5, // jolt 4 | expanded 1
-    top8: 2,
+    top8: 3,
     top16: 1,
     img1: '../assets/sprites/jolteon.png',
     img2: '../assets/sprites/inteleon.png'
@@ -207,12 +207,12 @@ let players = [
   {
     firstName: 'Caleb Rice',
     attendancePoints: 7,
-    bfl: 5,
-    csPoints: 92,
+    bfl: 6,
+    csPoints: 102,
     first: 1, // mew 1
     second: 0,
     top4: 2, // bees 1 | retro 1
-    top8: 2, // mew 1
+    top8: 3, // mew 1
     top16: 0,
       img1: '../assets/sprites/mew.png',
       img2: '../assets/sprites/genesect.png'
@@ -1022,12 +1022,12 @@ let players = [
   {
     firstName: 'Matthew Kuykendall',
     attendancePoints: 4,
-    bfl: 2,
-    csPoints: 32,
+    bfl: 3,
+    csPoints: 42,
     first: 0,
     second: 0,
     top4: 2, // retro 2
-    top8: 0,
+    top8: 1,
     top16: 0,
       img1: '../assets/sprites/blank.png',
       img2: '../assets/sprites/blank.png'
@@ -1074,12 +1074,12 @@ let players = [
   {
     firstName: 'Chip Richey',
       attendancePoints: 6,
-      bfl: 5,
-      csPoints: 104,
+      bfl: 6,
+      csPoints: 114,
       first: 1, // mew 1
       second: 0,
       top4: 3, // mala | expanded caly | mew
-      top8: 1,
+      top8: 2,
       top16: 0,
       img1: '../assets/sprites/mew.png',
       img2: '../assets/sprites/genesect.png'
