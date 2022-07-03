@@ -181,9 +181,9 @@ let players = [
   {
     firstName: 'Jason Joyce',
     attendancePoints: 19,
-    bfl: 8,
-    csPoints: 150,
-    first: 1, // moltre
+    bfl: 9,
+    csPoints: 190,
+    first: 2, // moltre
     second: 2, // moltre 1 | glc 1
     top4: 0,
     top8: 2,
@@ -3797,15 +3797,15 @@ let players = [
   {
     firstName: 'Austin Roop',
       attendancePoints: 8,
-      bfl: 2,
-      csPoints: 20,
+      bfl: 3,
+      csPoints: 50,
       first: 0,
-      second: 0,
+      second: 1,
       top4: 0,
       top8: 2,
       top16: 0,
-      img1: '../assets/sprites/blank.png',
-      img2: '../assets/sprites/blank.png'
+      img1: '../assets/sprites/arceus.png',
+      img2: '../assets/sprites/flying-pikachu.png'
   },
   {
     firstName: 'Zachary Roos',
