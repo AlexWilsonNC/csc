@@ -31,20 +31,20 @@ let players = [
     img1: '../assets/sprites/arceus.png',
     img2: '../assets/sprites/calyrex-ice-rider.png'
   },
-  {
-    firstName: 'Alex Wilson',
-    attendancePoints: 17,
-    bfl: 10,
-    csPoints: 208,
-    first: 0,
-    second: 3, // retro 1 | arc moltr 1
-    top4: 2, // 2010 1 | mew 1
-    top8: 5, // mew 1 | 2010 1 | rs ursh 2 | arc ursh 1 30+
-    top16: 1,
-    // top 256 regionals
-      img1: '../assets/sprites/arceus.png',
-      img2: '../assets/sprites/moltres-galar.png'
-  },
+  // {
+  //   firstName: 'Alex Wilson',
+  //   attendancePoints: 17,
+  //   bfl: 10,
+  //   csPoints: 208,
+  //   first: 0,
+  //   second: 3, // retro 1 | arc moltr 1
+  //   top4: 2, // 2010 1 | mew 1
+  //   top8: 5, // mew 1 | 2010 1 | rs ursh 2 | arc ursh 1 30+
+  //   top16: 1,
+  //   // top 256 regionals
+  //     img1: '../assets/sprites/arceus.png',
+  //     img2: '../assets/sprites/moltres-galar.png'
+  // },
   {
     firstName: 'Samuel Roach',
     attendancePoints: 12,
@@ -204,19 +204,7 @@ let players = [
     img1: '../assets/sprites/duraludon-gmax.png',
     img2: '../assets/sprites/blank.png'
   },
-  {
-    firstName: 'Caleb Rice',
-    attendancePoints: 8,
-    bfl: 7,
-    csPoints: 112,
-    first: 1, // mew 1
-    second: 0,
-    top4: 2, // bees 1 | retro 1
-    top8: 4, // mew 1
-    top16: 0,
-      img1: '../assets/sprites/mew.png',
-      img2: '../assets/sprites/genesect.png'
-  },
+
   {
     firstName: 'Olivia Farmer',
     attendancePoints: 11,
@@ -543,6 +531,19 @@ let players = [
     top16: 0,
     img1: '../assets/sprites/mew.png',
     img2: '../assets/sprites/genesect.png'
+  },
+  {
+    firstName: 'Caleb Rice',
+    attendancePoints: 8,
+    bfl: 7,
+    csPoints: 112,
+    first: 1, // mew 1
+    second: 0,
+    top4: 2, // bees 1 | retro 1
+    top8: 4, // mew 1
+    top16: 0,
+      img1: '../assets/sprites/mew.png',
+      img2: '../assets/sprites/genesect.png'
   },
   {
     firstName: 'Chesney Anderson',
