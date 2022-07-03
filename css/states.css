@@ -39,6 +39,9 @@
     border-style: none;
     font-size: 22px;
 }
+.make-it-small {
+    font-size: 32px;
+}
 .idkbtn:hover {
     cursor: pointer;
     background-color: brown;
@@ -50,5 +53,16 @@
 @media screen and (max-width: 600px) {
     #first-news-container1 {
         width: 85%;
+    }
+    #first-news-container1 img {
+        width: 70%;
+        border-radius: 15px;
+    }
+    .make-it-small {
+        font-size: 26px;
+    }
+    .idkbtn {
+        border-radius: 7px;
+        font-size: 18px;
     }
 }
