@@ -127,7 +127,7 @@ let players = [
   },
   {
     firstName: 'Ricky (Zane) Carter',
-    attendancePoints: 29,
+    attendancePoints: 30,
     bfl: 10,
     csPoints: 288,
     first: 4, // ice rider=40 | mew=40 | arceus dura=40 | build=40
@@ -153,7 +153,7 @@ let players = [
   },
   {
     firstName: "Mitch O'Neill",
-    attendancePoints: 27,
+    attendancePoints: 28,
     bfl: 10,
     csPoints: 220,
     first: 1, // jolt 30+
@@ -180,7 +180,7 @@ let players = [
   },
   {
     firstName: 'Jason Joyce',
-    attendancePoints: 18,
+    attendancePoints: 19,
     bfl: 8,
     csPoints: 150,
     first: 1, // moltre
@@ -259,7 +259,7 @@ let players = [
   },
   {
     firstName: 'Jennifer Perez',
-    attendancePoints: 15,
+    attendancePoints: 16,
     bfl: 1,
     csPoints: 10,
     first: 0,
@@ -272,7 +272,7 @@ let players = [
   },
   {
     firstName: 'Chris Urcinola',
-    attendancePoints: 16,
+    attendancePoints: 17,
     bfl: 6,
     csPoints: 134,
     first: 1, // expanded 1
@@ -285,7 +285,7 @@ let players = [
   },
   {
     firstName: 'Jessica (Raven) Carter',
-    attendancePoints: 25,
+    attendancePoints: 26,
     bfl: 2,
     csPoints: 20,
     first: 0,
@@ -389,7 +389,7 @@ let players = [
   },
   {
     firstName: 'Jonathan Arias',
-    attendancePoints: 26,
+    attendancePoints: 27,
     bfl: 10,
     csPoints: 292,
     first: 3, // mew 2 (1 4players)
@@ -506,7 +506,7 @@ let players = [
   },
   {
     firstName: 'Nathan Osterkatz',
-    attendancePoints: 11,
+    attendancePoints: 12,
     bfl: 10,
     csPoints: 402,
     first: 3, // mew 1 | arc int 2
@@ -534,7 +534,7 @@ let players = [
   },
   {
     firstName: 'Caleb Rice',
-    attendancePoints: 8,
+    attendancePoints: 9,
     bfl: 7,
     csPoints: 112,
     first: 1, // mew 1
@@ -547,7 +547,7 @@ let players = [
   },
   {
     firstName: 'Chesney Anderson',
-      attendancePoints: 9,
+      attendancePoints: 10,
       bfl: 7,
       csPoints: 128,
       first: 1,
@@ -691,7 +691,7 @@ let players = [
   },
   {
     firstName: 'Jake Pilch',
-    attendancePoints: 9,
+    attendancePoints: 10,
     bfl: 4,
     csPoints: 116,
     first: 0,
@@ -837,7 +837,7 @@ let players = [
   },
   {
     firstName: 'Taylor Greenstreet',
-    attendancePoints: 23,
+    attendancePoints: 24,
     bfl: 10,
     csPoints: 258,
     first: 3, // suicune 1 | rs urshi 2
@@ -850,7 +850,7 @@ let players = [
   },
   {
     firstName: 'Kevin Fallin',
-    attendancePoints: 24,
+    attendancePoints: 25,
     bfl: 10,
     csPoints: 262,
     first: 4, // rs intel 1 | mew 3
@@ -1035,7 +1035,7 @@ let players = [
   },
   {
     firstName: 'Evan Campbell',
-    attendancePoints: 16,
+    attendancePoints: 17,
     bfl: 10,
     csPoints: 306,
     first: 5, // mew 1 | gengar 1 | arc lyc 1 | dialga 30+
@@ -1061,7 +1061,7 @@ let players = [
   },
   {
     firstName: 'Clint Quinn',
-    attendancePoints: 11,
+    attendancePoints: 12,
     bfl: 7,
     csPoints: 144,
     first: 1, // arc mol 1
@@ -1074,7 +1074,7 @@ let players = [
   },
   {
     firstName: 'Tony Vuong',
-    attendancePoints: 14,
+    attendancePoints: 15,
     bfl: 9,
     csPoints: 144,
     first: 0,
@@ -1191,7 +1191,7 @@ let players = [
   },
   {
     firstName: 'Nicholas Fry',
-    attendancePoints: 4,
+    attendancePoints: 5,
     bfl: 2,
     csPoints: 26,
     first: 0,
@@ -1909,7 +1909,7 @@ let players = [
   },
   {
     firstName: 'Cory Tretsky',
-      attendancePoints: 4,
+      attendancePoints: 5,
       bfl: 1,
       csPoints: 40,
       first: 1,
@@ -2247,7 +2247,7 @@ let players = [
   },
   {
     firstName: 'Elijah Crane',
-      attendancePoints: 20,
+      attendancePoints: 21,
       bfl: 6,
       csPoints: 70,
       first: 0,
@@ -3014,7 +3014,7 @@ let players = [
   },
   {
     firstName: 'Matt Pereira',
-      attendancePoints: 23,
+      attendancePoints: 24,
       bfl: 10,
       csPoints: 214,
       first: 3, // arc lycan 2 | darkrai 1
@@ -3418,7 +3418,7 @@ let players = [
   },
   {
     firstName: 'Guy Bennett',
-      attendancePoints: 7,
+      attendancePoints: 8,
       bfl: 1,
       csPoints: 40,
       first: 1,
@@ -3627,7 +3627,7 @@ let players = [
   },
   {
     firstName: 'Karla Wilson',
-    attendancePoints: 15,
+    attendancePoints: 16,
     bfl: 4,
     csPoints: 96,
     first: 0,
@@ -3692,7 +3692,7 @@ let players = [
   },
   {
     firstName: 'Joseph Bjerg',
-    attendancePoints: 9,
+    attendancePoints: 10,
     bfl: 2,
     csPoints: 46,
     first: 0,
@@ -3796,7 +3796,7 @@ let players = [
   },
   {
     firstName: 'Austin Roop',
-      attendancePoints: 7,
+      attendancePoints: 8,
       bfl: 2,
       csPoints: 20,
       first: 0,
