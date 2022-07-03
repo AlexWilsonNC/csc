@@ -512,7 +512,7 @@ let players = [
     first: 3, // mew 1 | arc int 2
     second: 0,
     top4: 3, // 30+ players mew 1 | arc int 2
-    top8: 2, // mew
+    top8: 3, // mew
     top16: 1,
     // regionals 1st jr
     // naic 1st jr
@@ -535,12 +535,12 @@ let players = [
   {
     firstName: 'Caleb Rice',
     attendancePoints: 9,
-    bfl: 7,
-    csPoints: 112,
+    bfl: 8,
+    csPoints: 122,
     first: 1, // mew 1
     second: 0,
     top4: 2, // bees 1 | retro 1
-    top8: 4, // mew 1
+    top8: 5, // mew 1
     top16: 0,
       img1: '../assets/sprites/mew.png',
       img2: '../assets/sprites/genesect.png'
@@ -692,12 +692,12 @@ let players = [
   {
     firstName: 'Jake Pilch',
     attendancePoints: 10,
-    bfl: 4,
-    csPoints: 116,
+    bfl: 5,
+    csPoints: 126,
     first: 0,
     second: 0,
     top4: 2, // arc intel 1 | babybox 1
-    top8: 0,
+    top8: 1,
     top16: 1,
     // top 32 regionals
       img1: '../assets/sprites/moltres-galar.png',
@@ -842,7 +842,7 @@ let players = [
     csPoints: 258,
     first: 3, // suicune 1 | rs urshi 2
     second: 3, // mew 1 | suicun ludi 2
-    top4: 4, // mew 1 | 2010 1 | mew 1 30+
+    top4: 5, // mew 1 | 2010 1 | mew 1 30+
     top8: 3, // mew 3
     top16: 1,
     img1: '../assets/sprites/urshifu-rapid-strike-gmax.png',
@@ -852,7 +852,7 @@ let players = [
     firstName: 'Kevin Fallin',
     attendancePoints: 25,
     bfl: 10,
-    csPoints: 262,
+    csPoints: 268,
     first: 4, // rs intel 1 | mew 3
     second: 2, // jolteon 1 | gengar 1
     top4: 2, // mew 1
@@ -3693,12 +3693,12 @@ let players = [
   {
     firstName: 'Joseph Bjerg',
     attendancePoints: 10,
-    bfl: 2,
-    csPoints: 46,
+    bfl: 3,
+    csPoints: 56,
     first: 0,
     second: 1,
     top4: 1,
-    top8: 0,
+    top8: 1,
     top16: 0,
       img1: '../assets/sprites/arceus.png',
       img2: '../assets/sprites/moltres-galar.png'
