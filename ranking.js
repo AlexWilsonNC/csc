@@ -112,12 +112,12 @@ let players = [
   },
   {
     firstName: 'Caleb Rogerson',
-    attendancePoints: 20,
+    attendancePoints: 21,
     bfl: 10,
     csPoints: 424,
     first: 4, // mew 3 & 1 30+
     second: 4, // mew 2 | arc int 1
-    top4: 5, // mew 4
+    top4: 6, // mew 4
     top8: 4, // weez 30+ | mew 1 30+
     top16: 1,
     // top 4 regionals
@@ -271,7 +271,7 @@ let players = [
   },
   {
     firstName: 'Jennifer Perez',
-    attendancePoints: 14,
+    attendancePoints: 15,
     bfl: 1,
     csPoints: 10,
     first: 0,
@@ -505,7 +505,7 @@ let players = [
   },
   {
     firstName: 'Carl Simpson',
-    attendancePoints: 18,
+    attendancePoints: 19,
     bfl: 10,
     csPoints: 228,
     first: 3, // arc ir caly 3 (2 30+)
@@ -518,13 +518,13 @@ let players = [
   },
   {
     firstName: 'Nathan Osterkatz',
-    attendancePoints: 10,
+    attendancePoints: 11,
     bfl: 10,
     csPoints: 402,
     first: 3, // mew 1 | arc int 2
     second: 0,
     top4: 3, // 30+ players mew 1 | arc int 2
-    top8: 1, // mew
+    top8: 2, // mew
     top16: 1,
     // regionals 1st jr
     // naic 1st jr
@@ -556,19 +556,6 @@ let players = [
       top16: 0,
       img1: '../assets/sprites/arceus.png',
       img2: '../assets/sprites/moltres-galar.png'
-  },
-  {
-    firstName: 'Tony Vuong',
-    attendancePoints: 13,
-    bfl: 8,
-    csPoints: 128,
-    first: 0,
-    second: 1, // whim 1 30+
-    top4: 3, // 1 arc greed 1
-    top8: 3, // ursh 2 | arc greed
-    top16: 1,
-    img1: '../assets/sprites/whimsicott.png',
-    img2: '../assets/sprites/blank.png'
   },
   {
     firstName: 'Cole Lewis',
@@ -849,7 +836,7 @@ let players = [
   },
   {
     firstName: 'Taylor Greenstreet',
-    attendancePoints: 22,
+    attendancePoints: 23,
     bfl: 10,
     csPoints: 258,
     first: 3, // suicune 1 | rs urshi 2
@@ -862,7 +849,7 @@ let players = [
   },
   {
     firstName: 'Kevin Fallin',
-    attendancePoints: 23,
+    attendancePoints: 24,
     bfl: 10,
     csPoints: 262,
     first: 4, // rs intel 1 | mew 3
@@ -889,13 +876,13 @@ let players = [
   },
   {
     firstName: 'James (Jay) Quick',
-    attendancePoints: 16,
+    attendancePoints: 17,
     bfl: 10,
     csPoints: 178,
     first: 2, // mew 1
     second: 0,
     top4: 1, // MEW 1
-    top8: 5, // 30+ players mew | ir caly 
+    top8: 6, // 30+ players mew | ir caly 
     top16: 2,
     // top 256 naic
     img1: '../assets/sprites/mew.png',
@@ -1085,6 +1072,19 @@ let players = [
     img2: '../assets/sprites/moltres-galar.png'
   },
   {
+    firstName: 'Tony Vuong',
+    attendancePoints: 14,
+    bfl: 9,
+    csPoints: 144,
+    first: 0,
+    second: 1, // whim 1 30+
+    top4: 4, // 1 arc greed 1
+    top8: 3, // ursh 2 | arc greed
+    top16: 1,
+    img1: '../assets/sprites/whimsicott.png',
+    img2: '../assets/sprites/blank.png'
+  },
+  {
     firstName: 'Gabriel Hernandez',
     attendancePoints: 8,
     bfl: 4,
@@ -1190,13 +1190,13 @@ let players = [
   },
   {
     firstName: 'Nicholas Fry',
-    attendancePoints: 3,
-    bfl: 1,
-    csPoints: 16,
+    attendancePoints: 4,
+    bfl: 2,
+    csPoints: 26,
     first: 0,
     second: 0,
     top4: 1,
-    top8: 0,
+    top8: 1,
     top16: 0,
       img1: '../assets/sprites/palkia-origin.png',
       img2: '../assets/sprites/bibarel.png'
@@ -1686,11 +1686,11 @@ let players = [
   },
   {
     firstName: 'Evan Lee',
-      attendancePoints: 21,
+      attendancePoints: 22,
       bfl: 10,
-      csPoints: 336,
+      csPoints: 350,
       first: 4, // mew 3
-      second: 5, // 30+ players mew 1 | mew 1
+      second: 6, // 30+ players mew 1 | mew 1
       top4: 5, // mew 3 (1 30+)
       top8: 2, // mew 2
       top16: 1,
@@ -1725,7 +1725,7 @@ let players = [
   },
   {
     firstName: 'Alfredo Sepulveda',
-      attendancePoints: 2,
+      attendancePoints: 3,
       bfl: 0,
       csPoints: 0,
       first: 0,
@@ -2246,13 +2246,13 @@ let players = [
   },
   {
     firstName: 'Elijah Crane',
-      attendancePoints: 19,
-      bfl: 5,
-      csPoints: 60,
+      attendancePoints: 20,
+      bfl: 6,
+      csPoints: 70,
       first: 0,
       second: 0,
       top4: 0,
-      top8: 4, // 1 whim
+      top8: 5, // 1 whim
       top16: 2,
       img1: '../assets/sprites/whimsicott.png',
       img2: '../assets/sprites/blank.png'
@@ -2298,7 +2298,7 @@ let players = [
   },
   {
     firstName: 'Kevin Rogerson',
-      attendancePoints: 13,
+      attendancePoints: 14,
       bfl: 4,
       csPoints: 52,
       first: 0,
@@ -2753,7 +2753,7 @@ let players = [
   },
   {
     firstName: 'Erik Nance',
-    attendancePoints: 8,
+    attendancePoints: 9,
     bfl: 6,
     csPoints: 72,
     first: 0,
@@ -2766,7 +2766,7 @@ let players = [
   },
   {
     firstName: 'Naomi Nance',
-    attendancePoints: 7,
+    attendancePoints: 8,
     bfl: 0,
     csPoints: 0,
     first: 0,
@@ -2948,7 +2948,7 @@ let players = [
   },
   {
     firstName: 'Diego Valdivia',
-      attendancePoints: 5,
+      attendancePoints: 6,
       bfl: 0,
       csPoints: 0,
       first: 0,
@@ -3521,7 +3521,7 @@ let players = [
   },
   {
     firstName: 'Ty Wilson',
-      attendancePoints: 10,
+      attendancePoints: 11,
       bfl: 3,
       csPoints: 30,
       first: 0,
@@ -3938,7 +3938,7 @@ let players = [
   },
   {
     firstName: 'Henry Younkin',
-    attendancePoints: 4,
+    attendancePoints: 5,
     bfl: 0,
     csPoints: 0,
     first: 0,
@@ -4055,7 +4055,7 @@ let players = [
   },
   {
     firstName: 'John Zisek',
-    attendancePoints: 1,
+    attendancePoints: 2,
     bfl: 0,
     csPoints: 0,
     first: 0,
@@ -4222,19 +4222,19 @@ let players = [
       img1: '../assets/sprites/arceus.png',
       img2: '../assets/sprites/moltres-galar.png'
   },
-  {
-    firstName: 'Alex Robbins',
-    attendancePoints: 13,
-    bfl: 5,
-    csPoints: 90,
-    first: 0,
-    second: 1, // expanded dark
-    top4: 1, // mew 30+
-    top8: 3, // mew 2
-    top16: 0,
-    img1: '../assets/sprites/mew.png',
-    img2: '../assets/sprites/genesect.png'
-  },
+  // {
+  //   firstName: 'Alex Robbins',
+  //   attendancePoints: 13,
+  //   bfl: 5,
+  //   csPoints: 90,
+  //   first: 0,
+  //   second: 1, // expanded dark
+  //   top4: 1, // mew 30+
+  //   top8: 3, // mew 2
+  //   top16: 0,
+  //   img1: '../assets/sprites/mew.png',
+  //   img2: '../assets/sprites/genesect.png'
+  // },
   {
     firstName: 'Michael Marton',
     attendancePoints: 1,
