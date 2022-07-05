@@ -480,7 +480,7 @@ let players = [
   },
   {
     firstName: 'Corey Mesimer',
-    attendancePoints: 2,
+    attendancePoints: 5,
     bfl: 1,
     csPoints: 10,
     first: 0,
