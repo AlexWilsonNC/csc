@@ -1790,20 +1790,6 @@ let players = [
       img2: '../assets/sprites/blank.png'
   },
   {
-    firstName: 'Andrew Wisniewsky',
-      attendancePoints: 5,
-      bfl: 4,
-      csPoints: 96,
-      first: 0,
-      second: 0,
-      top4: 2, // 30+ players
-      top8: 1,
-      top16: 0,
-      // top 64 naic
-      img1: '../assets/sprites/zacian-crowned.png',
-      img2: '../assets/sprites/zamazenta-crowned.png'
-  },
-  {
     firstName: 'Ryan Moore',
       attendancePoints: 6,
       bfl: 2,
@@ -2075,6 +2061,20 @@ let players = [
       top16: 0,
       img1: '../assets/sprites/arceus.png',
       img2: '../assets/sprites/moltres-galar.png'
+  },
+  {
+    firstName: 'Andrew Wisniewsky',
+      attendancePoints: 5,
+      bfl: 4,
+      csPoints: 106,
+      first: 0,
+      second: 0,
+      top4: 2, // 30+ players
+      top8: 1,
+      top16: 0,
+      // top 64 naic
+      img1: '../assets/sprites/zacian-crowned.png',
+      img2: '../assets/sprites/zamazenta-crowned.png'
   },
   {
     firstName: 'Kermit Jones',
