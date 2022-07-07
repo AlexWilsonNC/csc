@@ -2070,7 +2070,7 @@ let players = [
       first: 0,
       second: 0,
       top4: 2, // 30+ players
-      top8: 1,
+      top8: 2,
       top16: 0,
       // top 64 naic
       img1: '../assets/sprites/zacian-crowned.png',
