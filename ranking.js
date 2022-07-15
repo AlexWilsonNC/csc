@@ -31,20 +31,20 @@ let players = [
     img1: '../assets/sprites/arceus.png',
     img2: '../assets/sprites/calyrex-ice-rider.png'
   },
-  // {
-  //   firstName: 'Alex Wilson',
-  //   attendancePoints: 17,
-  //   bfl: 10,
-  //   csPoints: 208,
-  //   first: 0,
-  //   second: 3, // retro 1 | arc moltr 1
-  //   top4: 2, // 2010 1 | mew 1
-  //   top8: 5, // mew 1 | 2010 1 | rs ursh 2 | arc ursh 1 30+
-  //   top16: 1,
-  //   // top 256 regionals
-  //     img1: '../assets/sprites/arceus.png',
-  //     img2: '../assets/sprites/moltres-galar.png'
-  // },
+  {
+    firstName: 'Alex Wilson',
+    attendancePoints: 17,
+    bfl: 10,
+    csPoints: 208,
+    first: 0,
+    second: 3, // retro 1 | arc moltr 1
+    top4: 2, // 2010 1 | mew 1
+    top8: 5, // mew 1 | 2010 1 | rs ursh 2 | arc ursh 1 30+
+    top16: 1,
+    // top 256 regionals
+      img1: '../assets/sprites/arceus.png',
+      img2: '../assets/sprites/moltres-galar.png'
+  },
   {
     firstName: 'Samuel Roach',
     attendancePoints: 12,
