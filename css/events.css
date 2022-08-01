@@ -129,6 +129,17 @@ hr {
     justify-content: space-between;
     align-items: center;
 }
+.center-imgin {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.yuppers {
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+}
 .result p {
     font-size: 18px;
 }
@@ -249,5 +260,8 @@ p a {
     }
     .one-more {
         margin-bottom: 7px;
+    }
+    .small-p {
+        width: 80%;
     }
 }

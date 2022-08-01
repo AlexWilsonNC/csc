@@ -137,6 +137,11 @@ article p,
 .main-compete p {
     font-size: 20px;
 }
+.small-p {
+    font-size: 16px;
+    font-weight: 200;
+    max-width: 50%;
+}
 
 .readmore {
     color: rgb(228, 0, 0);
@@ -158,6 +163,10 @@ article p,
 
 .main-compete * {
     margin-bottom: 15px;
+}
+.main-compete img {
+    width: 40%;
+    border-radius: 25px;
 }
 
 #champion {
@@ -383,6 +392,11 @@ footer a {
         opacity: 0.35;
         bottom: 20px;
         right: 20px;
+    }
+    .small-p {
+        font-size: 12px;
+        font-weight: 200;
+        max-width: 80%;
     }
 }
 
