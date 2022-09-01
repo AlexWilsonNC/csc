@@ -50,8 +50,14 @@
 #top-info {
     display: flex;
     align-items: center;    
+    justify-content: center;    
     flex-direction: column;
-    margin-top: 10px auto;
+    margin: 10px auto;
+}
+.last-events {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .name-n-date,

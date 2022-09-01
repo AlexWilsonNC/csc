@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='icon' href='../assets/logo.png' type='image/x-icon'>
-    <title>Carolina Series | Rankings</title>
+    <title>South East Series | Rankings</title>
     <link rel="stylesheet" href="../style.css">
     <link rel="stylesheet" href="../css/alert.css">
     <link rel="stylesheet" href="../css/rankings.css">
@@ -46,23 +46,22 @@
 
     <main>
         <div id='reminder'>
-            <p>• The Top 32 players in CS Points earn an Invitation to States. Including anyone with the same amount of
-                CS Points as 32nd Place.</p>
-            <p>• The Top 8 players in CS Points receive a Round-One bye at the State Championships.</p>
-            <p>* (Top 8 tie-breakers decided by fewest Attendance Points)</p>
-            <p>• The Top 4 players in Attendance Points (that aren't in Top 32) earn an Invitation to the State Championships.</p>
-            <p>* (Any players with the same amount of Attendance Points as 4th included.)</p>
-            <p>• Players with at least 3 Attendance Points can compete in the Last Chance Qualifier on July 30th.</p>
+            <p>• Players that earn 100 or more CS Points earn an invitation to the SE Grand Prix.</p>
+            <p>• Players that earn 200 or more CS Points earn a Round-One bye at the SE Grand Prix.</p>
+            <p>• The Top 4 players in Attendance Points (that dont reach 100 CS Points) earn an Invitation to the SE Grand Prix.</p>
+            <p>* (Included any players with the same amount of Attendance Points as 4th place.)</p>
+            <p>• Players with at least 1 Attendance Point (that dont reach 100 CS Points) can compete in the SE Grand Prix's Last Chance Qualifier.</p>
+            <p>* (The top finishers of the LCQ get to compete in the SE Grand Prix the next day.)</p>
         </div>
         <div class='sort-buttons'>
             <button class='sort-btn sort-name'>First Name</button>
-            <a href='./attendance.html' class='sort-btn sort-a-points'>Attendance Points</a>
+            <button class='sort-btn sort-a-points'>Attendance Points</button>
             <button class='sort-btn sort-cs-points'>CS Points</button>
         </div>
 
         <div id="rankings">
             <div id="rank-intro">
-                <h2>2022 Rankings</h2>
+                <h2>2023 Rankings</h2>
                 <p>Click on a player's name to see their stats.</p>
                 <p style='font-style: italic;'>(Only available for players who've made cut)</p>
             </div>
@@ -75,6 +74,7 @@
             <hr>
             <ol class='list'>
                 <!--ranking.js list_items-->
+                <h3 style='text-align: center;'>Event's haven't started yet, but here's where you can see player's rankings and accomplishments.</h3>
             </ol>
         </div>
         <div id='modal-section'>
@@ -90,17 +90,17 @@
                     <p>Attendance Points: <span class='modal-ap'>-</span></p>
                     <p>Best Finish Limit: <span class='modal-bfl'>-</span></p>
                 </div>
-                <p class='update'>Once a player's BFL is reached, only finishes higher than their worst can add CS Points to their ranking.</p>
+                <p class='update'>Once a player's BFL is reached, only finishes higher than their lesser can add CS Points to their ranking.</p>
                 <p class='modal-places'>1st Place: <span class='tiny-x'>x</span><span class='place1'>-</span></p>
                 <p class='modal-places'>2nd Place: <span class='tiny-x'>x</span><span class='place2'>-</span></p>
                 <p class='modal-places'>Top 4 Finish: <span class='tiny-x'>x</span><span class='place3'>-</span></p>
                 <p class='modal-places'>Top 8 Finish: <span class='tiny-x'>x</span><span class='place4'>-</span></p>
                 <p class='modal-places'>Top 16 Finish: <span class='tiny-x'>x</span><span class='place5'>-</span></p>
-                <p class='modal-deck'>Player's Most Successful Deck</p>
+                <!-- <p class='modal-deck'>Player's Most Successful Deck</p>
                 <div class='modal-pics'>
                     <img class='modal-img1' src='' alt='pokemon'>
                     <img class='modal-img2' src='' alt='pokemon'>
-                </div>
+                </div> -->
                 <div class='stripe'></div>
             </div>
         </div>
@@ -124,7 +124,7 @@
 
     <script src='../js/close-alert.js'></script>
     <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
-    <script src='../ranking.js'></script>
+    <!-- <script src='./23-ranking.js'></script> -->
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     <script type="text/javascript">
         window.addEventListener('scroll', function () {
