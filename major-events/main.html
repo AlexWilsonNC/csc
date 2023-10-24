@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+
+    <meta property='og:title' content='PTCG Legends' />
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg' />
+    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!' />
+    <meta property='og:url' content='www.ptcglegends.com' />
+    <meta property='og:image:width' content='1200' />
+    <meta property='og:image:height' content='627' />
+    <title>PTCG Legends | Major Events</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../css/worlds.css">
+    <link rel="stylesheet" href="../css/nav.css">
+    <link rel="stylesheet" href="../css/nats.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6650820008666327"
+    crossorigin="anonymous"></script> -->
+</head>
+
+<body>
+    <nav id="top-navr">
+        <div id="nav-leftr">
+            <a href="../home">
+                <img src="" alt="pokeball logo">
+                <h1>PTCG <span class='legendsr'>Legends</span></h1>
+            </a>
+        </div>
+        <div class='push-right1'>
+            <ul id="nav-rightr">
+                <li><a href="../tournaments/upcoming">Tournaments <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down1'>
+                        <li><a href='../tournaments/upcoming'>Upcoming Events</a></li>
+                        <li><a href='../tournaments/completed'>Completed Events</a></li>
+                    </ul>
+                </li>
+                <li><a href="../event-archive">Event Archive <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down2'>
+                        <li><a href='../worlds/main'>Worlds</a></li>
+                        <li><a href='./main'>Major Events</a></li>
+                        <li><a href='../tournaments/regional-spe'>Regionals & SPEs</a></li>
+                    </ul>
+                </li>                
+                <li><a href="../decks-by-era/main">Decks by Era</a></li>
+                <li><a href="../articles/all">Articles</a></li>
+            </ul>
+            <nav role="navigation">
+                <div id="menuToggle">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <ul id="menu">
+                        <div class='push-right'>
+                            <div onclick='rememberButton(this.id)' id='toggle'>
+                                <i class='indicator'></i>
+                                <div></div>
+                                <div></div>
+                            </div>
+                        </div>
+                        <li class='bold tittle'><a href="../tournaments/upcoming">Tournaments</a></li>
+                        <li class='sub-nav'><a href="../tournaments/upcoming">Upcoming Events</a></li>
+                        <li class='sub-nav'><a href="../tournaments/completed">Completed Events</a></li>
+                        <li class='bold tittle'><a href="../event-archive">Event Archive</a></li>
+                        <li class='sub-nav'><a href="../worlds/main">World Championships</a></li>
+                        <li class='sub-nav'><a href="./main">Major Events (ICs, Nats, SCs)</a></li>
+                        <li class='sub-nav'><a href="../tournaments/regional-spe" >Regionals & SPEs</a>
+                        </li>
+                        <li class='bold tittle'><a href="../decks-by-era/main">Decks by Era</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../articles/all"  >Articles</a></li><li class='sub-nav'><a href="../articles/all">All Articles</a></li>
+                        <li class='sub-nav'><a href="../card-of-the-week/all">Card of the Week</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../other/main">Other</a></li>
+                        <li class='sub-nav'><a href="../card-database">Pokémon Card Database</a></li>
+                        <li class='sub-nav'><a href="../other/expansions">TCG Expansions</a></li>
+                        <li class='sub-nav'><a href="../other/rules-by-era">Rules by Era</a></li>
+                        <li class='sub-nav'><a href="../other/banned-cards">Banned Cards</a></li>
+                        <li class='sub-nav'><a href="../other/timeline">Historic Timeline</a></li>
+                        <li class='sub-nav'><a href="../other/worlds-booklets">Worlds Booklets</a></li>
+                        <li class='sub-nav'><a href="../archive-updates/all">Archive Updates</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../contact">Contact & Socials</a></li>
+                        <div class='social-popup'>
+                            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                                <img src='../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                                <img src='../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                                <img src='../assets/patreon.webp' />
+                            </a>
+                            <a href='mailto:ptcglegends@gmail.com'>
+                                <img src='../assets/email-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                        </div>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </nav>
+
+
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat1' href='./2016/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2016-nats-loc.jpg'>
+            <p>2016 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat2' href='./2016/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat2015-1' href='./2015/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2015-nats-loc.jpg'>
+            <p>2015 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat2015-2' href='./2015/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat2014-1' href='./2014/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2014-nats-loc.jpg'>
+            <p>2014 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat2014-2' href='./2014/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat2013-1' href='./2013/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2013-nats-loc.jpg'>
+            <p>2013 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat2013-2' href='./2013/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat2012-1' href='./2012/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2012-nats-loc.jpg'>
+            <p>2012 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat2012-2' href='./2012/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat2011-1' href='./2011/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2011-nats-loc.jpg'>
+            <p>2011 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat2011-2' href='./2011/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat20101' href='./2010/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/10-nats-loc.jpg'>
+            <p>2010 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat20102' href='./2010/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat20091' href='./2009/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2009-nats-loc.jpg'>
+            <p>2009 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat20092' href='./2009/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat2008-1' href='./2008/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2008-nats-loc.jpg'>
+            <p>2008 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat2008-2' href='./2008/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat2007-1' href='./2007/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2007-nats-loc.jpg'>
+            <p>2007 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat2007-2' href='./2007/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat2006-1' href='./2006/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2006-nats-loc.jpg'>
+            <p>2006 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat2006-2' href='./2006/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat2005-1' href='./2005/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2005-nats-loc.jpg'>
+            <p>2005 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat2005-2' href='./2005/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+    <div class='hidden-nats-container'>
+        <a class='other-cont-box hidden-nat2004-1' href='./2004/us-nats/summary' aria-label='nats'>
+            <img src='../assets/nats-logos/2004-nats-loc.jpg'>
+            <p>2004 US Nationals</p>
+        </a>
+        <a class='other-cont-box hidden-nat2004-2' href='./2004/global-nationals-results' aria-label='nats'>
+            <img src='../assets/nats-logos/others.jpg'>
+            <p>Global National Results</p>
+        </a>
+    </div>
+
+    <div class='behind-modal3'></div>
+
+    <div class='contain-worlds'>
+        <div class='worlds-icons'>
+            <!-- <a class='nats-box' href='./2024/laic/summary' aria-label='2024'>
+                <img src='../assets/nats-logos/24-laic.jpg'>
+                <p>2024 LAIC</p>
+            </a> -->
+            <a class='nats-box' href='./2023/naic/summary' aria-label='2023'>
+                <img src='../assets/nats-logos/23-naic.jpg'>
+                <p>2023 NAIC</p>
+            </a>
+            <a class='nats-box' href='./2023/euic/summary' aria-label='2023'>
+                <img src='../assets/nats-logos/23-euic2.jpg'>
+                <p>2023 EUIC</p>
+            </a>
+            <a class='nats-box' href='./2023/ocic/summary' aria-label='2023'>
+                <img src='../assets/nats-logos/23-ocic.jpg'>
+                <p>2023 OCIC</p>
+            </a>
+            <a class='nats-box' href='./2023/laic/summary' aria-label='2023'>
+                <img src='../assets/nats-logos/22-laic.jpg'>
+                <p>2023 LAIC</p>
+            </a>
+            <a class='nats-box' href='./2022/naic/summary' aria-label='2022'>
+                <img src='../assets/nats-logos/22-na.jpg'>
+                <p>2022 NAIC</p>
+            </a>
+            <a class='nats-box' href='./2022/euic/summary' aria-label='2022'>
+                <img src='../assets/nats-logos/22-eu.jpg'>
+                <p>2022 EUIC</p>
+            </a>
+            <a class='nats-box' href='./cups/25th/summary' aria-label='players cup'>
+                <img src='../assets/nats-logos/pcup-invitational.jpg'>
+                <p>PC Invitational</p>
+            </a>
+            <!-- <a class='nats-box' aria-label='players cup' style='pointer-events:none;'>
+                <img src='../assets/nats-logos/pcup4.jpg' style='opacity:0.3;'>
+                <p style='background-color: rgb(192, 192, 192);'>Players Cup IV</p>
+            </a> -->
+            <!-- <a class='nats-box' aria-label='players cup' style='pointer-events:none;'>
+                <img src='../assets/nats-logos/pcup3.jpg' style='opacity:0.3;'>
+                <p style='background-color: rgb(192, 192, 192);'>Players Cup III</p>
+            </a> -->
+            <!-- <a class='nats-box' aria-label='players cup' style='pointer-events:none;'>
+                <img src='../assets/nats-logos/pcup2.jpg' style='opacity:0.3;'>
+                <p style='background-color: rgb(192, 192, 192);'>Players Cup II</p>
+            </a> -->
+            <!-- <a class='nats-box' aria-label='players cup' style='pointer-events:none;'>
+                <img src='../assets/nats-logos/pcup1.jpg' style='opacity:0.3;'>
+                <p style='background-color: rgb(192, 192, 192);'>Players Cup I</p>
+            </a> -->
+            <a class='nats-box' href='./2020/ocic/summary' aria-label='2020'>
+                <img src='../assets/nats-logos/20-oc2.jpg'>
+                <p>2020 OCIC</p>
+            </a>
+            <a class='nats-box' href='./2020/laic/summary' aria-label='2020'>
+                <img src='../assets/nats-logos/20-la.jpg'>
+                <p>2020 LAIC</p>
+            </a>
+            <a class='nats-box' href='./2019/naic/summary' aria-label='2019'>
+                <img src='../assets/nats-logos/19-na.jpg'>
+                <p>2019 NAIC</p>
+            </a>
+            <a class='nats-box' href='./2019/euic/summary' aria-label='2019'>
+                <img src='../assets/nats-logos/19-eu.jpg'>
+                <p>2019 EUIC</p>
+            </a>
+            <a class='nats-box' href='./2019/ocic/summary' aria-label='2019'>
+                <img src='../assets/nats-logos/19-oc.jpg'>
+                <p>2019 OCIC</p>
+            </a>
+            <a class='nats-box' href='./2019/laic/summary' aria-label='2019'>
+                <img src='../assets/nats-logos/19-la.jpg'>
+                <p>2019 LAIC</p>
+            </a>
+            <a class='nats-box' href='./2018/naic/summary' aria-label='2018'>
+                <img src='../assets/nats-logos/18-na.jpg'>
+                <p>2018 NAIC</p>
+            </a>
+            <a class='nats-box' href='./2018/laic/summary' aria-label='2018'>
+                <img src='../assets/nats-logos/18-la.jpg'>
+                <p>2018 LAIC</p>
+            </a>
+            <a class='nats-box' href='./2018/ocic/summary' aria-label='2018'>
+                <img src='../assets/nats-logos/18-oc.jpg'>
+                <p>2018 OCIC</p>
+            </a>
+            <a class='nats-box' href='./2018/euic/summary' aria-label='2018'>
+                <img src='../assets/nats-logos/18-eu.jpg'>
+                <p>2018 EUIC</p>
+            </a>
+            <a class='nats-box' href='./2017/naic/summary' aria-label='2017'>
+                <img class='thin' src='../assets/nats-logos/17-na.jpg'>
+                <p>2017 NAIC</p>
+            </a>
+            <a class='nats-box' href='./2017/laic/summary' aria-label='2017'>
+                <img class='thin' src='../assets/nats-logos/17-la.jpg'>
+                <p>2017 LAIC</p>
+            </a>
+            <a class='nats-box' href='./2017/ocic/summary' aria-label='2017'>
+                <img class='thin' src='../assets/nats-logos/17-oc.jpg'>
+                <p>2017 OCIC</p>
+            </a>
+            <a class='nats-box' HREF='./2017/euic/summary' aria-label='2017'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/17-eu.jpg'>
+                <p>2017 EUIC</p>
+            </a>
+            <a class='nats-box open-country-nats' aria-label='2016' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/16-nats.jpg'>
+                <p>2016 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2015' aria-label='2015' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/2015-us-nats.jpg'>
+                <p>2015 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2014' aria-label='2014' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/2016-us-nats.jpg'>
+                <p>2014 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2013' aria-label='2013' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/2013-nats.png'>
+                <p>2013 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2012' aria-label='2012' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/2012-nats.png'>
+                <p>2012 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2011' aria-label='2011' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/2011-nats.png'>
+                <p>2011 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2010' aria-label='2016' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/10-garchomp-overlay.png'>
+                <p>2010 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2009' aria-label='2009' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/08-infernape-overlay.png'>
+                <p>2009 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2008' aria-label='2008' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/09-empoleon-overlay.png'>
+                <p>2008 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2007' aria-label='2007' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/07-torterra-overlay.png'>
+                <p>2007 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2006' aria-label='2006' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/06-raichu-overlay.png'>
+                <p>2006 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2005' aria-label='2005' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/05-ludicolo-overlay.png'>
+                <p>2005 Nationals</p>
+            </a>
+            <a class='nats-box open-country-nats2004' aria-label='2004' style='cursor:pointer;'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/04-gardevoir-overlay.png'>
+                <p>2004 Nationals</p>
+            </a>
+            <a class='nats-box' href='./2004/west-coast-stadium-challenge/summary' aria-label='2004'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/04-rayquaza-overlay.jpg'>
+                <p>2004 WCSC</p>
+            </a>
+            <a class='nats-box' href='./2004/east-coast-stadium-challenge/summary' aria-label='2004'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/04-blaziken-overlay.jpg'>
+                <p>2004 ECSC</p>
+            </a>
+            <a class='nats-box' href='./2004/south-stadium-challenge/summary' aria-label='2004'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/04-metagross-overlay.jpg'>
+                <p>2004 SSC</p>
+            </a>
+            <a class='nats-box' href='./2002/west-coast-stadium-challenge/summary' aria-label='2002'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/03-stadium-challenge-act.png'>
+                <p>2002 WCSC</p>
+            </a>
+            <a class='nats-box' href='./2002/central-stadium-challenge/summary' aria-label='2002'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/03-c-stadium-challenge-act.png'>
+                <p>2002 CSC</p>
+            </a>
+            <a class='nats-box' href='./2002/east-coast-stadium-challenge/summary' aria-label='2002'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/03-stadium-challenge-act-ec.png'>
+                <p>2002 ECSC</p>
+            </a>
+            <a class='nats-box' href='./2001/ca-super-trainer-showdown/summary' aria-label='2001'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/rk9-sts.jpg'>
+                <p>2001 CA STS</p>
+            </a>
+            <a class='nats-box' href='./2001/nj-super-trainer-showdown/summary' aria-label='2001'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/mewtwo-sts.jpg'>
+                <p>2001 NJ STS</p>
+            </a>
+            <a class='nats-box' href='./2000/nj-super-trainer-showdown/summary' aria-label='2000'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/map-orange-overlay_cleanup-overlay.jpg'>
+                <p>2000 NJ STS</p>
+            </a>
+            <a class='nats-box' href='./2000/ca-super-trainer-showdown/summary' aria-label='2000'>
+                <img loading="lazy" class='thin' src='../assets/nats-logos/mep3-overlay-overlay.webp'>
+                <p>2000 CA STS</p>
+            </a>
+        </div>
+    </div>
+
+    <!-- <div style='display: flex;justify-content: center;'>
+        <p class='copyright'>All images on this page are owned and copyrighted by Play! Pokémon.</p>
+    </div> -->
+
+    <footer class='era-footer'>
+        <div id='foot-top'>
+            <a href="../tournaments/upcoming">Tournaments</a>
+            <a href="../event-archive">Event Archive</a>
+            <a href="../decks-by-era/main">Decks by Era</a>
+            <a href="../articles/all">Articles</a>
+        </div>
+        <div class='foot-mid'>
+            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                <img src='../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                <img src='../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                <img src='../assets/patreon.webp' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='../assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+        </div>
+        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon
+            Trading Card Game, including card text and images and tournament-related content, are copyrights of The
+            Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast.
+            This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company
+            (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This
+            website is simply a place for Pokémon TCG fans to look at events and results from the
+            greatest game in history!</div>
+    </footer>
+    <script src='../darkmode/darkmode-nats.js'></script>
+    <script src='./country.js'></script>
+
+</body>
+
+</html>

@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+
+    <meta property='og:title' content='PTCG Legends'/>
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg'/>
+    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
+    <meta property='og:url' content='www.ptcglegends.com'/>
+    <meta property='og:image:width' content='1200' />
+    <meta property='og:image:height' content='627' />    <title>PTCG Legends | 2000 CA Super Trainer Showdown</title>
+    <link rel="stylesheet" href="../../../style.css">
+    <link rel="stylesheet" href="../../../css/nav.css">
+    <link rel="stylesheet" href="../../../css/worlds.css">
+    <link rel="stylesheet" href="../../../css/era.css">
+    <link rel="stylesheet" href="../../../css/nats.css">
+    <link rel="stylesheet" href="../../../css/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6650820008666327"
+    crossorigin="anonymous"></script> -->
+</head>
+
+<body>
+    <nav id="top-navr">
+        <div id="nav-leftr">
+            <a href="../../../home">
+                <img src="" alt="pokeball logo">
+                <h1>PTCG <span class='legendsr'>Legends</span></h1>
+            </a>
+        </div>
+        <div class='push-right1'>
+            <ul id="nav-rightr">
+                <li><a href="../../../tournaments/upcoming">Tournaments <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down1'>
+                        <li><a href='../../../tournaments/upcoming'>Upcoming Events</a></li>
+                        <li><a href='../../../tournaments/completed'>Completed Events</a></li>
+                    </ul>
+                </li>
+                <li><a href="../../../event-archive">Event Archive <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down2'>
+                        <li><a href='../../../worlds/main'>Worlds</a></li>
+                        <li><a href='../../main'>Major Events</a></li>
+                        <li><a href='../../../tournaments/regional-spe' >Regionals & SPEs</a></li>
+                    </ul>
+                </li>                
+                <li><a href="../../../decks-by-era/main">Decks by Era</a></li>
+                <li><a href="../../../articles/all"  >Articles</a></li>
+            </ul>
+            <nav role="navigation">
+                <div id="menuToggle">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <ul id="menu">
+                        <div class='push-right'>
+                            <div onclick='rememberButton(this.id)' id='toggle'>
+                                <i class='indicator'></i>
+                                <div></div>
+                                <div></div>
+                            </div>
+                        </div>
+                        <!-- <li class='bold tittle'><a href="#">Mainpage</a></li>
+                        <hr> -->
+                        <li class='bold tittle'><a href="../../../tournaments/upcoming">Tournaments</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/upcoming">Upcoming Events</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/completed">Completed Events</a></li>
+                        <li class='bold tittle'><a href="../../../event-archive">Event Archive</a></li>
+                        <li class='sub-nav'><a href="../../../worlds/main">World Championships</a></li>
+                        <li class='sub-nav'><a href="../../main">Major Events (ICs, Nats, SCs)</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/regional-spe" >Regionals & SPEs</a>
+                        </li>
+                        <li class='bold tittle'><a href="../../../decks-by-era/main">Decks by Era</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../articles/all"  >Articles</a></li>
+                        <li class='sub-nav'><a href="../../../articles/all">All Articles</a></li>
+                        <li class='sub-nav'><a href="../../../card-of-the-week/all">Card of the Week</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../other/main">Other</a></li>
+                        <li class='sub-nav'><a href="../../../card-database">Pokémon Card Database</a></li>
+                        <li class='sub-nav'><a href="../../../other/expansions">TCG Expansions</a></li>
+                        <li class='sub-nav'><a href="../../../other/rules-by-era">Rules by Era</a></li>
+                        <li class='sub-nav'><a href="../../../other/banned-cards">Banned Cards</a></li>
+                        <li class='sub-nav'><a href="../../../other/timeline">Historic Timeline</a></li>
+                        <li class='sub-nav'><a href="../../../other/worlds-booklets">Worlds Booklets</a></li>
+                        <li class='sub-nav'><a href="../../../archive-updates/all">Archive Updates</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../contact">Contact & Socials</a></li>
+                        <div class='social-popup'>
+                            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                                <img src='../../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                                <img src='../../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                                <img src='../../../assets/patreon.webp' />
+                            </a>
+                            <a href='mailto:ptcglegends@gmail.com'>
+                                <img src='../../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                        </div>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </nav>
+
+    <div class='contain-extra-nav'>
+        <div class='extra-nav'>
+            <a href='./summary' class="active-extra underline">Summary</a>
+            <a href='./results'>Results</a>
+            <a style='color:rgb(101, 101, 101);pointer-events:none;'>Streams</a>
+            <a href='./pictures'>Pictures</a>
+        </div>
+    </div>
+
+    <div class='contain-event'>
+         <div id="zoom-card-box"></div>
+        <div class='event-content'>
+            <div class='summary'>
+                <div class='summ-left'>
+
+                    <div class='hidden-top-summ'>
+                        <div class='hidden-img'>
+                            <img class='worlds-logo7' style="margin-bottom: 10px" src='../../../assets/nats-logos/super-trainer-showdown-logo.png'>
+                            <p>July 22, 2000</p>
+                            <p>Long Beach, California US</p>
+                        </div>
+                    </div>
+                    <img class='big-pika' src='../../../assets/2000/mewtwo.png'>
+                    <h2>2000 CA Super Trainer Showdown</h2>
+                    <a href='#sets' class='set-btn'>Base Set - Team Rocket</a>
+                    <hr class='worlds-hr'>
+
+                    <div class='hidden-top-summ'>
+                        <div class='hidden-loc'>
+                            <img class='worlds-loc2' src='../../../assets/nats-logos/00-ca-sts.jpg'>
+                            <p>The Queen Mary</p>
+                            <a href='https://goo.gl/maps/js7T6B9pfak6ayxA8' target='_'>1126 Queens Hwy</a>
+                        </div>
+                    </div>
+
+                    <hr class='hidden-hr'>
+
+                    <div class='worlds-paragraph'>
+                        <p>• The 2000 California (West Coast) Super Trainer Showdown was the first ever major event that Wizards of the Coast held in North America. More than 7,000 Pokémon fans from all around the world showed up in anticipation of this exciting moment in history, but less than 1,000 people were actually permitted inside of The Quenn Mary for this free-to-play event. Around 6,000 people were greeted with apologies from event staff and simply given a Team Rocket Booster pack and a free ticket to tour the ship as a consolation prize.</p>
+                        <p style='margin-top:20px;'>• This tournament consisted of 8 swiss Rounds followed by a Top Cut of 8, all rounds were Best-of-One.</p>
+                    </div>
+
+                    <h4 class='prizing-header hidden-item'>Prizing:</h4>
+                    <div class='hidden-prizing'>
+                        <div class='hidden-prize-left'>
+                            <div class='prize-zone'>
+                                <p>• 1st Place</p>
+                                <p>54 Packs</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• 2nd Place</p>
+                                <p>36 Packs</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 4</p>
+                                <p>24 Packs</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 8</p>
+                                <p>16 Packs</p>
+                            </div>
+                        </div>
+                        <div class='hidden-prize-right'>
+                            <p class='small-text center italic'>(1st Place received an event jacket, cap & gold medal.)</p>
+                            <p class='small-text center italic'>(2nd Place received an event jacket, cap & silver medal.)</p>
+                            <p class='small-text center italic'>(Top 4 finishers received an event jacket, cap & bronze medal.)</p>
+                            <p class='small-text center italic'>(Top 8 finishers received an event cap.)</p>
+                            <p class='small-text center italic'>(Top 16 finishers also received 12 Booster Packs.)</p>
+                            <p class='small-text center italic'>(Top 32 finishers also received 8 Booster Packs.)</p>
+                        </div>
+                    </div>
+
+                    <!-- <div class='promo-card2 hidden-item'>
+                        <h3>Event's Promo Card</h3>
+                        <p>Metang (English)</p>
+                        <img src='../../../assets/promos/04-metang.webp' class='zoomed'>
+                    </div> -->
+
+
+
+                    <div class='sets' id='sets'>
+                        <h3 style='margin:10px 0px;'>Legal Sets:</h3>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/base-set.png' class='set-icon' alt='set-icon'>
+                                <strong class='legal-promos'>Base Set</strong>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/jungle-icon.png' class='set-icon' alt='set-icon'>
+                                <img src='../../../assets/sets/jungle.webp' class='set-logo-big'
+                                    alt='set-logo old-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/fossil-icon.png' class='set-icon' alt='set-icon'>
+                                <img src='../../../assets/sets/fossil.webp' class='set-logo-big'
+                                    alt='set-logo old-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/team-rocket-icon.png' class='set-icon' alt='set-icon'>
+                                <img src='../../../assets/sets/team-rocket.png' class='set-logo'
+                                    alt='set-logo old-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <div class='promo-alignment-worlds'>
+                                    <img src='../../../assets/sets/black-star-promo-icon.png' alt='set-logo'>
+                                    <strong class='legal-promos'># 1 - 16</strong>
+                                </div>
+                            </div>
+                        </div>
+                        <h3 style='margin:10px 0px;'>Banned Card(s):</h3>
+                        <div style='display: flex;flex-direction: row;' class='center-small-only'>
+                            <a href='../../../other/banned-cards#mew'>
+                                <img src='../../../assets/banned/ancient-mew-jp.webp' alt='banned card'
+                                    class='pok-card-banned-era' style='margin-left: 10px;'>
+                            </a>
+                        </div>
+                    </div>
+
+
+                    
+                </div>
+                <div class='summ-right'>
+                    <img class='worlds-logo7 hide-it' style="margin-bottom: 20px" src='../../../assets/nats-logos/super-trainer-showdown-logo.png'>
+                    <p class='hide-it'>Long Beach, California US</p>
+                    <p class='hide-it'>July 22, 2000</p>
+                    <img class='worlds-loc hide-it' src='../../../assets/nats-logos/00-ca-sts.jpg' style='width:90%;'>
+                    <p class='hide-it'>The Queen Mary</p>
+                    <a href='https://goo.gl/maps/js7T6B9pfak6ayxA8' target='_' class='hide-it'>1126 Queens Hwy</a>
+
+                    <h4 class='prizing-header hide-it'>Prizing:</h4>
+                    <div class='prize-zone hide-it'>
+                        <p>• 1st Place</p>
+                        <p>54 Packs</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• 2nd Place</p>
+                        <p>36 Packs</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 4</p>
+                        <p>24 Packs</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 8</p>
+                        <p>16 Packs</p>
+                    </div>
+
+                    <p class='small-text center italic hide-it'>(1st Place received an event jacket, cap & gold medal.)</p>
+                    <p class='small-text center italic hide-it'>(2nd Place received an event jacket, cap & silver medal.)</p>
+                    <p class='small-text center italic hide-it'>(Top 4 finishers received an event jacket, cap & bronze medal.)</p>
+                    <p class='small-text center italic hide-it'>(Top 8 finishers received an event cap.)</p>
+                    <p class='small-text center italic hide-it'>(Top 16 finishers also received 12 Booster Packs.)</p>
+                    <p class='small-text center italic hide-it'>(Top 32 finishers also received 8 Booster Packs.)</p>
+                   
+                    
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class='era-footer'>
+        <div id='foot-top'>
+            <a href="../../../tournaments/upcoming">Tournaments</a>
+            <a href="../../../event-archive">Event Archive</a>
+            <a href="../../../decks-by-era/main">Decks by Era</a>
+            <a href="../../../articles/all">Articles</a>
+        </div>
+        <div class='foot-mid'>
+            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                <img src='../../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                <img src='../../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                <img src='../../../assets/patreon.webp' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='../../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+        </div>
+        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon
+            Trading Card Game, including card text and images and tournament-related content, are copyrights of The
+            Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast.
+            This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company
+            (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This
+            website is simply a place for Pokémon TCG fans to look at events and results from the
+            greatest game in history!</div>
+    </footer>
+    <script src='../../../darkmode/darkmode-worlds-pages.js'></script>
+
+    <script src='../../../zoom.js'></script>
+     
+</body>
+
+</html>

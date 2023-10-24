@@ -1,0 +1,230 @@
+.center-me {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.upcoming-events {
+    width: 60%;
+    min-width: 60%;
+    margin-top: 10px;
+}
+.upcoming-events-table {
+    width: 100%;
+    margin: 25px 0px;
+}
+.all-tr:nth-of-type(2n) {
+    background-color: rgb(239, 239, 239);
+}
+.upcoming-events-table.darkon tr:nth-of-type(2n) {
+    background-color: #414141;
+}
+.new-red-bg {
+    border-top: 1px solid grey;
+}
+.new-red-bg:nth-of-type(2n) {
+    background-color: transparent !important;
+}
+
+.sort-events {
+    font-size: 16px;
+    font-weight: 600;
+    color: #464646;
+    margin-top: 15px;
+}
+.sort-events.darkon {
+    color: #E1E1E1;
+}
+.upcoming-events select {
+    margin-bottom: 5px;
+}
+#mySelect {
+    width: auto;
+    height: 30px;
+    font-size: 14px;
+    margin-top: 4px;
+    border-radius: 4px;
+    padding-left: 5px;
+}
+#mySelect:hover {
+    cursor: pointer;
+}
+
+.upcoming-events-table tr {
+    padding: 0px 50px
+}
+.upcoming-events-table th {
+    text-align:start;
+    height: 25px;
+    vertical-align: top;
+    color: #464646;
+    font-size: 14px;
+}
+.upcoming-events-table.darkon th {
+    color: #e1e1e1;
+}
+.upcoming-events-table td {
+    font-size: 15px;
+    max-height: 60px;
+    height: 58px;
+}
+.upcoming-events-table.darkon td {
+    color:white;
+}
+.upcoming-events-table.darkon div a {
+    color:white;
+}
+.upcoming-events-table td:nth-of-type(1) {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 0px 15px;
+}
+.upcoming-events-table td:nth-of-type(5) {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+table{border-collapse:collapse;}
+table div {
+    display: table-cell;
+    vertical-align: middle;
+}
+table div img,
+table div i {
+    margin-right: 10px;
+    width: 25px;height:auto;
+    border-radius: 30%;
+}
+.aligned {
+    vertical-align: top;
+}
+.event-type-logo2 {
+    width: 50px;height:auto;
+}
+td div a,
+table i {
+    color: black;
+}
+td div a:hover,
+table i:hover,
+.upcoming-events-table.darkon i,
+.upcoming-events-table.darkon div a:hover {
+    color: rgb(224, 160, 22);
+}
+/* .upcoming-events-table.darkon td div a:hover, */
+.upcoming-events-table.darkon i:hover {
+    color: white;
+}
+
+.upcoming-events-table tr th:nth-of-type(1),
+.upcoming-events-table tr td:nth-of-type(1),
+.upcoming-events-table tr th:nth-of-type(4),
+.upcoming-events-table tr th:nth-of-type(5),
+.upcoming-events-table tr td:nth-of-type(4),
+.upcoming-events-table tr td:nth-of-type(5) {
+    text-align: center;
+}
+
+@media screen and (max-width: 1200px) {
+    .upcoming-events-table th {
+        font-size: 10px;
+        height: 15px;
+    }
+    .upcoming-events-table td {
+        font-size: 13px;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .upcoming-events-table td {
+        font-size: 11px;
+        max-height: 50px;
+        height: 50px;
+    }
+    .hide-word {
+        display: none;
+    }
+    .event-type-logo2 {
+        width: 40px;
+    }
+    table div img,
+    table div i {
+        margin-right: 6px;
+        width: 15px;
+    }
+    .upcoming-events-table tr th:nth-of-type(4),
+    .upcoming-events-table tr td:nth-of-type(4) {
+        text-align: start;
+}
+}
+@media screen and (max-width: 900px) {
+    .upcoming-events {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .upcoming-events-table {
+        margin: 10px 0px 25px;
+    }
+}
+@media screen and (max-width: 850px) {
+    .event-type-logo2 {
+        width: 35px;
+    }
+    .upcoming-events-table td {
+        font-size: 10px;
+    }
+    .upcoming-events {
+        width: 80%;
+        min-width: 80%;
+    }
+}
+@media screen and (max-width: 620px) {
+    .upcoming-events {
+        width: 95%;
+        min-width: 95%;
+    }
+    .upcoming-events-table tr {
+        max-height: 50px;
+        padding: 0px 50px
+    }
+}
+@media screen and (max-width: 530px) {
+    .upcoming-events-table div {
+        white-space: nowrap;
+        overflow: hidden;
+    }
+    .upcoming-events-table td:nth-of-type(1) {
+        white-space: nowrap;
+        overflow: hidden;
+    }
+}
+@media screen and (max-width: 470px) {
+    .upcoming-events-table th {
+        font-size: 9px;
+    }
+    .upcoming-events-table td {
+        font-size: 8px;
+        max-height: 35px;
+        height: 35px;
+    }
+    table div img,
+    table div i {
+        margin-right: 5px;
+        width: 10px;
+    }
+    .event-type-logo2 {
+        width: 25px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .upcoming-events-table td {
+        padding: 0px 5px;
+    }
+    .upcoming-events-table th {
+        font-size: 7px;
+    }
+    .upcoming-events-table tr th:nth-of-type(1),
+    .upcoming-events-table tr th:nth-of-type(2) {
+        text-align: center;
+    }
+}

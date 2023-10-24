@@ -1,0 +1,1939 @@
+.database-searcher {
+    width: 90%;
+    height: auto;
+    background-color: rgb(45, 45, 45);
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    color: white;
+    text-shadow: 1px 1px 3px black;
+}
+.database-searcher.darkon {
+    background-color: #414141;
+    border: 2px solid black;
+}
+.margin-left {
+    margin-left: 13px;
+}
+.db-hr1 {
+    width: 35%;height:2px;
+    background-color: rgb(70, 70, 70);
+    position: relative;
+    margin-top: 5px;
+}
+.db-hr2 {
+    width: 100%;height:2px;
+    background-color: rgb(70, 70, 70);
+    position: relative;
+    margin-top: 25px;
+}
+.db-hr2.darkon, 
+.db-hr3.darkon {
+    background-color: black;
+}
+.db-hr3 {
+    width: 100%;height:2px;
+    background-color: rgb(70, 70, 70);
+    position: relative;
+    border:none;
+}
+.top-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 18%;
+    width: 100%;
+    margin-top: -25px;
+}
+.top-section img {
+    width:250px;
+    height:auto;
+    transform: rotate(10deg);
+    z-index: 10;
+    pointer-events: none;
+}
+.search-it {
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+    justify-content: flex-start;
+    /* margin: 0px 15px 25px 0px; */
+}
+.search-it p {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 10px; 
+}
+.search {
+    width: 225px;
+    padding: 7px;
+    border-radius: 4px;
+    color:black;
+    border: 2px solid rgb(105, 105, 105);
+}
+::placeholder {
+    color: rgb(190, 190, 190);
+}
+
+.scroll-top-btn {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    background-color: black;
+    border-radius: 50%;
+    font-size: 30px;
+    color:white;
+    padding: 10px 15px;
+    transition: ease all 0.2s;
+    z-index: 1559;
+}
+.scroll-top-btn:hover {
+    background-color: rgb(61, 61, 86);
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.75);
+}
+
+.database-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px 0px;
+}
+.all-cards {
+    width: 98%;
+    height:auto;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.all-cards img {
+    width: 200px;
+    height:auto;
+    margin: 7px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.65);
+    border-radius: 9px;
+}
+.seperator {
+    width: 90%;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(107, 107, 107);
+    height: 4px;
+    margin: 20px 0px 15px;
+}
+.set-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.set-info.darkon p {
+    color:white;
+}
+.live-set img {
+    width: 225px;height:auto;
+    margin-top: 10px;
+}
+.release-date {
+    margin: 5px 0px 3px;
+}
+
+.database-searcher h4 {
+    margin-top: 15px;
+}
+.collapse-select {
+    background-color: transparent;
+    color:white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 18px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    /* border-radius: 10px; */
+}
+.country-name {
+    display: flex;
+    align-items: center;
+}
+.set-white-box {
+    background-color: white;
+    cursor: pointer;
+    color:black;
+    padding: 10px;
+    font-size: 18px;
+    width: 90%;
+    height: 55px;
+    border: none;
+    text-align: left;
+    outline: none;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+    margin-top: 10px;
+    align-items: center;
+}
+.set-white-box.darkon {
+    background-color: rgb(20, 20, 20);
+    color:white;
+}
+.hello, .collapse-select:hover {
+  background-color: rgb(70, 70, 70);
+}
+.collapse-select.darkon:hover {
+  background-color: rgb(97, 97, 97);
+}
+.meep, .set-white-box:hover {
+  background-color: rgb(189, 189, 189);
+}
+.collapse-select:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+}
+.set-white-box:after {
+  content: '\002B';
+  color: black;
+  font-weight: bold;
+}
+.set-white-box.darkon:after {
+  color: white;
+}
+.hello:after,
+.meep:after {
+  content: "\2212";
+}
+.more-set-btns {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    width:100%;
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+}
+.set-logo0 {
+    height:45px;width:auto;
+    padding-left: 10px;
+}
+.set-logo {
+    height:35px;width:auto;
+    padding-left: 10px;
+}
+.set-logo2 {
+    height:24px;width:199px;
+    padding-left: 10px;
+}
+.set-logo3 {
+    height:28px;width:200px;
+    padding-left: 10px;
+}
+.set-logo4 {
+    height:60px;width:100px;
+    padding-left: 10px;
+}
+.set-logo5 {
+    height:45px;width:100px;
+    padding-left: 10px;
+}
+.search-open {
+  max-height: 0;
+  overflow: hidden;
+  transition: ease 0.2s ease-out;
+  width:100%;
+  display: flex;
+  justify-content: center;
+}
+.set-organizer {
+    width: 95%;height:auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 15px 0px;
+}
+.wrapper {
+    overflow: hidden; 
+    height: 200px;
+}
+.set-cube {
+    height:200px;width:175px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 7.5px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 5px 5px 15px black;
+    background: radial-gradient(circle at 50% 120%, #81e8f6, #76deef 10%, #055194 80%, #062745 100%);
+}
+.set-cube:before,
+.set-cube-promo:before {
+    content: "";
+    position: absolute;
+    background: radial-gradient(circle at 90% 100%, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0) 70%);
+    border-radius: 10%;
+    bottom: 4.5%;
+    left: 5%;
+    opacity: 0.3;
+    height: 100%;
+    width: 90%;
+    filter: blur(2px);
+    z-index: 2;
+}
+.set-cube:after,
+.set-cube-promo:after {
+    content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 2%;
+  left: 10%;
+  border-radius: 20%;
+  background: radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8) 14%, rgba(255, 255, 255, 0) 24%);
+  transform: translateX(-80px) translateY(-90px) skewX(-20deg);
+  filter: blur(10px);
+}
+.set-cube p {
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(2px) saturate(90%);
+    text-align: center;
+    height:24%;width:100%;
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: ease all 0.2s;
+}
+.set-cube:hover,
+.set-cube-promo:hover,
+.set-cube-skinny:hover {
+    cursor: pointer;
+    box-shadow: 2px 2px 7px black;
+}
+.set-cube-skinny {
+    height:100px;width:175px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 7.5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 5px 5px 15px black;
+}
+.set-cube-skinny img {
+    transform: scale(1.3);
+    transition: ease all 0.3s;
+}
+.set-cube-skinny h3 {
+    font-size: 22px;
+    text-shadow: none;
+    color: black;
+}
+.set-cube-promo {
+    height:200px;width:175px;
+    border-radius: 25px;
+    background-color: rgba(32, 32, 32, 0.5);
+    margin: 7.5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 5px 5px 15px black;
+}
+.set-cube-promo p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(2px) saturate(90%);
+    text-align: center;
+    height:100%;width:100%;
+}
+.set-cube-promo img {
+    width: 70%
+}
+.white-cube {
+    background-color: white;
+}
+.setit {
+    width: 100px;height:auto;
+}
+.setit2 {
+    width: 64px;height:auto;
+}
+.pogo {
+    width: 75px; height:45px;
+}
+.margin-bottom-ten {
+    margin-bottom: 10px;
+}
+
+.all-types {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%;
+    padding: 10px 0px;
+}
+.type-row-one {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+}
+.type-and-word {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 200px;height: auto;
+    margin: 1px 0px;
+    /* transition: ease all 0.2s; */
+}
+.regular-type {
+    transition: ease all 0.2s;
+}
+.type-and-word:hover {
+    cursor: pointer;
+}
+.type-and-word img {
+    width: 40px;height:auto;
+}
+.type-and-word p {
+    font-size: 18px;
+    margin-left: 5px;
+}
+.regular-type:hover img {
+    filter: opacity(0.4) grayscale(1);
+}
+.regular-type:hover p {
+    color: rgb(114, 114, 114);
+}
+.deselect {
+    border-radius: 50%;
+    transition: ease all 0.2s;
+}
+.bleepbbop:hover .deselect {
+    background-color: rgb(63, 147, 211);
+}
+/* .bleepbbop:hover p {
+    color: rgb(114, 114, 114);
+} */
+.database-card-in-list:hover {
+    cursor: pointer;
+}
+#zoomed-bg {
+    position: fixed;
+    z-index: 1999;
+    height: 100vh;
+    width: 100vw;
+    top: 0;
+    left: 0;
+
+    background: rgba(0, 0, 0, 0.9);
+
+    display: none;
+    align-items: center;
+    justify-content: center;
+
+    transition: all ease 0.3s;
+}
+#zoomed-bg.show {
+    display: flex;
+}
+#zoomed-bg img {
+    width: auto;
+    height: 90%;
+    object-fit: cover;
+}
+
+.artist-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 7.5px 10px;
+    overflow: hidden;
+    box-shadow: 5px 5px 15px black;
+}
+.artist-section img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 210px;
+    height: 125px;
+}
+.artist-section p {
+    font-size: 18px;
+    background-color: white;
+    color: black;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius:15px;
+    padding: 5px;
+    text-align: center;
+    width: 100%;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+}
+
+@media screen and (max-width: 700px) {
+    #zoomed-bg img {
+        height: 70%;
+    }
+}
+@media screen and (max-width: 600px) {
+    #zoomed-bg img {
+        height: 60%;
+    }
+}
+@media screen and (max-width: 500px) {
+    #zoomed-bg img {
+        height: auto;
+        width: 85%;
+    }
+}
+
+@media screen and (min-width: 1250px) {
+    .database-searcher {
+        width: 1100px;
+    }
+}
+@media screen and (min-width: 1250px) {
+    .all-types {
+        width: 80%;
+    }
+}
+@media screen and (max-width: 1100px) {
+    .live-set img {
+        width: 200px
+    }
+}
+@media screen and (max-width: 930px) {
+    .set-cube,
+    .set-cube-promo {
+        height:175px;
+        width:150px;
+    }
+}
+.set-cube:after,
+.set-cube-promo:after {
+  width: 100%;
+  height: 100%;
+  top: 13%;
+  left: 18%;
+  border-radius: 20%;
+  background: radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8) 14%, rgba(255, 255, 255, 0) 24%);
+  transform: translateX(-80px) translateY(-90px) skewX(-20deg);
+  filter: blur(10px);
+}
+@media screen and (max-width: 900px) {
+    .all-cards img {
+        width: 160px;
+    }
+}
+@media screen and (max-width: 880px) {
+    .search {
+        width: 180px;
+    }
+}
+@media screen and (max-width: 825px) {
+    .artist-section {
+        margin: 6px 8px;
+    }
+    .artist-section img {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        width: 178px;
+        height: 100px;
+    }
+}
+@media screen and (max-width: 813px) {
+    .set-cube,
+    .set-cube-promo {
+        height:150px;
+        width:125px;
+    }
+    .set-cube:after,
+    .set-cube-promo:after {
+      width: 100%;
+      height: 100%;
+      top: 21%;
+      left: 29%;
+      border-radius: 20%;
+      background: radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.8) 14%, rgba(255, 255, 255, 0) 24%);
+      transform: translateX(-80px) translateY(-90px) skewX(-20deg);
+      filter: blur(10px);
+    }
+    .set-cube-skinny {
+        height:75px;width:125px;
+    }
+    .setit {
+        width: 75px;height:auto;
+    }
+    .setit2 {
+        width: 50px;height:auto;
+    }
+    .pogo {
+        width: 60px; height:37px;
+    }
+    .type-and-word {
+        margin: 5px 0px;
+    }
+    .type-and-word img {
+        width: 30px;height:auto;
+    }
+    .type-and-word p {
+        font-size: 15px;
+        margin-left: 5px;
+    }
+}
+@media screen and (max-width: 750px) {
+    .search {
+        width: 150px;height:15px;
+    }
+    .margin-left {
+        font-size: 18px;
+    }
+    .top-section img {
+        width:175px;
+    }
+    .database-searcher h2 {
+        font-size: 16px;
+    }
+    .database-searcher h4 {
+        font-size: 12px;
+    }
+    .search-it p {
+        font-weight: 500;
+        font-size: 16px;
+        margin-bottom: 5px; 
+    }
+    .country-name p {
+        font-size: 16px;
+    }
+    .set-white-box {
+        padding: 10px;
+        width: 90%;
+        height: 45px;
+        border-radius: 10px;
+    }
+    .set-logo0 {
+        height:35px;width:auto;
+    }
+    .set-logo {
+        height:30px;width:auto;
+    }
+    .set-logo2 {
+        height:20px;width:170px;
+    }
+    .set-logo3 {
+        height:23px;width:170px;
+    }
+    .set-logo4 {
+        height:47.5px;width:85px;
+    }
+    .set-logo5 {
+        height:37px;width:90px;
+    }
+}
+@media screen and (max-width: 728px) {
+    .all-cards img {
+        width: 130px;
+        border-radius: 6px;
+    }
+    .live-set img {
+        width: 150px
+    }
+    .release-date,
+    .card-count {
+        font-size: 14px;
+    }
+    .seperator {
+        height: 2px;
+    }
+    .scroll-top-btn {
+        bottom: 37px;
+        right: 37px;
+        font-size: 24px;
+        padding: 10px 13px;
+    }
+}
+@media screen and (max-width: 726px) {
+    .artist-section p {
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 695px) {
+    .set-cube,
+    .set-cube-promo {
+        height:113px;
+        width:100px;
+        box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.845);
+    }
+    .set-cube:before,
+    .set-cube-promo:before {
+        background: radial-gradient(circle at 90% 100%, rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0) 70%);
+        border-radius: 24%;
+        bottom: 4.5%;
+        left: 7%;
+        opacity: 0.3;
+        height: 100%;
+        width: 90%;
+        filter: blur(2px);
+        z-index: 2;
+    }
+    .set-cube:after,
+    .set-cube-promo:after {
+      width: 100%;
+      height: 100%;
+      top: 44%;
+      left: 44%;
+      border-radius: 20%;
+      background: radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8) 14%, rgba(255, 255, 255, 0) 24%);
+      transform: translateX(-80px) translateY(-90px) skewX(-20deg);
+      filter: blur(10px);
+    }
+    .set-cube-skinny {
+        height:65px;width:100px;
+        border-radius: 20px;
+    }
+    .setit {
+        width: 60px;height:auto;
+    }
+    .setit2 {
+        width: 40px;height:auto;
+    }
+    .pogo {
+        width: 45px; height:26px;
+    }
+    .collapse-select {
+        padding: 14px;
+        width: 100%;
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 677px) {
+    .artist-cube {
+        height:125px;width:200px;
+        margin: 4px 10px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .search {
+        width: 125px;height:10px;
+        font-size: 12px;
+        padding: 13px;
+    }
+    .top-section img {
+        width:150px;
+    }
+    .search-it p {
+        font-weight: 500;
+        font-size: 14px;
+        margin: 12px 0px 5px; 
+    }
+    .database-searcher h4 {
+        font-size: 10px;
+        margin-top: 5px;
+    }
+    .db-hr2 {
+        margin-top: 10px;
+    }
+    .country-name p {
+        font-size: 14px;
+    }
+    .seperator {
+        margin: 3px 0px;
+    }
+    .database-searcher {
+        margin-bottom: 1px;
+    }
+}
+@media screen and (max-width: 533px) {
+    .artist-cube {
+        height:110px;width:170px;
+        margin: 4px 6px;
+    }
+}
+@media screen and (max-width: 530px) {
+    .database-searcher h2 {
+        text-align: center;
+        text-decoration: underline;
+    }
+    .database-searcher {
+        margin-top: -21px;
+        width: 88%;
+    }
+    .db-hr1 {
+        display: none;
+    }
+    .top-section img {
+        display: none;
+    }
+    .top-section {
+        margin-top: 0px;
+        height: 35%;
+        margin-bottom: 24px;
+    }
+    .all-cards img {
+        width: 100px;
+        border-radius: 5px;
+        margin: 4px;
+    }
+    .live-set img {
+        width: 125px
+    }
+    .release-date,
+    .card-count {
+        font-size: 12px;
+    }
+    .type-and-word img {
+        width: 20px;height:auto;
+    }
+    .type-and-word p {
+        font-size: 12px;
+    }
+    .scroll-top-btn {
+        bottom: 20px;
+        right: 20px;
+        font-size: 22px;
+        padding: 9px 13px;
+    }
+}
+@media screen and (max-width: 492px) {
+    .artist-section {
+        margin: 4px 7px;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+    }
+    .artist-section img {
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 140px;
+        height: 83px;
+    }
+    .artist-section p {
+        font-size: 14px;
+        padding: 2px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .artist-section {
+        margin: 3px 5px;
+    }
+    .artist-section img {
+        width: 120px;
+        height: 70px;
+    }
+    .artist-section p {
+        font-size: 12px;
+        padding: 1px;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius:5px;    
+    }
+}
+@media screen and (max-width: 439px) {
+    .set-cube,
+    .set-cube-promo {
+        border-radius: 15px;
+        margin: 5px 6px;
+        box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.6);
+    }
+    .margin-bottom-ten {
+        margin-bottom: 5px;
+    }
+    .set-white-box {
+        padding: 7px;
+        width: 94%;
+        height: 42px;
+        border-radius: 8px;
+    }
+    .set-organizer {
+        width: 98%;height:auto;
+        padding: 10px 0px;
+    }
+}
+@media screen and (max-width: 353px) {
+    .all-cards img {
+        width: 80px;
+        border-radius: 4px;
+    }
+    .type-and-word p {
+        font-size: 11px;
+    }
+}
+@media screen and (min-width: 321px) and (max-width: 398px) {
+    .search-it p {
+        font-size: 14px;
+        text-align: center;
+    }
+    .set-cube:after,
+    .set-cube-promo:after {
+      top: 50%;
+      left: 52%;
+    }
+    .margin-left {
+        font-size: 16px;
+    }
+    .all-types {
+        padding: 0px;
+    }
+    .search {
+        width: 125px;height:10px;
+        font-size: 12px;
+        padding: 13px;
+    }
+    .collapse-select {
+        padding: 10px;
+        font-size: 12px;
+    }
+    .set-white-box {
+        padding: 5px;
+        height: 40px;
+        border-radius: 5px;
+    }
+    .set-logo, 
+    .set-logo5, 
+    .set-logo4, 
+    .set-logo3, 
+    .set-logo2, 
+    .set-logo0 {
+        padding-left: 7px;
+    }
+    .set-logo0 {
+        height:32px;width:auto;
+    }
+    .set-logo4 {
+        height:42px;width:75px;
+    }
+    .set-logo {
+        height:25px;width:auto;
+    }
+    .set-logo2 {
+        height:18px;width:160px;
+    }
+    .set-logo3 {
+        height:20px;width:160px;
+    }
+    .set-logo5 {
+        height:30px;width:80px;
+    }
+    .set-cube,
+    .set-cube-promo {
+        border-radius: 14px;
+        height:105px;
+        width:90px;
+    }
+    .set-cube-skinny {
+        height:60px;width:90px;
+        border-radius: 15px;
+    }
+    .set-cube p {
+        padding-top: 5px;
+    }
+    .setit {
+        width: 55px;height:auto;
+    }
+    .setit2 {
+        width: 30px;height:auto;
+    }
+    .pogo {
+        width: 40px; height:23px;
+    }
+}
+@media screen and (max-width: 365px) {
+
+}
+@media screen and (min-width: 321px) and (max-width: 363px) {
+    .set-cube,
+    .set-cube-promo {
+        border-radius: 12px;
+        height:95px;
+        width:80px;
+        margin: 3px 4px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    }
+    .set-cube-skinny {
+        height:55px;
+        width:80px;
+    }
+}
+
+/************************************************************************/
+
+.crown-zenith:hover, 
+.silver-tempest:hover, 
+.lost-origin:hover, 
+.pokemon-go:hover, 
+.astral-radiance:hover, 
+.brilliant-stars:hover, 
+.fusion-strike:hover, 
+.celebrations:hover, 
+.evolving-skies:hover, 
+.chilling-reign:hover, 
+.battle-styles:hover, 
+.shining-fates:hover, 
+.vivid-voltage:hover, 
+.champions-path:hover, 
+.darkness-ablaze:hover, 
+.rebel-clash:hover, 
+.sword-shield:hover, 
+.cosmic-eclipse:hover, 
+.hidden-fates:hover, 
+.unified-minds:hover, 
+.unbroken-bonds:hover, 
+.detective-pikachu:hover, 
+.team-up:hover, 
+.lost-thunder:hover, 
+.dragon-majesty:hover, 
+.celestial-storm:hover, 
+.forbidden-light:hover, 
+.ultra-prism:hover, 
+.crimson-invasion:hover, 
+.shining-legends:hover, 
+.burning-shadows:hover, 
+.guardians-rising:hover, 
+.sun-moon:hover,
+.scarlet-violet:hover,
+.paldea-evolved:hover,
+.obsidian-flames:hover,
+.sv151:hover,
+.legendary-treasures:hover,
+.plasma-blast:hover,
+.plasma-freeze:hover,
+.plasma-storm:hover,
+.boundaries-crossed:hover,
+.dragon-vault:hover,
+.dragons-exalted:hover,
+.dark-explorers:hover,
+.next-destinies:hover,
+.noble-victories:hover,
+.emerging-powers:hover,
+.black-white:hover,
+.evolutions:hover,
+.steam-seige:hover,
+.fates-collide:hover,
+.generations:hover,
+.breakpoint:hover,
+.breakthrough:hover,
+.ancient-origins:hover,
+.roaring-skies:hover,
+.phantom-forces:hover,
+.double-crises:hover,
+.primal-clash:hover,
+.furious-fists:hover,
+.flashfire:hover,
+.call-of-legends:hover,
+.triumphant:hover,
+.macdonalds:hover,
+.undaunted:hover,
+.unleashed:hover,
+.hgss:hover,
+.arceus:hover,
+.supreme-victors:hover,
+.rising-rivals:hover,
+.platinum:hover,
+.stormfront:hover,
+.legends-awakened:hover,
+.majestic-dawn:hover,
+.great-encounters:hover,
+.secret-wonders:hover,
+.mysterious-treasures:hover,
+.power-keepers:hover,
+.dragon-fronteirs:hover,
+.crystal-gaurdians:hover,
+.holon-phantoms:hover,
+.legend-maker:hover,
+.delta-species:hover,
+.unseen-forces:hover,
+.emerald:hover,
+.deoxys:hover,
+.rocket-returns:hover,
+.firered-leafgreen:hover,
+.hidden-legends:hover,
+.magma-aqua:hover,
+.dragon:hover,
+.sandstorm:hover,
+.diamond-pearl:hover,
+.xy:hover,
+.skyridge:hover,
+.aquapolis:hover,
+.expedition:hover,
+.legendary-collection:hover,
+.destiny:hover,
+.revelation:hover,
+.discovery:hover,
+.genesis:hover,
+.gym-challenge:hover,
+.gym-heroes:hover,
+.fossil:hover,
+.team-rocket:hover,
+.base-set2:hover,
+.jungle:hover,
+.base-set:hover,
+.futsal:hover,
+.rumble:hover,
+.promo:hover,
+.ruby-sapphire:hover
+{
+    background-size: auto 112%;
+}
+
+.white-cube:hover img {
+    transform: scale(1.5);
+}
+
+/* sword shield */
+.crown-zenith {
+    background: url(../assets/set-filter/swsh/crown-zenith.jpg) center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.silver-tempest {
+    background: url(../assets/set-filter/swsh/silver-tempest.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.lost-origin {
+    background: url(../assets/set-filter/swsh/lost-origin.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.pokemon-go {
+    background: url(../assets/set-filter/swsh/pokemon-go_cleanup.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.astral-radiance {
+    background: url(../assets/set-filter/swsh/astral-radiance.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.brilliant-stars {
+    background: url(../assets/set-filter/swsh/brilliant-stars.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.fusion-strike {
+    background: url(../assets/set-filter/swsh/fusion-strike.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.celebrations {
+    background: url(../assets/set-filter/swsh/celebrations.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.evolving-skies {
+    background: url(../assets/set-filter/swsh/evolving-skies.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.chilling-reign {
+    background: url(../assets/set-filter/swsh/chilling-reign.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.battle-styles {
+    background: url(../assets/set-filter/swsh/battle-styles.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.shining-fates {
+    background: url(../assets/set-filter/swsh/shining-fates.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.vivid-voltage {
+    background: url(../assets/set-filter/swsh/vivid-voltage.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.champions-path {
+    background: url(../assets/set-filter/swsh/champions-path.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.darkness-ablaze {
+    background: url(../assets/set-filter/swsh/darkness-ablaze.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.rebel-clash {
+    background: url(../assets/set-filter/swsh/rebel-clash.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.sword-shield {
+    background: url(../assets/set-filter/swsh/sword-shield.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+
+/* sun moon */
+.guardians-rising {
+    background: url(../assets/set-filter/sm/guardians-rising.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.sun-moon {
+    background: url(../assets/set-filter/sm/sun-moon.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.cosmic-eclipse {
+    background: url(../assets/set-filter/sm/sm-cosmic-eclipse.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.hidden-fates {
+    background: url(../assets/set-filter/sm/sm-hidden-fates.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.unified-minds {
+    background: url(../assets/set-filter/sm/sm-unified-minds.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.unbroken-bonds {
+    background: url(../assets/set-filter/sm/sm-unbroken-bonds.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.detective-pikachu {
+    background: url(../assets/set-filter/sm/sm-detective-pikachu.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.team-up {
+    background: url(../assets/set-filter/sm/sm-team-up.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.lost-thunder {
+    background: url(../assets/set-filter/sm/sm-lost-thunder.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.dragon-majesty {
+    background: url(../assets/set-filter/sm/sm-dragon-majesty.jfif) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.celestial-storm {
+    background: url(../assets/set-filter/sm/sm-celestial-storm_cleanup.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.forbidden-light {
+    background: url(../assets/set-filter/sm/sm-forbidden-light.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.ultra-prism {
+    background: url(../assets/set-filter/sm/sm-ultra-prism.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.crimson-invasion {
+    background: url(../assets/set-filter/sm/sm-crimson-invasion.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.shining-legends {
+    background: url(../assets/set-filter/sm/sm-shining-legends.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.burning-shadows {
+    background: url(../assets/set-filter/sm/sm-burning-shadows.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.guardians-rising {
+    background: url(../assets/set-filter/sm/guardians-rising.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.sun-moon {
+    background: url(../assets/set-filter/sm/sun-moon.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+
+/* xy */
+.evolutions {
+    background: url(../assets/set-filter/xy/evolutions.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.steam-seige {
+    background: url(../assets/set-filter/xy/steam-seige.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.fates-collide {
+    background: url(../assets/set-filter/xy/fates-collide.jfif) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.generations {
+    background: url(../assets/set-filter/xy/generations.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.breakpoint {
+    background: url(../assets/set-filter/xy/breakpoint.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.breakthrough {
+    background: url(../assets/set-filter/xy/breakthrough.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.ancient-origins {
+    background: url(../assets/set-filter/xy/ancient-origins.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.phantom-forces {
+    background: url(../assets/set-filter/xy/phantom-forces.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.roaring-skies {
+    background: url(../assets/set-filter/xy/roaring-skies.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.double-crises {
+    background: url(../assets/set-filter/xy/double-crisis.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.primal-clash {
+    background: url(../assets/set-filter/xy/primal-clash.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.furious-fists {
+    background: url(../assets/set-filter/xy/furious-fists.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.flashfire {
+    background: url(../assets/set-filter/xy/flashfire.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.xy {
+    background: url(../assets/set-filter/xy/xy.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+
+/* Scarlet & Violet */
+.sv151 {
+    background: url(../assets/set-filter/scvi/151.webp) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.obsidian-flames {
+    background: url(../assets/set-filter/scvi/obsidian-flames.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.paldea-evolved {
+    background: url(../assets/set-filter/scvi/sv2.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.scarlet-violet {
+    background: url(../assets/set-filter/scvi/scarlet-violet.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+
+/* Black & White */
+.legendary-treasures {
+    background: url(../assets/set-filter/bw/legendary-treasures.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.plasma-blast {
+    background: url(../assets/set-filter/bw/plasma-blast.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.plasma-freeze {
+    background: url(../assets/set-filter/bw/plasma-freeze.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.plasma-storm {
+    background: url(../assets/set-filter/bw/plasma-storm.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.boundaries-crossed {
+    background: url(../assets/set-filter/bw/boundaries-crossed.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.dragon-vault {
+    background: url(../assets/set-filter/bw/dragon-vault.jfif) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.dragons-exalted {
+    background: url(../assets/set-filter/bw/dragons-exalted.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.dark-explorers {
+    background: url(../assets/set-filter/bw/dark-explorers.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.next-destinies {
+    background: url(../assets/set-filter/bw/next-destinies.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.noble-victories {
+    background: url(../assets/set-filter/bw/noble-victories.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.emerging-powers {
+    background: url(../assets/set-filter/bw/emerging-powers.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.black-white {
+    background: url(../assets/set-filter/bw/black-white.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+
+/* hgss */
+.call-of-legends {
+    background: url(../assets/set-filter/hgss/call-of-legends.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.triumphant {
+    background: url(../assets/set-filter/hgss/triumphant.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.undaunted {
+    background: url(../assets/set-filter/hgss/undaunted.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.unleashed {
+    background: url(../assets/set-filter/hgss/unleashed.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.hgss {
+    background: url(../assets/set-filter/hgss/hgss.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.rumble {
+    background: url(../assets/set-filter/rumble.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+
+/* DP */
+.arceus {
+    background: url(../assets/set-filter/dp/platinum-arceus.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.supreme-victors {
+    background: url(../assets/set-filter/dp/supreme-victors.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.rising-rivals {
+    background: url(../assets/set-filter/dp/rising-rivals.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.platinum {
+    background: url(../assets/set-filter/dp/platinum.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.stormfront {
+    background: url(../assets/set-filter/dp/stormfront.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.legends-awakened {
+    background: url(../assets/set-filter/dp/legends-awakened.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.majestic-dawn {
+    background: url(../assets/set-filter/dp/majestic-dawn.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.great-encounters {
+    background: url(../assets/set-filter/dp/great-encounters.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.secret-wonders {
+    background: url(../assets/set-filter/dp/secret-wonders.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.mysterious-treasures {
+    background: url(../assets/set-filter/dp/mysterious-treasures.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.diamond-pearl {
+    background: url(../assets/set-filter/dp/diamon-pearl.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+
+.promo {
+    background: url(../assets/set-filter/card-back.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+
+/* RS */
+.power-keepers {
+    background: url(../assets/set-filter/rs/power-keepers.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.dragon-fronteirs {
+    background: url(../assets/set-filter/rs/dragon-frontiers.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.crystal-gaurdians {
+    background: url(../assets/set-filter/rs/crystal-guardians.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.holon-phantoms {
+    background: url(../assets/set-filter/rs/holon-phantoms.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.legend-maker {
+    background: url(../assets/set-filter/rs/legend-maker.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.delta-species {
+    background: url(../assets/set-filter/rs/delta-species.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.unseen-forces {
+    background: url(../assets/set-filter/rs/unseen-forces.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.emerald {
+    background: url(../assets/set-filter/rs/emerald.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.deoxys {
+    background: url(../assets/set-filter/rs/deoxys.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.rocket-returns {
+    background: url(../assets/set-filter/rs/team-rocket-returns.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.firered-leafgreen {
+    background: url(../assets/set-filter/rs/firered-leafgreen.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.hidden-legends {
+    background: url(../assets/set-filter/rs/hidden-legends.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.magma-aqua {
+    background: url(../assets/set-filter/rs/magma-aqua.webp) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.dragon {
+    background: url(../assets/set-filter/rs/dragon.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.sandstorm {
+    background: url(../assets/set-filter/rs/sandstorm.webp) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.ruby-sapphire {
+    background: url(../assets/set-filter/rs/ruby-sapphire.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+
+.macdonalds {
+    background: url(../assets/set-filter/mcds.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+    .macdonalds h3 {
+        color:white;
+        text-shadow: 2px 2px 6px black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur(2px) saturate(90%);
+        text-align: center;
+        height:100%;width:100%;
+    }
+
+
+/* wotc */
+.skyridge {
+    background: url(../assets/set-filter/wotc/skyridge.webp) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.aquapolis {
+    background: url(../assets/set-filter/wotc/aquapolis.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.expedition {
+    background: url(../assets/set-filter/wotc/expedition.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.legendary-collection {
+    background: url(../assets/set-filter/wotc/legendary-collection.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.destiny {
+    background: url(../assets/set-filter/wotc/destiny.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.revelation {
+    background: url(../assets/set-filter/wotc/revelation.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.discovery {
+    background: url(../assets/set-filter/wotc/discovery.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.genesis {
+    background: url(../assets/set-filter/wotc/genesis.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.gym-challenge {
+    background: url(../assets/set-filter/wotc/gym-challenge.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.gym-heroes {
+    background: url(../assets/set-filter/wotc/gym-heroes.webp) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.team-rocket {
+    background: url(../assets/set-filter/wotc/team-rocket.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.base-set2 {
+    background: url(../assets/set-filter/wotc/base-set2.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.futsal {
+    background: url(../assets/set-filter/futsol.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.fossil {
+    background: url(../assets/set-filter/wotc/fossil.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.jungle {
+    background: url(../assets/set-filter/wotc/jungle.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.base-set {
+    background: url(../assets/set-filter/wotc/base-set.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}

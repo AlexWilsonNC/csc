@@ -1,0 +1,135 @@
+.expansion-table {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+.expansion-table.darkon p {
+color:white;
+}
+.table-outline {
+    border: 3px solid black;
+    width: 80%;
+    border-radius: 10px;
+}
+.set {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1px solid black;
+    height: 100px;
+}
+.set p {
+    padding: 40px 0px;
+    margin: 0 -1em;
+    font-size: 18px;
+    text-align: center;
+}
+.set-name {
+    width:18%;
+    border-right: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.set-name p {
+    max-width: 95%;
+    text-align: center;
+}
+.set-symbol {
+    width:8%;
+    border-right: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.set-symbol img {
+    width: 35px;
+    padding: 5em 1em;
+    margin: 0 -1em;
+}
+.set-art {
+    width: 28%;
+    display: flex;
+    justify-content: center;
+    border-right: 1px solid black;
+}
+.set-art img {
+    padding: 0.2em;
+    margin: 0 -0.2em;
+    height: 57px;
+}
+.set-abbrev,
+.set-num-cards {
+    width: 10%;
+}
+.set-abbrev {
+    border-right: 1px solid black;
+}
+.set-abbrev p {
+    font-style: italic;
+}
+.set-en-date,
+.set-jp-date {
+    width: 20%;
+    border-right: 1px solid black;
+}
+.set-en-date {
+    font-weight: 600;
+}
+
+@media screen and (max-width: 1250px) {
+    .table-outline {
+        width: 95%;
+    }
+}
+@media screen and (max-width: 850px) {
+    .top-set {
+        border-bottom: 5px solid black;
+    }
+    .top-set p {
+        transform: scale(0.7);
+    }
+    .set p {
+        transform: scale(0.8);
+    }
+    .set-symbol img {
+        transform: scale(0.8);
+    }
+    .set-art img {
+        transform: scale(0.8);
+    }
+}
+@media screen and (max-width: 740px) {
+    .set-symbol img {
+        transform: scale(0.6);
+    }
+    .set-art img {
+        transform: scale(0.6);
+    }
+    .set-jp-date {
+        display: none;
+    }
+    .set-num-cards {
+        width: 2%;
+    }
+    .set-name p,
+    .top-set p {
+        font-size: 12px;
+    }
+    /* .top-set p {
+        padding: 15px 0px;
+    } */
+    .set p {
+        margin: 0px;
+        padding: 0px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .table-outline {
+        width: 95%;
+    }
+    .set-art img {
+        transform: scale(0.47);
+    }
+    .set-num-cards {
+        margin-left: 15px;
+    }
+}
