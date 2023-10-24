@@ -41,107 +41,107 @@ let masters = [
     },
     deck: [
             {
-                cardImg: '../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg',
+        cardImg: '../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.007.hitmonchan.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.007.hitmonchan.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.038.lickitung.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.038.lickitung.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/fo.018.ditto_.jpg',
+        cardImg: '../../assets/cards/base-fossil/fo.018.ditto_.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/wizards_black_star_promos.008.mew_.jpg',
+        cardImg: '../../assets/cards/base-fossil/wizards_black_star_promos.008.mew_.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.074.item_finder.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.074.item_finder.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg',
+        cardImg: '../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.095.switch.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.095.switch.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.075.lass_.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.075.lass_.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.101.psychic_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.101.psychic_energy.jpg',
                 numImg: '../../assets/07.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.097.fighting_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.097.fighting_energy.jpg',
                 numImg: '../../assets/06.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
@@ -183,77 +183,77 @@ let masters = [
     },
     deck: [
             {
-                cardImg: '../../assets/cards/base-fossil/ju.032.wigglytuff.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.032.wigglytuff.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.054.jigglypuff.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.054.jigglypuff.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.007.hitmonchan.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.007.hitmonchan.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.074.item_finder.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.074.item_finder.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.075.lass_.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.075.lass_.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.097.fighting_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.097.fighting_energy.jpg',
                 numImg: '../../assets/12.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
@@ -295,97 +295,97 @@ let masters = [
     },
     deck: [
             {
-                cardImg: '../../assets/cards/base-fossil/bs.007.hitmonchan.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.007.hitmonchan.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/fo.039.magmar.jpg',
+        cardImg: '../../assets/cards/base-fossil/fo.039.magmar.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.038.lickitung.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.038.lickitung.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.074.item_finder.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.074.item_finder.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg',
+        cardImg: '../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.075.lass_.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.075.lass_.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg',
+        cardImg: '../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.097.fighting_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.097.fighting_energy.jpg',
                 numImg: '../../assets/07.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.098.fire_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.098.fire_energy.jpg',
                 numImg: '../../assets/06.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
@@ -427,112 +427,112 @@ let masters = [
     },
     deck: [
             {
-                cardImg: '../../assets/cards/base-fossil/bs.007.hitmonchan.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.007.hitmonchan.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.020.electabuzz.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.020.electabuzz.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/fo.018.ditto_.jpg',
+        cardImg: '../../assets/cards/base-fossil/fo.018.ditto_.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.003.chansey.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.003.chansey.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.027.farfetchd.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.027.farfetchd.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.074.item_finder.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.074.item_finder.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg',
+        cardImg: '../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.075.lass_.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.075.lass_.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ro.076.imposter_oaks_revenge.jpg',
+        cardImg: '../../assets/cards/base-fossil/ro.076.imposter_oaks_revenge.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.095.switch.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.095.switch.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.097.fighting_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.097.fighting_energy.jpg',
                 numImg: '../../assets/08.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.100.lightning_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.100.lightning_energy.jpg',
                 numImg: '../../assets/06.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
@@ -2614,87 +2614,87 @@ let juniors = [
     },
     deck: [
             {
-                cardImg: '../../assets/cards/base-fossil/bs.020.electabuzz.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.020.electabuzz.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/fo.039.magmar.jpg',
+        cardImg: '../../assets/cards/base-fossil/fo.039.magmar.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg',
+        cardImg: '../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.095.switch.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.095.switch.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.085.pokemon_center.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.085.pokemon_center.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.101.psychic_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.101.psychic_energy.jpg',
                 numImg: '../../assets/08.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.098.fire_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.098.fire_energy.jpg',
                 numImg: '../../assets/07.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.100.lightning_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.100.lightning_energy.jpg',
                 numImg: '../../assets/05.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
@@ -3259,82 +3259,82 @@ let juniors = [
     },
     deck: [
             {
-                cardImg: '../../assets/cards/base-fossil/bs.007.hitmonchan.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.007.hitmonchan.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.020.electabuzz.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.020.electabuzz.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.017.clefable.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.017.clefable.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.005.clefairy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.005.clefairy.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg',
+        cardImg: '../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.097.fighting_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.097.fighting_energy.jpg',
                 numImg: '../../assets/12.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.100.lightning_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.100.lightning_energy.jpg',
                 numImg: '../../assets/08.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },

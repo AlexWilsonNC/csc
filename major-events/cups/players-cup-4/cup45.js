@@ -100,9 +100,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bills-analysis.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Bill's Analysis",
+          "number": "133",
+          "set": "TEU"
+        },
       {
         cardImg: '../../assets/cards/2022-2023/bruno.png',
         numImg: '../../assets/01.png'
@@ -156,8 +158,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wondrous-lab.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Wondrous Labyrinth ♢",
+          "number": "158",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/new-energy/capture-energy.png',
@@ -247,8 +251,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/dargonite-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Dragonite GX",
+          "number": "152",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/incineroar-gx.png',
@@ -311,8 +317,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wondrous-lab.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Wondrous Labyrinth ♢",
+          "number": "158",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/new-energy/scvi-grass-energy.jpg',
@@ -398,8 +406,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/dargonite-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Dragonite GX",
+          "number": "152",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/incineroar-gx.png',
@@ -462,8 +472,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wondrous-lab.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Wondrous Labyrinth ♢",
+          "number": "158",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/new-energy/scvi-grass-energy.jpg',
@@ -663,8 +675,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2021-2022/boltund-v.png',
@@ -679,8 +693,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/raichu-alolan-raichu.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Raichu & Alolan Raichu GX",
+          "number": "54",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2021-2022/crobat-v.png',
@@ -727,13 +743,17 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Electromagnetic Radar",
+          "number": "169",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-switch.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Tag Switch",
+          "number": "209",
+          "set": "UNM"
+        },
       {
         cardImg: '../../assets/cards/2021-2022/air-balloon.png',
         numImg: '../../assets/02.png'
@@ -1030,8 +1050,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2021-2022/boltund-v.png',
@@ -1046,8 +1068,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/raichu-alolan-raichu.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Raichu & Alolan Raichu GX",
+          "number": "54",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2021-2022/crobat-v.png',
@@ -1410,8 +1434,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2021-2022/boltund-v.png',
@@ -1426,8 +1452,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/raichu-alolan-raichu.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Raichu & Alolan Raichu GX",
+          "number": "54",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2021-2022/crobat-v.png',
@@ -1478,9 +1506,11 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-switch.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Tag Switch",
+          "number": "209",
+          "set": "UNM"
+        },
       {
         cardImg: '../../assets/cards/2021-2022/air-balloon.png',
         numImg: '../../assets/02.png'
@@ -1589,8 +1619,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/latios-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Latios GX",
+          "number": "78",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2021-2022/crobat-v.png',
@@ -1709,8 +1741,10 @@ let extras = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2021-2022/boltund-v.png',
@@ -1725,8 +1759,10 @@ let extras = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/raichu-alolan-raichu.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Raichu & Alolan Raichu GX",
+          "number": "54",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2021-2022/crobat-v.png',
@@ -1860,8 +1896,10 @@ let extras = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/dargonite-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Dragonite GX",
+          "number": "152",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/incineroar-gx.png',
@@ -1924,8 +1962,10 @@ let extras = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wondrous-lab.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Wondrous Labyrinth ♢",
+          "number": "158",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/new-energy/scvi-grass-energy.jpg',
@@ -2152,8 +2192,10 @@ let extras = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/latios-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Latios GX",
+          "number": "78",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2021-2022/jirachi-gx.png',

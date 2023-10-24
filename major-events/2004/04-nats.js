@@ -94,8 +94,8 @@ let masters = [
               oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-                numImg: '../../assets/02.png',
+        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
+        numImg: '../../assets/02.png',
                 radiusCard: true
               },
             {
@@ -192,7 +192,7 @@ let masters = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -233,7 +233,7 @@ let masters = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -274,7 +274,7 @@ let masters = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -373,8 +373,8 @@ let seniors = [
               oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-                numImg: '../../assets/01.png',
+        cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
+        numImg: '../../assets/01.png',
                 radiusCard: true
               },
             {
@@ -459,7 +459,7 @@ let seniors = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -502,91 +502,91 @@ let juniors = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006/sceptile-ex.png',
-                numImg: '../../assets/03.png'
+        cardImg: '../../assets/cards/2004-2006/sceptile-ex.png',
+        numImg: '../../assets/03.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/rs.020.sceptile.jpg',
+        cardImg: '../../assets/cards/2004-2006/rs.020.sceptile.jpg',
                 numImg: '../../assets/02.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/rs.032.grovyle.jpg',
+        cardImg: '../../assets/cards/2004-2006/rs.032.grovyle.jpg',
                 numImg: '../../assets/04.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/treecko-e-reader.png',
-                numImg: '../../assets/04.png'
+        cardImg: '../../assets/cards/2004-2006/treecko-e-reader.png',
+        numImg: '../../assets/04.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/dr.096.muk_ex.jpg',
+        cardImg: '../../assets/cards/2004-2006/dr.096.muk_ex.jpg',
                 numImg: '../../assets/03.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/dr.057.grimer.jpg',
+        cardImg: '../../assets/cards/2004-2006/dr.057.grimer.jpg',
                 numImg: '../../assets/03.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
+        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/marill.jpg',
+        cardImg: '../../assets/cards/e-reader/marill.jpg',
                 numImg: '../../assets/01.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
+        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/oracle.jpg',
+        cardImg: '../../assets/cards/e-reader/oracle.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/elm-training-method.jpg',
+        cardImg: '../../assets/cards/e-reader/elm-training-method.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/nurse.jpg',
+        cardImg: '../../assets/cards/e-reader/nurse.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
+        cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/warp-point.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/warp-point.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/grass-energy.jpg',
+        cardImg: '../../assets/cards/e-reader/grass-energy.jpg',
                 numImg: '../../assets/14.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/boost-energy.jpg',
+        cardImg: '../../assets/cards/e-reader/boost-energy.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
@@ -627,8 +627,8 @@ let juniors = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006/blaziken-ex.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/blaziken-ex.png',
+        numImg: '../../assets/02.png'
               },
             {
               cardImg: '../../assets/cards/2004-2006/blaziken.png',
@@ -677,7 +677,7 @@ let juniors = [
               oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/nurse.jpg',
+        cardImg: '../../assets/cards/e-reader/nurse.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
               },
@@ -756,7 +756,7 @@ let juniors = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -797,7 +797,7 @@ let juniors = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -840,99 +840,99 @@ let tenEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006/rs.013.swampert.jpg',
+        cardImg: '../../assets/cards/2004-2006/rs.013.swampert.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/ma.095.swampert_ex.jpg',
+        cardImg: '../../assets/cards/2004-2006/ma.095.swampert_ex.jpg',
                 numImg: '../../assets/01.png',
                 exCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/marshtomp.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/marshtomp.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/mudkip.png',
-                numImg: '../../assets/04.png'
+        cardImg: '../../assets/cards/2004-2006/mudkip.png',
+        numImg: '../../assets/04.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
+        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/delcatty.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/delcatty.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/skitty.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/skitty.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/suicune-ex.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/suicune-ex.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/hl.094.kyogre_ex.jpg',
+        cardImg: '../../assets/cards/2004-2006/hl.094.kyogre_ex.jpg',
                 numImg: '../../assets/01.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/oracle.jpg',
+        cardImg: '../../assets/cards/e-reader/oracle.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-                numImg: '../../assets/03.png'
+        cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../assets/03.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/desert-shaman.jpg',
+        cardImg: '../../assets/cards/e-reader/desert-shaman.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/prof-oaks-research-old.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/prof-oaks-research-old.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/fisherman.jpg',
+        cardImg: '../../assets/cards/e-reader/fisherman.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-                numImg: '../../assets/03.png'
+        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
+        numImg: '../../assets/03.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/pokemon-reversal-e-reader.png',
-                numImg: '../../assets/03.png'
+        cardImg: '../../assets/cards/2004-2006/pokemon-reversal-e-reader.png',
+        numImg: '../../assets/03.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/energy-restore.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/energy-restore.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/warp-point.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2004-2006/warp-point.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/crystal-shard.jpg',
+        cardImg: '../../assets/cards/e-reader/crystal-shard.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/island-cave.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2004-2006/island-cave.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/water-energy.jpg',
+        cardImg: '../../assets/cards/e-reader/water-energy.jpg',
                 numImg: '../../assets/15.png',
                 oldCard: true
             },
@@ -974,7 +974,7 @@ let tenEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -1138,7 +1138,7 @@ let fiveEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -1181,105 +1181,105 @@ let sixEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006/aquas-kyogre.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/aquas-kyogre.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/aquas-walrein.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/aquas-walrein.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/aquas-sealeo.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/aquas-sealeo.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/aquas-spheal.png',
-                numImg: '../../assets/03.png'
+        cardImg: '../../assets/cards/2004-2006/aquas-spheal.png',
+        numImg: '../../assets/03.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/aquas-sharpedo.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/aquas-sharpedo.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/aquas-carvanha.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/aquas-carvanha.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/aquas-mightyena.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/aquas-mightyena.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/aquas-poocheyena.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/aquas-poocheyena.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/bills-maintenance.jpg',
+        cardImg: '../../assets/cards/e-reader/bills-maintenance.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
+        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/ma.069.team_aqua_schemer.jpg',
+        cardImg: '../../assets/cards/2004-2006/ma.069.team_aqua_schemer.jpg',
                 numImg: '../../assets/03.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/ma.077.team_aqua_conspirator.jpg',
+        cardImg: '../../assets/cards/2004-2006/ma.077.team_aqua_conspirator.jpg',
                 numImg: '../../assets/02.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/ma.071.archie.jpg',
+        cardImg: '../../assets/cards/2004-2006/ma.071.archie.jpg',
                 numImg: '../../assets/02.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/lanette-net-search-e-reader.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2004-2006/lanette-net-search-e-reader.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/ex.149.professor_oaks_research.jpg',
+        cardImg: '../../assets/cards/e-reader/ex.149.professor_oaks_research.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/aq.136.town_volunteers.jpg',
+        cardImg: '../../assets/cards/e-reader/aq.136.town_volunteers.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/ex.155.moo_moo_milk.jpg',
+        cardImg: '../../assets/cards/e-reader/ex.155.moo_moo_milk.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/ma.075.team_aqua_ball.jpg',
+        cardImg: '../../assets/cards/2004-2006/ma.075.team_aqua_ball.jpg',
                 numImg: '../../assets/02.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/warp-point.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2004-2006/warp-point.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/water-energy.jpg',
+        cardImg: '../../assets/cards/e-reader/water-energy.jpg',
                 numImg: '../../assets/14.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/ex.158.darkness_energy.jpg',
+        cardImg: '../../assets/cards/e-reader/ex.158.darkness_energy.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
@@ -1321,7 +1321,7 @@ let sixEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -1366,7 +1366,7 @@ let sevenEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -1408,7 +1408,7 @@ let sevenEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -1448,137 +1448,137 @@ let sevenEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/base-fossil/ju.032.wigglytuff.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.032.wigglytuff.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.054.jigglypuff.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.054.jigglypuff.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
+        cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+        cardImg: '../../assets/cards/base-fossil/n1.020.cleffa.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/g2.069.erikas_jigglypuff.jpg',
+        cardImg: '../../assets/cards/base-fossil/g2.069.erikas_jigglypuff.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/g1.042.erikas_dratini.jpg',
+        cardImg: '../../assets/cards/base-fossil/g1.042.erikas_dratini.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/n1.012.pichu_.jpg',
+        cardImg: '../../assets/cards/base-fossil/n1.012.pichu_.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/n2.066.tyrogue.jpg',
+        cardImg: '../../assets/cards/base-fossil/n2.066.tyrogue.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.074.item_finder.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.074.item_finder.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/aq.130.pokemon_fan_club.jpg',
+        cardImg: '../../assets/cards/e-reader/aq.130.pokemon_fan_club.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/n1.085.energy_charge.jpg',
+        cardImg: '../../assets/cards/base-fossil/n1.085.energy_charge.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+        cardImg: '../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.095.switch.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.095.switch.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
+        cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/n1.086.focus_band.jpg',
+        cardImg: '../../assets/cards/base-fossil/n1.086.focus_band.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/n1.093.gold_berry.jpg',
+        cardImg: '../../assets/cards/base-fossil/n1.093.gold_berry.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/dr.086.low_pressure_system.jpg',
+        cardImg: '../../assets/cards/2004-2006/dr.086.low_pressure_system.jpg',
                 numImg: '../../assets/01.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.099.grass_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.099.grass_energy.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/base-fossil/n1.105.recycle_energy.jpg',
+        cardImg: '../../assets/cards/base-fossil/n1.105.recycle_energy.jpg',
                 numImg: '../../assets/04.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/boost-energy.jpg',
+        cardImg: '../../assets/cards/e-reader/boost-energy.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/warp-energy.jpg',
+        cardImg: '../../assets/cards/e-reader/warp-energy.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
@@ -1621,7 +1621,7 @@ let sevenEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -1664,149 +1664,149 @@ let eightEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006/dr.092.kingdra_ex.jpg',
+        cardImg: '../../assets/cards/2004-2006/dr.092.kingdra_ex.jpg',
                 numImg: '../../assets/03.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/dr.039.seadra.jpg',
+        cardImg: '../../assets/cards/2004-2006/dr.039.seadra.jpg',
                 numImg: '../../assets/03.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/dr.040.seadra.jpg',
+        cardImg: '../../assets/cards/2004-2006/dr.040.seadra.jpg',
                 numImg: '../../assets/01.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/dr.033.horsea.jpg',
+        cardImg: '../../assets/cards/2004-2006/dr.033.horsea.jpg',
                 numImg: '../../assets/02.png',
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/aq.084.horsea.jpg',
+        cardImg: '../../assets/cards/2004-2006/aq.084.horsea.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/linoone.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/linoone.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/ss.085.zigzagoon.jpg',
+        cardImg: '../../assets/cards/2004-2006/ss.085.zigzagoon.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
+        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/ss.026.wobbuffet.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/ss.026.wobbuffet.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/ss.094.aerodactyl_ex.jpg',
+        cardImg: '../../assets/cards/2004-2006/ss.094.aerodactyl_ex.jpg',
                 numImg: '../../assets/01.png',
                 exCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/elms-training-method.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/elms-training-method.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/desert-shaman.jpg',
+        cardImg: '../../assets/cards/e-reader/desert-shaman.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/prof-oaks-research-old.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/prof-oaks-research-old.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/wallys-training-e-reader.png',
+        cardImg: '../../assets/cards/2004-2006/wallys-training-e-reader.png',
+        numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+        cardImg: '../../assets/cards/2004-2006/team-magma-conspirator.png',
+        numImg: '../../assets/01.png'
+            },
+            {
+        cardImg: '../../assets/cards/2004-2006/bills-maintenance.png',
+        numImg: '../../assets/01.png'
+            },
+            {
+        cardImg: '../../assets/cards/base-fossil/ex.145.pokemon_nurse.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/team-magma-conspirator.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2004-2006/lanette-net-search-e-reader.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/bills-maintenance.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/base-fossil/ex.145.pokemon_nurse.jpg',
+        cardImg: '../../assets/cards/e-reader/fisherman.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/lanette-net-search-e-reader.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/e-reader/fisherman.jpg',
+        cardImg: '../../assets/cards/e-reader/sk.120.relic_hunter.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/sk.120.relic_hunter.jpg',
+        cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
+        numImg: '../../assets/02.png'
+            },
+            {
+        cardImg: '../../assets/cards/e-reader/potion.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2004-2006/mysterious-fossil.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/e-reader/potion.jpg',
+        cardImg: '../../assets/cards/2004-2006/warp-point.png',
+        numImg: '../../assets/01.png'
+            },
+            {
+        cardImg: '../../assets/cards/e-reader/fast-ball.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/mysterious-fossil.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2004-2006/island-cave.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/warp-point.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/e-reader/fast-ball.jpg',
-                numImg: '../../assets/01.png',
-                oldCard: true
-            },
-            {
-                cardImg: '../../assets/cards/2004-2006/island-cave.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/e-reader/water-energy.jpg',
+        cardImg: '../../assets/cards/e-reader/water-energy.jpg',
                 numImg: '../../assets/12.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
+        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true                
             },
             {
-                cardImg: '../../assets/cards/old-energy/boost-energy.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/old-energy/boost-energy.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
+        numImg: '../../assets/01.png'
             },
         ]
     },
@@ -1846,7 +1846,7 @@ let eightEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -1891,7 +1891,7 @@ let nineEvent = [
     },
         deck: [
             {
-                cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006',
                 numImg: '../../assets/04.png'
             },
         ]

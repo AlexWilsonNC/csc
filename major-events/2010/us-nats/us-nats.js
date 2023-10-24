@@ -2302,105 +2302,105 @@ let masters = [
                 radiusCard: true
             },
             {
-                cardImg: '../../assets/cards/2008-2010/sf.047.pupitar.jpg',
+        cardImg: '../../assets/cards/2008-2010/sf.047.pupitar.jpg',
                 numImg: '../../assets/02.png',
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2008-2010/larvitar.png',
-                numImg: '../../assets/03.png'
+        cardImg: '../../assets/cards/2008-2010/larvitar.png',
+        numImg: '../../assets/03.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/machamp.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2008-2010/machamp.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/machoke.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2008-2010/machoke.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/machop-kick.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2008-2010/machop-kick.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/claydol.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2008-2010/claydol.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/baltoy-fighting.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2008-2010/baltoy-fighting.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/nidoqueen.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2008-2010/nidoqueen.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/nidorina.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2008-2010/nidorina.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/nidoran-f.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2008-2010/nidoran-f.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/spiritomb.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2008-2010/spiritomb.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/uxie.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/azelf.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/unown-quick.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/2008-2010/unown-quick.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/poke-collector.png',
-                numImg: '../../assets/04.png'
+        cardImg: '../../assets/cards/2008-2010/poke-collector.png',
+        numImg: '../../assets/04.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/judge-hgss.png',
-                numImg: '../../assets/04.png'
+        cardImg: '../../assets/cards/2008-2010/judge-hgss.png',
+        numImg: '../../assets/04.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/bebes-search.png',
-                numImg: '../../assets/03.png'
+        cardImg: '../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../assets/03.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/rare-candy-hgss.png',
-                numImg: '../../assets/04.png'
+        cardImg: '../../assets/cards/2008-2010/rare-candy-hgss.png',
+        numImg: '../../assets/04.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/pokemon-communication-hgss.png',
-                numImg: '../../assets/04.png'
+        cardImg: '../../assets/cards/2008-2010/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/warp-point.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2008-2010/warp-point.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/broken-time-space.png',
-                numImg: '../../assets/02.png'
+        cardImg: '../../assets/cards/2008-2010/broken-time-space.png',
+        numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/energy/hgss-energy-dark.png',
-                numImg: '../../assets/01.png'
+        cardImg: '../../assets/cards/energy/hgss-energy-dark.png',
+        numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/energy/darkness-energy-hgss.png',
-                numImg: '../../assets/04.png'
+        cardImg: '../../assets/cards/energy/darkness-energy-hgss.png',
+        numImg: '../../assets/04.png'
             },
             {
-                cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
-                numImg: '../../assets/04.png'
+        cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
+        numImg: '../../assets/04.png'
             },
             {
-                cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
-                numImg: '../../assets/04.png'
+        cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../assets/04.png'
             },
     ]
   },

@@ -1,0 +1,1222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+
+    <meta property='og:title' content='PTCG Legends' />
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg' />
+    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
+    <meta property='og:url' content='www.ptcglegends.com' />
+    <meta property='og:image:width' content='1200' />
+    <meta property='og:image:height' content='627' />
+    <title>PTCG Legends | HGSS Block Format</title>
+    <link rel="stylesheet" href="../../style.css">
+    <link rel="stylesheet" href="../../css/nav.css">
+    <link rel="stylesheet" href="../../css/worlds.css">
+    <link rel="stylesheet" href="../../css/era.css">
+    <link rel="stylesheet" href="../../css/vs-formats.css">
+    <link rel="stylesheet" href="../../css/vs-formats-dark.css">
+    <link rel="stylesheet" href="../../css/footer.css">
+    <link rel="stylesheet" href="../../css/era.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6650820008666327"
+    crossorigin="anonymous"></script> -->
+</head>
+
+<body>
+    <nav id="top-navr">
+        <div id="nav-leftr">
+            <a href="../../home">
+                <img src="" alt="pokeball logo">
+                <h1>PTCG <span class='legendsr'>Legends</span></h1>
+            </a>
+        </div>
+        <div class='push-right1'>
+            <ul id="nav-rightr">
+                <li><a href="../../tournaments/upcoming">Tournaments <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down1'>
+                        <li><a href='../../tournaments/upcoming'>Upcoming Events</a></li>
+                        <li><a href='../../tournaments/completed'>Completed Events</a></li>
+                    </ul>
+                </li>
+                <li><a href="../../event-archive">Event Archive <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down2'>
+                        <li><a href='../../worlds/main'>Worlds</a></li>
+                        <li><a href='../../major-events/main'>Major Events</a></li>
+                        <li><a href='../../tournaments/regional-spe'>Regionals & SPEs</a></li>
+                    </ul>
+                </li>                
+                <li><a href="../main">Decks by Era</a></li>
+                <li><a href="../../articles/all">Articles</a></li>
+            </ul>
+            <nav role="navigation">
+                <div id="menuToggle">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <ul id="menu">
+                        <div class='push-right'>
+                            <div onclick='rememberButton(this.id)' id='toggle'>
+                                <i class='indicator'></i>
+                                <div></div>
+                                <div></div>
+                            </div>
+                        </div>
+                        <li class='bold tittle'><a href="../../tournaments/upcoming">Tournaments</a></li>
+                        <li class='sub-nav'><a href="../../tournaments/upcoming">Upcoming Events</a></li>
+                        <li class='sub-nav'><a href="../../tournaments/completed">Completed Events</a></li>
+                        <li class='bold tittle'><a href="../../event-archive">Event Archive</a></li>
+                        <li class='sub-nav'><a href="../../worlds/main">World Championships</a></li>
+                        <li class='sub-nav'><a href="../../major-events/main">Major Events (ICs, Nats, SCs)</a></li>
+                        <li class='sub-nav'><a href="../../tournaments/regional-spe" >Regionals & SPEs</a>
+                        </li>
+                        <li class='bold tittle'><a href="../main">Decks by Era</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../articles/all"  >Articles</a></li>
+                        <li class='sub-nav'><a href="../../articles/all">All Articles</a></li>
+                        <li class='sub-nav'><a href="../../card-of-the-week/all">Card of the Week</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../other/main">Other</a></li>
+                        <li class='sub-nav'><a href="../../card-database">Pokémon Card Database</a></li>
+                        <li class='sub-nav'><a href="../../other/expansions">TCG Expansions</a></li>
+                        <li class='sub-nav'><a href="../../other/rules-by-era">Rules by Era</a></li>
+                        <li class='sub-nav'><a href="../../other/banned-cards">Banned Cards</a></li>
+                        <li class='sub-nav'><a href="../../other/timeline">Historic Timeline</a></li>
+                        <li class='sub-nav'><a href="../../other/worlds-booklets">Worlds Booklets</a></li>
+                        <li class='sub-nav'><a href="../../archive-updates/all">Archive Updates</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../contact">Contact & Socials</a></li>
+                        <div class='social-popup'>
+                            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                                <img src='../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                                <img src='../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                                <img src='../../assets/patreon.webp' />
+                            </a>
+                            <a href='mailto:ptcglegends@gmail.com'>
+                                <img src='../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                        </div>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </nav>
+
+    <div class='contain-top-era-selector' id='top-of-page'>
+    <a href='#top-of-page' class='scroll-top-btn'><i class="fas fa-chevron-up"></i></a>
+        <div class='top-era-selector'>
+            <a class='arrow-a' href='../decks-by-era' aria-label='none'>
+                <i class="fas fa-angle-left" style='color:grey;'></i>
+                <p style='margin-left:10px;color:grey;'>Menu</p>
+            </a>        
+            <h2><a href='./formats'>Alternate Formats</a></h2>
+            <a class='arrow-a' href='../decks-by-era' aria-label='none'>
+                <p style='margin-right:10px;color:grey;'>Menu</p>
+                <i class="fas fa-angle-right" style='color:grey;'></i>
+            </a>
+        </div>
+    </div>
+    <div class='center-format'>
+        <a class='top-format-graphic' style='pointer-events: none;'>
+            <div class='left-vs-feraligatr-prime'></div>
+            <h3>HeartGold SoulSilver Block</h3>
+            <div class='right-vs-gengar-prime'></div>
+        </a>
+    </div>
+    <div class='decks-main'>
+        <h3 style='margin:10px 0px;'>Included Sets:</h3>
+        <div class='format-sets'>
+            <a href='../../other/expansions'><img src='../../assets/sets/hs1-hgss.png'
+                    alt='set-logo old-logo'></a>
+            <a href='../../other/expansions'><img src='../../assets/sets/hs2-unleashed.png'
+                    alt='set-logo old-logo'></a>
+            <a href='../../other/expansions'><img src='../../assets/sets/hs3-undaunted.png'
+                    alt='set-logo old-logo'></a>
+        </div>
+        <div class='format-sets'>
+            <a href='../../other/expansions'><img src='../../assets/sets/hs4-triumphant.png'
+                alt='set-logo old-logo'></a>
+            <a href='../../other/expansions'><img src='../../assets/sets/hs5-col.png'
+                    alt='set-logo old-logo'></a>
+        </div>
+        <div class='format-sets-promo'>
+            <h3 style='margin:5px 0px;'><img src='../../assets/sets/black-star-promo-icon.png' alt='set'>Playable Promos:</h3>
+            <ul>
+                <li>HGSS01 - HGSS25</li>
+                <li><a href='https://pkmncards.com/?s=victory+medal' target='_blank'>Victory Medal</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class='era-toc'>
+        <div class='move-left'>
+            <p class='era-toc-name'>Table of Contents:</p>
+        </div>
+        <div class='era-toc-box'>
+            <div class='era-toc-left'>
+                <ul>
+                    <li><a href='#gengar'>Gengar
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/gengar.png' />
+                        </a></li>
+                    <li><a href='#lantgatr'>Lanturn Feraligatr
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/lanturn.png' />
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/feraligatr.png' />
+                        </a></li>
+                    <li><a href='#leafeondoom'>Leafeon RoseDoom
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/leafeon.png' />
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/roserade.png' />
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/houndoom.png' />
+                        </a></li>
+                    <li><a href='#magmortar'>Magmortar Typhlosion
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/magmortar.png' />
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/typhlosion-hgss.png' />
+                        </a></li>
+                    <li><a href='#magnezone'>Magnezone
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/magnezone.png' />
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/electrode.png' />
+                        </a></li>
+                    <li><a href='#machamp'>Machamp Donphan
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/machamp-hgss.png' />
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/donphan.png' />
+                        </a></li>
+                </ul>
+            </div>
+            <div class='era-toc-right'>
+                <ul>
+                    <li><a href='#meganium'>Meganium
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/meganium.png' />
+                        </a></li>
+                    <li><a href='#rdl'>Rayquaza & Deoxys
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/rayquaza.png' />
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/deoxys.png' />
+                        </a></li>
+                    <li><a href='#megazone'>Yanmega Magnezone
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/yanmega.png' />
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/magnezone.png' />
+                        </a></li>
+                    <li><a href='#plumemega'>Yanmega Vileplume
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/yanmega.png' />
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/vileplume.png' />
+                        </a></li>
+                    <li><a href='#megavile'>Yanmega Weavile
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/yanmega.png' />
+                            <img class='gen6-sprite' src='../../assets/sprites-gen4/weavile.png' />
+                        </a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div id="zoom-card-box"></div>
+
+    <div class='decks-main'>
+
+        <h3 class='format' id='gengar'>Gengar</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/psychic-bg.png);'>
+            {
+        cardImg: '../../assets/cards/2010-2012/gengar-prime.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/haunter.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/gastly.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/spiritomb.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/vileplume.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/oddish.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/mr-mime.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/mime-jr.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/smeargle.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/shaymin.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/jirachi.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/twins.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pont.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/seeker.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/lost-world.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-psychic.png',
+        numImg: '../../assets/12.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/rescue-energy.png',
+        numImg: '../../assets/02.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+
+        <h3 class='format' id='lantgatr'>Lanturn Feraligatr</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/dark-bg.png);'>
+            {
+        cardImg: '../../assets/cards/2010-2012/lanturn-prime.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/chinchou.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/feraligatr-prime.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/croconaw.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/totodile.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/smeargle.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pont.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/elm-training-method.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/fisherman.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/interviewers-question.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/burned-tower.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-water.png',
+        numImg: '../../assets/11.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../assets/02.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+
+        <h3 class='format' id='leafeondoom'>Leafeon RoseDoom</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/dark-bg.png);'>
+            {
+        cardImg: '../../assets/cards/2010-2012/leafeon.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/espeon-prime.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/eevee.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/roserade.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/roselia.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/houndoom-prime.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/houndour.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/venomoth.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/venonat.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/celebi-prime.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pont.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/elm-training-method.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/twins.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/seeker.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokegear.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/energy-exchanger.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-grass.png',
+        numImg: '../../assets/06.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-psychic.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/rescue-energy.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../assets/01.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+
+        <h3 class='format' id='magmortar'>Magmortar Typhlosion</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/fire-bg.png);'>
+            {
+        cardImg: '../../assets/cards/2010-2012/magmortar.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/magmar.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/quilava.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/cyndaquil.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/ninetales-hs.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/vulpix.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pichu.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/twins.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/sages-training.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/flower-shop-lady.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/burned-tower.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+        numImg: '../../assets/14.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+
+        <h3 class='format' id='magnezone'>Magnezone</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/lightning-bg.png);'>
+            {
+        cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/magneton.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/magnemite.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pachirisu.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/electrode-prime.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/voltorb.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/twins.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        numImg: '../../assets/23.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+
+        <h3 class='format' id='machamp'>Machamp Donphan</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/fighting-bg.png);'>
+            {
+        cardImg: '../../assets/cards/2010-2012/machamp-prime.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/machoke.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/machop.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/donphan-prime.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/phanpy.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pont.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/elm-training-method.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/copycat.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokegear.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-fighting.png',
+        numImg: '../../assets/09.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
+        numImg: '../../assets/03.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+
+        <h3 class='format' id='meganium'>Meganium</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/grass-bg.png);'>
+            {
+        cardImg: '../../assets/cards/2010-2012/meganium-prime.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/bayleef.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/chikorita.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/blissey-prime.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/chansey.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/roserade.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/roselia.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/celebi-prime.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/smeargle.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pont.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/elm-training-method.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/twins.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/flower-shop-lady.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/seeker.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokegear.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-grass.png',
+        numImg: '../../assets/11.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../assets/01.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+
+        <h3 class='format' id='rdl'>Rayquaza & Deoxys <span class='italic'>LEGEND</span></h3>
+        <div class='deck-box' style='background-image:url(../../../assets/fire-bg.png);'>
+            {
+        cardImg: '../../assets/cards/2010-2012/rayquaza-deoxys-top.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/rayquaza-deoxys-bottom.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/quilava.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/cyndaquil.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/ninetales-hs.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/vulpix.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/elm-training-method.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/sages-training.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/flower-shop-lady.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/burned-tower.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+        numImg: '../../assets/15.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        numImg: '../../assets/03.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+
+        <h3 class='format' id='megazone'>Yanmega Magnezone</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/dark-bg.png);'>
+            {
+        cardImg: '../../assets/cards/2010-2012/yanmega.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/yanma.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/magneton.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/magnemite.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/kingdra.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/horsea.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/tyrogue.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pont.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/sages-training.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/junk-arm.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        numImg: '../../assets/11.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
+        numImg: '../../assets/02.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+
+        <h3 class='format' id='plumemega'>Yanmega Vileplume</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/grass-bg.png);'>
+            {
+        cardImg: '../../assets/cards/2010-2012/yanmega.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/yanma.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/vileplume.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/bellossom.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/gloom.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/oddish.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/sunflora.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/sunkern.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/mew-prime.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/muk.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/aipom-ul.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/01.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/copycat.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pont.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/sages-training.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/twins.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-psychic.png',
+        numImg: '../../assets/05.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/rescue-energy.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
+        numImg: '../../assets/01.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+
+        <h3 class='format' id='megavile'>Yanmega Weavile</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/dark-bg.png);'>
+            {
+        cardImg: '../../assets/cards/2010-2012/yanmega.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/yanma.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/weavile.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/sneasel.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/slowking.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/slowpoke-aaples.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pont.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/copycat.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/elm-training-method.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/super-scoop-up-hgss.png',
+        numImg: '../../assets/04.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/junk-arm.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/2010-2012/lost-remover.png',
+        numImg: '../../assets/02.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/hgss-energy-grass.png',
+        numImg: '../../assets/05.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/rescue-energy.png',
+        numImg: '../../assets/03.png',
+            },
+            {
+        cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
+        numImg: '../../assets/01.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+
+    </div>
+
+    <footer class='era-footer'>
+        <div id='foot-top'>
+            <a href="../../tournaments/upcoming">Tournaments</a>
+            <a href="../../event-archive">Event Archive</a>
+            <a href="../../decks-by-era/main">Decks by Era</a>
+            <a href="../../articles/all">Articles</a>
+        </div>
+        <div class='foot-mid'>
+            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                <img src='../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                <img src='../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                <img src='../../assets/patreon.webp' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+        </div>
+        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon
+            Trading Card Game, including card text and images and tournament-related content, are copyrights of The
+            Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast.
+            This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company
+            (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This
+            website is simply a place for Pokémon TCG fans to look at events and results from the
+            greatest game in history!</div>
+    </footer>
+    <script src='../../darkmode/darkmode-deck-pages-w-promos.js'></script>
+
+    <script src="../../scripts/index.js"></script>
+    <script src="../../zoom.js"></script>
+     
+</body>
+
+</html>

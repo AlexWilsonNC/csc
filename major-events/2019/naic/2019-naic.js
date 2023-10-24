@@ -95,24 +95,32 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
@@ -200,12 +208,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zeraora GX",
+          "number": "86",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -214,16 +226,20 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-gx.png',
@@ -246,20 +262,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volkner.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-ces.png',
@@ -274,8 +296,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Electromagnetic Radar",
+          "number": "169",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/field-blower.png',
@@ -294,12 +318,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
     ]
   },
@@ -353,9 +381,11 @@ let masters = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/greens-exploration.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Green's Exploration",
+          "number": "175",
+          "set": "UNB"
+        },
       {
           "count": 4,
           "name": "Welder",
@@ -363,9 +393,11 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/bills-analysis.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Bill's Analysis",
+          "number": "133",
+          "set": "TEU"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/01.png'
@@ -375,16 +407,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
           "count": 4,
@@ -425,7 +461,7 @@ let masters = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
     ]
   },
   {
@@ -464,12 +500,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
           "count": 3,
@@ -488,8 +528,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Zeraora GX",
+          "number": "86",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
@@ -500,20 +542,26 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volkner.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -538,8 +586,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Electromagnetic Radar",
+          "number": "169",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/choice-band.png',
@@ -556,12 +606,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
     ]
   },
@@ -635,8 +689,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
@@ -647,16 +703,20 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mysterious-treasure.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Mysterious Treasure",
+          "number": "113",
+          "set": "FLI"
       },
       {
           "count": 4,
@@ -699,7 +759,7 @@ let masters = [
         "name": "Metal Energy",
         "number": "metal",
         "set": "TEU"
-      },,
+      },
       {
         "count": 1,
         "name": "Beast Energy ♢",
@@ -750,8 +810,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -776,8 +838,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
@@ -788,20 +852,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/02.png'
-      },
+          "count": 2,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -840,19 +910,23 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
       {
         "count": 3,
         "name": "Fighting Energy",
         "number": "fighting",
         "set": "TEU"
-      },,
+      },
       {
         cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/01.png'
@@ -929,9 +1003,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/greens-exploration.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Green's Exploration",
+          "number": "175",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/steven-resolve.png',
         numImg: '../../assets/04.png'
@@ -949,16 +1025,20 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/faba.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Faba",
+          "number": "173",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lt-surge.png',
@@ -977,9 +1057,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
         numImg: '../../assets/04.png'
@@ -1011,8 +1093,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/power-plant.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Power Plant",
+          "number": "183",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/energy/dce.png',
@@ -1100,17 +1184,23 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/03.png'
@@ -1124,8 +1214,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/damage-mover.png',
@@ -1150,8 +1242,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2019-2020/black-market-p.png',
@@ -1205,8 +1299,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/volcanion.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Volcanion",
+          "number": "25",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -1225,9 +1321,11 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/greens-exploration.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Green's Exploration",
+          "number": "175",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/02.png'
@@ -1237,25 +1335,31 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Custom Catcher",
+          "number": "171",
+          "set": "LOT"
+        },
       {
         "count": 4,
         "name": "Mixed Herbs",
@@ -1263,8 +1367,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -1305,7 +1411,7 @@ let masters = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
     ]
   },
   {
@@ -1344,12 +1450,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zeraora GX",
+          "number": "86",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -1358,8 +1468,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
@@ -1382,20 +1494,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/03.png'
-      },
+          "count": 3,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-ces.png',
@@ -1410,8 +1528,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Electromagnetic Radar",
+          "number": "169",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/field-blower.png',
@@ -1426,12 +1546,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
     ]
   },
@@ -1485,8 +1609,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
         "count": 1,
@@ -1495,8 +1621,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/yveltal.png',
@@ -1511,13 +1639,17 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
@@ -1531,9 +1663,11 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
         numImg: '../../assets/03.png'
@@ -1630,28 +1764,36 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/mysterious-treasure.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Mysterious Treasure",
+          "number": "113",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -1696,7 +1838,7 @@ let masters = [
         "name": "Metal Energy",
         "number": "metal",
         "set": "TEU"
-      },,
+      },
     ]
   },
   {
@@ -1785,24 +1927,32 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
@@ -1937,9 +2087,11 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/03.png'
-      },
+          "count": 3,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
         numImg: '../../assets/02.png'
@@ -1953,12 +2105,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/faba.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Faba",
+          "number": "173",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
@@ -1977,9 +2133,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
         numImg: '../../assets/04.png'
@@ -2001,8 +2159,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/power-plant.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Power Plant",
+          "number": "183",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mt-coronet.png',
@@ -2013,7 +2173,7 @@ let masters = [
         "name": "Metal Energy",
         "number": "metal",
         "set": "TEU"
-      },,
+      },
       {
         cardImg: '../../assets/cards/energy/dce.png',
         numImg: '../../assets/02.png'
@@ -2110,12 +2270,16 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
@@ -2134,8 +2298,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
@@ -2219,12 +2385,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
           "count": 4,
@@ -2243,8 +2413,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Zeraora GX",
+          "number": "86",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
@@ -2255,24 +2427,32 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volkner.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -2297,8 +2477,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Electromagnetic Radar",
+          "number": "169",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/field-blower.png',
@@ -2315,12 +2497,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
     ]
   },
@@ -2364,9 +2550,11 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/greens-exploration.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Green's Exploration",
+          "number": "175",
+          "set": "UNB"
+        },
       {
           "count": 4,
           "name": "Welder",
@@ -2390,16 +2578,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
           "count": 4,
@@ -2446,7 +2638,7 @@ let masters = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
     ]
   },
   {
@@ -2505,8 +2697,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/reshiram.png',
@@ -2561,8 +2755,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -2591,7 +2787,7 @@ let masters = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
     ]
   },
   {
@@ -2685,16 +2881,22 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
@@ -2719,16 +2921,20 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mysterious-treasure.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Mysterious Treasure",
+          "number": "113",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-space.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lysandre-lab.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lysandre Labs",
+          "number": "111",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -2741,7 +2947,7 @@ let masters = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
       {
         "count": 1,
         "name": "Beast Energy ♢",
@@ -2822,9 +3028,11 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bills-analysis.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Bill's Analysis",
+          "number": "133",
+          "set": "TEU"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/lusamine.png',
         numImg: '../../assets/03.png'
@@ -2838,8 +3046,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/faba.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Faba",
+          "number": "173",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
@@ -2862,9 +3072,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
         numImg: '../../assets/04.png'
@@ -2890,8 +3102,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/power-plant.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Power Plant",
+          "number": "183",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/energy/counter-energy.png',
@@ -2951,8 +3165,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -2975,8 +3191,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
@@ -2987,24 +3205,32 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/02.png'
+          "count": 2,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
+      {
+        "count": 1,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volkner.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -3043,19 +3269,23 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
       {
         "count": 2,
         "name": "Fighting Energy",
         "number": "fighting",
         "set": "TEU"
-      },,
+      },
       {
         "count": 1,
         "name": "Beast Energy ♢",
@@ -3140,24 +3370,32 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mysterious-treasure.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Mysterious Treasure",
+          "number": "113",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -3168,9 +3406,11 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/03.png'
-      },
+          "count": 3,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
         numImg: '../../assets/01.png'
@@ -3188,8 +3428,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/energy/counter-energy.png',
@@ -3273,16 +3515,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
           "count": 4,
@@ -3303,12 +3549,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/03.png'
-      },
+          "count": 3,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
@@ -3339,7 +3589,7 @@ let masters = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
       {
         cardImg: '../../assets/cards/energy/triple-acceleration.png',
         numImg: '../../assets/04.png'
@@ -3402,8 +3652,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/arcanine.png',
@@ -3462,8 +3714,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -3496,7 +3750,7 @@ let masters = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
     ] 
   },
   {
@@ -3644,13 +3898,17 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/02.png'
@@ -3674,9 +3932,11 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
           "count": 1,
           "name": "Pokémon Communication",
@@ -3704,12 +3964,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wondrous-lab.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Wondrous Labyrinth ♢",
+          "number": "158",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/fairy-energy-teu.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/energy/triple-acceleration.png',
@@ -3779,8 +4043,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/steven-resolve.png',
@@ -3791,16 +4057,20 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/03.png'
-      },
+          "count": 3,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/lt-surge.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/faba.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Faba",
+          "number": "173",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
@@ -3827,9 +4097,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
         numImg: '../../assets/04.png'
@@ -3863,8 +4135,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/power-plant.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Power Plant",
+          "number": "183",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/energy/counter-energy.png',
@@ -4020,8 +4294,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -4046,7 +4322,7 @@ let masters = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
     ] 
   },
   {
@@ -4085,12 +4361,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
           "count": 4,
@@ -4109,8 +4389,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Zeraora GX",
+          "number": "86",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
@@ -4121,24 +4403,32 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volkner.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -4163,8 +4453,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Electromagnetic Radar",
+          "number": "169",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/field-blower.png',
@@ -4181,12 +4473,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
     ]
   },
@@ -4268,13 +4564,17 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/01.png'
@@ -4302,9 +4602,11 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/field-blower.png',
         numImg: '../../assets/01.png'
@@ -4322,7 +4624,7 @@ let masters = [
           "name": "Water Energy",
           "number": "water",
           "set": "TEU"
-        },,
+        },
     ]
   },
   {
@@ -4496,12 +4798,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zeraora GX",
+          "number": "86",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -4510,8 +4816,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
@@ -4538,20 +4846,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volkner.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-ces.png',
@@ -4572,8 +4886,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Electromagnetic Radar",
+          "number": "169",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/field-blower.png',
@@ -4592,12 +4908,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
     ]
   },
@@ -4643,8 +4963,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -4683,24 +5005,32 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/02.png'
+          "count": 2,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
+      {
+        "count": 2,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volkner.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -4739,16 +5069,22 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -4822,8 +5158,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -4834,12 +5172,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
@@ -4884,8 +5226,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/energy/dce.png',
@@ -5008,8 +5352,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/volcanion.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Volcanion",
+          "number": "25",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -5028,9 +5374,11 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/greens-exploration.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Green's Exploration",
+          "number": "175",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/02.png'
@@ -5040,8 +5388,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
@@ -5052,20 +5402,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Custom Catcher",
+          "number": "171",
+          "set": "LOT"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -5100,8 +5456,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/power-plant.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Power Plant",
+          "number": "183",
+          "set": "UNB"
       },
       {
           "count": 1,
@@ -5114,7 +5472,7 @@ let masters = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
     ]
   },
   {
@@ -5153,12 +5511,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zeraora GX",
+          "number": "86",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -5167,8 +5529,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
@@ -5191,20 +5555,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volkner.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-ces.png',
@@ -5219,8 +5589,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Electromagnetic Radar",
+          "number": "169",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/field-blower.png',
@@ -5243,12 +5615,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/12.png'
+        "count": 12,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
     ]
   },
@@ -5344,24 +5720,32 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
@@ -5422,7 +5806,7 @@ let masters = [
         "name": "Fighting Energy",
         "number": "fighting",
         "set": "TEU"
-      },,
+      },
       {
         cardImg: '../../assets/cards/energy/dce.png',
         numImg: '../../assets/03.png'
@@ -5485,8 +5869,10 @@ let masters = [
             numImg: '../../assets/01.png'
           },
           {
-            cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
-            numImg: '../../assets/01.png'
+            "count": 1,
+          "name": "Dedenne GX",
+          "number": "57",
+          "set": "UNB"
           },
           {
             cardImg: '../../assets/cards/2019-2020/zapdos.png',
@@ -5643,12 +6029,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Pikachu & Zekrom GX",
+          "number": "33",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zeraora GX",
+          "number": "86",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -5657,8 +6047,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
@@ -5681,20 +6073,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volkner.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-ces.png',
@@ -5709,8 +6107,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Electromagnetic Radar",
+          "number": "169",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/field-blower.png',
@@ -5733,12 +6133,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/12.png'
+        "count": 12,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
     ]
   },
@@ -5850,28 +6254,36 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
@@ -6001,20 +6413,26 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mysterious-treasure.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Mysterious Treasure",
+          "number": "113",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -6025,9 +6443,11 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/02.png'
-      },
+          "count": 2,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
         numImg: '../../assets/02.png'
@@ -6055,8 +6475,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/energy/dce.png',
@@ -6162,28 +6584,36 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
@@ -6325,29 +6755,37 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/judge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Judge",
+          "number": "108",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/01.png'
@@ -6440,8 +6878,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -6460,36 +6900,48 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marshadow",
+          "number": "81",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/02.png'
+          "count": 2,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
+      {
+        "count": 1,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volkner.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -6528,19 +6980,23 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
       {
         "count": 3,
         "name": "Fighting Energy",
         "number": "fighting",
         "set": "TEU"
-      },,
+      },
       {
         cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/01.png'
@@ -6631,20 +7087,26 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mysterious-treasure.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Mysterious Treasure",
+          "number": "113",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -6655,9 +7117,11 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/02.png'
-      },
+          "count": 2,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
         numImg: '../../assets/02.png'
@@ -6685,8 +7149,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/energy/dce.png',
@@ -6758,9 +7224,11 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bills-analysis.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Bill's Analysis",
+          "number": "133",
+          "set": "TEU"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/lusamine.png',
         numImg: '../../assets/04.png'
@@ -6786,8 +7254,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/faba.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Faba",
+          "number": "173",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lt-surge.png',
@@ -6806,9 +7276,11 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/max-potion.png',
         numImg: '../../assets/04.png'
@@ -6830,8 +7302,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/power-plant.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Power Plant",
+          "number": "183",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/energy/counter-energy.png',
@@ -6891,8 +7365,10 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/volcanion.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Volcanion",
+          "number": "25",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
@@ -6959,8 +7435,10 @@ let seniors = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -6979,8 +7457,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
           "count": 1,
@@ -6993,7 +7473,7 @@ let seniors = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
     ] 
   },
 ]
@@ -7041,8 +7521,10 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -7093,20 +7575,26 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/02.png'
-      },
+          "count": 2,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -7141,16 +7629,22 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -7236,8 +7730,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru.png',
@@ -7248,17 +7744,21 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
         numImg: '../../assets/02.png'
@@ -7355,8 +7855,10 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/zapdos.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zapdos",
+          "number": "40",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -7387,32 +7889,40 @@ let juniors = [
         "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pheromosa-buzzwole-gx.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/02.png'
-      },
+          "count": 2,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/electropower.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Electropower",
+          "number": "172",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -7447,16 +7957,22 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Thunder Mountain ♢",
+          "number": "191",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -7534,24 +8050,32 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/02.png'
-      },
+          "count": 2,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/mysterious-treasure.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Mysterious Treasure",
+          "number": "113",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -7594,7 +8118,7 @@ let juniors = [
         "name": "Metal Energy",
         "number": "metal",
         "set": "TEU"
-      },,
+      },
     ]
   },
   {
@@ -7653,8 +8177,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volcanion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Volcanion",
+          "number": "25",
+          "set": "UNB"
       },
       {
           "count": 1,
@@ -7703,8 +8229,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -7747,7 +8275,7 @@ let juniors = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
     ]
   },
   {
@@ -7856,8 +8384,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -7894,7 +8424,7 @@ let juniors = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
     ]
   },
   {
@@ -7961,8 +8491,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/volcanion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Volcanion",
+          "number": "25",
+          "set": "UNB"
       },
       {
           "count": 1,
@@ -8009,8 +8541,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -8047,7 +8581,7 @@ let juniors = [
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
-        },,
+        },
     ]
   },
   {
@@ -8128,24 +8662,32 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia.png',
-        numImg: '../../assets/04.png'
-      },
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
       {
-        cardImg: '../../assets/cards/2019-2020/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mysterious-treasure.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Mysterious Treasure",
+          "number": "113",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -8156,9 +8698,11 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokegear.png',
-        numImg: '../../assets/02.png'
-      },
+          "count": 2,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
         numImg: '../../assets/02.png'
@@ -8180,8 +8724,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Shrine of Punishment",
+          "number": "143",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/energy/dce.png',

@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+
+    <meta property='og:title' content='PTCG Legends' />
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg' />
+    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!' />
+    <meta property='og:url' content='www.ptcglegends.com' />
+    <meta property='og:image:width' content='1200' />
+    <meta property='og:image:height' content='627' />
+    <title>PTCG Legends | Decks by Era</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../css/nav.css">
+    <link rel="stylesheet" href="../css/worlds.css">
+    <link rel="stylesheet" href="../css/era.css">
+    <link rel="stylesheet" href="../css/alt-formats.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6650820008666327"
+    crossorigin="anonymous"></script> -->
+</head>
+
+<body>
+    <nav id="top-navr">
+        <div id="nav-leftr">
+            <a href="../home">
+                <img src="" alt="pokeball logo">
+                <h1>PTCG <span class='legendsr'>Legends</span></h1>
+            </a>
+        </div>
+        <div class='push-right1'>
+            <ul id="nav-rightr">
+                <li><a href="../tournaments/upcoming">Tournaments <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down1'>
+                        <li><a href='../tournaments/upcoming'>Upcoming Events</a></li>
+                        <li><a href='../tournaments/completed'>Completed Events</a></li>
+                    </ul>
+                </li>
+                <li><a href="../event-archive">Event Archive <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down2'>
+                        <li><a href='../worlds/main'>Worlds</a></li>
+                        <li><a href='../major-events/main'>Major Events</a></li>
+                        <li><a href='../tournaments/regional-spe'>Regionals & SPEs</a></li>
+                    </ul>
+                </li>                
+                <li><a href="./main">Decks by Era</a></li>
+                <li><a href="../articles/all">Articles</a></li>
+            </ul>
+            <nav role="navigation">
+                <div id="menuToggle">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <ul id="menu">
+                        <div class='push-right'>
+                            <div onclick='rememberButton(this.id)' id='toggle'>
+                                <i class='indicator'></i>
+                                <div></div>
+                                <div></div>
+                            </div>
+                        </div>
+                        <li class='bold tittle'><a href="../tournaments/upcoming">Tournaments</a></li>
+                        <li class='sub-nav'><a href="../tournaments/upcoming">Upcoming Events</a></li>
+                        <li class='sub-nav'><a href="../tournaments/completed">Completed Events</a></li>
+                        <li class='bold tittle'><a href="../event-archive">Event Archive</a></li>
+                        <li class='sub-nav'><a href="../worlds/main">World Championships</a></li>
+                        <li class='sub-nav'><a href="../major-events/main">Major Events (ICs, Nats, SCs)</a></li>
+                        <li class='sub-nav'><a href="../tournaments/regional-spe" >Regionals & SPEs</a>
+                        </li>
+                        <li class='bold tittle'><a href="./main">Decks by Era</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../articles/all"  >Articles</a></li><li class='sub-nav'><a href="../articles/all">All Articles</a></li>
+                        <li class='sub-nav'><a href="../card-of-the-week/all">Card of the Week</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../other/main">Other</a></li>
+                        <li class='sub-nav'><a href="../card-database">Pokémon Card Database</a></li>
+                        <li class='sub-nav'><a href="../other/expansions">TCG Expansions</a></li>
+                        <li class='sub-nav'><a href="../other/rules-by-era">Rules by Era</a></li>
+                        <li class='sub-nav'><a href="../other/banned-cards">Banned Cards</a></li>
+                        <li class='sub-nav'><a href="../other/timeline">Historic Timeline</a></li>
+                        <li class='sub-nav'><a href="../other/worlds-booklets">Worlds Booklets</a></li>
+                        <li class='sub-nav'><a href="../archive-updates/all">Archive Updates</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../contact">Contact & Socials</a></li>
+                        <div class='social-popup'>
+                            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                                <img src='../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                                <img src='../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                                <img src='../assets/patreon.webp' />
+                            </a>
+                            <a href='mailto:ptcglegends@gmail.com'>
+                                <img src='../assets/email-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                        </div>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </nav>
+
+    <div class='center-column'>
+        <p style='font-weight:bold;' class='country-txt'>2020 - 2023 decks are coming soon!</p>
+    </div>
+
+    <div class='contain-worlds'>
+        <div class='worlds-icons'>
+            <!-- <a class='worlds-box deck-rd' href='./2023/formats' aria-label='2023' style='pointer-events:none;'>
+                <img src='../assets/eras/gardevoir-ex.png' style='opacity:0.3;'>
+                <p class='opace123'>2023 Decks</p>
+            </a> -->
+            <!-- <a class='worlds-box deck-rd' href='./2022/formats' aria-label='2022' style='pointer-events:none;'>
+                <img src='../assets/eras/arceus.png' style='opacity:0.3;'>
+                <p class='opace123'>2022 Decks</p>
+            </a> -->
+            <!-- <a class='worlds-box deck-rd' href='./2021/formats' aria-label='2021' style='pointer-events:none;'>
+                <img src='../assets/eras/zacian.png' style='opacity:0.3;'>
+                <p class='opace123'>2021 Decks</p>
+            </a> -->
+            <!-- <a class='worlds-box deck-rd' href='./2020/formats' aria-label='2020' style='pointer-events:none;'>
+                <img src='../assets/eras/pikarom.png' style='opacity:0.3;'>
+                <p class='opace123'>2020 Decks</p>
+            </a> -->
+            <a class='worlds-box deck-rd' href='./2019/formats' aria-label='2019'>
+                <img src='../assets/eras/mewtwo-mew.png',
+                <p>2019 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2018/formats' aria-label='2018'>
+                <img src='../assets/eras/zoroark.jpg'>
+                <p>2018 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2017/formats' aria-label='2017'>
+                <img src='../assets/eras/garbodor.png',
+                <p>2017 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2016/formats' aria-label='2016'>
+                <img src='../assets/eras/joltik.png',
+                <p>2016 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2015/formats' aria-label='2015'>
+                <img src='../assets/eras/seismitoad.png',
+                <p>2015 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2014/formats' aria-label='2014'>
+                <img src='../assets/eras/yveltal.png',
+                <p>2014 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2013/formats' aria-label='2014'>
+                <img src='../assets/eras/darkrai.png',
+                <p>2013 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2012/formats' aria-label='2014'>
+                <img src='../assets/eras/mewtwo.png',
+                <p>2012 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2011/formats' aria-label='2014'>
+                <img src='../assets/eras/magnezone.png',
+                <p>2011 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2010/formats' aria-label='2014'>
+                <img src='../assets/eras/luxray.png',
+                <p>2010 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2009/formats' aria-label='2014'>
+                <img src='../assets/eras/flygon.png',
+                <p>2009 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2008/formats' aria-label='2014'>
+                <img src='../assets/eras/gardevoir.png',
+                <p>2008 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2007/formats' aria-label='2014'>
+                <img src='../assets/eras/jolteon.png',
+                <p>2007 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2006/formats' aria-label='2014'>
+                <img loading="lazy" src='../assets/eras/blastoise.png',
+                <p>2006 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2005/formats' aria-label='2014'>
+                <img loading="lazy" src='../assets/eras/tyranitar.png',
+                <p>2005 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2004/formats' aria-label='2004'>
+                <img loading="lazy" src='../assets/eras/blaziken.png',
+                <p>2004 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2003/formats' aria-label='2003'>
+                <img loading="lazy" src='../assets/eras/feraligatr.jpg'>
+                <p>2003 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2002/formats' aria-label='2002'>
+                <img loading="lazy" src='../assets/eras/slowking.jpg'>
+                <p>2002 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2001/formats' aria-label='2001'>
+                <img loading="lazy" src='../assets/eras/sneasel.jpg'>
+                <p>2001 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./2000/formats' aria-label='2000'>
+                <img loading="lazy" src='../assets/eras/mewtwo-promo.png',
+                <p>2000 Decks</p>
+            </a>
+            <a class='worlds-box deck-rd' href='./1999/formats' aria-label='1999'>
+                <img loading="lazy" src='../assets/eras/hitmonchan.jpg'>
+                <p>1999 Decks</p>
+            </a>
+            <a class='alternate-formats' href='./alternate-formats/formats' aria-label='set'>
+                <div class="alt-format-pics">
+                    <div class='line'></div>
+                    <img src='../assets/vs-formats/rockets-zapdos.jpg' />
+                    <div class='line'></div>
+                    <img src='../assets/vs-formats/gardevoir-ex.jpg' />
+                    <div class='line'></div>
+                    <img src='../assets/vs-formats/pichu.jpg' />
+                    <div class='line'></div>
+                    <img src='../assets/vs-formats/gengar-prime.jpg' />
+                </div>
+                <p>Alternate Formats</p>
+            </a>
+        </div>
+    </div>
+
+    <!-- <div style='display: flex;justify-content: center;'>
+        <p class='copyright'>All images on this page are owned and copyrighted by Pokémon.</p>
+    </div> -->
+
+    <footer class='era-footer'>
+        <div id='foot-top'>
+            <a href="../tournaments/upcoming">Tournaments</a>
+            <a href="../event-archive">Event Archive</a>
+            <a href="../decks-by-era/main">Decks by Era</a>
+            <a href="../articles/all">Articles</a>
+        </div>
+        <div class='foot-mid'>
+            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                <img src='../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                <img src='../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                <img src='../assets/patreon.webp' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='../assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+        </div>
+        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon
+            Trading Card Game, including card text and images and tournament-related content, are copyrights of The
+            Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast.
+            This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company
+            (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This
+            website is simply a place for Pokémon TCG fans to look at events and results from the
+            greatest game in history!</div>
+    </footer>
+    <script src='../darkmode/darkmode-decksbyera.js'></script>
+
+     
+</body>
+
+</html>

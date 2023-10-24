@@ -1,0 +1,3259 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+
+    <meta property='og:title' content='PTCG Legends'/>
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg'/>
+    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
+    <meta property='og:url' content='www.ptcglegends.com'/>
+    <meta property='og:image:width' content='1200' />
+    <meta property='og:image:height' content='627' />    <title>PTCG Legends | 2000 Decks</title>
+    <link rel="stylesheet" href="../../style.css">
+    <link rel="stylesheet" href="../../css/nav.css">
+    <link rel="stylesheet" href="../../css/worlds.css">
+    <link rel="stylesheet" href="../../css/vs-formats.css">
+    <link rel="stylesheet" href="../../css/vs-formats-dark.css">
+    <link rel="stylesheet" href="../../css/footer.css">
+    <link rel="stylesheet" href="../../css/era.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6650820008666327"
+    crossorigin="anonymous"></script> -->
+</head>
+
+<body>
+    <nav id="top-navr">
+        <div id="nav-leftr">
+            <a href="../../home">
+                <img src="" alt="pokeball logo">
+                <h1>PTCG <span class='legendsr'>Legends</span></h1>
+            </a>
+        </div>
+        <div class='push-right1'>
+            <ul id="nav-rightr">
+                <li><a href="../../tournaments/upcoming">Tournaments <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down1'>
+                        <li><a href='../../tournaments/upcoming'>Upcoming Events</a></li>
+                        <li><a href='../../tournaments/completed'>Completed Events</a></li>
+                    </ul>
+                </li>
+                <li><a href="../../event-archive">Event Archive <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down2'>
+                        <li><a href='../../worlds/main'>Worlds</a></li>
+                        <li><a href='../../major-events/main'>Major Events</a></li>
+                        <li><a href='../../tournaments/regional-spe'>Regionals & SPEs</a></li>
+                    </ul>
+                </li>                
+                <li><a href="../main">Decks by Era</a></li>
+                <li><a href="../../articles/all">Articles</a></li>
+            </ul>
+            <nav role="navigation">
+                <div id="menuToggle">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <ul id="menu">
+                        <div class='push-right'>
+                            <div onclick='rememberButton(this.id)' id='toggle'>
+                                <i class='indicator'></i>
+                                <div></div>
+                                <div></div>
+                            </div>
+                        </div>
+                        <li class='bold tittle'><a href="../../tournaments/upcoming">Tournaments</a></li>
+                        <li class='sub-nav'><a href="../../tournaments/upcoming">Upcoming Events</a></li>
+                        <li class='sub-nav'><a href="../../tournaments/completed">Completed Events</a></li>
+                        <li class='bold tittle'><a href="../../event-archive">Event Archive</a></li>
+                        <li class='sub-nav'><a href="../../worlds/main">World Championships</a></li>
+                        <li class='sub-nav'><a href="../../major-events/main">Major Events (ICs, Nats, SCs)</a></li>
+                        <li class='sub-nav'><a href="../../tournaments/regional-spe" >Regionals & SPEs</a>
+                        </li>
+                        <li class='bold tittle'><a href="../main">Decks by Era</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../articles/all"  >Articles</a></li>
+                        <li class='sub-nav'><a href="../../articles/all">All Articles</a></li>
+                        <li class='sub-nav'><a href="../../card-of-the-week/all">Card of the Week</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../other/main">Other</a></li>
+                        <li class='sub-nav'><a href="../../card-database">Pokémon Card Database</a></li>
+                        <li class='sub-nav'><a href="../../other/expansions">TCG Expansions</a></li>
+                        <li class='sub-nav'><a href="../../other/rules-by-era">Rules by Era</a></li>
+                        <li class='sub-nav'><a href="../../other/banned-cards">Banned Cards</a></li>
+                        <li class='sub-nav'><a href="../../other/timeline">Historic Timeline</a></li>
+                        <li class='sub-nav'><a href="../../other/worlds-booklets">Worlds Booklets</a></li>
+                        <li class='sub-nav'><a href="../../archive-updates/all">Archive Updates</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../contact">Contact & Socials</a></li>
+                        <div class='social-popup'>
+                            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                                <img src='../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                                <img src='../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                                <img src='../../assets/patreon.webp' />
+                            </a>
+                            <a href='mailto:ptcglegends@gmail.com'>
+                                <img src='../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                        </div>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </nav>
+
+    <div class='contain-top-era-selector' id='top-of-page'>
+    <a href='#top-of-page' class='scroll-top-btn'><i class="fas fa-chevron-up"></i></a>
+    <div class='top-era-selector'>
+        <a class='arrow-a' href='../1999/bs-fossil' aria-label='none'>
+            <i class="fas fa-angle-left"></i>
+            <p style='margin-left:10px;'>BS - FO</p>
+        </a>
+        <h2><a href='./formats'>2000 Menu</a></h2>
+        <a class='arrow-a' href='./bs-gym' aria-label='2022'>
+            <p style='margin-right:10px;'>BS - G2</p>
+            <i class="fas fa-angle-right"></i>
+        </a>
+    </div>
+    </div>
+    <div class='center-format'>
+        <div class='top-format-graphic'>
+            <div class='left-vs-dark-vileplume'></div>
+            <h3>Base Set - Team Rocket</h3>
+            <div class='right-vs-muk'></div>
+        </div>
+    </div>
+
+    <div class='decks-main'>
+        <h3 style='margin:10px 0px;'>Included Sets:</h3>
+        <div class='format-sets'>
+            <a href='../../other/expansions'><img src='../../assets/sets/base-set.png' alt='set-logo old-logo'></a>
+            <a href='../../other/expansions'><img src='../../assets/sets/jungle.webp' alt='set-logo old-logo'></a>
+            <a href='../../other/expansions'><img src='../../assets/sets/fossil.webp' alt='set-logo old-logo'></a>
+            <a href='../../other/expansions'><img src='../../assets/sets/team-rocket.png' alt='set-logo old-logo'></a>
+        </div>
+        <div class='format-sets-promo'>
+            <h3 style='margin:5px 0px;'><img src='../../assets/sets/black-star-promo-icon.png' alt='set'>Playable Promos:</h3>
+            <ul>
+                <li># 1 - 16</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class='era-toc'>
+        <div class='move-left'>
+            <p class='era-toc-name'>Table of Contents:</p>
+        </div>
+        <div class='era-toc-box'>
+            <div class='era-toc-left'>
+                <ul>
+                    <li><a href='#astall'>Active Stall
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/magmar.png' />
+                        </a></li>
+                    <li><a href='#zamplumed'>Alakazam Dark Vileplume
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/alakazam.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/vileplume.png' />
+                        </a></li>
+                    <li><a href='#articuno'>Articuno Hitmonchan
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/articuno.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                        </a></li>
+                    <li><a href='#cleftwo'>Clefable Mewtwo
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/clefable.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/mewtwo.png' />
+                        </a></li>
+                    <li><a href='#plumelax'>Dark Vileplume Snorlax
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/vileplume.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/snorlax.png' />
+                        </a></li>
+                    <li><a href='#dothweaves'><p>Do the Wave<span class='builds-num'> 2</span></p>
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/wigglytuff.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                        </a></li>
+                    <li><a href='#potpourri'>Dodrio Potpourri
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/dodrio.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/mewtwo.png' />
+                        </a></li>
+                    <li><a href='#dragchan'>Dragonite Hitmonchan
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/dragonite.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                        </a></li>
+                    <li><a href='#haymaker'><p>Haymaker<span class='builds-num'> 2</span></p>
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/electabuzz.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/scyther.png' />
+                        </a></li>
+                    <li><a href='#haymakerable'>Haymaker Clefable
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/clefable.png' />
+                        </a></li>
+                    <li><a href='#haymakermewtwo'><p>Haymaker Mewtwo<span class='builds-num'> 2</span></p>
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/mewtwo.png' />
+                        </a></li>
+                    <li><a href='#lickiall'>Lickitung Stall
+                            <!-- <img class='gen1-sprite' src='../../assets/sprites-gen1/eeee' /> -->
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/lickitung.png' />
+                        </a></li>
+                    <li><a href='#magmar'>Magmar Hitmonchan
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/magmar.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                        </a></li>
+                    <li><a href='#twobuxx'>Mewtwo Electabuzz
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/mewtwo.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/electabuzz.png' />
+                        </a></li>
+                </ul>
+            </div>
+            <div class='era-toc-right'>
+                <ul>
+                    <li><a href='#twochan'>Mewtwo Hitmonchan
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/mewtwo.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                        </a></li>
+                    <li><a href='#tresstalls'>Moltres Stall
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/moltres.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/lickitung.png' />
+                        </a></li>
+                    <li><a href='#buzzmime'>Mr. Mime Electabuzz
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/mr-mime.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/electabuzz.png' />
+                        </a></li>
+                    <li><a href='#mimehaymaker'>Mr. Mime Haymaker
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/mr-mime.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                        </a></li>
+                    <li><a href='#regpot'>Potpourri
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/electabuzz.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/magmar.png' />
+                        </a></li>
+                    <li><a href='#rainydan'><p>Rain Dance<span class='builds-num'> 2</span></p>
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/blastoise.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/articuno.png' />
+                        </a></li>
+                    <li><a href='#spongebaob'>Sponge
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/mewtwo.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                        </a></li>
+                    <li><a href='#cleaner'>The Cleaner
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/magmar.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/arcanine.png' />
+                        </a></li>
+                    <li><a href='#challenge'>Wigglytuff Challenge!
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/wigglytuff.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/hitmonchan.png' />
+                        </a></li>
+                    <li><a href='#tuffmar'>Wigglytuff Magmar
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/wigglytuff.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/magmar.png' />
+                        </a></li>
+                    <li><a href='#tufftwomuk'>Wigglytuff Mewtwo
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/wigglytuff.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/mewtwo.png' />
+                        </a></li>
+                    <li><a href='#sneak-attk-wigg'><p>Wigglytuff Sneak Atk<span class='builds-num'> 2</span></p>
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/wigglytuff.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/scyther.png' />
+                        </a></li>
+                    <li><a href='#venusrr'>Venusaur
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/venusaur.png' />
+                            <img class='gen1-sprite' src='../../assets/sprites-gen1/kangaskhan.png' />
+                        </a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div id="zoom-card-box"></div>
+
+    <div class='decks-main'>
+
+        <h3 class='format' id='astall'>Active Stall</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/dark-bg.png);'>
+             
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.039.magmar.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.038.lickitung.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/07.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.098.fire_energy.jpg'>
+                numImg: '../../assets/06.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/03.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <p><span style='color:white;'>Source:</span> Chris Neathery - Top 4 Super Trainer Showdown</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+        <br>
+
+        <h3 class='format' id='zamplumed'>Alakazam Dark Vileplume</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/psychic-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.001.alakazam.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.032.kadabra.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.043.abra_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.013.dark_vileplume.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.036.dark_gloom.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.063.oddish.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.021.kangaskhan-non-holo.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.003.chansey.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.027.snorlax.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.077.pokemon_trader.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.076.pokemon_breeder.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.083.maintenance.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.081.full_heal_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg'>
+                numImg: '../../assets/03.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+        <br>
+
+        <h3 class='format' id='articuno'>Articuno Hitmonchan</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/dark-bg.png);'>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.002.articuno.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.052.machop.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.003.chansey.jpg'>
+                numImg: '../../assets/01.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.059.energy_search.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.102.water_energy.jpg'>
+                numImg: '../../assets/13.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/09.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+        </div>
+        <div class='deck-description '>
+            <p><span style='color:white;'>Source:</span> Devin Diamond - Top 8 Super Trainer Showdown (ages 10-)</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+        <br>
+
+        <h3 class='format' id='cleftwo'>Clefable Mewtwo</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/metal-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.017.clefable.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.005.clefairy.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.028.muk_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.048.grimer.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.021.kangaskhan-non-holo.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.090.super_potion.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/08.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='plumelax'>Dark Vileplume Snorlax</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/grass-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.013.dark_vileplume.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.036.dark_gloom.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.063.oddish.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.027.snorlax.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.037.dark_golduck.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.053.psyduck.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.021.kangaskhan-non-holo.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.022.mr_mime.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.076.pokemon_breeder.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.073.the_bosss_way.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/09.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.082.potion_energy.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.081.full_heal_energy.jpg'>
+                numImg: '../../assets/02.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='dothweaves'>Do the Wave</h3>
+        <div class='diff-decks-btns'>
+            <p class='dark-bg deck-build deckbuild1'>Build 1</p>
+            <p class='light-bg deck-build deckbuild2'>Build 2</p>
+        </div>
+        <div class='deck-box build-box1' style='background-image:url(../../../assets/normal-bg.png);'>       
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.032.wigglytuff.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.054.jigglypuff.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/12.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+        </div>
+        <div class='deck-description descrip-box1'>
+            <p><span style='color:white;'>Source:</span> William Lieu - 2nd Place Super Trainer Showdown</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+        <div class='deck-box build-box2' style='background-image:url(../../../assets/normal-bg.png);'>       
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.032.wigglytuff.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.054.jigglypuff.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+                numImg: '../../assets/09.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.081.full_heal_energy.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+        </div>
+        <div class='deck-description descrip-box2'>
+            <p><span style='color:white;'>Source:</span> Jay Yu - Top 8 Super Trainer Showdown</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='potpourri'>Dodrio Potpourri</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/dark-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.034.dodrio.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.048.doduo_.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.008.mew_.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.085.pokemon_center.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.059.energy_search.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/05.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='dragchan'>Dragonite Hitmonchan</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/metal-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.019.dragonite.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.018.dragonair.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.026.dratini.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.021.kangaskhan-non-holo.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.034.dodrio.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.048.doduo_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.038.lickitung.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.077.pokemon_trader.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.094.potion.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/13.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='haymaker'>Haymaker</h3>
+        <div class='diff-decks-btns'>
+            <p class='dark-bg deck-build deckbuild7'>Build 1</p>
+            <p class='light-bg deck-build deckbuild8'>Build 2</p>
+        </div>
+        <div class='deck-box build-box7' style='background-image:url(../../../assets/fighting-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.018.ditto_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.003.chansey.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.027.farfetchd.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.076.imposter_oaks_revenge.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/08.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+                numImg: '../../assets/06.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+        </div>
+        <div class='deck-description descrip-box7'>
+            <p><span style='color:white;'>Source:</span> Alvin Osborn - Top 4 Super Trainer Showdown</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+        <div class='deck-box build-box8' style='background-image:url(../../../assets/fighting-bg.png);'>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.059.energy_search.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+                numImg: '../../assets/06.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/06.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+        </div>
+        <div class='deck-description descrip-box8'>
+            <p><span style='color:white;'>Source:</span> Derek Bowling - Top 8 Super Trainer Showdown (ages 11-14)</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='haymakerable'>Haymaker Clefable</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/fighting-bg.png);'>            
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.017.clefable.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.005.clefairy.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/12.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+                numImg: '../../assets/08.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/01.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <p><span style='color:white;'>Source:</span> Ken Knight - Top 8 Super Trainer Showdown (ages 10-)</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='haymakermewtwo'>Haymaker Mewtwo</h3>
+        <div class='diff-decks-btns'>
+            <p class='dark-bg deck-build deckbuild3'>Build 1</p>
+            <p class='light-bg deck-build deckbuild4'>Build 2</p>
+        </div>
+        <div class='deck-box build-box3' style='background-image:url(../../../assets/dark-bg.png);'>            
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.018.ditto_.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.011.eevee_.jpg'>
+                numImg: '../../assets/01.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+                numImg: '../../assets/01.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/01.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/01.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+        </div>
+        <div class='deck-description descrip-box3'>
+            <p><span style='color:white;'>Source:</span> Scott Gerhardt - Top 16 Super Trainer Showdown</p>
+            <a href='https://www.pojo.com/Features/0600/0725STSScottGerhardt.html' target='_'>Link to Player Article</a>
+        </div>
+        <div class='deck-box build-box4' style='background-image:url(../../../assets/dark-bg.png);'>            
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+          numImg: '../../assets/04.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div><div class='pokemon-card2'>
+      
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.003.chansey.jpg'>
+          numImg: '../../assets/02.png',
+          
+              </div><div class='pokemon-card2'>
+      
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.018.ditto_.jpg'>
+          numImg: '../../assets/02.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+          numImg: '../../assets/04.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+          numImg: '../../assets/04.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div><div class='pokemon-card2'>
+      
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+          numImg: '../../assets/02.png',
+          
+             </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+          numImg: '../../assets/02.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+          numImg: '../../assets/06.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+          numImg: '../../assets/06.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+          numImg: '../../assets/04.png',
+          
+              </div>
+        </div>
+        <div class='deck-description descrip-box4'>
+            <p><span style='color:white;'>Source:</span> Jack Savage - 1st Place Super Trainer Showdown (ages 11-14)</p>
+            <!-- <a href='https://www.pojo.com/Features/0600/0725STSScottGerhardt.html' target='_'>Link to Player Article</a> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='lickiall'>Lickitung Stall</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/metal-bg.png);'>       
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.038.lickitung.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.028.muk_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.048.grimer.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.033.gastly.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.008.mew_.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.003.chansey.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.055.slowpoke.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.085.pokemon_center.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.058.mr_fuji.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/11.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.082.potion_energy.jpg'>
+                numImg: '../../assets/01.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='magmar'>Magmar Hitmonchan</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/dark-bg.png);'>       
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.039.magmar.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.003.chansey.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.018.ditto_.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.098.fire_energy.jpg'>
+                numImg: '../../assets/10.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/08.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+        </div>
+        <div class='deck-description '>
+            <p><span style='color:white;'>Source:</span> Darren Guiao - Top 8 Super Trainer Showdown</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='twobuxx'>Mewtwo Electabuzz</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/psychic-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.008.mew_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.028.muk_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.048.grimer.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.090.super_potion.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.059.energy_search.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/07.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+                numImg: '../../assets/05.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/01.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://ptcgarchive.com/' target='_'><span style='color:white;'>Source:</span> PTCGArchive</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='twochan'>Mewtwo Hitmonchan</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/fighting-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.008.mew_.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.018.ditto_.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.061.rattata.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.073.impostor_professor_oak.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/02.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='tresstalls'>Moltres Stall</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/fire-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.012.moltres.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.038.lickitung.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.003.chansey.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.028.muk_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.048.grimer.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.008.mew_.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.085.pokemon_center.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.082.full_heal.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.098.fire_energy.jpg'>
+                numImg: '../../assets/14.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/02.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+        
+        <br>
+        <h3 class='format' id='buzzmime'>Mr. Mime Electabuzz</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/dark-bg.png);'>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil//ju.022.mr_mime.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil//fo.018.ditto_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil//bs.003.chansey.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil//bs.071.computer_search.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+                numImg: '../../assets/05.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/05.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.081.full_heal_energy.jpg'>
+                numImg: '../../assets/02.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href="https://www.pojo.com/KillerDecks/2005/Retro%20Tournament%20-%20Bailey's%20Comics%20-%20Lindenhurst,%20NY.shtml" target='_'><span style='color:white;'>Source:</span> Unknown Author</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+        
+        <br>
+        <h3 class='format' id='mimehaymaker'>Mr. Mime Haymaker</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/dark-bg.png);'>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.022.mr_mime.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+              numImg: '../../assets/03.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+              numImg: '../../assets/02.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.039.magmar.jpg'>
+              numImg: '../../assets/02.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.018.ditto_.jpg'>
+              numImg: '../../assets/02.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+              numImg: '../../assets/04.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+              numImg: '../../assets/03.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+              numImg: '../../assets/03.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+              numImg: '../../assets/03.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+              numImg: '../../assets/03.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+              numImg: '../../assets/03.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+              numImg: '../../assets/02.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+              numImg: '../../assets/02.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+              numImg: '../../assets/02.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+              numImg: '../../assets/01.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+              numImg: '../../assets/01.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.060.gambler.jpg'>
+              numImg: '../../assets/01.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+              numImg: '../../assets/06.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+              numImg: '../../assets/06.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.098.fire_energy.jpg'>
+              numImg: '../../assets/05.png',
+              
+          <        </div>
+          <div class='pokemon-card2'>
+              <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+              numImg: '../../assets/03.png',
+              
+          <        </div>
+        </div>
+        <div class='deck-description '>
+            <p><span style='color:white;'>Source:</span> Mitch Morris - Top 4 Super Trainer Showdown (ages 10-)</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='regpot'>Potpourri</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/fire-bg.png);'>
+             
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.039.magmar.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.085.pokemon_center.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/08.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.098.fire_energy.jpg'>
+                numImg: '../../assets/07.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+                numImg: '../../assets/05.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/01.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <p><span style='color:white;'>Source:</span> Dean Bartlett - 2nd Place Super Trainer Showdown (ages 10-)</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='rainydan'>Rain Dance</h3>
+        <div class='diff-decks-btns'>
+            <p class='dark-bg deck-build deckbuild9'>Build 1</p>
+            <p class='light-bg deck-build deckbuild10'>Build 2</p>
+        </div>
+        <div class='deck-box build-box9' style='background-image:url(../../../assets/water-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.002.blastoise.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.042.wartortle.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.063.squirtle.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.002.articuno.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.016.computer_error.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.076.pokemon_breeder.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.083.maintenance.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.090.super_potion.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.078.goop_gas_attack.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.102.water_energy.jpg'>
+                numImg: '../../assets/14.png',
+            },
+        </div>
+        <div class='deck-description descrip-box9'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+        <div class='deck-box build-box10' style='background-image:url(../../../assets/water-bg.png);'>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.002.blastoise.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.063.squirtle.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.002.articuno.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.025.lapras.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.076.pokemon_breeder.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.077.pokemon_trader.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.080.defender.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.102.water_energy.jpg'>
+                numImg: '../../assets/19.png',
+                
+        </div>
+        </div>
+        <div class='deck-description descrip-box10'>
+            <p><span style='color:white;'>Source:</span> Joseph Viray - 1st Place Super Trainer Showdown (ages 10-)</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='spongebaob'>Sponge</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/dark-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.038.lickitung.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.018.ditto_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.008.mew_.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/07.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/06.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <p><span style='color:white;'>Source:</span> Andrew Marshall - 1st Place Super Trainer Showdown</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='cleaner'>The Cleaner</h3>
+        <div class='deck-box ' style='background-image:url(../../../assets/dark-bg.png);'>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.039.magmar.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.051.koffing.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.063.oddish.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.038.lickitung.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.023.arcanine.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.028.growlithe.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.098.fire_energy.jpg'>
+                numImg: '../../assets/10.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.099.grass_energy.jpg'>
+                numImg: '../../assets/08.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/02.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://pokegym.net/community/index.php?threads/the-history-of-the-cleaner.3343/' target='_'><span style='color:white;'>Source:</span> "I-Man" Henry-Michael Brown - pokegym.net</a>
+            <p>Use this deck's Basic Pokémon's status effect attacks to knockout as many opposing Pokémon while setting up your "cleaner" Pokémon (Arcanine). Once set up and, use Arcanine to either "clean" up the remaining Prizes or the opponent's bench.</p>        
+        </div>
+
+        <br>
+        <h3 class='format' id='challenge'>Wigglytuff Challenge!</h3>
+        <div class='deck-box ' style='background-image:url(../../../assets/dark-bg.png);'>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.032.wigglytuff.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.054.jigglypuff.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.007.hitmonchan.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.022.mr_mime.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.078.scoop_up.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/03.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.074.challenge.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/08.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
+                numImg: '../../assets/07.png',
+                
+        </div>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+                
+        </div>
+        </div>
+        <div class='deck-description '>
+            <p><span style='color:white;'>Source:</span> Marcus Abreu - Top 8 Super Trainer Showdown</p>
+            <!-- <p></p>    -->
+        </div>
+
+        <br>
+        <h3 class='format' id='tuffmar'>Wigglytuff Magmar</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/fire-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.032.wigglytuff.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.054.jigglypuff.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.039.magmar.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.028.muk_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.048.grimer.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.090.super_potion.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.098.fire_energy.jpg'>
+                numImg: '../../assets/12.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='tufftwomuk'>Wigglytuff Mewtwo</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/psychic-bg.png);'>
+                         
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.032.wigglytuff.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.054.jigglypuff.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.028.muk_.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.048.grimer.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.021.kangaskhan-non-holo.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.053.psyduck.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.008.mew_.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.101.psychic_energy.jpg'>
+                numImg: '../../assets/08.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://ptcgarchive.com/' target='_'><span style='color:white;'>Source:</span> PTCGArchive</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='sneak-attk-wigg'>Wigglytuff Sneak Attack</h3>
+        <div class='diff-decks-btns'>
+            <p class='dark-bg deck-build deckbuild5'>Build 1</p>
+            <p class='light-bg deck-build deckbuild6'>Build 2</p>
+        </div>
+        <div class='deck-box build-box5' style='background-image:url(../../../assets/metal-bg.png);'>             
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.032.wigglytuff.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.054.jigglypuff.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.055.mankey.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.066.rattata.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.092.energy_removal.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.083.maintenance.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.073.impostor_professor_oak.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.061.recycle.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.078.goop_gas_attack.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.099.grass_energy.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.081.full_heal_energy.jpg'>
+                numImg: '../../assets/03.png',
+            },
+        </div>
+        <div class='deck-description descrip-box5'>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+        <div class='deck-box build-box6' style='background-image:url(../../../assets/dark-bg.png);'>             
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.032.wigglytuff.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.054.jigglypuff.jpg'>
+          numImg: '../../assets/04.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.020.electabuzz.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div><div class='pokemon-card2'>
+      
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.018.ditto_.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div><div class='pokemon-card2'>
+      
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+          numImg: '../../assets/02.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+          numImg: '../../assets/04.png',
+          
+              </div><div class='pokemon-card2'>
+      
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.091.bill_.jpg'>
+          numImg: '../../assets/04.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+        <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+        numImg: '../../assets/03.png',
+        
+            </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg'>
+          numImg: '../../assets/03.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+          numImg: '../../assets/02.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+          numImg: '../../assets/02.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+        <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+        numImg: '../../assets/02.png',
+        
+              </div><div class='pokemon-card2'>
+      
+        <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.095.switch.jpg'>
+        numImg: '../../assets/02.png',
+        
+              </div><div class='pokemon-card2'>
+      
+        <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.075.lass_.jpg'>
+        numImg: '../../assets/02.png',
+        
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.100.lightning_energy.jpg'>
+          numImg: '../../assets/09.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg'>
+          numImg: '../../assets/04.png',
+          
+              </div>
+      <div class='pokemon-card2'>
+          <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg'>
+          numImg: '../../assets/02.png',
+          
+              </div>
+        </div>
+        <div class='deck-description descrip-box6'>
+            <p><span style='color:white;'>Source:</span> Zach Froelich - Top 8 Super Trainer Showdown (ages 11-14)</p>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+        <h3 class='format' id='venusrr'>Venusaur</h3>
+        <div class='deck-box' style='background-image:url(../../../assets/grass-bg.png);'>            
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.015.venusaur.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.030.ivysaur.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.044.bulbasaur.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.021.kangaskhan-non-holo.jpg'>
+                numImg: '../../assets/04.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.034.dodrio.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.048.doduo_.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/fo.018.ditto_.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ju.026.scyther.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.088.professor_oak.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.085.pokemon_center.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.074.item_finder.jpg'>
+                numImg: '../../assets/03.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.077.pokemon_trader.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.071.computer_search.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.084.pluspower.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg'>
+                numImg: '../../assets/02.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg'>
+                numImg: '../../assets/01.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/bs.099.grass_energy.jpg'>
+                numImg: '../../assets/12.png',
+            },
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 old-card zoomed' loading='lazy' src='../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg'>
+                numImg: '../../assets/04.png',
+            },
+        </div>
+        <div class='deck-description '>
+            <a href='https://jklaczpokemon.com/' target='_'><span style='color:white;'>Source:</span> Jason Klaczynski's Blog</a>
+            <!-- <p>Description coming soon...</p> -->
+        </div>
+
+        <br>
+    </div>
+
+    <footer class='era-footer'>
+        <div id='foot-top'>
+            <a href="../../tournaments/upcoming">Tournaments</a>
+            <a href="../../event-archive">Event Archive</a>
+            <a href="../../decks-by-era/main">Decks by Era</a>
+            <a href="../../articles/all">Articles</a>
+        </div>
+        <div class='foot-mid'>
+            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                <img src='../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                <img src='../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                <img src='../../assets/patreon.webp' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+        </div>
+        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon
+            Trading Card Game, including card text and images and tournament-related content, are copyrights of The
+            Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast.
+            This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company
+            (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This
+            website is simply a place for Pokémon TCG fans to look at events and results from the
+            greatest game in history!</div>
+    </footer>
+    <script src='../../darkmode/darkmode-deck-pages-w-promos.js'></script>
+
+    <script src="../../scripts/index3.js"></script>
+    <script src="../../zoom.js"></script>
+     
+</body>
+
+</html>

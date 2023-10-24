@@ -330,87 +330,87 @@ let masters = [
     deck: [
       {
                  cardImg: '../../assets/cards/2010-2012/kingdra.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/seadra.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/horsea.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/yanmega.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/yanma.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/jirachi.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/blissey-prime.png',
-                numImg: '../../assets/01.png',
+        numImg: '../../assets/01.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/chansey.png',
-                numImg: '../../assets/01.png',
+        numImg: '../../assets/01.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/cleffa-hgss.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/tyrogue.png',
-                numImg: '../../assets/01.png',
+        numImg: '../../assets/01.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/copycat.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-                numImg: '../../assets/03.png',
+        numImg: '../../assets/03.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/energy/bw-energy-psychic.png',
-                numImg: '../../assets/03.png',
+        numImg: '../../assets/03.png',
             },
             {
                  cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
-                numImg: '../../assets/03.png',
+        numImg: '../../assets/03.png',
             },
             {
                  cardImg: '../../assets/cards/energy/rescue-energy.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
     ]
   },
@@ -534,88 +534,88 @@ let masters = [
     },
     deck: [
       {
-                cardImg: '../../assets/cards/2010-2012/tyranitar-prime.webp',
+        cardImg: '../../assets/cards/2010-2012/tyranitar-prime.webp',
                 numImg: '../../assets/04.png',
             },
             {
-                cardImg: '../../assets/cards/2010-2012/ul.038.pupitar.jpg',
+        cardImg: '../../assets/cards/2010-2012/ul.038.pupitar.jpg',
                 numImg: '../../assets/03.png',
             },
             {
-                cardImg: '../../assets/cards/2010-2012/ul.051.larvitar.jpg',
+        cardImg: '../../assets/cards/2010-2012/ul.051.larvitar.jpg',
                 numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/serperior.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/servine.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/snivy.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/cleffa-hgss.png',
-                numImg: '../../assets/03.png',
+        numImg: '../../assets/03.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/tyrogue.png',
-                numImg: '../../assets/01.png',
+        numImg: '../../assets/01.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/jirachi.png',
-                numImg: '../../assets/01.png',
+        numImg: '../../assets/01.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/shaymin.png',
-                numImg: '../../assets/01.png',
+        numImg: '../../assets/01.png',
             },
             {
-                cardImg: '../../assets/cards/2010-2012/ud.040.unown_.jpg',
+        cardImg: '../../assets/cards/2010-2012/ud.040.unown_.jpg',
                 numImg: '../../assets/01.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/pont.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/twins.png',
-                numImg: '../../assets/03.png',
+        numImg: '../../assets/03.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/elm-training-method.png',
-                numImg: '../../assets/03.png',
+        numImg: '../../assets/03.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/energy/bw-energy-dark.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
     ]
   },
@@ -1799,91 +1799,91 @@ let juniors = [
     deck: [
       {
                  cardImg: '../../assets/cards/2010-2012/ursaring-prime.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/teddiursa.png',
-                numImg: '../../assets/03.png',
+        numImg: '../../assets/03.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/yanmega.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/yanma.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/sunflora.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/sunkern.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/vileplume.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/bellossom.png',
-                numImg: '../../assets/01.png',
+        numImg: '../../assets/01.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/gloom.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/oddish.png',
-                numImg: '../../assets/03.png',
+        numImg: '../../assets/03.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/roserade.png',
-                numImg: '../../assets/01.png',
+        numImg: '../../assets/01.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/roselia.png',
-                numImg: '../../assets/01.png',
+        numImg: '../../assets/01.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/jirachi.png',
-                numImg: '../../assets/01.png',
+        numImg: '../../assets/01.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/copycat.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/pont.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-                numImg: '../../assets/02.png',
+        numImg: '../../assets/02.png',
             },
             {
                  cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/energy/bw-energy-grass.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
             {
                  cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
-                numImg: '../../assets/04.png',
+        numImg: '../../assets/04.png',
             },
     ]
   },
