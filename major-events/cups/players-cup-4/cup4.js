@@ -1443,8 +1443,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chipchip-ice-axe.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Chip-Chip Ice Axe",
+          "number": "165",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2022-2023/echoing-horn.png',

@@ -73,8 +73,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -542,8 +544,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -552,8 +556,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -1049,8 +1055,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -1214,8 +1222,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -1375,8 +1385,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -1385,8 +1397,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -1530,8 +1544,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         "count": 1,
@@ -1544,8 +1560,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tapu-lele-fairy.png',
@@ -1948,8 +1966,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
           "count": 1,
@@ -2107,8 +2127,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -2306,8 +2328,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/max-potion.png',
@@ -2320,8 +2344,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-recycle-system.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Energy Recycle System",
+          "number": "128",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2019-2020/choice-band.png',
@@ -2419,8 +2445,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -2716,8 +2744,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -2867,8 +2897,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -3035,8 +3067,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -3073,8 +3107,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/order-pad.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Order Pad",
+          "number": "131",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -3180,8 +3216,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -3190,8 +3228,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -3347,8 +3387,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -3357,8 +3399,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -3510,8 +3554,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -3576,8 +3622,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/choice-band.png',
@@ -3667,8 +3715,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -3824,8 +3874,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -3834,8 +3886,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -4205,8 +4259,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -4215,8 +4271,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -4372,8 +4430,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/shaymin-p.png',
@@ -4511,8 +4571,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -4565,8 +4627,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/order-pad.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Order Pad",
+          "number": "131",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -4674,8 +4738,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -4684,8 +4750,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -4835,8 +4903,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -5004,8 +5074,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -5159,8 +5231,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -5364,8 +5438,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-ces.png',
@@ -5492,8 +5568,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -5659,8 +5737,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/shaymin-p.png',
@@ -5824,8 +5904,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -6197,8 +6279,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -6207,8 +6291,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -6390,8 +6476,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -6517,8 +6605,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -6859,8 +6949,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -6917,8 +7009,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/choice-band.png',
@@ -7072,8 +7166,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 3,
@@ -7326,8 +7422,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -7500,8 +7598,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -7510,8 +7610,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -7671,8 +7773,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -7681,8 +7785,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -7826,8 +7932,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/slowking.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Slowking",
+          "number": "55",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/slowpoke.png',
@@ -7854,12 +7962,16 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/brocks-grit.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Brock's Grit",
+          "number": "135",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/gladion.png',
@@ -7918,8 +8030,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sky-pillar.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Sky Pillar",
+          "number": "144",
+          "set": "CES"
       },
       {
           "count": 3,
@@ -7999,8 +8113,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -8232,8 +8348,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
           "count": 2,
@@ -8343,8 +8461,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -8498,8 +8618,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -8508,8 +8630,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/jolteon-gx.png',
@@ -8672,8 +8796,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -8682,8 +8808,10 @@ let seniors = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -8845,8 +8973,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -8855,8 +8985,10 @@ let seniors = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -9068,8 +9200,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -9197,8 +9331,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/steven-resolve.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Steven's Resolve",
+          "number": "145",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
@@ -9511,8 +9647,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -9662,8 +9800,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -9841,8 +9981,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -10184,8 +10326,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -10194,8 +10338,10 @@ let juniors = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -10407,8 +10553,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
@@ -10588,8 +10736,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 3,
@@ -10695,8 +10845,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -10848,8 +11000,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -10858,8 +11012,10 @@ let juniors = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         "count": 1,
@@ -11017,8 +11173,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -11027,8 +11185,10 @@ let juniors = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -11230,8 +11390,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 3,

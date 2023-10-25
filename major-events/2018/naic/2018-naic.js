@@ -141,8 +141,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
     ]
   },
@@ -878,8 +880,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
     ]
   },
@@ -1525,8 +1529,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/order-pad.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Order Pad",
+          "number": "131",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/counter-catcher.png',
@@ -1875,8 +1881,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/order-pad.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Order Pad",
+          "number": "131",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/counter-catcher.png',
@@ -2434,8 +2442,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/order-pad.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Order Pad",
+          "number": "131",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/counter-catcher.png',
@@ -3126,8 +3136,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/order-pad.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Order Pad",
+          "number": "131",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/random-receiver.png',
@@ -4689,8 +4701,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/order-pad.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Order Pad",
+          "number": "131",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/counter-catcher.png',
@@ -5094,8 +5108,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/order-pad.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Order Pad",
+          "number": "131",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/counter-catcher.png',
@@ -5414,8 +5430,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
     ]
   },
@@ -6308,8 +6326,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/order-pad.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Order Pad",
+          "number": "131",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',

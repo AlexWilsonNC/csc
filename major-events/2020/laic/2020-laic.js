@@ -1,9 +1,3 @@
-const masterList = document.querySelector('.masters-ol');
-const seniorList = document.querySelector('.seniors-ol');
-const juniorList = document.querySelector('.juniors-ol');
-
-const modalBottom = document.querySelector('.modal-bottom');
-
 let masters = [
   {
     firstName: 'Robin Schulz',
@@ -11,36 +5,11 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "reshizard",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 1,
           "name": "Reshiram & Charizard GX",
           "number": "20",
@@ -106,7 +75,9 @@ let masters = [
           "number": "154",
           "set": "LOT"
       },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -160,13 +131,16 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 18,
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
         },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Bryan de Vries',
@@ -174,108 +148,85 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "mewtwo-and-mew-tagteam",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+            "count": 3,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 1,
+            "name": "Reshiram & Charizard GX",
+            "number": "20",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Charizard GX",
+            "number": "SM211",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Espeon & Deoxys GX",
+            "number": "72",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Solgaleo GX",
+            "number": "SM104",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+          "name": "Greninja GX",
+          "number": "SM197",
+          "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Marshadow",
+            "number": "81",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-          "count": 3,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 1,
-          "name": "Reshiram & Charizard GX",
-          "number": "20",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Charizard GX",
-          "number": "SM211",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Espeon & Deoxys GX",
-          "number": "72",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Magcargo GX",
-          "number": "44",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Solgaleo GX",
-          "number": "SM104",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-        "name": "Greninja GX",
-        "number": "SM197",
-        "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Marshadow",
-          "number": "81",
-          "set": "UNB"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -359,7 +310,9 @@ let masters = [
           "number": "156",
           "set": "TEU"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 8,
           "name": "Fire Energy",
           "number": "fire",
@@ -389,7 +342,8 @@ let masters = [
         "number": "151",
         "set": "CES"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Giovanni Peragallo',
@@ -397,92 +351,73 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 2,
+            "name": "Keldeo GX",
+            "number": "47",
+            "set": "UNM"
+        },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Lucario & Melmetal GX",
+            "number": "120",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Drampa",
+            "number": "159",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+          "name": "Zebstrika",
+          "number": "82",
+          "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Blitzle",
+          "number": "81",
+          "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 2,
-          "name": "Keldeo GX",
-          "number": "47",
-          "set": "UNM"
-      },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Lucario & Melmetal GX",
-          "number": "120",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-        "name": "Zebstrika",
-        "number": "82",
-        "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
           "count": 4,
           "name": "Cynthia",
           "number": "119",
@@ -548,7 +483,9 @@ let masters = [
           "number": "187",
           "set": "CEC"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 8,
           "name": "Water Energy",
           "number": "water",
@@ -560,7 +497,8 @@ let masters = [
         "number": "metal",
         "set": "TEU"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Lucas Gusso',
@@ -568,84 +506,61 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/naganadel.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "blacephalon-naganadel",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
+          "count": 3,
+           "name": "Blacephalon GX",
+           "number": "52",
+           "set": "LOT"
+       },
+       {
+         "count": 3,
+           "name": "Naganadel",
+           "number": "108",
+           "set": "LOT"
+       },
+       {
+         "count": 2,
+           "name": "Naganadel GX",
+           "number": "160",
+           "set": "UNM"
+       },
+       {
+         "count": 1,
+           "name": "Naganadel GX",
+           "number": "56",
+           "set": "FLI"
+       },
+       {
+         "count": 4,
+           "name": "Poipole",
+           "number": "55",
+           "set": "FLI"
+       },
+       {
+           "count": 1,
+           "name": "Heatran GX",
+           "number": "25",
+           "set": "UNM"
+         },
+       {
+           "count": 1,
+           "name": "Dedenne GX",
+           "number": "57",
+           "set": "UNB"
+         },
+       {
+         "count": 1,
+           "name": "Blacephalon",
+           "number": "104",
+           "set": "CEC"
+       },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-         "count": 3,
-          "name": "Blacephalon GX",
-          "number": "52",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Naganadel",
-          "number": "108",
-          "set": "LOT"
-      },
-      {
-        "count": 2,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "56",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Poipole",
-          "number": "55",
-          "set": "FLI"
-      },
-      {
-          "count": 1,
-          "name": "Heatran GX",
-          "number": "25",
-          "set": "UNM"
-        },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Blacephalon",
-          "number": "104",
-          "set": "CEC"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -670,8 +585,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
           "count": 2,
@@ -709,7 +626,9 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 14,
           "name": "Fire Energy",
           "number": "fire",
@@ -727,231 +646,207 @@ let masters = [
         "number": "117",
         "set": "FLI"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Ondřej Škubal',
     flag: '../../../assets/flags/czech-republic.png',
     sprite1: '../../../assets/sprites/florges-red.png',
-    sprite2: '../../../assets/sprites/clefairy.png',
+    sprite2: '../../../assets/sprites/munchlax.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "florges-munchlax",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Florges",
+          "number": "86",
+          "set": "FLI"
+        },
+        {
+          "count": 4,
+          "name": "Flabébé",
+          "number": "84",
+          "set": "FLI"
+        },
+        {
+           "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+        },
+        {
+          "count": 2,
+          "name": "Munchlax",
+          "number": "173",
+          "set": "UNM"
+        },
+        {
+          "count": 2,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Spiritomb",
+            "number": "112",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Steven's Resolve",
+            "number": "145",
+            "set": "CES"
+        },
+        {
+          "count": 3,
+            "name": "Lusamine",
+            "number": "96",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+            "name": "Bellelba & Brycen-Man",
+            "number": "186",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Tate & Liza",
+            "number": "148",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Faba",
+            "number": "173",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Lillie's Poké Doll",
+            "number": "197",
+            "set": "CEC"
+        },
+        {
+            "count": 4,
+            "name": "Pokégear 3.0",
+            "number": "182",
+            "set": "UNB"
+          },
+        {
+            "count": 4,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
+          },
+        {
+            "count": 3,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+          "count": 3,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
+        },
+        {
+          "count": 4,
+              "name": "Stealthy Hood",
+              "number": "186",
+              "set": "UNB"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Sky Pillar",
+            "number": "144",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020/florges.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/flabebe.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/jirachi-stellar-wish.png ',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 2,
-        "name": "Munchlax",
-        "number": "173",
-        "set": "UNM"
-      },
-      {
-        "count": 2,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2021-2022/spiritomb.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/steven-resolve.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 3,
-          "name": "Lusamine",
-          "number": "96",
-          "set": "CIN"
-      },
-      {
-        "count": 2,
-          "name": "Bellelba & Brycen-Man",
-          "number": "186",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Tate & Liza",
-          "number": "148",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Faba",
-          "number": "173",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Lillie's Poké Doll",
-          "number": "197",
-          "set": "CEC"
-      },
-      {
-          "count": 4,
-          "name": "Pokégear 3.0",
-          "number": "182",
-          "set": "UNB"
-        },
-      {
-          "count": 4,
-          "name": "Acro Bike",
-          "number": "123",
-          "set": "CES"
-        },
-      {
-          "count": 3,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
-        },
-      {
-        "count": 3,
-        "name": "Rare Candy",
-        "number": "142",
-        "set": "CES"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/sky-pillar.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Gustavo Wada',
     flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/giratina-garchomp-tagteam.png',
+    sprite1: '../../../assets/sprites/giratina-garchomp-tagteam.png',
+    sprite2: '../../../assets/sprites/mismagius.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "nagaguzz-mismagius",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+          "name": "Garchomp & Giratina GX",
+          "number": "146",
+          "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel & Guzzlord GX",
+            "number": "158",
+            "set": "CEC"
+        },
+        {
+            "count": 3,
+            "name": "Mismagius",
+            "number": "78",
+            "set": "UNB"
+          },
+         {
+            "count": 4,
+            "name": "Misdreavus",
+            "number": "77",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+          "name": "Mimikyu",
+          "number": "58",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+          "name": "Omastar",
+          "number": "76",
+          "set": "TEU"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-        "name": "Garchomp & Giratina GX",
-        "number": "146",
-        "set": "UNM"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/naganadel-guzzlord-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 3,
-          "name": "Mismagius",
-          "number": "78",
-          "set": "UNB"
-        },
-       {
-          "count": 4,
-          "name": "Misdreavus",
-          "number": "77",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-        "name": "Mimikyu",
-        "number": "58",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-        "name": "Omastar",
-        "number": "76",
-        "set": "TEU"
-      },
-      {
           "count": 4,
           "name": "Green's Exploration",
           "number": "175",
@@ -1042,8 +937,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -1052,8 +949,10 @@ let masters = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/unidentified-fossil.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unidentified Fossil",
+          "number": "155",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -1073,41 +972,46 @@ let masters = [
           "number": "183",
           "set": "UNB"
       },
-      {
-        "count": 3,
-          "name": "Psychic Energy",
-          "number": "psychic",
+      ],
+      "energy": [
+        {
+          "count": 3,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "TEU"
+        },
+        {
+          "count": 2,
+          "name": "Fighting Energy",
+          "number": "fighting",
           "set": "TEU"
-      },
-      {
-        "count": 2,
-        "name": "Fighting Energy",
-        "number": "fighting",
-        "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/energy/dark-energy-teu.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 2,
-        "name": "Unit Energy DFY",
-        "number": "118",
-        "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Weakness Guard Energy",
-          "number": "213",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+        },
+        {
+          "count": 1,
+            "name": "Dark Energy",
+            "number": "dark",
+            "set": "TEU"
+        },
+        {
+          "count": 2,
+          "name": "Unit Energy DFY",
+          "number": "118",
+          "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Weakness Guard Energy",
+            "number": "213",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
+        },
+      ]
+    }
   },
   {
     firstName: 'Victor Vieira',
@@ -1115,58 +1019,37 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/adp.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+           "count": 2,
+            "name": "Cryogonal",
+            "number": "46",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Lucario & Melmetal GX",
+            "number": "120",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Drampa",
+            "number": "159",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-         "count": 2,
-          "name": "Cryogonal",
-          "number": "46",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Lucario & Melmetal GX",
-          "number": "120",
-          "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
-      },
-      {
           "count": 4,
           "name": "Green's Exploration",
           "number": "175",
@@ -1191,8 +1074,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/channeler.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Channeler",
+          "number": "190",
+          "set": "UNM"
       },
       {
           "count": 4,
@@ -1266,7 +1151,9 @@ let masters = [
           "number": "187",
           "set": "CEC"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 5,
           "name": "Water Energy",
           "number": "water",
@@ -1285,10 +1172,13 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Matthew Burris',
@@ -1296,94 +1186,73 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "mewtwo-and-mew-tagteam",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Charizard & Braixen GX",
+            "number": "22",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Charizard GX",
+            "number": "SM211",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Espeon & Deoxys GX",
+            "number": "72",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Solgaleo GX",
+            "number": "SM104",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+          "name": "Greninja GX",
+          "number": "SM197",
+          "set": "SMP"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/braixen-charizard-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Charizard GX",
-          "number": "SM211",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Espeon & Deoxys GX",
-          "number": "72",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Solgaleo GX",
-          "number": "SM104",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-        "name": "Greninja GX",
-        "number": "SM197",
-        "set": "SMP"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -1455,7 +1324,9 @@ let masters = [
           "number": "197",
           "set": "UNM"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 8,
           "name": "Fire Energy",
           "number": "fire",
@@ -1473,7 +1344,8 @@ let masters = [
           "number": "213",
           "set": "UNM"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Manuel Jorach',
@@ -1481,72 +1353,53 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "baby-blowns",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Blacephalon",
+            "number": "32",
+            "set": "UNB"
         },
+        {
+          "count": 4,
+            "name": "Pidgeotto",
+            "number": "123",
+            "set": "TEU"
+        },
+        {
+          "count": 4,
+            "name": "Pidgey",
+            "number": "122",
+            "set": "TEU"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+            "count": 1,
+            "name": "Victini ♢",
+            "number": "7",
+            "set": "DRM"
+          },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Blacephalon",
-          "number": "32",
-          "set": "UNB"
-      },
-      {
-        "count": 4,
-          "name": "Pidgeotto",
-          "number": "123",
-          "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/pidgey-quick-attack.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-          "count": 1,
-          "name": "Victini ♢",
-          "number": "7",
-          "set": "DRM"
-        },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -1596,13 +1449,16 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
+      ],
+      "energy": [
       {
-          "count": 14,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "TEU"
-        },
-    ]
+        "count": 14,
+        "name": "Fire Energy",
+        "number": "fire",
+        "set": "TEU"
+      },
+      ]
+    }
   },
   {
     firstName: 'Alessandro Cremascoli',
@@ -1610,170 +1466,165 @@ let masters = [
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "guru-pidgey",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Pidgeotto",
+            "number": "123",
+            "set": "TEU"
+        },
+        {
+          "count": 4,
+            "name": "Pidgeotto",
+            "number": "121",
+            "set": "TEU"
+        },
+        {
+          "count": 2,
+            "name": "Articuno GX",
+            "number": "31",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Slowking",
+            "number": "55",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Girafarig",
+            "number": "94",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+          "name": "Pokémon Fan Club",
+          "number": "133",
+          "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Tate & Liza",
+            "number": "148",
+            "set": "CES"
+        },
+        {
+           "count": 2,
+            "name": "Hapu",
+            "number": "200",
+            "set": "UNM"
+        },
+        {
+          "count": 2,
+            "name": "Lt. Surge's Strategy",
+            "number": "178",
+            "set": "UNB"
+        },
+        {
+          "count": 2,
+            "name": "Mars",
+            "number": "128",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+          "name": "Misty & Lorelei",
+          "number": "199",
+          "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Bellelba & Brycen-Man",
+            "number": "186",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+          "name": "Jessie & James",
+          "number": "58",
+          "set": "HIF"
+        },
+        {
+          "count": 1,
+            "name": "Faba",
+            "number": "173",
+            "set": "LOT"
+        },
+        {
+            "count": 4,
+            "name": "Pokégear 3.0",
+            "number": "182",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 3,
+            "name": "Crushing Hammer",
+            "number": "115",
+            "set": "SUM"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 2,
+            "name": "Chip-Chip Ice Axe",
+            "number": "165",
+            "set": "UNB"
+        },
+        {
+            "count": 2,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Power Plant",
+            "number": "183",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Champions Festival",
+            "number": "SM231",
+            "set": "SMP"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Pidgeotto",
-          "number": "123",
-          "set": "TEU"
-      },
-      {
-        "count": 4,
-          "name": "Pidgeotto",
-          "number": "121",
-          "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/slowking.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Girafarig",
-          "number": "94",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 2,
-        "name": "Pokémon Fan Club",
-        "number": "133",
-        "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Tate & Liza",
-          "number": "148",
-          "set": "CES"
-      },
-      {
-         "count": 2,
-          "name": "Hapu",
-          "number": "200",
-          "set": "UNM"
-      },
-      {
-        "count": 2,
-          "name": "Lt. Surge's Strategy",
-          "number": "178",
-          "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/mars.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/misty-and-loraine.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Bellelba & Brycen-Man",
-          "number": "186",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/jessie-and-james.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Faba",
-          "number": "173",
-          "set": "LOT"
-      },
-      {
-          "count": 4,
-          "name": "Pokégear 3.0",
-          "number": "182",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 3,
-          "name": "Crushing Hammer",
-          "number": "115",
-          "set": "SUM"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/chipchip-ice-axe.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-          "count": 2,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Power Plant",
-          "number": "183",
-          "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/champions-festival-19.png',
-        numImg: '../../assets/01.png'
-      },
-      {
           "count": 4,
           "name": "Water Energy",
           "number": "water",
@@ -1785,7 +1636,8 @@ let masters = [
           "number": "212",
           "set": "UNM"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Owyn Kamerman',
@@ -1793,88 +1645,71 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "baby-blowns",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Blacephalon",
+            "number": "32",
+            "set": "UNB"
         },
+        {
+          "count": 4,
+            "name": "Pidgeotto",
+            "number": "123",
+            "set": "TEU"
+        },
+        {
+          "count": 3,
+            "name": "Pidgey",
+            "number": "122",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Pidgey",
+            "number": "121",
+            "set": "TEU"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+           "count": 1,
+            "name": "Blacephalon GX",
+            "number": "52",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+            "count": 1,
+            "name": "Victini ♢",
+            "number": "7",
+            "set": "DRM"
+          },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Blacephalon",
-          "number": "32",
-          "set": "UNB"
-      },
-      {
-        "count": 4,
-          "name": "Pidgeotto",
-          "number": "123",
-          "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/pidgey-quick-attack.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/pidgey-collect.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-         "count": 1,
-          "name": "Blacephalon GX",
-          "number": "52",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-          "count": 1,
-          "name": "Victini ♢",
-          "number": "7",
-          "set": "DRM"
-        },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -1918,13 +1753,16 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 14,
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
         },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Pedro Torres',
@@ -1932,36 +1770,11 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 4,
           "name": "Jirachi",
           "number": "99",
@@ -1992,8 +1805,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Drampa",
+          "number": "159",
+          "set": "CEC"
       },
       {
          "count": 1,
@@ -2007,87 +1822,95 @@ let masters = [
           "number": "57",
           "set": "CEC"
       },
-      {
-        "count": 4,
-          "name": "Lillie",
-          "number": "125",
-          "set": "UPR"
-      },
-      {
-         "count": 3,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/misty-and-loraine.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 3,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 3,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
+      ],
+      "trainer": [
+        {
+          "count": 4,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
         },
-      {
-          "count": 3,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
+        {
+           "count": 3,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
         },
-      {
+        {
           "count": 2,
-          "name": "Cherish Ball",
-          "number": "191",
-          "set": "UNM"
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
         },
-      {
+        {
           "count": 2,
-          "name": "Reset Stamp",
+            "name": "N's Resolve",
+            "number": "200",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+          "name": "Misty & Lorelei",
+          "number": "199",
+          "set": "CEC"
+        },
+        {
+          "count": 3,
+          "name": "Tag Call",
           "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 2,
-          "name": "Great Catcher",
-          "number": "192",
           "set": "CEC"
-      },
-      {
+        },
+        {
+            "count": 3,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+            "count": 3,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+          },
+        {
+            "count": 2,
+            "name": "Cherish Ball",
+            "number": "191",
+            "set": "UNM"
+          },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
           "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
         },
-      {
-        "count": 3,
-          "name": "Chaotic Swell",
-          "number": "187",
-          "set": "CEC"
-      },
-      {
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 3,
+            "name": "Chaotic Swell",
+            "number": "187",
+            "set": "CEC"
+        },
+      ],
+      "energy": [
+        {
           "count": 7,
           "name": "Water Energy",
           "number": "water",
@@ -2105,7 +1928,8 @@ let masters = [
         "number": "151",
         "set": "CES"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Claudio Ferla',
@@ -2113,36 +1937,11 @@ let masters = [
     sprite1: '../../../assets/sprites/gardevoir-sylveon-tagteam.png',
     sprite2: '../../../assets/sprites/omastar.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "gardevoir-sylveon-tagteam",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 4,
           "name": "Gardevoir & Sylveon GX",
           "number": "130",
@@ -2160,7 +1959,9 @@ let masters = [
         "number": "76",
         "set": "TEU"
       },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Green's Exploration",
           "number": "175",
@@ -2251,8 +2052,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/unidentified-fossil.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unidentified Fossil",
+          "number": "155",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -2272,19 +2075,22 @@ let masters = [
           "number": "183",
           "set": "UNB"
       },
-      {
-        "count": 8,
-          "name": "Fairy Energy",
-          "number": "fairy",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Weakness Guard Energy",
-          "number": "213",
-          "set": "UNM"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 8,
+            "name": "Fairy Energy",
+            "number": "fairy",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Weakness Guard Energy",
+            "number": "213",
+            "set": "UNM"
+        },
+      ]
+    }
   },
   {
     firstName: 'Igor Costa',
@@ -2292,52 +2098,31 @@ let masters = [
     sprite1: '../../../assets/sprites/guzzlord-naganadel-tagteam.png',
     sprite2: '../../../assets/sprites/mismagius.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "nagaguzz-mismagius",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+              "name": "Naganadel & Guzzlord GX",
+              "number": "158",
+              "set": "CEC"
         },
+        {
+            "count": 4,
+            "name": "Mismagius",
+            "number": "78",
+            "set": "UNB"
+          },
+         {
+            "count": 4,
+            "name": "Misdreavus",
+            "number": "77",
+            "set": "UNB"
+          },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020/naganadel-guzzlord-gx.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-          "count": 4,
-          "name": "Mismagius",
-          "number": "78",
-          "set": "UNB"
-        },
-       {
-          "count": 4,
-          "name": "Misdreavus",
-          "number": "77",
-          "set": "UNB"
-        },
-      {
           "count": 3,
           "name": "Bill's Analysis",
           "number": "133",
@@ -2362,12 +2147,16 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-forest-kartenvoy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ultra Forest Kartenvoy",
+          "number": "188",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2018-17/order-pad.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Order Pad",
+          "number": "131",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -2382,8 +2171,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 4,
@@ -2421,23 +2212,28 @@ let masters = [
           "number": "164",
           "set": "UNB"
       },
-      {
-        "count": 4,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/energy/dark-energy-teu.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 4,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "TEU"
+        },
+        {
+          "count": 3,
+            "name": "Dark Energy",
+            "number": "dark",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
+        },
+      ]
+    }
   },
   {
     firstName: 'Eder Soto',
@@ -2445,36 +2241,11 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "reshizard",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 2,
           "name": "Reshiram & Charizard GX",
           "number": "20",
@@ -2529,8 +2300,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/luxio.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Luxio",
+          "number": "47",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -2538,7 +2311,9 @@ let masters = [
           "number": "154",
           "set": "LOT"
       },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -2598,180 +2373,183 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 18,
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
         },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Tommi Lahtela',
     flag: '../../../assets/flags/norway.png',
     sprite1: '../../../assets/sprites/florges-red.png',
-    sprite2: '../../../assets/sprites/clefairy.png',
+    sprite2: '../../../assets/sprites/munchlax.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "florges-munchlax",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
+          "count": 3,
+         "name": "Florges",
+         "number": "86",
+         "set": "FLI"
+       },
+       {
+         "count": 4,
+         "name": "Flabébé",
+         "number": "84",
+         "set": "FLI"
+       },
+       {
+           "count": 4,
+           "name": "Jirachi",
+           "number": "99",
+           "set": "TEU"
+         },
+       {
+         "count": 2,
+           "name": "Sawsbuck",
+           "number": "16",
+           "set": "CEC"
+       },
+       {
+         "count": 2,
+         "name": "Deerling",
+         "number": "15",
+         "set": "CEC"
+       },
+       {
+         "count": 1,
+           "name": "Girafarig",
+           "number": "94",
+           "set": "LOT"
+       },
+       {
+         "count": 1,
+           "name": "Mew",
+           "number": "76",
+           "set": "UNB"
+       },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Steven's Resolve",
+            "number": "145",
+            "set": "CES"
+        },
+        {
+          "count": 3,
+            "name": "Professor Oak's Setup",
+            "number": "201",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+            "name": "Lusamine",
+            "number": "96",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+            "name": "Bellelba & Brycen-Man",
+            "number": "186",
+            "set": "CEC"
+        },
+        {
+           "count": 1,
+            "name": "Brock's Grit",
+            "number": "135",
+            "set": "TEU"
+        },
+        {
+           "count": 1,
+            "name": "Channeler",
+            "number": "190",
+            "set": "UNM"
+        },
+        {
+          "count": 4,
+            "name": "Lillie's Poké Doll",
+            "number": "197",
+            "set": "CEC"
+        },
+        {
+            "count": 4,
+            "name": "Pokégear 3.0",
+            "number": "182",
+            "set": "UNB"
+          },
+        {
+          "count": 3,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
+        },
+        {
+            "count": 1,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+            "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+          },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+          },
+        {
+          "count": 3,
+            "name": "Stealthy Hood",
+            "number": "186",
+            "set": "UNB"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Sky Pillar",
+            "number": "144",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020/florges.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/flabebe.png',
-        numImg: '../../assets/04.png'
-      },
-      {
           "count": 4,
-          "name": "Jirachi",
-          "number": "99",
+          "name": "Grass Energy",
+          "number": "grass",
           "set": "TEU"
         },
-      {
-        cardImg: '../../assets/cards/2019-2020/sawsbuck.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/deerling.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Girafarig",
-          "number": "94",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/steven-resolve.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/professor-oaks-setup.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 3,
-          "name": "Lusamine",
-          "number": "96",
-          "set": "CIN"
-      },
-      {
-        "count": 2,
-          "name": "Bellelba & Brycen-Man",
-          "number": "186",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/brocks-grit.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/channeler.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Lillie's Poké Doll",
-          "number": "197",
-          "set": "CEC"
-      },
-      {
-          "count": 4,
-          "name": "Pokégear 3.0",
-          "number": "182",
-          "set": "UNB"
-        },
-      {
-        "count": 3,
-        "name": "Rare Candy",
-        "number": "142",
-        "set": "CES"
-      },
-      {
+        {
           "count": 1,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
+            "name": "Recycle Energy",
+            "number": "212",
+            "set": "UNM"
         },
-      {
-          "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-        },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-        },
-      {
-        "count": 3,
-          "name": "Stealthy Hood",
-          "number": "186",
-          "set": "UNB"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/sky-pillar.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 4,
-        "name": "Grass Energy",
-        "number": "grass",
-        "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Recycle Energy",
-          "number": "212",
-          "set": "UNM"
-      },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Rafael Yuiti',
@@ -2779,112 +2557,91 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "mewtwo-and-mew-tagteam",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+            "count": 3,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Charizard & Braixen GX",
+            "number": "22",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Charizard GX",
+            "number": "SM211",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Espeon & Deoxys GX",
+            "number": "72",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Solgaleo GX",
+            "number": "SM104",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+          "name": "Greninja GX",
+          "number": "SM197",
+          "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Marshadow",
+            "number": "81",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-          "count": 3,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/braixen-charizard-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Charizard GX",
-          "number": "SM211",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Espeon & Deoxys GX",
-          "number": "72",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Magcargo GX",
-          "number": "44",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Solgaleo GX",
-          "number": "SM104",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-        "name": "Greninja GX",
-        "number": "SM197",
-        "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Marshadow",
-          "number": "81",
-          "set": "UNB"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -2939,8 +2696,10 @@ let masters = [
         "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-recycle-system.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Energy Recycle System",
+          "number": "128",
+          "set": "CES"
       },
       {
           "count": 2,
@@ -2972,7 +2731,9 @@ let masters = [
           "number": "111",
           "set": "FLI"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 8,
           "name": "Fire Energy",
           "number": "fire",
@@ -3002,35 +2763,22 @@ let masters = [
         "number": "151",
         "set": "CES"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Douglas Castro',
     flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Vitor Lugon',
     flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Fabien Pujol',
@@ -3038,36 +2786,11 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 4,
           "name": "Jirachi",
           "number": "99",
@@ -3098,8 +2821,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Drampa",
+          "number": "159",
+          "set": "CEC"
       },
       {
          "count": 1,
@@ -3113,87 +2838,95 @@ let masters = [
           "number": "57",
           "set": "CEC"
       },
-      {
-        "count": 4,
-          "name": "Lillie",
-          "number": "125",
-          "set": "UPR"
-      },
-      {
-         "count": 3,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/misty-and-loraine.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 3,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 3,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
+      ],
+      "trainer": [
+        {
+          "count": 4,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
         },
-      {
-          "count": 3,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
+        {
+           "count": 3,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
         },
-      {
+        {
           "count": 2,
-          "name": "Cherish Ball",
-          "number": "191",
-          "set": "UNM"
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
         },
-      {
+        {
           "count": 2,
-          "name": "Reset Stamp",
+            "name": "N's Resolve",
+            "number": "200",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+          "name": "Misty & Lorelei",
+          "number": "199",
+          "set": "CEC"
+        },
+        {
+          "count": 3,
+          "name": "Tag Call",
           "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 2,
-          "name": "Great Catcher",
-          "number": "192",
           "set": "CEC"
-      },
-      {
+        },
+        {
+            "count": 3,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+            "count": 3,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+          },
+        {
+            "count": 2,
+            "name": "Cherish Ball",
+            "number": "191",
+            "set": "UNM"
+          },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
           "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
         },
-      {
-        "count": 3,
-          "name": "Chaotic Swell",
-          "number": "187",
-          "set": "CEC"
-      },
-      {
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 3,
+            "name": "Chaotic Swell",
+            "number": "187",
+            "set": "CEC"
+        },
+      ],
+      "energy": [
+        {
           "count": 7,
           "name": "Water Energy",
           "number": "water",
@@ -3211,7 +2944,8 @@ let masters = [
         "number": "151",
         "set": "CES"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Joao Santos',
@@ -3219,84 +2953,61 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/naganadel.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "blacephalon-naganadel",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
+          "count": 4,
+           "name": "Blacephalon GX",
+           "number": "52",
+           "set": "LOT"
+       },
+       {
+         "count": 4,
+           "name": "Naganadel",
+           "number": "108",
+           "set": "LOT"
+       },
+       {
+         "count": 2,
+           "name": "Naganadel GX",
+           "number": "160",
+           "set": "UNM"
+       },
+       {
+         "count": 3,
+           "name": "Poipole",
+           "number": "55",
+           "set": "FLI"
+       },
+       {
+         "count": 1,
+           "name": "Poipole",
+           "number": "102",
+           "set": "UNM"
+       },
+       {
+           "count": 1,
+           "name": "Heatran GX",
+           "number": "25",
+           "set": "UNM"
+         },
+       {
+           "count": 1,
+           "name": "Dedenne GX",
+           "number": "57",
+           "set": "UNB"
+         },
+       {
+         "count": 1,
+           "name": "Oricorio GX",
+           "number": "95",
+           "set": "CEC"
+       },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-         "count": 4,
-          "name": "Blacephalon GX",
-          "number": "52",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Naganadel",
-          "number": "108",
-          "set": "LOT"
-      },
-      {
-        "count": 2,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        "count": 3,
-          "name": "Poipole",
-          "number": "55",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Poipole",
-          "number": "102",
-          "set": "UNM"
-      },
-      {
-          "count": 1,
-          "name": "Heatran GX",
-          "number": "25",
-          "set": "UNM"
-        },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Oricorio GX",
-          "number": "95",
-          "set": "CEC"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -3315,8 +3026,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
           "count": 3,
@@ -3331,8 +3044,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/island-challenge-amulet.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Island Challenge Amulet",
+        "number": "194",
+        "set": "CEC"
       },
       {
         "count": 3,
@@ -3340,7 +3055,9 @@ let masters = [
           "number": "115",
           "set": "FLI"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 14,
           "name": "Fire Energy",
           "number": "fire",
@@ -3358,7 +3075,8 @@ let masters = [
         "number": "117",
         "set": "FLI"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Jimmy Pendarvis',
@@ -3366,52 +3084,31 @@ let masters = [
     sprite1: '../../../assets/sprites/guzzlord-naganadel-tagteam.png',
     sprite2: '../../../assets/sprites/mismagius.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "nagaguzz-mismagius",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+              "name": "Naganadel & Guzzlord GX",
+              "number": "158",
+              "set": "CEC"
         },
+        {
+            "count": 4,
+            "name": "Mismagius",
+            "number": "78",
+            "set": "UNB"
+          },
+         {
+            "count": 4,
+            "name": "Misdreavus",
+            "number": "77",
+            "set": "UNB"
+          },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020/naganadel-guzzlord-gx.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-          "count": 4,
-          "name": "Mismagius",
-          "number": "78",
-          "set": "UNB"
-        },
-       {
-          "count": 4,
-          "name": "Misdreavus",
-          "number": "77",
-          "set": "UNB"
-        },
-      {
           "count": 3,
           "name": "Bill's Analysis",
           "number": "133",
@@ -3436,12 +3133,16 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-forest-kartenvoy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ultra Forest Kartenvoy",
+          "number": "188",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2018-17/order-pad.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Order Pad",
+          "number": "131",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -3456,8 +3157,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 4,
@@ -3495,23 +3198,28 @@ let masters = [
           "number": "164",
           "set": "UNB"
       },
-      {
-        "count": 4,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/energy/dark-energy-teu.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 4,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "TEU"
+        },
+        {
+          "count": 3,
+            "name": "Dark Energy",
+            "number": "dark",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
+        },
+      ]
+    }
   },
   {
     firstName: 'Daniel Abramovici',
@@ -3519,64 +3227,43 @@ let masters = [
     sprite1: '../../../assets/sprites/charizard-braixen-tagteam.png',
     sprite2: '../../../assets/sprites/volcanion.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "greens-zard",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Volcanion",
+            "number": "25",
+            "set": "UNB"
+        },
+        {
+          "count": 2,
+            "name": "Charizard & Braixen GX",
+            "number": "22",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Reshiram & Charizard GX",
+            "number": "20",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+          "name": "Omastar",
+          "number": "76",
+          "set": "TEU"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Volcanion",
-          "number": "25",
-          "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/braixen-charizard-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-          "count": 1,
-          "name": "Reshiram & Charizard GX",
-          "number": "20",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-        "name": "Omastar",
-        "number": "76",
-        "set": "TEU"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -3667,8 +3354,10 @@ let masters = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/unidentified-fossil.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unidentified Fossil",
+          "number": "155",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -3688,13 +3377,16 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 12,
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
         },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Lucas Fabiano Maiola',
@@ -3702,90 +3394,67 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "mewtwo-and-mew-tagteam",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+            "count": 3,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Charizard GX",
+            "number": "SM211",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Espeon & Deoxys GX",
+            "number": "72",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Solgaleo GX",
+            "number": "SM104",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+          "name": "Greninja GX",
+          "number": "SM197",
+          "set": "SMP"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-          "count": 3,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Charizard GX",
-          "number": "SM211",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Espeon & Deoxys GX",
-          "number": "72",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Magcargo GX",
-          "number": "44",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Solgaleo GX",
-          "number": "SM104",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-        "name": "Greninja GX",
-        "number": "SM197",
-        "set": "SMP"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -3881,7 +3550,9 @@ let masters = [
           "number": "187",
           "set": "CEC"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 8,
           "name": "Fire Energy",
           "number": "fire",
@@ -3911,7 +3582,8 @@ let masters = [
         "number": "151",
         "set": "CES"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Dyego Rathje',
@@ -3919,102 +3591,79 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/giratina.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "malamar",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Malamar",
+            "number": "51",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Inkay",
+            "number": "50",
+            "set": "FLI"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+         "count": 2,
+            "name": "Giratina",
+            "number": "97",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Trevenant & Dusknoir GX",
+            "number": "SM217",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Blacephalon",
+            "number": "104",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+          "name": "Nihilego",
+          "number": "106",
+          "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Mimikyu",
+          "number": "58",
+          "set": "GRI"
+        },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Malamar",
-          "number": "51",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Inkay",
-          "number": "50",
-          "set": "FLI"
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-       "count": 2,
-          "name": "Giratina",
-          "number": "97",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Trevenant & Dusknoir GX",
-          "number": "SM217",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Blacephalon",
-          "number": "104",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-        "name": "Nihilego",
-        "number": "106",
-        "set": "LOT"
-      },
-      {
-        "count": 1,
-        "name": "Mimikyu",
-        "number": "58",
-        "set": "GRI"
-      },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
           "count": 4,
           "name": "Cynthia",
           "number": "119",
@@ -4080,19 +3729,22 @@ let masters = [
           "number": "143",
           "set": "CES"
       },
-      {
-        "count": 7,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Recycle Energy",
-          "number": "212",
-          "set": "UNM"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 7,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Recycle Energy",
+            "number": "212",
+            "set": "UNM"
+        },
+      ]
+    }
   },
   {
     firstName: 'Brent Tonisson',
@@ -4100,94 +3752,73 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "mewtwo-and-mew-tagteam",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Charizard & Braixen GX",
+            "number": "22",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Charizard GX",
+            "number": "SM211",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Espeon & Deoxys GX",
+            "number": "72",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Solgaleo GX",
+            "number": "SM104",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+          "name": "Greninja GX",
+          "number": "SM197",
+          "set": "SMP"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/braixen-charizard-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Charizard GX",
-          "number": "SM211",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Espeon & Deoxys GX",
-          "number": "72",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Solgaleo GX",
-          "number": "SM104",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-        "name": "Greninja GX",
-        "number": "SM197",
-        "set": "SMP"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -4259,7 +3890,9 @@ let masters = [
           "number": "197",
           "set": "UNM"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 8,
           "name": "Fire Energy",
           "number": "fire",
@@ -4277,7 +3910,8 @@ let masters = [
           "number": "213",
           "set": "UNM"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Patricia Walsh',
@@ -4285,180 +3919,177 @@ let masters = [
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "guru-pidgey",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Pidgeotto",
+            "number": "123",
+            "set": "TEU"
+        },
+        {
+          "count": 3,
+            "name": "Pidgey",
+            "number": "122",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Pidgey",
+            "number": "121",
+            "set": "TEU"
+        },
+        {
+          "count": 2,
+            "name": "Articuno GX",
+            "number": "31",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Slowking",
+            "number": "55",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Girafarig",
+            "number": "94",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+            "name": "Tate & Liza",
+            "number": "148",
+            "set": "CES"
+        },
+        {
+           "count": 2,
+            "name": "Hapu",
+            "number": "200",
+            "set": "UNM"
+        },
+        {
+          "count": 2,
+            "name": "Lt. Surge's Strategy",
+            "number": "178",
+            "set": "UNB"
+        },
+        {
+          "count": 2,
+            "name": "Mars",
+            "number": "128",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Rosa",
+            "number": "204",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+          "name": "Misty & Lorelei",
+          "number": "199",
+          "set": "CEC"
+        },
+        {
+          "count": 1,
+          "name": "Pokémon Fan Club",
+          "number": "133",
+          "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Bellelba & Brycen-Man",
+            "number": "186",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+          "name": "Jessie & James",
+          "number": "58",
+          "set": "HIF"
+        },
+        {
+          "count": 1,
+            "name": "Faba",
+            "number": "173",
+            "set": "LOT"
+        },
+        {
+            "count": 4,
+            "name": "Pokégear 3.0",
+            "number": "182",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 3,
+            "name": "Crushing Hammer",
+            "number": "115",
+            "set": "SUM"
+        },
+        {
+            "count": 3,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
+          },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 2,
+            "name": "Chip-Chip Ice Axe",
+            "number": "165",
+            "set": "UNB"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Power Plant",
+            "number": "183",
+            "set": "UNB"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Pidgeotto",
-          "number": "123",
-          "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/pidgey-quick-attack.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/pidgey-collect.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/slowking.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Girafarig",
-          "number": "94",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 2,
-          "name": "Tate & Liza",
-          "number": "148",
-          "set": "CES"
-      },
-      {
-         "count": 2,
-          "name": "Hapu",
-          "number": "200",
-          "set": "UNM"
-      },
-      {
-        "count": 2,
-          "name": "Lt. Surge's Strategy",
-          "number": "178",
-          "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/mars.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Rosa",
-          "number": "204",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/misty-and-loraine.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-        "name": "Pokémon Fan Club",
-        "number": "133",
-        "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Bellelba & Brycen-Man",
-          "number": "186",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/jessie-and-james.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Faba",
-          "number": "173",
-          "set": "LOT"
-      },
-      {
-          "count": 4,
-          "name": "Pokégear 3.0",
-          "number": "182",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 3,
-          "name": "Crushing Hammer",
-          "number": "115",
-          "set": "SUM"
-      },
-      {
-          "count": 3,
-          "name": "Acro Bike",
-          "number": "123",
-          "set": "CES"
-        },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/chipchip-ice-axe.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Power Plant",
-          "number": "183",
-          "set": "UNB"
-      },
-      {
           "count": 4,
           "name": "Water Energy",
           "number": "water",
@@ -4470,7 +4101,8 @@ let masters = [
           "number": "212",
           "set": "UNM"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Stéphane Ivanoff',
@@ -4478,170 +4110,155 @@ let masters = [
     sprite1: '../../../assets/sprites/silvally.png',
     sprite2: '../../../assets/sprites/quagsire.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "silvally-quagsire",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Silvally GX",
+            "number": "184",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Silvally GX",
+            "number": "116",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+          "name": "Type: Null",
+          "number": "183",
+          "set": "UNM"
+        },
+        {
+          "count": 3,
+          "name": "Quagsire",
+          "number": "26",
+          "set": "DRM"
+        },
+        {
+          "count": 2,
+            "name": "Wooper",
+            "number": "96",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+            "name": "Blastoise & Piplup GX",
+            "number": "38",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Keldeo GX",
+            "number": "47",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Marshadow",
+            "number": "81",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Oak's Setup",
+            "number": "201",
+            "set": "CEC"
+        },
+        {
+            "count": 3,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 3,
+            "name": "Red & Blue",
+            "number": "202",
+            "set": "CEC"
+        },
+        {
+           "count": 2,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 4,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+            "count": 2,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
+          },
+        {
+          "count": 2,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Chaotic Swell",
+            "number": "187",
+            "set": "CEC"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020/silvally-gx-disk-reload.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/silvally-gx-unit.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/type-null.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 3,
-        "name": "Quagsire",
-        "number": "26",
-        "set": "DRM"
-      },
-      {
-        "count": 2,
-          "name": "Wooper",
-          "number": "96",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/blastoise-piplup-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Keldeo GX",
-          "number": "47",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Marshadow",
-          "number": "81",
-          "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/professor-oaks-setup.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-          "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/red-blue.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-         "count": 2,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 4,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
-        },
-      {
-          "count": 2,
-          "name": "Acro Bike",
-          "number": "123",
-          "set": "CES"
-        },
-      {
-        "count": 2,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Chaotic Swell",
-          "number": "187",
-          "set": "CEC"
-      },
-      {
           "count": 11,
           "name": "Water Energy",
           "number": "water",
           "set": "TEU"
         },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Otavio Gouveia',
     flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/keldeo.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Rahul Reddy',
@@ -4649,108 +4266,85 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "mewtwo-and-mew-tagteam",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+            "count": 3,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 2,
+            "name": "Marshadow",
+            "number": "81",
+            "set": "UNB"
+        },
+        {
+            "count": 1,
+            "name": "Reshiram & Charizard GX",
+            "number": "20",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Charizard GX",
+            "number": "SM211",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Espeon & Deoxys GX",
+            "number": "72",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Solgaleo GX",
+            "number": "SM104",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+            "count": 1,
+            "name": "Turtonator",
+            "number": "50",
+            "set": "DRM"
+          },
+        {
+          "count": 1,
+          "name": "Mewtwo",
+          "number": "75",
+          "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-          "count": 3,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 2,
-          "name": "Marshadow",
-          "number": "81",
-          "set": "UNB"
-      },
-      {
-          "count": 1,
-          "name": "Reshiram & Charizard GX",
-          "number": "20",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Charizard GX",
-          "number": "SM211",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Espeon & Deoxys GX",
-          "number": "72",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Magcargo GX",
-          "number": "44",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Solgaleo GX",
-          "number": "SM104",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-          "count": 1,
-          "name": "Turtonator",
-          "number": "50",
-          "set": "DRM"
-        },
-      {
-        "count": 1,
-        "name": "Mewtwo",
-        "number": "75",
-        "set": "UNB"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -4799,8 +4393,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-recycle-system.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Energy Recycle System",
+          "number": "128",
+          "set": "CES"
       },
       {
           "count": 3,
@@ -4814,7 +4410,9 @@ let masters = [
           "number": "156",
           "set": "TEU"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 9,
           "name": "Fire Energy",
           "number": "fire",
@@ -4826,21 +4424,15 @@ let masters = [
           "number": "psychic",
           "set": "TEU"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Emildo Andrade',
     flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blacephalon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Pedro Ricardo',
@@ -4848,78 +4440,59 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "baby-blowns",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Blacephalon",
+            "number": "32",
+            "set": "UNB"
         },
+        {
+          "count": 4,
+            "name": "Pidgeotto",
+            "number": "123",
+            "set": "TEU"
+        },
+        {
+          "count": 4,
+            "name": "Pidgey",
+            "number": "122",
+            "set": "TEU"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+            "count": 1,
+            "name": "Heatran GX",
+            "number": "25",
+            "set": "UNM"
+          },
+        {
+            "count": 1,
+            "name": "Victini ♢",
+            "number": "7",
+            "set": "DRM"
+          },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Blacephalon",
-          "number": "32",
-          "set": "UNB"
-      },
-      {
-        "count": 4,
-          "name": "Pidgeotto",
-          "number": "123",
-          "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/pidgey-quick-attack.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-          "count": 1,
-          "name": "Heatran GX",
-          "number": "25",
-          "set": "UNM"
-        },
-      {
-          "count": 1,
-          "name": "Victini ♢",
-          "number": "7",
-          "set": "DRM"
-        },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -4963,7 +4536,9 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 14,
           "name": "Fire Energy",
           "number": "fire",
@@ -4975,21 +4550,15 @@ let masters = [
         "number": "117",
         "set": "FLI"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Diego Cassiraga',
     flag: '../../../assets/flags/argentina.png',
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/keldeo.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Francesco Caterino',
@@ -4997,36 +4566,11 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 4,
           "name": "Jirachi",
           "number": "99",
@@ -5057,8 +4601,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Drampa",
+          "number": "159",
+          "set": "CEC"
       },
       {
          "count": 1,
@@ -5072,7 +4618,9 @@ let masters = [
           "number": "57",
           "set": "CEC"
       },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Cynthia",
           "number": "119",
@@ -5085,8 +4633,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N's Resolve",
+          "number": "200",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -5095,8 +4645,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/misty-and-loraine.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+        "name": "Misty & Lorelei",
+        "number": "199",
+        "set": "CEC"
       },
       {
         "count": 1,
@@ -5152,7 +4704,9 @@ let masters = [
           "number": "187",
           "set": "CEC"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 7,
           "name": "Water Energy",
           "number": "water",
@@ -5164,7 +4718,8 @@ let masters = [
         "number": "metal",
         "set": "TEU"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Rafael Santos',
@@ -5172,78 +4727,59 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "baby-blowns",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Blacephalon",
+            "number": "32",
+            "set": "UNB"
         },
+        {
+          "count": 4,
+            "name": "Pidgeotto",
+            "number": "123",
+            "set": "TEU"
+        },
+        {
+          "count": 4,
+            "name": "Pidgey",
+            "number": "122",
+            "set": "TEU"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+            "count": 1,
+            "name": "Heatran GX",
+            "number": "25",
+            "set": "UNM"
+          },
+        {
+            "count": 1,
+            "name": "Victini ♢",
+            "number": "7",
+            "set": "DRM"
+          },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Blacephalon",
-          "number": "32",
-          "set": "UNB"
-      },
-      {
-        "count": 4,
-          "name": "Pidgeotto",
-          "number": "123",
-          "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/pidgey-quick-attack.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-          "count": 1,
-          "name": "Heatran GX",
-          "number": "25",
-          "set": "UNM"
-        },
-      {
-          "count": 1,
-          "name": "Victini ♢",
-          "number": "7",
-          "set": "DRM"
-        },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -5293,13 +4829,16 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 14,
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
         },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Fabio Andrade',
@@ -5307,36 +4846,11 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 3,
           "name": "Jirachi",
           "number": "99",
@@ -5367,8 +4881,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         "count": 1,
@@ -5388,7 +4904,9 @@ let masters = [
           "number": "46",
           "set": "UNM"
       },
-      {
+      ],
+      "trainer": [
+        {
           "count": 3,
           "name": "Cynthia",
           "number": "119",
@@ -5472,7 +4990,9 @@ let masters = [
           "number": "187",
           "set": "CEC"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 6,
           "name": "Water Energy",
           "number": "water",
@@ -5491,10 +5011,13 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Renato Christian',
@@ -5502,96 +5025,73 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/giratina.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "malamar",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Malamar",
+            "number": "51",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Inkay",
+            "number": "50",
+            "set": "FLI"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+         "count": 2,
+            "name": "Giratina",
+            "number": "97",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Trevenant & Dusknoir GX",
+            "number": "SM217",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Blacephalon",
+            "number": "104",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+          "name": "Mimikyu",
+          "number": "58",
+          "set": "GRI"
+        },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Malamar",
-          "number": "51",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Inkay",
-          "number": "50",
-          "set": "FLI"
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-       "count": 2,
-          "name": "Giratina",
-          "number": "97",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Trevenant & Dusknoir GX",
-          "number": "SM217",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Blacephalon",
-          "number": "104",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-        "name": "Mimikyu",
-        "number": "58",
-        "set": "GRI"
-      },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
           "count": 4,
           "name": "Cynthia",
           "number": "119",
@@ -5663,19 +5163,22 @@ let masters = [
           "number": "143",
           "set": "CES"
       },
-      {
-        "count": 7,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Recycle Energy",
-          "number": "212",
-          "set": "UNM"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 7,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Recycle Energy",
+            "number": "212",
+            "set": "UNM"
+        },
+      ]
+    }
   },
   {
     firstName: 'Gabriel Semedo',
@@ -5683,106 +5186,85 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "mewtwo-and-mew-tagteam",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+            "count": 3,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 1,
+            "name": "Reshiram & Charizard GX",
+            "number": "20",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Charizard & Braixen GX",
+            "number": "22",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Charizard GX",
+            "number": "SM211",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Espeon & Deoxys GX",
+            "number": "72",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Solgaleo GX",
+            "number": "SM104",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+          "name": "Greninja GX",
+          "number": "SM197",
+          "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Marshadow",
+            "number": "81",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-          "count": 3,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 1,
-          "name": "Reshiram & Charizard GX",
-          "number": "20",
-          "set": "UNB"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/braixen-charizard-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Charizard GX",
-          "number": "SM211",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Espeon & Deoxys GX",
-          "number": "72",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Solgaleo GX",
-          "number": "SM104",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-        "name": "Greninja GX",
-        "number": "SM197",
-        "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Marshadow",
-          "number": "81",
-          "set": "UNB"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -5843,8 +5325,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-recycle-system.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Energy Recycle System",
+          "number": "128",
+          "set": "CES"
       },
       {
           "count": 1,
@@ -5858,7 +5342,9 @@ let masters = [
           "number": "197",
           "set": "UNM"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 8,
           "name": "Fire Energy",
           "number": "fire",
@@ -5882,7 +5368,8 @@ let masters = [
         "number": "151",
         "set": "CES"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Bruno Sermann',
@@ -5890,44 +5377,21 @@ let masters = [
     sprite1: '../../../assets/sprites/gardevoir-sylveon-tagteam.png',
     sprite2: '../../../assets/sprites/xerneas-active.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "gardevoir-sylveon-tagteam",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 4,
           "name": "Gardevoir & Sylveon GX",
           "number": "130",
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/xerneas-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Xerneas GX",
+          "number": "90",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -5941,7 +5405,9 @@ let masters = [
           "number": "114",
           "set": "UPR"
       },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Green's Exploration",
           "number": "175",
@@ -6032,8 +5498,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/fairy-charm-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fairy Charm Psychic",
+          "number": "175",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -6053,23 +5521,28 @@ let masters = [
           "number": "187",
           "set": "CEC"
       },
-      {
-        "count": 8,
-          "name": "Fairy Energy",
-          "number": "fairy",
-          "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/energy/draw-energy.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Weakness Guard Energy",
-          "number": "213",
-          "set": "UNM"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 8,
+            "name": "Fairy Energy",
+            "number": "fairy",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Draw Energy",
+            "number": "209",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Weakness Guard Energy",
+            "number": "213",
+            "set": "UNM"
+        },
+      ]
+    }
   },
   {
     firstName: 'Mateus Penido',
@@ -6077,36 +5550,11 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 4,
           "name": "Jirachi",
           "number": "99",
@@ -6125,8 +5573,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Drampa",
+          "number": "159",
+          "set": "CEC"
       },
       {
          "count": 1,
@@ -6140,7 +5590,9 @@ let masters = [
           "number": "57",
           "set": "CEC"
       },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Cynthia",
           "number": "119",
@@ -6230,7 +5682,9 @@ let masters = [
           "number": "187",
           "set": "CEC"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 6,
           "name": "Water Energy",
           "number": "water",
@@ -6243,8 +5697,10 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
       {
         "count": 1,
@@ -6252,7 +5708,8 @@ let masters = [
           "number": "137",
           "set": "UPR"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'James Cox',
@@ -6260,94 +5717,73 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "mewtwo-and-mew-tagteam",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Charizard & Braixen GX",
+            "number": "22",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Charizard GX",
+            "number": "SM211",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Espeon & Deoxys GX",
+            "number": "72",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Solgaleo GX",
+            "number": "SM104",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+          "name": "Greninja GX",
+          "number": "SM197",
+          "set": "SMP"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/braixen-charizard-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Charizard GX",
-          "number": "SM211",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Espeon & Deoxys GX",
-          "number": "72",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Solgaleo GX",
-          "number": "SM104",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-        "name": "Greninja GX",
-        "number": "SM197",
-        "set": "SMP"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -6419,7 +5855,9 @@ let masters = [
           "number": "197",
           "set": "UNM"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 8,
           "name": "Fire Energy",
           "number": "fire",
@@ -6437,7 +5875,8 @@ let masters = [
           "number": "213",
           "set": "UNM"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Vinicius Moschen',
@@ -6445,66 +5884,43 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/adp.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Hoopa",
+            "number": "140",
+            "set": "UNM"
+        },
+        {
+           "count": 2,
+            "name": "Cryogonal",
+            "number": "46",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Lucario & Melmetal GX",
+            "number": "120",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Hoopa",
-          "number": "140",
-          "set": "UNM"
-      },
-      {
-         "count": 2,
-          "name": "Cryogonal",
-          "number": "46",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Lucario & Melmetal GX",
-          "number": "120",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
           "count": 4,
           "name": "Green's Exploration",
           "number": "175",
@@ -6594,19 +6010,22 @@ let masters = [
           "number": "187",
           "set": "CEC"
       },
-      {
-          "count": 5,
-          "name": "Water Energy",
-          "number": "water",
-          "set": "TEU"
-        },
+      ],
+      "energy": [
       {
         "count": 5,
-        "name": "Metal Energy",
-        "number": "metal",
+        "name": "Water Energy",
+        "number": "water",
         "set": "TEU"
       },
-    ]
+    {
+      "count": 5,
+      "name": "Metal Energy",
+      "number": "metal",
+      "set": "TEU"
+    },
+      ]
+    }
   },
   {
     firstName: 'Fabian Huerta',
@@ -6614,176 +6033,160 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "pikarom",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Pikachu & Zekrom GX",
+            "number": "33",
+            "set": "TEU"
+        },
+        {
+            "count": 3,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Raichu & Alolan Raichu GX",
+            "number": "54",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Zeraora GX",
+            "number": "86",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Zapdos",
+            "number": "40",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Koko ♢",
+            "number": "51",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Hoopa",
+            "number": "140",
+            "set": "UNM"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Volkner",
+            "number": "135",
+            "set": "UPR"
+        },
+        {
+            "count": 3,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+            "count": 4,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+          },
+        {
+          "count": 4,
+            "name": "Electropower",
+            "number": "172",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+            "name": "Electromagnetic Radar",
+            "number": "169",
+            "set": "UNB"
+        },
+        {
+            "count": 2,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 2,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+        "count": 2,
+            "name": "Energy Switch",
+            "number": "129",
+            "set": "CES"
+        },
+        {
+            "count": 1,
+            "name": "Tag Switch",
+            "number": "209",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Stadium Nav",
+            "number": "208",
+            "set": "UNM"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Thunder Mountain ♢",
+            "number": "191",
+            "set": "LOT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 11,
+            "name": "Lightning Energy",
+            "number": "lightning",
+            "set": "TEU"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Pikachu & Zekrom GX",
-          "number": "33",
-          "set": "TEU"
-      },
-      {
-          "count": 3,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Raichu & Alolan Raichu GX",
-          "number": "54",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Zeraora GX",
-          "number": "86",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Zapdos",
-          "number": "40",
-          "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Hoopa",
-          "number": "140",
-          "set": "UNM"
-      },
-      {
-        "count": 4,
-          "name": "Volkner",
-          "number": "135",
-          "set": "UPR"
-      },
-      {
-          "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-          "count": 4,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-        },
-      {
-        "count": 4,
-          "name": "Electropower",
-          "number": "172",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Electromagnetic Radar",
-          "number": "169",
-          "set": "UNB"
-      },
-      {
-          "count": 2,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
-        },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 2,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      "count": 2,
-          "name": "Energy Switch",
-          "number": "129",
-          "set": "CES"
-      {
-          "count": 1,
-          "name": "Tag Switch",
-          "number": "209",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Stadium Nav",
-          "number": "208",
-          "set": "UNM"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Thunder Mountain ♢",
-          "number": "191",
-          "set": "LOT"
-      },
-      {
-        "count": 11,
-          "name": "Lightning Energy",
-          "number": "lightning",
-          "set": "TEU"
-      },
-    ]
+    }
   },
   {
     firstName: 'Romulo de Oliveira',
@@ -6791,36 +6194,11 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 4,
           "name": "Jirachi",
           "number": "99",
@@ -6844,7 +6222,9 @@ let masters = [
           "number": "57",
           "set": "UNB"
         },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Cynthia",
           "number": "119",
@@ -6881,8 +6261,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/04.png'
+       "count": 4,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
       },
       {
           "count": 3,
@@ -6914,7 +6296,9 @@ let masters = [
           "number": "187",
           "set": "CEC"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 6,
           "name": "Water Energy",
           "number": "water",
@@ -6927,8 +6311,10 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
       {
         "count": 1,
@@ -6936,7 +6322,8 @@ let masters = [
           "number": "137",
           "set": "UPR"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Tiago Marins',
@@ -6944,36 +6331,11 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 4,
           "name": "Jirachi",
           "number": "99",
@@ -7003,7 +6365,9 @@ let masters = [
           "number": "88",
           "set": "TEU"
       },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Cynthia",
           "number": "119",
@@ -7087,7 +6451,9 @@ let masters = [
           "number": "187",
           "set": "CEC"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 6,
           "name": "Water Energy",
           "number": "water",
@@ -7100,8 +6466,10 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
       {
         "count": 1,
@@ -7109,35 +6477,22 @@ let masters = [
           "number": "137",
           "set": "UPR"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Alejo Iturbe',
     flag: '../../../assets/flags/argentina.png',
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Andressa Medrado',
     flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Giovani Rossato',
@@ -7145,36 +6500,11 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../assets/sprites/victini.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "mewtwo-and-mew-tagteam",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 4,
           "name": "Jirachi",
           "number": "99",
@@ -7199,8 +6529,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/braixen-charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard & Braixen GX",
+          "number": "22",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -7244,7 +6576,9 @@ let masters = [
           "number": "76",
           "set": "UNB"
       },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -7304,27 +6638,23 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
-      {
+      ],
+      "energy": [
+        {
           "count": 16,
           "name": "Fire Energy",
           "number": "fire",
           "set": "TEU"
         },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Jon Eng',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'William Azevedo',
@@ -7332,66 +6662,43 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/adp.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Hoopa",
+            "number": "140",
+            "set": "UNM"
+        },
+        {
+           "count": 2,
+            "name": "Cryogonal",
+            "number": "46",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Lucario & Melmetal GX",
+            "number": "120",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Hoopa",
-          "number": "140",
-          "set": "UNM"
-      },
-      {
-         "count": 2,
-          "name": "Cryogonal",
-          "number": "46",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Lucario & Melmetal GX",
-          "number": "120",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
           "count": 4,
           "name": "Green's Exploration",
           "number": "175",
@@ -7481,7 +6788,9 @@ let masters = [
           "number": "187",
           "set": "CEC"
       },
-      {
+      ],
+      "energy": [
+        {
           "count": 5,
           "name": "Water Energy",
           "number": "water",
@@ -7493,21 +6802,15 @@ let masters = [
         "number": "metal",
         "set": "TEU"
       },
-    ]
+      ]
+    }
   },
   {
     firstName: 'Matias Matricardi',
     flag: '../../../assets/flags/argentina.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Jimmy Munk',
@@ -7516,7 +6819,7 @@ let masters = [
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7665,8 +6968,10 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
       {
         "count": 1,
@@ -7683,7 +6988,7 @@ let masters = [
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7832,8 +7137,10 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
       {
         "count": 1,
@@ -7850,7 +7157,7 @@ let masters = [
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7921,8 +7228,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N's Resolve",
+          "number": "200",
+          "set": "CEC"
       },
       {
          "count": 2,
@@ -8011,7 +7320,7 @@ let masters = [
     sprite2: '../../../assets/sprites/adp.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8058,8 +7367,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blastoise-piplup-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blastoise & Piplup GX",
+          "number": "38",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -8198,14 +7509,7 @@ let masters = [
     flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Lucas Freitas',
@@ -8214,7 +7518,7 @@ let masters = [
     sprite2: '../../../assets/sprites/naganadel.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8405,7 +7709,7 @@ let masters = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8452,8 +7756,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/braixen-charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard & Braixen GX",
+          "number": "22",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -8590,7 +7896,7 @@ let masters = [
     sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8747,7 +8053,7 @@ let masters = [
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8912,8 +8218,10 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
       {
         "count": 1,
@@ -8930,7 +8238,7 @@ let masters = [
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8999,8 +8307,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-prism.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko ♢",
+          "number": "51",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -9062,10 +8372,12 @@ let masters = [
           "number": "192",
           "set": "CEC"
       },
-      "count": 2,
-          "name": "Energy Switch",
-          "number": "129",
-          "set": "CES"
+      {
+        "count": 2,
+            "name": "Energy Switch",
+            "number": "129",
+            "set": "CES"
+        },
       {
           "count": 1,
           "name": "Tag Switch",
@@ -9117,7 +8429,7 @@ let masters = [
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -9158,12 +8470,16 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pidgey-quick-attack.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Pidgey",
+          "number": "122",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pidgey-collect.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pidgey",
+          "number": "121",
+          "set": "TEU"
       },
       {
           "count": 4,
@@ -9172,8 +8488,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Articuno GX",
+          "number": "31",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tyrogue.png',
@@ -9186,8 +8504,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         "count": 2,
@@ -9202,8 +8522,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mars.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Mars",
+          "number": "128",
+          "set": "UPR"
       },
       {
         "count": 2,
@@ -9212,8 +8534,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/jessie-and-james.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Jessie & James",
+        "number": "58",
+        "set": "HIF"
       },
       {
           "count": 4,
@@ -9246,8 +8570,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chipchip-ice-axe.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Chip-Chip Ice Axe",
+          "number": "165",
+          "set": "UNB"
       },
       {
           "count": 1,
@@ -9268,8 +8594,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sky-pillar.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sky Pillar",
+          "number": "144",
+          "set": "CES"
       },
       {
           "count": 2,
@@ -9292,7 +8620,7 @@ let masters = [
     sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -9371,8 +8699,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         "count": 1,
@@ -9455,7 +8785,7 @@ let masters = [
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -9514,8 +8844,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Drampa",
+          "number": "159",
+          "set": "CEC"
       },
       {
          "count": 1,
@@ -9524,8 +8856,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N's Resolve",
+          "number": "200",
+          "set": "CEC"
       },
       {
          "count": 3,
@@ -9602,7 +8936,7 @@ let masters = [
     ]
   },
 ]
-// https://www.pokemon.com/us/play-pokemon/internationals/2020/latin-america/tcg-senior/
+
 let seniors = [
   {
     firstName: 'Lochie McKeefry',
@@ -9611,7 +8945,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -9658,8 +8992,10 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/braixen-charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard & Braixen GX",
+          "number": "22",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -9802,7 +9138,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -9957,8 +9293,10 @@ let seniors = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
       {
         "count": 1,
@@ -9975,7 +9313,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -10016,12 +9354,16 @@ let seniors = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pidgey-quick-attack.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Pidgey",
+          "number": "122",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pidgey-collect.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pidgey",
+          "number": "121",
+          "set": "TEU"
       },
       {
           "count": 4,
@@ -10030,8 +9372,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Articuno GX",
+          "number": "31",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -10052,8 +9396,10 @@ let seniors = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         "count": 2,
@@ -10074,8 +9420,10 @@ let seniors = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mars.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mars",
+          "number": "128",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -10084,8 +9432,10 @@ let seniors = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/jessie-and-james.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Jessie & James",
+        "number": "58",
+        "set": "HIF"
       },
       {
         "count": 1,
@@ -10130,8 +9480,10 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chipchip-ice-axe.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Chip-Chip Ice Axe",
+          "number": "165",
+          "set": "UNB"
       },
       {
           "count": 1,
@@ -10174,7 +9526,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -10221,8 +9573,10 @@ let seniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/braixen-charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard & Braixen GX",
+          "number": "22",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -10383,7 +9737,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/charizard-braixen-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -10418,8 +9772,10 @@ let seniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/braixen-charizard-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Charizard & Braixen GX",
+          "number": "22",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -10563,10 +9919,10 @@ let seniors = [
     firstName: 'Vinicius Fernandez',
     flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/florges-red.png',
-    sprite2: '../../../assets/sprites/clefairy.png',
+    sprite2: '../../../assets/sprites/munchlax.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -10595,8 +9951,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/florges.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+        "name": "Florges",
+        "number": "86",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/flabebe-blizard.png',
@@ -10617,8 +9975,10 @@ let seniors = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pidgey-quick-attack.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Pidgey",
+          "number": "122",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -10655,12 +10015,16 @@ let seniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/steven-resolve.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Steven's Resolve",
+          "number": "145",
+          "set": "CES"
       },
       {
           "count": 3,
@@ -10717,16 +10081,20 @@ let seniors = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Stealthy Hood",
+            "number": "186",
+            "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/uturn-board.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sky-pillar.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Sky Pillar",
+          "number": "144",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -10743,7 +10111,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -10808,12 +10176,16 @@ let seniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Drampa",
+          "number": "159",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N's Resolve",
+          "number": "200",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -10908,7 +10280,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -10973,8 +10345,10 @@ let seniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Drampa",
+          "number": "159",
+          "set": "CEC"
       },
       {
         "count": 4,
@@ -11102,7 +10476,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -11167,12 +10541,16 @@ let juniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Drampa",
+          "number": "159",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N's Resolve",
+          "number": "200",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -11267,7 +10645,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -11308,12 +10686,16 @@ let juniors = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pidgey-quick-attack.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Pidgey",
+          "number": "122",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Articuno GX",
+          "number": "31",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -11340,8 +10722,10 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         "count": 2,
@@ -11356,8 +10740,10 @@ let juniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mars.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Mars",
+          "number": "128",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -11372,8 +10758,10 @@ let juniors = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/jessie-and-james.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Jessie & James",
+        "number": "58",
+        "set": "HIF"
       },
       {
         "count": 1,
@@ -11418,8 +10806,10 @@ let juniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chipchip-ice-axe.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Chip-Chip Ice Axe",
+          "number": "165",
+          "set": "UNB"
       },
       {
           "count": 1,
@@ -11440,8 +10830,10 @@ let juniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/champions-festival-19.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Champions Festival",
+          "number": "SM231",
+          "set": "SMP"
       },
       {
           "count": 3,
@@ -11464,7 +10856,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -11523,8 +10915,10 @@ let juniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Drampa",
+          "number": "159",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -11551,12 +10945,16 @@ let juniors = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "N's Resolve",
+          "number": "200",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/misty-and-loraine.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+        "name": "Misty & Lorelei",
+        "number": "199",
+        "set": "CEC"
       },
       {
        "count": 1,
@@ -11645,7 +11043,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/keldeo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -11696,8 +11094,10 @@ let juniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/blastoise-piplup-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blastoise & Piplup GX",
+          "number": "38",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -11706,8 +11106,10 @@ let juniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/drampa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Drampa",
+          "number": "159",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -11826,7 +11228,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/giratina.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -12001,7 +11403,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/xerneas-active.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -12036,8 +11438,10 @@ let juniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/xerneas-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Xerneas GX",
+          "number": "90",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -12136,8 +11540,10 @@ let juniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/fairy-charm-psychic.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fairy Charm Psychic",
+          "number": "175",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -12172,7 +11578,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/giratina.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -12267,8 +11673,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -12345,7 +11753,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -12538,402 +11946,3 @@ let juniors = [
     ]
   },
 ]
-
-//masters
-function displayList(array = []) {
-    masterList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-    
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2020 LAIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-
-    masterList.appendChild(item_element);
-  }
-}
-
-// seniors
-function displayList2(array = []) {
-    seniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-    
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2020 LAIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-    seniorList.appendChild(item_element);
-  }
-}
-
-// juniors
-function displayList3(array = []) {
-    juniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-    
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2020 LAIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-    juniorList.appendChild(item_element);
-  }
-}
-
-const modal = document.querySelector('.modal');
-const modalX = document.querySelector('.modal-x');
-const behind = document.querySelector('.behind-modal');
-
-displayList(masters);
-displayList2(seniors);
-displayList3(juniors);

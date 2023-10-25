@@ -56,8 +56,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Articuno GX",
+          "number": "31",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/magcargo.png',
@@ -223,8 +225,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto-p.png',
@@ -783,8 +787,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Articuno GX",
+          "number": "31",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/magcargo.png',
@@ -1508,8 +1514,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
           "count": 2,
@@ -1639,8 +1647,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -2226,8 +2236,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -2270,8 +2282,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mars.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mars",
+          "number": "128",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/gladion.png',
@@ -2400,8 +2414,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Articuno GX",
+          "number": "31",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/magcargo.png',
@@ -2885,8 +2901,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 3,
@@ -3113,8 +3131,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -3350,8 +3370,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Articuno GX",
+          "number": "31",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/magcargo.png',
@@ -3797,12 +3819,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Articuno GX",
+          "number": "31",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/steven-resolve.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Steven's Resolve",
+          "number": "145",
+          "set": "CES"
       },
       {
           "count": 4,
@@ -3837,8 +3863,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mars.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mars",
+          "number": "128",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -4014,8 +4042,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
@@ -4264,8 +4294,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Articuno GX",
+          "number": "31",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/magcargo.png',
@@ -4914,8 +4946,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 3,
@@ -5087,8 +5121,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -5653,8 +5689,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
@@ -6119,8 +6157,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 3,
@@ -6878,8 +6918,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 3,
@@ -7013,8 +7055,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto-p.png',
@@ -7166,8 +7210,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 3,
@@ -7301,12 +7347,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/articuno-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Articuno GX",
+          "number": "31",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/steven-resolve.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Steven's Resolve",
+          "number": "145",
+          "set": "CES"
       },
       {
           "count": 4,
@@ -7486,8 +7536,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 3,
@@ -7790,8 +7842,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
@@ -8044,8 +8098,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto-p.png',
@@ -8209,8 +8265,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/steven-resolve.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Steven's Resolve",
+          "number": "145",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/tate-n-liza.png',
@@ -8769,8 +8827,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-ring.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
           "count": 2,
@@ -8896,8 +8956,10 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 3,
@@ -9057,8 +9119,10 @@ let seniors = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blitzle.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Blitzle",
+        "number": "81",
+        "set": "LOT"
       },
       {
         "count": 4,
@@ -9210,8 +9274,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
@@ -9371,8 +9437,10 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
           "count": 3,
@@ -9797,8 +9865,10 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Elm's Lecture",
+          "number": "188",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',

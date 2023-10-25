@@ -777,8 +777,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       },
     ]
   },

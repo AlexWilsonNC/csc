@@ -133,8 +133,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       }
     ]
   },
@@ -4081,8 +4083,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-lm.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Unit Energy LPM",
+            "number": "138",
+            "set": "UPR"
       }
     ]
   }
