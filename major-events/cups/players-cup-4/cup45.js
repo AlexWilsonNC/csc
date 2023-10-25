@@ -920,8 +920,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/uturn-board.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "U-Turn Board",
+          "number": "211",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2021-2022/chaotic-swell.png',
@@ -1441,8 +1443,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/uturn-board.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "U-Turn Board",
+          "number": "211",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2021-2022/chaotic-swell.png',
