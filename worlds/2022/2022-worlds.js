@@ -2410,8 +2410,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/speed-energy.png',
@@ -8099,8 +8101,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/speed-energy.png',

@@ -129,8 +129,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -263,8 +265,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -546,8 +550,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -885,8 +891,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -1039,8 +1047,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -1189,8 +1199,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -1331,8 +1343,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -1480,8 +1494,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -1621,8 +1637,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -1908,8 +1926,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/capture-energy.png',
@@ -2053,8 +2073,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/double-turbo-energy.png',
@@ -2339,8 +2361,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -2492,8 +2516,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -2654,8 +2680,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/double-turbo-energy.png',
@@ -2795,8 +2823,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/capture-energy.png',
@@ -3088,8 +3118,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/capture-energy.png',
@@ -3225,8 +3257,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/capture-energy.png',
@@ -3388,8 +3422,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/capture-energy.png',
@@ -3670,8 +3706,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/double-turbo-energy.png',
@@ -3990,8 +4028,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -4132,8 +4172,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -4274,8 +4316,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/double-turbo-energy.png',
@@ -4427,8 +4471,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/double-turbo-energy.png',
@@ -4737,8 +4783,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -5217,8 +5265,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -5683,8 +5733,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -5837,8 +5889,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -6021,8 +6075,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -6308,8 +6364,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -6767,8 +6825,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -6915,8 +6975,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -7193,8 +7255,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -7792,8 +7856,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -7942,8 +8008,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -8229,8 +8297,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -8387,8 +8457,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/capture-energy.png',
@@ -8532,8 +8604,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -8798,8 +8872,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -9088,8 +9164,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -9237,8 +9315,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',
@@ -9378,8 +9458,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/powerful-energy.png',

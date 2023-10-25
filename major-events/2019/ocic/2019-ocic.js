@@ -65,8 +65,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -218,16 +220,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/diancie-p.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -292,8 +298,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -393,12 +401,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wobbufet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Wobbuffet",
+          "number": "93",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -465,8 +477,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -554,8 +568,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
@@ -578,8 +594,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -715,8 +733,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -880,8 +900,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -1029,8 +1051,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
@@ -1059,8 +1083,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -1105,8 +1131,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -1190,8 +1218,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -1395,12 +1425,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -1494,8 +1528,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -1643,8 +1679,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -1800,8 +1838,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -1820,8 +1860,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -1862,8 +1904,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -1951,8 +1995,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -1971,8 +2017,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -2013,8 +2061,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -2100,8 +2150,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wobbufet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Wobbuffet",
+          "number": "93",
+          "set": "LOT"
       },
       {
         "count": 4,
@@ -2120,8 +2172,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -2305,12 +2359,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -2406,8 +2464,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
@@ -2452,12 +2512,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -2566,8 +2630,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -2737,8 +2803,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -2775,12 +2843,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -2884,8 +2956,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -2922,12 +2996,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -3077,8 +3155,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
     ]
   },
@@ -3154,8 +3234,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -3174,8 +3256,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -3216,8 +3300,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -3303,8 +3389,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -3357,8 +3445,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -3456,8 +3546,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -3540,8 +3632,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
@@ -3633,8 +3727,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -3774,8 +3870,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -3927,8 +4025,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -3947,8 +4047,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -3989,8 +4091,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -4090,8 +4194,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -4243,8 +4349,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -4291,12 +4399,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -4407,8 +4519,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -4491,8 +4605,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
@@ -4554,12 +4670,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-spit.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Poipole",
+          "number": "55",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -4586,8 +4706,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -4612,8 +4734,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-space.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -4701,8 +4825,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -4850,8 +4976,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -4870,8 +4998,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -4916,8 +5046,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -5029,8 +5161,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -5196,8 +5330,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -5234,12 +5370,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -5325,8 +5465,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -5466,8 +5608,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -5675,12 +5819,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -5790,8 +5938,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
         "count": 3,
@@ -5964,12 +6114,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -6059,8 +6213,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -6083,8 +6239,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
@@ -6240,8 +6398,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/gladion.png',
@@ -6371,8 +6531,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -6433,8 +6595,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -6560,8 +6724,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
@@ -6698,8 +6864,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
@@ -6722,8 +6890,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -6871,8 +7041,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -6921,8 +7093,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -7079,12 +7253,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -7205,8 +7383,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -7241,12 +7421,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -7397,12 +7581,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -7528,8 +7716,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -7596,8 +7786,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -7719,8 +7911,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -7759,12 +7953,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -7870,8 +8068,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -7981,12 +8181,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -8059,8 +8263,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -8150,12 +8356,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -8214,8 +8424,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -8315,8 +8527,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/girafarig.png',
@@ -8327,12 +8541,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -8508,8 +8726,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         "count": 4,
@@ -8562,8 +8782,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -8653,8 +8875,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -8721,8 +8945,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -8820,8 +9046,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -8955,8 +9183,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -9098,8 +9328,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -9156,12 +9388,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -9243,8 +9479,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -9408,8 +9646,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -9476,8 +9716,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -9564,8 +9806,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -9612,8 +9856,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -9705,8 +9951,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
@@ -9767,8 +10015,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -9854,8 +10104,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -9880,8 +10132,10 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lisia.png',
@@ -9973,16 +10227,22 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-spit.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Poipole",
+          "number": "55",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-eye.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Poipole",
+          "number": "107",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -10009,8 +10269,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
@@ -10035,8 +10297,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-space.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -10118,8 +10382,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -10331,12 +10597,16 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 3,
@@ -10432,8 +10702,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -10510,8 +10782,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -10613,8 +10887,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -10695,8 +10971,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',

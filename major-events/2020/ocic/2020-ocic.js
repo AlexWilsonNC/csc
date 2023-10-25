@@ -1,9 +1,3 @@
-const masterList = document.querySelector('.masters-ol');
-const seniorList = document.querySelector('.seniors-ol');
-const juniorList = document.querySelector('.juniors-ol');
-
-const modalBottom = document.querySelector('.modal-bottom');
-
 let masters = [
   {
     firstName: 'Nico Alabas',
@@ -11,114 +5,107 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "mewtwo-and-mew-tagteam",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+            "count": 3,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Charizard GX",
+            "number": "SM211",
+            "set": "SMP"
+        },
+        {
+            "count": 1,
+            "name": "Reshiram & Charizard GX",
+            "number": "20",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "56",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Solgaleo GX",
+            "number": "SM104",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Victini V",
+            "number": "25",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Blacephalon",
+            "number": "104",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-          "count": 3,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 1,
-          "name": "Reshiram & Charizard GX",
-          "number": "20",
-          "set": "UNB"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/naganadel-gx-psychic.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Solgaleo GX",
-          "number": "SM104",
-          "set": "SMP"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/victini-v.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -127,12 +114,16 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -147,8 +138,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 3,
@@ -156,19 +149,28 @@ let masters = [
           "number": "197",
           "set": "UNM"
         },
-      {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/08.png'
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/02.png'
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 8,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Weakness Guard Energy",
+            "number": "213",
+            "set": "UNM"
+        },
+      ]
+    }
   },
   {
     firstName: 'Zach Lesage',
@@ -176,36 +178,11 @@ let masters = [
     sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     sprite2: '../../../assets/sprites/ninetales.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "reshizard",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 1,
           "name": "Reshiram & Charizard GX",
           "number": "20",
@@ -218,12 +195,16 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/victini-v.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Victini V",
+          "number": "25",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -238,8 +219,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vulpix-flare.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Vulpix",
+          "number": "22",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -259,19 +242,25 @@ let masters = [
           "number": "99",
           "set": "TEU"
         },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Welder",
           "number": "189",
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 3,
@@ -286,8 +275,10 @@ let masters = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -296,8 +287,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/lucky-egg.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lucky Egg",
+          "number": "167",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -311,11 +304,16 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
-      {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/18.png'
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 18,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+      ]
+    }
   },
   {
     firstName: 'Tim Bartels',
@@ -323,136 +321,154 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/obstagoon.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "obstagoon",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Galarian Obstagoon",
+          "number": "119",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Galarian Linoone",
+          "number": "118",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Galarian Zigzagoon",
+          "number": "117",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Sableye V",
+            "number": "120",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Yveltal GX",
+            "number": "79",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Virizion GX",
+            "number": "34",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Rosa",
+            "number": "204",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Bede",
+            "number": "157",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Rare Candy",
+            "number": "180",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 3,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+          "count": 2,
+            "name": "Evolution Incense",
+            "number": "163",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Ordinary Rod",
+            "number": "171",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Counter Gain",
+            "number": "170",
+            "set": "LOT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020/obstagoon.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/linoone.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/zigzagoon.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/sableye-v.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/yveltal-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/virizion-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/rosa.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/bede.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/rare-candy-swsh.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-          "count": 3,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/evo-insence.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/ordinary-rod.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/dark-energy-swsh.png',
-        numImg: '../../assets/09.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'James Williams',
@@ -460,144 +476,166 @@ let masters = [
     sprite1: '../../../assets/sprites/cinccino.png',
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "oranguru-mill",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Cinccino",
+            "number": "147",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Minccino",
+          "number": "145",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Bellelba & Brycen-Man",
+            "number": "186",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Lt. Surge's Strategy",
+            "number": "178",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Faba",
+            "number": "173",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Lillie's Poké Doll",
+            "number": "197",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Great Ball",
+          "number": "164",
+          "set": "SSH"
+        },
+        {
+           "count": 4,
+            "name": "Pal Pad",
+            "number": "172",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Crushing Hammer",
+            "number": "159",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Ordinary Rod",
+            "number": "171",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Evolution Incense",
+            "number": "163",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+          "count": 2,
+            "name": "Air Balloon",
+            "number": "156",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Chaotic Swell",
+            "number": "187",
+            "set": "CEC"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Recycle Energy",
+            "number": "212",
+            "set": "UNM"
         },
       ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020/cinccino.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/minccino.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Faba",
-          "number": "173",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/lillies-poke-doll.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer-swsh.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/ordinary-rod.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/evo-insence.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 1,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Bert Wolters',
@@ -605,154 +643,172 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
+    deckid: "adp",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Unit Energy GRW",
+            "number": "137",
+            "set": "UPR"
         },
       ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Ian Robb',
@@ -761,7 +817,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -790,12 +846,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -810,36 +870,52 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -848,8 +924,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -858,8 +936,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -868,8 +948,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/big-charm.png',
@@ -888,12 +970,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       }
     ]
   },
@@ -904,7 +990,7 @@ let masters = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -945,8 +1031,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
           "count": 1,
@@ -955,8 +1043,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -965,8 +1055,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel-gx-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Naganadel GX",
+          "number": "56",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -981,12 +1073,16 @@ let masters = [
           "set": "SMP"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/victini-v.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Victini V",
+          "number": "25",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -995,8 +1091,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -1005,12 +1103,16 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -1019,12 +1121,16 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -1039,8 +1145,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 3,
@@ -1049,16 +1157,22 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -1069,7 +1183,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -1098,12 +1212,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -1124,40 +1242,58 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -1166,8 +1302,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-swsh.png',
@@ -1180,8 +1318,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -1190,8 +1330,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/big-charm.png',
@@ -1204,16 +1346,22 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
     ]
   },
@@ -1224,7 +1372,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -1253,12 +1401,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -1279,40 +1431,58 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -1321,8 +1491,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -1331,8 +1503,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -1353,12 +1527,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -1375,7 +1553,7 @@ let masters = [
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -1404,8 +1582,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/magcargo.png',
@@ -1416,20 +1596,26 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mareep.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -1450,24 +1636,34 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wobbufet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Wobbuffet",
+          "number": "93",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
         "count": 1,
@@ -1476,24 +1672,34 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillies-poke-doll.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie's Poké Doll",
+          "number": "197",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ordinary-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ordinary Rod",
+          "number": "171",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
           "count": 2,
@@ -1502,8 +1708,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 1,
@@ -1512,20 +1720,26 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/slumbering-forest.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/fighting-energy-swsh.png',
@@ -1540,7 +1754,7 @@ let masters = [
     sprite2: '../../../assets/sprites/blacephalon.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -1587,8 +1801,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/oricorio-gx.png',
@@ -1601,8 +1817,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -1623,24 +1841,30 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-retrieval-swsh.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/friend-ball.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -1649,8 +1873,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
@@ -1663,16 +1889,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/lucky-egg.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lucky Egg",
+          "number": "167",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/beast-bringer.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-space.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -1693,7 +1923,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -1722,12 +1952,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -1746,24 +1980,32 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/cryogonal.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -1772,16 +2014,22 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pokemon-catcher.png',
@@ -1792,12 +2040,16 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -1806,8 +2058,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/big-charm.png',
@@ -1824,12 +2078,16 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       }
     ]
   },
@@ -1840,7 +2098,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -1869,12 +2127,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -1889,12 +2151,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -1903,36 +2169,50 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -1941,12 +2221,16 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -1961,8 +2245,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/dragon-talon.png',
@@ -1981,16 +2267,22 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
     ]
   },
@@ -2001,7 +2293,7 @@ let masters = [
     sprite2: '../../../assets/sprites/giratina.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2054,8 +2346,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -2080,8 +2374,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -2090,8 +2386,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -2106,12 +2404,16 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lanas-fishing-rod.png',
@@ -2128,12 +2430,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SSH"
       },
     ]
   },
@@ -2144,7 +2450,7 @@ let masters = [
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2219,8 +2525,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
         "count": 4,
@@ -2229,12 +2537,16 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -2253,8 +2565,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         "count": 3,
@@ -2269,8 +2583,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -2303,7 +2619,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2332,12 +2648,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -2360,24 +2680,32 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mimikyu-copycat-fairy.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -2386,16 +2714,22 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -2404,16 +2738,20 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-swsh.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -2434,8 +2772,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         "count": 2,
@@ -2444,16 +2784,20 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -2464,7 +2808,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2493,12 +2837,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -2513,8 +2861,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -2523,52 +2873,70 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pokemon-catcher.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-swsh.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/metal-core-barrier.png',
@@ -2591,16 +2959,22 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
     ]
   },
@@ -2611,7 +2985,7 @@ let masters = [
     sprite2: '../../../assets/sprites/malamar.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2674,8 +3048,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel-gx-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Naganadel GX",
+          "number": "56",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -2694,36 +3070,48 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -2732,12 +3120,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 1,
@@ -2746,8 +3138,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -2756,16 +3150,22 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
     ]
   },
@@ -2776,7 +3176,7 @@ let masters = [
     sprite2: '../../../assets/sprites/magcargo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2805,8 +3205,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/magcargo.png',
@@ -2823,8 +3225,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
@@ -2837,8 +3241,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -2847,12 +3253,16 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -2873,8 +3283,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/island-challenge-amulet.png',
@@ -2899,7 +3311,7 @@ let masters = [
     sprite2: '../../../assets/sprites/giratina.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2952,8 +3364,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -2980,8 +3394,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -2990,8 +3406,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -3006,12 +3424,16 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lanas-fishing-rod.png',
@@ -3028,12 +3450,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SSH"
       },
     ]
   },
@@ -3044,7 +3470,7 @@ let masters = [
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -3121,12 +3547,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -3141,8 +3571,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-swsh.png',
@@ -3161,8 +3593,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/big-charm.png',
@@ -3181,8 +3615,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/new-energy/lightning-energy-swsh.png',
@@ -3197,7 +3633,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -3226,12 +3662,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -3246,8 +3686,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -3256,52 +3698,70 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pokemon-catcher.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-swsh.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/metal-core-barrier.png',
@@ -3324,12 +3784,16 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -3340,7 +3804,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -3369,12 +3833,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -3395,40 +3863,56 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mimikyu-copycat-fairy.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pokemon-catcher.png',
@@ -3445,8 +3929,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -3455,8 +3941,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -3465,12 +3953,16 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -3481,7 +3973,7 @@ let masters = [
     sprite2: '../../../assets/sprites/malamar.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -3538,8 +4030,10 @@ let masters = [
         "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel-gx-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Naganadel GX",
+          "number": "56",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -3562,36 +4056,50 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Erika's Hospitality",
+          "number": "140",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         "count": 3,
@@ -3612,32 +4120,44 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pokemon-catcher.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
     ]
   },
@@ -3648,7 +4168,7 @@ let masters = [
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -3723,8 +4243,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
         "count": 4,
@@ -3739,8 +4261,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -3755,8 +4279,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         "count": 3,
@@ -3775,8 +4301,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -3821,7 +4349,7 @@ let masters = [
     sprite2: '../../../assets/sprites/blacephalon.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -3868,8 +4396,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/oricorio-gx.png',
@@ -3882,8 +4412,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -3904,20 +4436,26 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-retrieval-swsh.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -3926,8 +4464,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
@@ -3940,16 +4480,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/lucky-egg.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lucky Egg",
+          "number": "167",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/beast-bringer.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-space.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -3970,7 +4514,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -3999,12 +4543,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -4019,16 +4567,22 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -4037,28 +4591,40 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -4067,8 +4633,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -4077,8 +4645,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -4099,12 +4669,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -4135,7 +4709,7 @@ let masters = [
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -4216,8 +4790,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -4226,12 +4802,16 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -4246,8 +4826,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         "count": 3,
@@ -4266,8 +4848,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -4306,7 +4890,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -4335,12 +4919,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -4355,40 +4943,56 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/cryogonal.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -4409,8 +5013,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/metal-core-barrier.png',
@@ -4435,16 +5041,20 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -4455,7 +5065,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -4484,12 +5094,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -4504,48 +5118,66 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pokemon-catcher.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 1,
@@ -4554,8 +5186,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -4564,8 +5198,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/big-charm.png',
@@ -4578,20 +5214,26 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -4602,7 +5244,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -4631,12 +5273,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -4651,36 +5297,52 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zigzagoon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Galarian Zigzagoon",
+        "number": "117",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -4693,8 +5355,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -4709,8 +5373,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -4725,12 +5391,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -4755,7 +5425,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -4784,12 +5454,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -4804,16 +5478,22 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -4822,28 +5502,40 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -4852,8 +5544,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 1,
@@ -4862,8 +5556,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -4872,12 +5568,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
         "count": 2,
@@ -4892,12 +5592,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -4914,7 +5618,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -4943,12 +5647,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -4963,16 +5671,22 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -4981,8 +5695,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
           "count": 2,
@@ -4991,28 +5707,38 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -5021,8 +5747,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -5037,8 +5765,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         "count": 2,
@@ -5053,12 +5783,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -5103,7 +5837,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lucario-melmetal-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5132,8 +5866,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
@@ -5146,64 +5882,88 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/dusk-mane-necrozma.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pokemon-catcher.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Crushing Hammer",
+          "number": "159",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/metal-frying-pan.png',
@@ -5216,8 +5976,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/energy/swsh-energy-metal.png',
@@ -5232,7 +5994,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5261,12 +6023,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -5287,48 +6053,68 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pokemon-catcher.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -5337,8 +6123,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -5353,8 +6141,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -5369,16 +6159,20 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/energy/swsh-energy-water.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -5389,7 +6183,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5418,12 +6212,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -5432,20 +6230,26 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/cryogonal.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -5454,24 +6258,34 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -5480,12 +6294,16 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 1,
@@ -5494,12 +6312,16 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/big-charm.png',
@@ -5514,24 +6336,32 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/energy/swsh-energy-water.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
     ]
   },
@@ -5542,7 +6372,7 @@ let masters = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5583,8 +6413,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
           "count": 1,
@@ -5593,8 +6425,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -5603,8 +6437,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel-gx-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Naganadel GX",
+          "number": "56",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -5619,12 +6455,16 @@ let masters = [
           "set": "SMP"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/victini-v.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Victini V",
+          "number": "25",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -5633,8 +6473,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -5643,12 +6485,16 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -5657,12 +6503,16 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -5677,8 +6527,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 3,
@@ -5687,16 +6539,22 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -5707,7 +6565,7 @@ let masters = [
     sprite2: '../../../assets/sprites/magcargo.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5736,8 +6594,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/magcargo.png',
@@ -5760,8 +6620,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
@@ -5792,12 +6654,16 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -5806,8 +6672,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
           "count": 3,
@@ -5820,8 +6688,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -5830,8 +6700,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ordinary-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ordinary Rod",
+          "number": "171",
+          "set": "SSH"
       },
       {
           "count": 3,
@@ -5852,7 +6724,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5881,12 +6753,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -5901,52 +6777,70 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pokemon-catcher.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-swsh.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -5969,12 +6863,16 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -5985,7 +6883,7 @@ let masters = [
     sprite2: '../../../assets/sprites/malamar.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6028,8 +6926,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/trevenant-dusknoir-gx.png',
@@ -6046,8 +6946,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel-gx-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Naganadel GX",
+          "number": "56",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -6066,28 +6968,38 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -6096,8 +7008,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 3,
@@ -6106,24 +7020,34 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
     ]
   },
@@ -6134,7 +7058,7 @@ let masters = [
     sprite2: '../../../assets/sprites/blacephalon.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6181,8 +7105,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/oricorio-gx.png',
@@ -6213,8 +7139,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -6227,16 +7155,22 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
@@ -6249,8 +7183,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/lucky-egg.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lucky Egg",
+          "number": "167",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/beast-bringer.png',
@@ -6289,7 +7225,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6318,12 +7254,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -6338,12 +7278,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -6352,28 +7296,40 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -6382,12 +7338,16 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 1,
@@ -6396,8 +7356,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -6406,12 +7368,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
         "count": 2,
@@ -6426,12 +7392,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -6448,7 +7418,7 @@ let masters = [
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6477,20 +7447,28 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/cinccino.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Cinccino",
+          "number": "147",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/minccino.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Minccino",
+        "number": "145",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -6505,28 +7483,38 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/goomy.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
         "count": 1,
@@ -6535,32 +7523,46 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillies-poke-doll.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie's Poké Doll",
+          "number": "197",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Crushing Hammer",
+          "number": "159",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ordinary-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ordinary Rod",
+          "number": "171",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -6569,16 +7571,22 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -6589,7 +7597,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6618,12 +7626,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -6638,12 +7650,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -6652,28 +7668,40 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -6682,12 +7710,16 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -6696,8 +7728,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -6718,12 +7752,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -6754,7 +7792,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6783,12 +7821,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -6803,8 +7845,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -6813,8 +7857,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/clay.png',
@@ -6827,16 +7873,22 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -6845,8 +7897,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 3,
@@ -6859,8 +7913,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -6869,8 +7925,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ordinary-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ordinary Rod",
+          "number": "171",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -6879,8 +7937,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         "count": 2,
@@ -6889,8 +7949,10 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
@@ -6905,7 +7967,7 @@ let masters = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6950,8 +8012,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/venusaur-snivy-gx.png',
@@ -6996,28 +8060,38 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wobbufet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Wobbuffet",
+          "number": "93",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -7026,32 +8100,44 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/big-charm.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/energy/aurora-energy.png',
@@ -7064,12 +8150,16 @@ let masters = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -7178,7 +8268,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7207,12 +8297,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -7227,32 +8321,46 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zigzagoon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Galarian Zigzagoon",
+        "number": "117",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -7265,12 +8373,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -7285,8 +8397,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -7301,12 +8415,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -7376,7 +8494,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/malamar.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7439,8 +8557,10 @@ let seniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel-gx-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Naganadel GX",
+          "number": "56",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -7449,8 +8569,10 @@ let seniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-spit.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Poipole",
+          "number": "55",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
@@ -7463,16 +8585,20 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -7481,16 +8607,22 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -7499,8 +8631,10 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -7509,12 +8643,16 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ordinary-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ordinary Rod",
+          "number": "171",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -7523,20 +8661,28 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -7547,7 +8693,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/ninetales.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7588,12 +8734,16 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/victini-v.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Victini V",
+          "number": "25",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -7608,8 +8758,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vulpix-flare.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vulpix",
+          "number": "22",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -7618,8 +8770,10 @@ let seniors = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
           "count": 1,
@@ -7652,12 +8806,16 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -7678,8 +8836,10 @@ let seniors = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -7700,8 +8860,10 @@ let seniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/18.png'
+        "count": 18,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SSH"
       },
     ]
   },
@@ -7712,7 +8874,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7741,20 +8903,28 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/cinccino.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Cinccino",
+          "number": "147",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/minccino.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Minccino",
+        "number": "145",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -7769,12 +8939,16 @@ let seniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -7787,20 +8961,28 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wobbufet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Wobbuffet",
+          "number": "93",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
         "count": 1,
@@ -7809,32 +8991,46 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillies-poke-doll.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie's Poké Doll",
+          "number": "197",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Crushing Hammer",
+          "number": "159",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ordinary-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ordinary Rod",
+          "number": "171",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -7843,24 +9039,32 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/evo-insence.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Evolution Incense",
+          "number": "163",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/fighting-energy-swsh.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -7871,7 +9075,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/ninetales.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7912,8 +9116,10 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/victini-v.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Victini V",
+          "number": "25",
+          "set": "SSH"
       },
       {
           "count": 3,
@@ -7928,8 +9134,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vulpix-flare.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Vulpix",
+          "number": "22",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -7956,16 +9164,22 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 3,
@@ -7980,8 +9194,10 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -8002,8 +9218,10 @@ let seniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/18.png'
+        "count": 18,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SSH"
       },
     ]
   },
@@ -8014,7 +9232,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8043,12 +9261,16 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -8063,48 +9285,68 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zigzagoon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Galarian Zigzagoon",
+        "number": "117",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -8113,12 +9355,16 @@ let seniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -8127,8 +9373,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         "count": 2,
@@ -8143,16 +9391,20 @@ let seniors = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -8163,7 +9415,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8192,12 +9444,16 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -8212,28 +9468,38 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "148",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/girafarig.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
           "count": 2,
@@ -8242,16 +9508,20 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -8260,28 +9530,38 @@ let seniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Crushing Hammer",
+          "number": "159",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-swsh.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -8296,8 +9576,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -8306,16 +9588,20 @@ let seniors = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -8326,7 +9612,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8355,12 +9641,16 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -8375,8 +9665,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -8385,28 +9677,40 @@ let seniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -8415,16 +9719,22 @@ let seniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -8433,8 +9743,10 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -8455,12 +9767,16 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -8477,7 +9793,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8506,8 +9822,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pidgeotto.png',
@@ -8518,8 +9836,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -8536,12 +9856,16 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -8550,28 +9874,38 @@ let seniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lusamine.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillies-poke-doll.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie's Poké Doll",
+          "number": "197",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -8580,20 +9914,28 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ordinary-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ordinary Rod",
+          "number": "171",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/slumbering-forest.png',
@@ -8606,8 +9948,10 @@ let seniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SSH"
       },
       {
         "count": 2,
@@ -8616,8 +9960,10 @@ let seniors = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -8631,7 +9977,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8660,12 +10006,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -8680,32 +10030,46 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -8714,12 +10078,16 @@ let juniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -8728,12 +10096,16 @@ let juniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -8742,8 +10114,10 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/vitality-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Vitality Band",
+          "number": "185",
+          "set": "SSH"
       },
       {
         "count": 2,
@@ -8752,12 +10126,16 @@ let juniors = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -8768,7 +10146,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/malamar.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8831,8 +10209,10 @@ let juniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel-gx-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Naganadel GX",
+          "number": "56",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -8841,8 +10221,10 @@ let juniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
@@ -8855,32 +10237,42 @@ let juniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         "count": 4,
@@ -8889,12 +10281,16 @@ let juniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 1,
@@ -8903,8 +10299,10 @@ let juniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -8913,16 +10311,22 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
     ]
   },
@@ -8933,7 +10337,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -8962,12 +10366,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 2,
@@ -8984,8 +10392,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -8994,24 +10404,32 @@ let juniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -9020,12 +10438,16 @@ let juniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -9046,12 +10468,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
@@ -9066,7 +10492,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -9095,20 +10521,28 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/cinccino.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Cinccino",
+          "number": "147",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/minccino.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Minccino",
+        "number": "145",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -9123,32 +10557,44 @@ let juniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/girafarig.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wobbufet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Wobbuffet",
+          "number": "93",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
         "count": 1,
@@ -9157,36 +10603,52 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillies-poke-doll.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie's Poké Doll",
+          "number": "197",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Crushing Hammer",
+          "number": "159",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ordinary-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ordinary Rod",
+          "number": "171",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/evo-insence.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Evolution Incense",
+          "number": "163",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -9195,16 +10657,22 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/air-balloon.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Air Balloon",
+          "number": "156",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -9215,7 +10683,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -9244,12 +10712,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -9270,40 +10742,58 @@ let juniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
           "count": 4,
@@ -9312,8 +10802,10 @@ let juniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -9322,8 +10814,10 @@ let juniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -9344,12 +10838,16 @@ let juniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -9366,7 +10864,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -9395,12 +10893,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -9415,36 +10917,50 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/professors-research.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Professor's Research",
+        "number": "178",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marnie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Marnie",
+          "number": "169",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -9453,12 +10969,16 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
           "count": 4,
@@ -9467,20 +10987,26 @@ let juniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-switch-swsh.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -9499,12 +11025,16 @@ let juniors = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -9515,7 +11045,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/blacephalon.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -9562,8 +11092,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zacian-v.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Zacian V",
+          "number": "138",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/oricorio-gx.png',
@@ -9600,24 +11132,32 @@ let juniors = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-retrieval-swsh.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
@@ -9630,16 +11170,20 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/lucky-egg.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lucky Egg",
+          "number": "167",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/beast-bringer.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-space.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -9660,7 +11204,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/blacephalon.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
@@ -9707,8 +11251,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
           "count": 4,
@@ -9729,8 +11275,10 @@ let juniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quick-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Quick Ball",
+        "number": "179",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-retrieval-swsh.png',
@@ -9743,16 +11291,22 @@ let juniors = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/switch-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Switch",
+          "number": "183",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ordinary-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ordinary Rod",
+          "number": "171",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
@@ -9765,16 +11319,20 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/lucky-egg.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lucky Egg",
+          "number": "167",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/island-challenge-amulet.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-space.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -9789,402 +11347,3 @@ let juniors = [
     ]
   },
 ]
-
-//masters
-function displayList(array = []) {
-    masterList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-    
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2020 OCIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-
-    masterList.appendChild(item_element);
-  }
-}
-
-// seniors
-function displayList2(array = []) {
-    seniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-    
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2020 OCIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-    seniorList.appendChild(item_element);
-  }
-}
-
-// juniors
-function displayList3(array = []) {
-    juniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-    
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2020 OCIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-    juniorList.appendChild(item_element);
-  }
-}
-
-const modal = document.querySelector('.modal');
-const modalX = document.querySelector('.modal-x');
-const behind = document.querySelector('.behind-modal');
-
-displayList(masters);
-displayList2(seniors);
-displayList3(juniors);

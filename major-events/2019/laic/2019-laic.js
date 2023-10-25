@@ -926,12 +926,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-spit.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Poipole",
+          "number": "55",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -1089,8 +1093,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pokenav.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "PokéNav",
+          "number": "140",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/field-blower.png',
@@ -1625,8 +1631,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -2178,8 +2186,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/shuckle-gx.png',
@@ -2198,8 +2208,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/girafarig.png',
@@ -2561,8 +2573,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         "count": 3,
@@ -2603,8 +2617,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
@@ -2621,8 +2637,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -2839,16 +2857,20 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -2887,8 +2909,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
@@ -2909,8 +2933,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -3015,8 +3041,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/diancie-p.png',
@@ -3739,8 +3767,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tapu-lele-fairy.png',
@@ -3793,8 +3823,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tate & Liza",
+          "number": "148",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2019-2020/gladion.png',
@@ -3821,8 +3853,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Crushing Hammer",
+          "number": "115",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/counter-catcher.png',
@@ -3934,8 +3968,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
           "count": 3,
@@ -3992,8 +4028,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
@@ -4063,12 +4101,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-eye.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Poipole",
+          "number": "107",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/alolan-muk.png',
@@ -4822,8 +4864,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
@@ -4834,8 +4878,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/deoxys.png',
@@ -4878,8 +4924,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
@@ -4908,8 +4956,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -5158,8 +5208,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tate & Liza",
+          "number": "148",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2019-2020/guzma.png',
@@ -5271,12 +5323,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-eye.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Poipole",
+          "number": "107",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -5392,12 +5448,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-eye.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Poipole",
+          "number": "107",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -5545,8 +5605,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo.png',
@@ -5611,8 +5673,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -5855,8 +5919,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         "count": 4,
@@ -6007,8 +6073,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -6069,8 +6137,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -6748,8 +6818,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -6806,8 +6878,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -7032,8 +7106,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -7094,8 +7170,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -7213,8 +7291,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Crushing Hammer",
+          "number": "115",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/enhanced-hammer-gri.png',
@@ -7332,12 +7412,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -7672,8 +7756,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
@@ -8285,12 +8371,16 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-eye.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Poipole",
+          "number": "107",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -8716,8 +8806,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/magcargo.png',
@@ -8728,8 +8820,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -8774,8 +8868,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Crushing Hammer",
+          "number": "115",
+          "set": "SUM"
       },
       {
           "count": 4,
@@ -9026,12 +9122,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
           "count": 3,
@@ -9074,8 +9174,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2019-2020/field-blower.png',
@@ -9193,8 +9295,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -9253,8 +9357,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -9319,12 +9425,16 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-eye.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Poipole",
+          "number": "107",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -9587,16 +9697,20 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/deoxys.png',
@@ -9639,8 +9753,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Great Ball",
+        "number": "164",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
@@ -9669,8 +9785,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
@@ -9772,8 +9890,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tate & Liza",
+          "number": "148",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2019-2020/nest-ball.png',
@@ -10159,8 +10279,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -10282,12 +10404,16 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-eye.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Poipole",
+          "number": "107",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',

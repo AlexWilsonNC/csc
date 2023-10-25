@@ -262,8 +262,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/dark-energy-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Dark Energy",
+        "number": "dark",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/hiding-energy.png',
@@ -383,20 +385,26 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/dark-energy-swsh.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+        "name": "Dark Energy",
+        "number": "dark",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -629,20 +637,26 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/dark-energy-swsh.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+        "name": "Dark Energy",
+        "number": "dark",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -770,8 +784,10 @@ let masters = [
         numImg: '../../assets/13.png'
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -1032,8 +1048,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/dark-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+        "name": "Dark Energy",
+        "number": "dark",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/capture-energy.png',
@@ -1327,12 +1345,16 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cinccino.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Cinccino",
+          "number": "147",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/minccino.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Minccino",
+        "number": "145",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2021-2022/jirachi-stellar-wish.png',
@@ -1343,8 +1365,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2021-2022/giratina.png',
@@ -1367,8 +1391,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
@@ -1387,8 +1413,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Crushing Hammer",
+          "number": "159",
+          "set": "SSH"
       },
             {
         cardImg: '../../assets/cards/2021-2022/level-ball.png',
@@ -1633,8 +1661,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-saucer.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Metal Saucer",
+        "number": "170",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2021-2022/energy-switch-ssh.png',
@@ -1677,20 +1707,26 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/metal-energy-swsh.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/dark-energy-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Dark Energy",
+        "number": "dark",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
     ]
   },
@@ -1826,12 +1862,16 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/dark-energy-swsh.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+        "name": "Dark Energy",
+        "number": "dark",
+        "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/aurora-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/capture-energy.png',
@@ -1903,8 +1943,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zigzagoon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Galarian Zigzagoon",
+        "number": "117",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2021-2022/mewtwo.png',
@@ -1975,8 +2017,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/dark-energy-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Dark Energy",
+        "number": "dark",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/rapid-strike-energy.png',

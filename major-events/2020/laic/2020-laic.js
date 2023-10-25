@@ -65,8 +65,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -99,8 +101,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -127,8 +131,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -222,8 +228,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -232,12 +240,16 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -270,12 +282,16 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -288,8 +304,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -298,8 +316,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -314,8 +334,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 1,
@@ -330,8 +352,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
           "count": 8,
@@ -340,8 +364,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
           "count": 1,
@@ -350,8 +376,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
       {
         "count": 1,
@@ -397,8 +425,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -407,8 +437,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
           "count": 2,
@@ -421,8 +453,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/drampa.png',
@@ -439,8 +473,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -449,8 +485,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -469,12 +507,16 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -495,8 +537,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 8,
@@ -552,8 +596,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
         "count": 2,
@@ -562,12 +608,16 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel-gx-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Naganadel GX",
+          "number": "56",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-spit.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Poipole",
+          "number": "55",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -582,8 +632,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -624,8 +676,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -634,8 +688,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-space.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -650,8 +706,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -743,12 +801,16 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tate & Liza",
+          "number": "148",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -757,8 +819,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillies-poke-doll.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie's Poké Doll",
+          "number": "197",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -882,12 +946,16 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -912,8 +980,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
         "count": 2,
@@ -928,8 +998,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -970,8 +1042,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -986,8 +1060,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -1006,8 +1082,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
       {
         "count": 1,
@@ -1053,8 +1131,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/cryogonal.png',
@@ -1075,16 +1155,20 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/channeler.png',
@@ -1097,8 +1181,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 4,
@@ -1137,8 +1223,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -1153,8 +1241,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 5,
@@ -1169,8 +1259,10 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/energy/unit-energy-lm.png',
@@ -1236,8 +1328,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -1246,8 +1340,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -1274,8 +1370,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -1294,12 +1392,16 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -1320,8 +1422,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 3,
@@ -1342,8 +1446,10 @@ let masters = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -1435,12 +1541,16 @@ let masters = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/lillies-poke-doll.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lillie's Poké Doll",
+          "number": "197",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -1449,8 +1559,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-space.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -1502,8 +1614,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pidgeotto.png',
@@ -1522,8 +1636,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/girafarig.png',
@@ -1540,16 +1656,22 @@ let masters = [
         "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tate & Liza",
+          "number": "148",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/hapu.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Hapu",
+          "number": "200",
+          "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mars.png',
@@ -1560,8 +1682,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/jessie-and-james.png',
@@ -1586,8 +1710,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Crushing Hammer",
+          "number": "115",
+          "set": "SUM"
       },
       {
           "count": 2,
@@ -1622,8 +1748,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -1689,8 +1817,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
           "count": 1,
@@ -1727,8 +1857,10 @@ let masters = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -1737,8 +1869,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-space.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -1796,12 +1930,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
@@ -1822,8 +1960,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
         "count": 4,
@@ -1836,24 +1976,30 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/misty-and-loraine.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 3,
@@ -1880,8 +2026,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -1890,8 +2038,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 7,
@@ -1955,8 +2105,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -1977,8 +2129,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -2015,8 +2169,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -2031,8 +2187,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -2073,8 +2231,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -2136,12 +2296,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -2172,12 +2336,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -2202,8 +2370,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/energy/dark-energy-teu.png',
@@ -2277,8 +2447,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -2309,8 +2481,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -2337,8 +2511,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -2347,8 +2523,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -2460,8 +2638,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/brocks-grit.png',
@@ -2472,8 +2652,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillies-poke-doll.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie's Poké Doll",
+          "number": "197",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -2506,8 +2688,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 2,
@@ -2526,8 +2710,10 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -2589,8 +2775,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -2599,12 +2787,16 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -2647,8 +2839,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -2669,8 +2863,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -2679,8 +2875,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-recycle-system.png',
@@ -2693,8 +2891,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 3,
@@ -2703,8 +2903,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -2719,8 +2921,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
           "count": 1,
@@ -2729,8 +2933,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
       {
         "count": 1,
@@ -2810,12 +3016,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
@@ -2836,8 +3046,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
         "count": 4,
@@ -2850,24 +3062,30 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/misty-and-loraine.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 3,
@@ -2894,8 +3112,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -2904,8 +3124,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 7,
@@ -2967,8 +3189,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
         "count": 2,
@@ -2977,12 +3201,16 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-spit.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Poipole",
+          "number": "55",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-belt.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Poipole",
+          "number": "102",
+          "set": "UNM"
       },
       {
           "count": 1,
@@ -3029,16 +3257,20 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/island-challenge-amulet.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-space.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 14,
@@ -3047,8 +3279,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -3116,12 +3350,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -3152,12 +3390,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -3182,8 +3424,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/energy/dark-energy-teu.png',
@@ -3249,8 +3493,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -3271,8 +3517,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -3303,8 +3551,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -3325,8 +3575,10 @@ let masters = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -3418,8 +3670,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -3428,12 +3682,16 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -3464,12 +3722,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -3502,8 +3764,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -3512,8 +3776,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -3522,8 +3788,10 @@ let masters = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
         "count": 1,
@@ -3532,8 +3800,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 8,
@@ -3542,8 +3812,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
           "count": 1,
@@ -3552,8 +3824,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
       {
         "count": 1,
@@ -3627,8 +3901,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -3643,8 +3919,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -3689,8 +3967,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/spelltag.png',
@@ -3703,8 +3983,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -3713,12 +3995,16 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -3780,8 +4066,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -3790,8 +4078,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -3818,8 +4108,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -3838,12 +4130,16 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -3864,8 +4160,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 3,
@@ -3886,8 +4184,10 @@ let masters = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -3927,8 +4227,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pidgeotto.png',
@@ -3951,8 +4253,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/girafarig.png',
@@ -3963,24 +4267,32 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tate & Liza",
+          "number": "148",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/hapu.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Hapu",
+          "number": "200",
+          "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mars.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rosa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rosa",
+          "number": "204",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/misty-and-loraine.png',
@@ -3993,8 +4305,10 @@ let masters = [
         "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/jessie-and-james.png',
@@ -4019,8 +4333,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Crushing Hammer",
+          "number": "115",
+          "set": "SUM"
       },
       {
           "count": 3,
@@ -4057,8 +4373,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -4110,28 +4428,38 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/quagsire.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Quagsire",
+        "number": "26",
+        "set": "DRM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wooper-ground.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Wooper",
+          "number": "96",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/blastoise-piplup-gx.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -4164,12 +4492,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 4,
@@ -4184,12 +4516,16 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 11,
@@ -4273,8 +4609,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -4283,8 +4621,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -4311,8 +4651,10 @@ let masters = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Mewtwo",
+        "number": "75",
+        "set": "UNB"
       },
       {
           "count": 4,
@@ -4345,8 +4687,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -4371,8 +4715,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
           "count": 9,
@@ -4381,8 +4727,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
     ]
   },
@@ -4500,8 +4848,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -4585,12 +4935,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
@@ -4611,8 +4965,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -4629,8 +4985,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/misty-and-loraine.png',
@@ -4649,8 +5007,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -4671,8 +5031,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -4681,8 +5043,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 7,
@@ -4792,8 +5156,10 @@ let masters = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -4808,8 +5174,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-space.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -4867,12 +5235,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
@@ -4895,8 +5267,10 @@ let masters = [
         "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/cryogonal.png',
@@ -4913,12 +5287,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -4927,8 +5305,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 4,
@@ -4955,8 +5335,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -4971,8 +5353,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 6,
@@ -4987,8 +5371,10 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/energy/unit-energy-lm.png',
@@ -5060,8 +5446,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -5070,8 +5458,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -5116,8 +5506,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lanas-fishing-rod.png',
@@ -5134,8 +5526,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 2,
@@ -5144,12 +5538,16 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -5211,8 +5609,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -5221,8 +5621,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -5265,8 +5667,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -5287,8 +5691,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -5297,8 +5703,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -5329,8 +5737,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
           "count": 1,
@@ -5392,12 +5802,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
           "count": 4,
@@ -5406,16 +5820,20 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -5430,8 +5848,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 4,
@@ -5470,8 +5890,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -5496,8 +5918,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
         "count": 8,
@@ -5510,8 +5934,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -5557,12 +5983,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/drampa.png',
@@ -5573,8 +6003,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -5583,16 +6015,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -5601,8 +6037,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 3,
@@ -5623,8 +6061,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -5645,12 +6085,16 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 6,
@@ -5669,8 +6113,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
     ]
   },
@@ -5732,8 +6178,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -5742,8 +6190,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -5770,8 +6220,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -5790,12 +6242,16 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -5816,8 +6272,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 3,
@@ -5838,8 +6296,10 @@ let masters = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -5879,8 +6339,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -5897,8 +6359,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -5907,8 +6371,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -5917,8 +6383,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 4,
@@ -5963,8 +6431,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -5973,12 +6443,16 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 5,
@@ -6124,8 +6598,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       "count": 2,
           "name": "Energy Switch",
@@ -6211,12 +6687,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
           "count": 2,
@@ -6231,20 +6711,26 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 4,
@@ -6281,8 +6767,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 6,
@@ -6301,8 +6789,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
     ]
   },
@@ -6348,20 +6838,26 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/cryogonal.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
           "count": 4,
@@ -6370,20 +6866,26 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 4,
@@ -6404,8 +6906,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -6432,8 +6936,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 6,
@@ -6452,8 +6958,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
     ]
   },
@@ -6549,8 +7057,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
           "count": 1,
@@ -6559,12 +7069,16 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -6609,8 +7123,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -6700,8 +7216,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -6718,8 +7236,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -6728,8 +7248,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -6738,8 +7260,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 4,
@@ -6784,8 +7308,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -6794,12 +7320,16 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 5,
@@ -6865,12 +7395,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
           "count": 3,
@@ -6889,16 +7423,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -6907,8 +7445,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 4,
@@ -6935,8 +7475,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -6945,12 +7487,16 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 7,
@@ -6969,8 +7515,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
     ]
   },
@@ -7016,12 +7564,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/cryogonal.png',
@@ -7034,20 +7586,26 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 4,
@@ -7074,8 +7632,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -7096,8 +7656,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 6,
@@ -7116,8 +7678,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
     ]
   },
@@ -7163,12 +7727,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
@@ -7199,8 +7767,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -7233,12 +7803,16 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 1,
@@ -7247,8 +7821,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 8,
@@ -7300,8 +7876,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -7318,8 +7896,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pheromosa.png',
@@ -7332,16 +7912,20 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -7356,8 +7940,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 4,
@@ -7390,8 +7976,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -7400,8 +7988,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         "count": 2,
@@ -7410,8 +8000,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
           "count": 5,
@@ -7426,8 +8018,10 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -7481,32 +8075,46 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/quagsire.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Quagsire",
+        "number": "26",
+        "set": "DRM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wooper.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wooper",
+          "number": "25",
+          "set": "DRM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/naganadel.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/poipole-eye.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Poipole",
+          "number": "107",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -7521,8 +8129,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -7543,8 +8153,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -7569,8 +8181,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -7579,20 +8193,26 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/uturn-board.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
           "count": 8,
@@ -7666,8 +8286,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -7676,8 +8298,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -7704,8 +8328,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -7724,12 +8350,16 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -7750,8 +8380,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 3,
@@ -7772,8 +8404,10 @@ let masters = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -7837,8 +8471,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -7871,8 +8507,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -7899,8 +8537,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -7970,24 +8610,32 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/cryogonal.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -7996,24 +8644,30 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/cyrus-p.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 3,
@@ -8028,8 +8682,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -8062,8 +8718,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 6,
@@ -8082,8 +8740,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
     ]
   },
@@ -8153,8 +8813,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/eelektross.png',
@@ -8217,8 +8879,10 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       "count": 2,
           "name": "Energy Switch",
@@ -8304,8 +8968,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pidgeotto.png',
@@ -8334,28 +9000,36 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tate & Liza",
+          "number": "148",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mars.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/jessie-and-james.png',
@@ -8380,8 +9054,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Crushing Hammer",
+          "number": "115",
+          "set": "SUM"
       },
       {
           "count": 2,
@@ -8422,8 +9098,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -8517,8 +9195,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -8551,12 +9231,16 @@ let masters = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/palpad-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Pal Pad",
+          "number": "172",
+          "set": "SSH"
       },
       {
           "count": 1,
@@ -8632,12 +9316,16 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
@@ -8690,12 +9378,16 @@ let masters = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 1,
@@ -8704,8 +9396,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 8,
@@ -8782,8 +9476,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -8792,8 +9488,10 @@ let seniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -8826,8 +9524,10 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -8846,8 +9546,10 @@ let seniors = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -8856,8 +9558,10 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -8872,8 +9576,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 3,
@@ -8894,8 +9600,10 @@ let seniors = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -8941,20 +9649,26 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/cryogonal.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -8969,20 +9683,26 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 3,
@@ -8997,8 +9717,10 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -9025,8 +9747,10 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 6,
@@ -9045,8 +9769,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/unit-energy-g.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
       },
     ]
   },
@@ -9086,8 +9812,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pidgeotto.png',
@@ -9118,36 +9846,48 @@ let seniors = [
         "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tate & Liza",
+          "number": "148",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mars.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rosa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rosa",
+          "number": "204",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/jessie-and-james.png',
@@ -9160,8 +9900,10 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/hapu.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Hapu",
+          "number": "200",
+          "set": "UNM"
       },
       {
           "count": 4,
@@ -9176,8 +9918,10 @@ let seniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Crushing Hammer",
+          "number": "115",
+          "set": "SUM"
       },
       {
           "count": 2,
@@ -9222,8 +9966,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -9285,8 +10031,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -9295,8 +10043,10 @@ let seniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -9305,8 +10055,10 @@ let seniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Magcargo GX",
+          "number": "44",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -9327,8 +10079,10 @@ let seniors = [
         "set": "SMP"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -9341,8 +10095,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -9363,8 +10119,10 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -9373,12 +10131,16 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Stealthy Hood",
+          "number": "186",
+          "set": "UNB"
       },
       {
           "count": 3,
@@ -9387,8 +10149,10 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
           "count": 8,
@@ -9397,8 +10161,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
           "count": 1,
@@ -9407,8 +10173,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -9458,8 +10226,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pheromosa.png',
@@ -9488,12 +10258,16 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -9514,8 +10288,10 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -9536,8 +10312,10 @@ let seniors = [
           "set": "DRM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 1,
@@ -9576,8 +10354,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },
@@ -9691,16 +10471,22 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tate & Liza",
+          "number": "148",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lillies-poke-doll.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie's Poké Doll",
+          "number": "197",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -9737,8 +10523,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
     ]
   },
@@ -9784,12 +10572,16 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
           "count": 2,
@@ -9824,8 +10616,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -9834,8 +10628,10 @@ let seniors = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -9850,8 +10646,10 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -9872,8 +10670,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 8,
@@ -9931,12 +10731,16 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
           "count": 1,
@@ -9973,12 +10777,16 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -9987,8 +10795,10 @@ let seniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 3,
@@ -10003,8 +10813,10 @@ let seniors = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -10037,8 +10849,10 @@ let seniors = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 5,
@@ -10105,12 +10919,16 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
           "count": 2,
@@ -10145,8 +10963,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -10161,8 +10981,10 @@ let juniors = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -10183,8 +11005,10 @@ let juniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -10193,8 +11017,10 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 8,
@@ -10246,8 +11072,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-resource-manag.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Oranguru",
+          "number": "114",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pidgeotto.png',
@@ -10262,16 +11090,20 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/girafarig.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/absol.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Absol",
+          "number": "88",
+          "set": "TEU"
       },
       {
           "count": 1,
@@ -10284,24 +11116,32 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tate & Liza",
+          "number": "148",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lt-surge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mars.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/bellelba-brycen-man.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Bellelba & Brycen-Man",
+          "number": "186",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rosa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rosa",
+          "number": "204",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/jessie-and-james.png',
@@ -10338,8 +11178,10 @@ let juniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/crushing-hammer.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Crushing Hammer",
+          "number": "115",
+          "set": "SUM"
       },
       {
           "count": 2,
@@ -10380,8 +11222,10 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -10427,12 +11271,16 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
           "count": 1,
@@ -10449,8 +11297,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/phione.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Phione",
+          "number": "57",
+          "set": "CEC"
       },
       {
         "count": 4,
@@ -10463,8 +11313,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
@@ -10475,12 +11327,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 3,
@@ -10495,8 +11351,10 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -10523,8 +11381,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 7,
@@ -10586,12 +11446,16 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/adp-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Arceus & Dialga & Palkia GX",
+          "number": "156",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
       },
       {
           "count": 2,
@@ -10624,24 +11488,32 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -10668,8 +11540,10 @@ let juniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -10682,8 +11556,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
           "count": 6,
@@ -10765,8 +11641,10 @@ let juniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -10775,8 +11653,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -10785,8 +11665,10 @@ let juniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -10825,8 +11707,10 @@ let juniors = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/spelltag.png',
@@ -10839,8 +11723,10 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -10849,12 +11735,16 @@ let juniors = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -10904,8 +11794,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -10914,8 +11806,10 @@ let juniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -10946,8 +11840,10 @@ let juniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 3,
@@ -10974,8 +11870,10 @@ let juniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/island-challenge-amulet.png',
@@ -11004,8 +11902,10 @@ let juniors = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chaotic-swell.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Chaotic Swell",
+          "number": "187",
+          "set": "CEC"
       },
       {
         "count": 9,
@@ -11073,12 +11973,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Blacephalon",
+          "number": "104",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mimikyu-shadow-box.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "97",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -11109,8 +12013,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rosa.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rosa",
+          "number": "204",
+          "set": "CEC"
       },
       {
         "count": 4,
@@ -11153,16 +12059,22 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Viridian Forest",
+          "number": "156",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/energy/recycle-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Recycle Energy",
+          "number": "212",
+          "set": "UNM"
       },
     ]
   },
@@ -11226,8 +12138,10 @@ let juniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/charizard-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Charizard GX",
+          "number": "SM211",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -11236,8 +12150,10 @@ let juniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mega-lopunny-jigglypuff-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mega Lopunny & Jigglypuff GX",
+          "number": "165",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -11270,16 +12186,22 @@ let juniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/hapu.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Hapu",
+          "number": "200",
+          "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma-hala.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Guzma & Hala",
+          "number": "193",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cynthia-caitlyn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Cynthia & Caitlin",
+          "number": "189",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
@@ -11292,8 +12214,10 @@ let juniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/tag-call.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Tag Call",
+        "number": "206",
+        "set": "CEC"
       },
       {
           "count": 2,
@@ -11302,8 +12226,10 @@ let juniors = [
           "set": "UNM"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/great-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Great Catcher",
+          "number": "192",
+          "set": "CEC"
       },
       {
           "count": 2,
@@ -11342,8 +12268,10 @@ let juniors = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/weakness-gaurd-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Weakness Guard Energy",
+          "number": "213",
+          "set": "UNM"
       },
     ]
   },

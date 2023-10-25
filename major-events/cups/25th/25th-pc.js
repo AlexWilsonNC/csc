@@ -394,8 +394,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/dark-energy-swsh.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+        "name": "Dark Energy",
+        "number": "dark",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/fighting-energy-swsh.png',
@@ -878,12 +880,16 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/dark-energy-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Dark Energy",
+        "number": "dark",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/fighting-energy-swsh.png',
