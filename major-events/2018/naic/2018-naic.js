@@ -1171,8 +1171,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/gladion.png',

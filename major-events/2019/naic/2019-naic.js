@@ -685,8 +685,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Necrozma GX",
+          "number": "95",
+          "set": "FLI"
       },
       {
        "count": 2,
@@ -701,8 +703,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Gengar & Mimikyu GX",
+          "number": "53",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
@@ -1009,8 +1013,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lucario & Melmetal GX",
+          "number": "120",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/vileplume.png',
@@ -1047,8 +1053,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
@@ -1800,8 +1808,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ultra Necrozma GX",
+          "number": "95",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -2127,12 +2137,16 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lucario & Melmetal GX",
+          "number": "120",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/girafarig.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Girafarig",
+          "number": "94",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/frost-rotom.png',
@@ -2149,8 +2163,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
           "count": 3,
@@ -3100,8 +3116,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lucario & Melmetal GX",
+          "number": "120",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pheromosa-buzzwole-gx.png',
@@ -3112,8 +3130,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/girafarig.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Girafarig",
+          "number": "94",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/unown-hand.png',
@@ -3130,8 +3150,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2019-2020/acerola.png',
@@ -4169,8 +4191,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
           "count": 3,
@@ -4686,8 +4710,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/girafarig.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Girafarig",
+          "number": "94",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru.png',
@@ -7410,8 +7436,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lucario & Melmetal GX",
+          "number": "120",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/white-kyurem.png',
@@ -7432,8 +7460,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2019-2020/steven-resolve.png',
@@ -8260,8 +8290,10 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Necrozma GX",
+          "number": "95",
+          "set": "FLI"
       },
       {
        "count": 2,

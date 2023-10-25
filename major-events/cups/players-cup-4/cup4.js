@@ -393,8 +393,10 @@ let masters = [
         "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -645,8 +647,10 @@ let masters = [
         "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SSH"
       },
       {
         "count": 1,
@@ -1169,8 +1173,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SSH"
       },
     ]
   },
@@ -1723,8 +1729,10 @@ let masters = [
         "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SSH"
       },
       {
         "count": 3,

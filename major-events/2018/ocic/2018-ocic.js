@@ -5835,8 +5835,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/skyla.png',

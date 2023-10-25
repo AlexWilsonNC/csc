@@ -652,8 +652,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/girafarig.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Girafarig",
+          "number": "94",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
@@ -2218,8 +2220,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/girafarig.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Girafarig",
+          "number": "94",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -3811,8 +3815,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2019-2020/plumeria.png',
@@ -7317,8 +7323,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2019-2020/gladion.png',
@@ -8860,8 +8868,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/girafarig.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Girafarig",
+          "number": "94",
+          "set": "LOT"
       },
       {
         "count": 1,

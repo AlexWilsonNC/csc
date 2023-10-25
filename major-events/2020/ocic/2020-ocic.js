@@ -2331,170 +2331,154 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "pikarom",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Pikachu & Zekrom GX",
+            "number": "33",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Raichu & Alolan Raichu GX",
+            "number": "54",
+            "set": "UNM"
+        },
+        {
+            "count": 3,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Zeraora GX",
+            "number": "86",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Koko V",
+            "number": "72",
+            "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Tapu Koko ♢",
+            "number": "51",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Zapdos",
+            "number": "40",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Volkner",
+            "number": "135",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Electropower",
+            "number": "172",
+            "set": "LOT"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+           "count": 4,
+          "name": "Energy Switch",
+          "number": "162",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Electromagnetic Radar",
+            "number": "169",
+            "set": "UNB"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Stadium Nav",
+            "number": "208",
+            "set": "UNM"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Thunder Mountain ♢",
+            "number": "191",
+            "set": "LOT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 11,
+            "name": "Lightning Energy",
+            "number": "lightning",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Pikachu & Zekrom GX",
-          "number": "33",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Raichu & Alolan Raichu GX",
-          "number": "54",
-          "set": "UNM"
-      },
-      {
-          "count": 3,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Zeraora GX",
-          "number": "86",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-v.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 2,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Tapu Koko ♢",
-          "number": "51",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Zapdos",
-          "number": "40",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-          "name": "Volkner",
-          "number": "135",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Electropower",
-          "number": "172",
-          "set": "LOT"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-         "count": 4,
-        "name": "Energy Switch",
-        "number": "162",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Electromagnetic Radar",
-          "number": "169",
-          "set": "UNB"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Stadium Nav",
-          "number": "208",
-          "set": "UNM"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Thunder Mountain ♢",
-          "number": "191",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/lightning-energy-swsh.png',
-        numImg: '../../assets/11.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Man Tsung Wong',
@@ -2502,196 +2486,178 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 2,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+           "count": 2,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Mimikyu",
+            "number": "112",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Erika's Hospitality",
+            "number": "140",
+            "set": "TEU"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 3,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+           "count": 2,
+          "name": "Energy Switch",
+          "number": "162",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+            "count": 1,
+            "name": "Energy Spinner",
+            "number": "170",
+            "set": "UNB"
+          },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 8,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Water Energy",
+            "number": "water",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 2,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-         "count": 2,
-          "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
-      },
-      {
-        "count": 2,
-          "name": "Slugma",
-          "number": "CES",
-          "set": "23"
-      },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Mimikyu",
-          "number": "112",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Erika's Hospitality",
-          "number": "140",
-          "set": "TEU"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 3,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-         "count": 2,
-        "name": "Energy Switch",
-        "number": "162",
-        "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
-        },
-      {
-          "count": 1,
-          "name": "Energy Spinner",
-          "number": "170",
-          "set": "UNB"
-        },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 8,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 3,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Chienwei Yu',
@@ -2699,184 +2665,166 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Fini",
+            "number": "53",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+           "count": 1,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Pokémon Catcher",
+            "number": "175",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+           "count": 2,
+          "name": "Energy Switch",
+          "number": "162",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Metal Core Barrier",
+            "number": "180",
+            "set": "UNB"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+           "count": 1,
+          "name": "Big Charm",
+          "number": "158",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 8,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Unit Energy GRW",
+            "number": "137",
+            "set": "UPR"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Fini",
-          "number": "53",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-         "count": 1,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Pokémon Catcher",
-          "number": "175",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-         "count": 2,
-        "name": "Energy Switch",
-        "number": "162",
-        "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/metal-core-barrier.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-         "count": 1,
-        "name": "Big Charm",
-        "number": "158",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 8,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Unit Energy GRW",
-          "number": "137",
-          "set": "UPR"
-      },
-    ]
+    }
   },
   {
     firstName: 'Pedro Pertusi',
@@ -2884,198 +2832,184 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../assets/sprites/malamar.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "malamar-mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+          "count": 3,
+            "name": "Malamar",
+            "number": "51",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Inkay",
+            "number": "50",
+            "set": "FLI"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Trevenant & Dusknoir GX",
+            "number": "SM217",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Gengar & Mimikyu GX",
+            "number": "53",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "56",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Ultra Necrozma GX",
+            "number": "95",
+            "set": "FLI"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Blacephalon",
+            "number": "104",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+            "name": "Giratina",
+            "number": "97",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+           "count": 2,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+           "count": 3,
+            "name": "Viridian Forest",
+            "number": "156",
+            "set": "TEU"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-        "count": 3,
-          "name": "Malamar",
-          "number": "51",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Inkay",
-          "number": "50",
-          "set": "FLI"
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/trevenant-dusknoir-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "56",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Blacephalon",
-          "number": "104",
-          "set": "CEC"
-      },
-      {
-       "count": 1,
-          "name": "Giratina",
-          "number": "97",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-         "count": 2,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-         "count": 3,
-          "name": "Viridian Forest",
-          "number": "156",
-          "set": "TEU"
-      },
-      {
-        "count": 7,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Yohei Takeda',
@@ -3083,136 +3017,124 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/magcargo.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "magcargo-gx",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
         },
+        {
+           "count": 2,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
+        },
+        {
+          "count": 4,
+            "name": "Slugma",
+            "number": "26",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Ninetales",
+            "number": "16",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+              "name": "Oranguru",
+              "number": "148",
+              "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
         },
+        {
+            "count": 4,
+            "name": "Welder",
+            "number": "189",
+            "set": "UNB"
+          },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Great Ball",
+          "number": "164",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Fire Crystal",
+            "number": "173",
+            "set": "UNB"
+        },
+        {
+            "count": 3,
+            "name": "Fiery Flint",
+            "number": "60",
+            "set": "DRM"
+          },
+        {
+            "count": 3,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+          "count": 2,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Island Challenge Amulet",
+            "number": "194",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Giant Hearth",
+            "number": "197",
+            "set": "UNM"
+          },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 11,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Magcargo GX",
-          "number": "44",
-          "set": "LOT"
-      },
-      {
-         "count": 2,
-          "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/slugma-singe.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-          "count": 1,
-          "name": "Ninetales",
-          "number": "16",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Welder",
-          "number": "189",
-          "set": "UNB"
-        },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Great Ball",
-        "number": "164",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Fire Crystal",
-          "number": "173",
-          "set": "UNB"
-      },
-      {
-          "count": 3,
-          "name": "Fiery Flint",
-          "number": "60",
-          "set": "DRM"
-        },
-      {
-          "count": 3,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
-        },
-      {
-        "count": 2,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/island-challenge-amulet.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-          "count": 2,
-          "name": "Giant Hearth",
-          "number": "197",
-          "set": "UNM"
-        },
-      {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/11.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Grant Manley',
@@ -3220,168 +3142,148 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/giratina.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "malamar",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Malamar",
+            "number": "51",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Inkay",
+            "number": "50",
+            "set": "FLI"
+        },
+        {
+         "count": 2,
+            "name": "Giratina",
+            "number": "97",
+            "set": "LOT"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+          "name": "Mimikyu",
+          "number": "58",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Blacephalon",
+            "number": "104",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Espurr",
+            "number": "79",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Espeon & Deoxys GX",
+            "number": "72",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+            "count": 3,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
+          },
+        {
+          "count": 3,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Lana's Fishing Rod",
+            "number": "195",
+            "set": "CEC"
+        },
+        {
+           "count": 4,
+            "name": "Spell Tag",
+            "number": "190",
+            "set": "LOT"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+           "count": 2,
+            "name": "Viridian Forest",
+            "number": "156",
+            "set": "TEU"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 8,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Malamar",
-          "number": "51",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Inkay",
-          "number": "50",
-          "set": "FLI"
-      },
-      {
-       "count": 2,
-          "name": "Giratina",
-          "number": "97",
-          "set": "LOT"
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-        "name": "Mimikyu",
-        "number": "58",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Blacephalon",
-          "number": "104",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Espurr",
-          "number": "79",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Espeon & Deoxys GX",
-          "number": "72",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-          "count": 3,
-          "name": "Acro Bike",
-          "number": "123",
-          "set": "CES"
-        },
-      {
-        "count": 3,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Lana's Fishing Rod",
-          "number": "195",
-          "set": "CEC"
-      },
-      {
-         "count": 4,
-          "name": "Spell Tag",
-          "number": "190",
-          "set": "LOT"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-         "count": 2,
-          "name": "Viridian Forest",
-          "number": "156",
-          "set": "TEU"
-      },
-      {
-        "count": 8,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'André Chiasson',
@@ -3389,166 +3291,148 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "pikarom",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Pikachu & Zekrom GX",
+            "number": "33",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Raichu & Alolan Raichu GX",
+            "number": "54",
+            "set": "UNM"
+        },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Zeraora GX",
+            "number": "86",
+            "set": "LOT"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Tapu Koko ♢",
+            "number": "51",
+            "set": "TEU"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Volkner",
+            "number": "135",
+            "set": "UPR"
+        },
+        {
+            "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Electropower",
+            "number": "172",
+            "set": "LOT"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+           "count": 3,
+          "name": "Energy Switch",
+          "number": "162",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Electromagnetic Radar",
+            "number": "169",
+            "set": "UNB"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+           "count": 2,
+          "name": "Big Charm",
+          "number": "158",
+          "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Thunder Mountain ♢",
+            "number": "191",
+            "set": "LOT"
+        },
+        {
+           "count": 1,
+            "name": "Viridian Forest",
+            "number": "156",
+            "set": "TEU"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 11,
+            "name": "Lightning Energy",
+            "number": "lightning",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Pikachu & Zekrom GX",
-          "number": "33",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Raichu & Alolan Raichu GX",
-          "number": "54",
-          "set": "UNM"
-      },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Zeraora GX",
-          "number": "86",
-          "set": "LOT"
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Tapu Koko ♢",
-          "number": "51",
-          "set": "TEU"
-      },
-      {
-        "count": 4,
-          "name": "Volkner",
-          "number": "135",
-          "set": "UPR"
-      },
-      {
-          "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Electropower",
-          "number": "172",
-          "set": "LOT"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-         "count": 3,
-        "name": "Energy Switch",
-        "number": "162",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Electromagnetic Radar",
-          "number": "169",
-          "set": "UNB"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-         "count": 2,
-        "name": "Big Charm",
-        "number": "158",
-        "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Thunder Mountain ♢",
-          "number": "191",
-          "set": "LOT"
-      },
-      {
-         "count": 1,
-          "name": "Viridian Forest",
-          "number": "156",
-          "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/lightning-energy-swsh.png',
-        numImg: '../../assets/11.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Yuki Ishii',
@@ -3556,178 +3440,160 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Fini",
+            "number": "53",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+           "count": 1,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Pokémon Catcher",
+            "number": "175",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+           "count": 2,
+          "name": "Energy Switch",
+          "number": "162",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Metal Core Barrier",
+            "number": "180",
+            "set": "UNB"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+           "count": 1,
+          "name": "Big Charm",
+          "number": "158",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 8,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Fini",
-          "number": "53",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-         "count": 1,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Pokémon Catcher",
-          "number": "175",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-         "count": 2,
-        "name": "Energy Switch",
-        "number": "162",
-        "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/metal-core-barrier.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-         "count": 1,
-        "name": "Big Charm",
-        "number": "158",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 8,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Peter Lo',
@@ -3735,174 +3601,154 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mimikyu",
+            "number": "112",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Erika's Hospitality",
+            "number": "140",
+            "set": "TEU"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Pokémon Catcher",
+            "number": "175",
+            "set": "SSH"
+        },
+        {
+           "count": 3,
+          "name": "Energy Switch",
+          "number": "162",
+          "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Cherish Ball",
+            "number": "191",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mimikyu",
-          "number": "112",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Erika's Hospitality",
-          "number": "140",
-          "set": "TEU"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Pokémon Catcher",
-          "number": "175",
-          "set": "SSH"
-      },
-      {
-         "count": 3,
-        "name": "Energy Switch",
-        "number": "162",
-        "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Cherish Ball",
-          "number": "191",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Colin Tang',
@@ -3910,202 +3756,190 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../assets/sprites/malamar.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "malamar-mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+          "count": 3,
+            "name": "Malamar",
+            "number": "51",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Inkay",
+            "number": "50",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Trevenant & Dusknoir GX",
+            "number": "SM217",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Gengar & Mimikyu GX",
+            "number": "53",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+          "name": "Garchomp & Giratina GX",
+          "number": "146",
+          "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "56",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Ultra Necrozma GX",
+            "number": "95",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Alolan Persian GX",
+            "number": "129",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Blacephalon",
+            "number": "104",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+            "name": "Giratina",
+            "number": "97",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Erika's Hospitality",
+            "number": "140",
+            "set": "TEU"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+            "count": 2,
+            "name": "Cherish Ball",
+            "number": "191",
+            "set": "UNM"
+          },
+        {
+            "count": 1,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Pokémon Catcher",
+            "number": "175",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Air Balloon",
+            "number": "156",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Stealthy Hood",
+            "number": "186",
+            "set": "UNB"
+        },
+        {
+          "count": 2,
+            "name": "Chaotic Swell",
+            "number": "187",
+            "set": "CEC"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 8,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-        "count": 3,
-          "name": "Malamar",
-          "number": "51",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Inkay",
-          "number": "50",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/trevenant-dusknoir-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-        "name": "Garchomp & Giratina GX",
-        "number": "146",
-        "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "56",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/alolan-persian-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Blacephalon",
-          "number": "104",
-          "set": "CEC"
-      },
-      {
-       "count": 1,
-          "name": "Giratina",
-          "number": "97",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Erika's Hospitality",
-          "number": "140",
-          "set": "TEU"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-          "count": 2,
-          "name": "Cherish Ball",
-          "number": "191",
-          "set": "UNM"
-        },
-      {
-          "count": 1,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Pokémon Catcher",
-          "number": "175",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Air Balloon",
-          "number": "156",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Stealthy Hood",
-          "number": "186",
-          "set": "UNB"
-      },
-      {
-        "count": 2,
-          "name": "Chaotic Swell",
-          "number": "187",
-          "set": "CEC"
-      },
-      {
-        "count": 8,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Logan Madden',
@@ -4113,182 +3947,166 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "pikarom",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Pikachu & Zekrom GX",
+            "number": "33",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Raichu & Alolan Raichu GX",
+            "number": "54",
+            "set": "UNM"
+        },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Zeraora GX",
+            "number": "86",
+            "set": "LOT"
+        },
+        {
+         "count": 1,
+            "name": "Tapu Koko V",
+            "number": "72",
+            "set": "SSH"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Tapu Koko ♢",
+            "number": "51",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Zapdos",
+            "number": "40",
+            "set": "TEU"
+        },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Volkner",
+            "number": "135",
+            "set": "UPR"
+        },
+        {
+            "count": 3,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Electropower",
+            "number": "172",
+            "set": "LOT"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Electromagnetic Radar",
+            "number": "169",
+            "set": "UNB"
+        },
+        {
+           "count": 2,
+          "name": "Energy Switch",
+          "number": "162",
+          "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Tag Switch",
+            "number": "209",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Stadium Nav",
+            "number": "208",
+            "set": "UNM"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Thunder Mountain ♢",
+            "number": "191",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 11,
+            "name": "Lightning Energy",
+            "number": "lightning",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Pikachu & Zekrom GX",
-          "number": "33",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Raichu & Alolan Raichu GX",
-          "number": "54",
-          "set": "UNM"
-      },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Zeraora GX",
-          "number": "86",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-v.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Tapu Koko ♢",
-          "number": "51",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Zapdos",
-          "number": "40",
-          "set": "TEU"
-      },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-          "name": "Volkner",
-          "number": "135",
-          "set": "UPR"
-      },
-      {
-          "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Electropower",
-          "number": "172",
-          "set": "LOT"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Electromagnetic Radar",
-          "number": "169",
-          "set": "UNB"
-      },
-      {
-         "count": 2,
-        "name": "Energy Switch",
-        "number": "162",
-        "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Tag Switch",
-          "number": "209",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Stadium Nav",
-          "number": "208",
-          "set": "UNM"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Thunder Mountain ♢",
-          "number": "191",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/lightning-energy-swsh.png',
-        numImg: '../../assets/11.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Fung Tsz Ping',
@@ -4296,84 +4114,61 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blacephalon.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "baby-blowns",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Blacephalon",
+            "number": "32",
+            "set": "UNB"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+           "count": 1,
+            "name": "Blacephalon GX",
+            "number": "52",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Cramorant V",
+            "number": "155",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Oricorio GX",
+            "number": "95",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Blacephalon",
-          "number": "32",
-          "set": "UNB"
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-         "count": 1,
-          "name": "Blacephalon GX",
-          "number": "52",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Cramorant V",
-          "number": "155",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Oricorio GX",
-          "number": "95",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -4463,13 +4258,16 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
-      {
-        "count": 14,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SSH"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 14,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+      ]
+    }
   },
   {
     firstName: 'Christian Hasbani',
@@ -4477,194 +4275,167 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+         "count": 2,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 3,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-       "count": 2,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 3,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Benjamin Behrens',
     flag: '../../../assets/flags/norway.png',
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Kenneth Tan',
@@ -4672,180 +4443,166 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "pikarom",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Pikachu & Zekrom GX",
+            "number": "33",
+            "set": "TEU"
+        },
+        {
+          "count": 2,
+            "name": "Raichu & Alolan Raichu GX",
+            "number": "54",
+            "set": "UNM"
+        },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Zeraora GX",
+            "number": "86",
+            "set": "LOT"
+        },
+        {
+         "count": 1,
+            "name": "Tapu Koko V",
+            "number": "72",
+            "set": "SSH"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Tapu Koko ♢",
+            "number": "51",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Zapdos",
+            "number": "40",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Marshadow",
+            "number": "81",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Volkner",
+            "number": "135",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Electropower",
+            "number": "172",
+            "set": "LOT"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Electromagnetic Radar",
+            "number": "169",
+            "set": "UNB"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Energy Switch",
+            "number": "162",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Tag Switch",
+            "number": "209",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Stadium Nav",
+            "number": "208",
+            "set": "UNM"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Thunder Mountain ♢",
+            "number": "191",
+            "set": "LOT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 11,
+            "name": "Lightning Energy",
+            "number": "lightning",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Pikachu & Zekrom GX",
-          "number": "33",
-          "set": "TEU"
-      },
-      {
-        "count": 2,
-          "name": "Raichu & Alolan Raichu GX",
-          "number": "54",
-          "set": "UNM"
-      },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Zeraora GX",
-          "number": "86",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/tapu-koko-v.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Tapu Koko ♢",
-          "number": "51",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Zapdos",
-          "number": "40",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Marshadow",
-          "number": "81",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 4,
-          "name": "Volkner",
-          "number": "135",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Electropower",
-          "number": "172",
-          "set": "LOT"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Electromagnetic Radar",
-          "number": "169",
-          "set": "UNB"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/energy-switch-swsh.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Tag Switch",
-          "number": "209",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Stadium Nav",
-          "number": "208",
-          "set": "UNM"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Thunder Mountain ♢",
-          "number": "191",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/lightning-energy-swsh.png',
-        numImg: '../../assets/11.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Tadashi Maeda',
@@ -4853,176 +4610,160 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 2,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+           "count": 1,
+            "name": "Cryogonal",
+            "number": "46",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
+        },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+            "count": 2,
+            "name": "Energy Spinner",
+            "number": "170",
+            "set": "UNB"
+          },
+        {
+            "count": 1,
+            "name": "Cherish Ball",
+            "number": "191",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Metal Core Barrier",
+            "number": "180",
+            "set": "UNB"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Water Energy",
+            "number": "water",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 2,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-         "count": 1,
-          "name": "Cryogonal",
-          "number": "46",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-          "count": 2,
-          "name": "Energy Spinner",
-          "number": "170",
-          "set": "UNB"
-        },
-      {
-          "count": 1,
-          "name": "Cherish Ball",
-          "number": "191",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/metal-core-barrier.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Otavio Gouveia',
@@ -5030,184 +4771,166 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+           "count": 1,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Pokémon Catcher",
+            "number": "175",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+           "count": 1,
+          "name": "Big Charm",
+          "number": "158",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+           "count": 1,
+            "name": "Viridian Forest",
+            "number": "156",
+            "set": "TEU"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Water Energy",
+            "number": "water",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-         "count": 1,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Pokémon Catcher",
-          "number": "175",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-         "count": 1,
-        "name": "Big Charm",
-        "number": "158",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-         "count": 1,
-          "name": "Viridian Forest",
-          "number": "156",
-          "set": "TEU"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 3,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Robin Schulz',
@@ -5215,182 +4938,155 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Galarian Zigzagoon",
+          "number": "117",
+          "set": "SSH"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+         "count": 2,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 4,
+            "name": "Pokémon Catcher",
+            "number": "175",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Galarian Zigzagoon",
-        "number": "117",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-       "count": 2,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 4,
-          "name": "Pokémon Catcher",
-          "number": "175",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Robert Spiller',
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Raz Wolpe',
@@ -5398,192 +5094,172 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Air Balloon",
+            "number": "156",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Air Balloon",
-          "number": "156",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Corey Munro',
@@ -5591,220 +5267,186 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 2,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+         "count": 2,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+           "count": 1,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 10,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 2,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-       "count": 2,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-         "count": 1,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 10,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Louis Pozzacchio',
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Wong Wo Pan',
     flag: '../../../assets/flags/hong-kong.png',
     sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../assets/sprites/malamar.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Ricki Madsen',
@@ -5812,162 +5454,148 @@ let masters = [
     sprite1: '../../../assets/sprites/zacian-crowned.png',
     sprite2: '../../../assets/sprites/lucario-melmetal-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "lucmetal",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Lucario & Melmetal GX",
+            "number": "120",
+            "set": "UNB"
+        },
+        {
+            "count": 2,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Dusk Mane Necrozma",
+            "number": "SM124",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+           "count": 2,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Bellelba & Brycen-Man",
+            "number": "186",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Pokémon Catcher",
+            "number": "175",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Crushing Hammer",
+            "number": "159",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Metal Frying Pan",
+            "number": "112",
+            "set": "FLI"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Chaotic Swell",
+            "number": "187",
+            "set": "CEC"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 12,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-          "count": 2,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/dusk-mane-necrozma.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-         "count": 2,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Bellelba & Brycen-Man",
-          "number": "186",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Pokémon Catcher",
-          "number": "175",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Crushing Hammer",
-          "number": "159",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Metal Frying Pan",
-          "number": "112",
-          "set": "FLI"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Chaotic Swell",
-          "number": "187",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/energy/swsh-energy-metal.png',
-        numImg: '../../assets/12.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Will Jenkins',
@@ -5975,190 +5603,172 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Marshadow",
+            "number": "81",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Pokémon Catcher",
+            "number": "175",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Energy Spinner",
+            "number": "170",
+            "set": "UNB"
+          },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Water Energy",
+            "number": "water",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Marshadow",
-          "number": "81",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Pokémon Catcher",
-          "number": "175",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Energy Spinner",
-          "number": "170",
-          "set": "UNB"
-        },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/energy/swsh-energy-water.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 2,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Koyo Taniguchi',
@@ -6166,194 +5776,178 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+           "count": 1,
+            "name": "Cryogonal",
+            "number": "46",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+         "count": 2,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 3,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Air Balloon",
+            "number": "156",
+            "set": "SSH"
+        },
+        {
+           "count": 1,
+          "name": "Big Charm",
+          "number": "158",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Metal Core Barrier",
+            "number": "180",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Dragon Talon",
+            "number": "59",
+            "set": "DRM"
+        },
+        {
+          "count": 2,
+            "name": "Chaotic Swell",
+            "number": "187",
+            "set": "CEC"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Water Energy",
+            "number": "water",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Unit Energy GRW",
+            "number": "137",
+            "set": "UPR"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-         "count": 1,
-          "name": "Cryogonal",
-          "number": "46",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-       "count": 2,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 3,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Air Balloon",
-          "number": "156",
-          "set": "SSH"
-      },
-      {
-         "count": 1,
-        "name": "Big Charm",
-        "number": "158",
-        "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/metal-core-barrier.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Dragon Talon",
-          "number": "59",
-          "set": "DRM"
-      },
-      {
-        "count": 2,
-          "name": "Chaotic Swell",
-          "number": "187",
-          "set": "CEC"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/energy/swsh-energy-water.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Unit Energy GRW",
-          "number": "137",
-          "set": "UPR"
-      },
-    ]
+    }
   },
   {
     firstName: 'Mehdi Hafi',
@@ -6361,114 +5955,91 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+            "count": 3,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Charizard GX",
+            "number": "SM211",
+            "set": "SMP"
+        },
+        {
+            "count": 1,
+            "name": "Reshiram & Charizard GX",
+            "number": "20",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "56",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Solgaleo GX",
+            "number": "SM104",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Mega Lopunny & Jigglypuff GX",
+            "number": "165",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Victini V",
+            "number": "25",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Blacephalon",
+            "number": "104",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-          "count": 3,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Charizard GX",
-          "number": "SM211",
-          "set": "SMP"
-      },
-      {
-          "count": 1,
-          "name": "Reshiram & Charizard GX",
-          "number": "20",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Magcargo GX",
-          "number": "44",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "56",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Solgaleo GX",
-          "number": "SM104",
-          "set": "SMP"
-      },
-      {
-        "count": 1,
-          "name": "Mega Lopunny & Jigglypuff GX",
-          "number": "165",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Victini V",
-          "number": "25",
-          "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Blacephalon",
-          "number": "104",
-          "set": "CEC"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -6528,25 +6099,28 @@ let masters = [
           "number": "197",
           "set": "UNM"
         },
-      {
-        "count": 8,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Weakness Guard Energy",
-          "number": "213",
-          "set": "UNM"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 8,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Weakness Guard Energy",
+            "number": "213",
+            "set": "UNM"
+        },
+      ]
+    }
   },
   {
     firstName: 'Sean Takemoto',
@@ -6554,92 +6128,73 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/magcargo.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "magcargo-gx",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+           "count": 2,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
+        },
+        {
+          "count": 4,
+            "name": "Slugma",
+            "number": "26",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Ninetales",
+            "number": "16",
+            "set": "TEU"
+          },
+        {
+            "count": 1,
+            "name": "Vulpix",
+            "number": "15",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+              "name": "Oranguru",
+              "number": "148",
+              "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 1,
+            "name": "Turtonator",
+            "number": "50",
+            "set": "DRM"
+          },
+        {
+          "count": 1,
+            "name": "Marshadow",
+            "number": "81",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Magcargo GX",
-          "number": "44",
-          "set": "LOT"
-      },
-      {
-         "count": 2,
-          "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/slugma-singe.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-          "count": 1,
-          "name": "Ninetales",
-          "number": "16",
-          "set": "TEU"
-        },
-      {
-          "count": 1,
-          "name": "Vulpix",
-          "number": "15",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/oranguru-primate-wisdom.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 1,
-          "name": "Turtonator",
-          "number": "50",
-          "set": "DRM"
-        },
-      {
-        "count": 1,
-          "name": "Marshadow",
-          "number": "81",
-          "set": "UNB"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -6705,11 +6260,16 @@ let masters = [
           "number": "197",
           "set": "UNM"
         },
-      {
-        cardImg: '../../assets/cards/new-energy/fire-energy-swsh.png',
-        numImg: '../../assets/11.png'
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 11,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+      ]
+    }
   },
   {
     firstName: 'Louis Chi',
@@ -6717,166 +6277,148 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+           "count": 1,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Pokémon Catcher",
+            "number": "175",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+           "count": 2,
+          "name": "Energy Switch",
+          "number": "162",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Metal Core Barrier",
+            "number": "180",
+            "set": "UNB"
+        },
+        {
+           "count": 1,
+          "name": "Big Charm",
+          "number": "158",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-         "count": 1,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Pokémon Catcher",
-          "number": "175",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-         "count": 2,
-        "name": "Energy Switch",
-        "number": "162",
-        "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/metal-core-barrier.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-         "count": 1,
-        "name": "Big Charm",
-        "number": "158",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Akira Sato',
@@ -6884,178 +6426,166 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../assets/sprites/malamar.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "malamar-mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+          "count": 3,
+            "name": "Malamar",
+            "number": "51",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Inkay",
+            "number": "50",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+            "name": "Trevenant & Dusknoir GX",
+            "number": "SM217",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Gengar & Mimikyu GX",
+            "number": "53",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "56",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Ultra Necrozma GX",
+            "number": "95",
+            "set": "FLI"
+        },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Blacephalon",
+            "number": "104",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+            "name": "Giratina",
+            "number": "97",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 3,
+            "name": "Cherish Ball",
+            "number": "191",
+            "set": "UNM"
+          },
+        {
+          "count": 2,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Air Balloon",
+            "number": "156",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Chaotic Swell",
+            "number": "187",
+            "set": "CEC"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-        "count": 3,
-          "name": "Malamar",
-          "number": "51",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/trevenant-dusknoir-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "56",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Blacephalon",
-          "number": "104",
-          "set": "CEC"
-      },
-      {
-       "count": 1,
-          "name": "Giratina",
-          "number": "97",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 3,
-          "name": "Cherish Ball",
-          "number": "191",
-          "set": "UNM"
-        },
-      {
-        "count": 2,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Air Balloon",
-          "number": "156",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Chaotic Swell",
-          "number": "187",
-          "set": "CEC"
-      },
-      {
-        "count": 7,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Brennan Kamerman',
@@ -7063,78 +6593,55 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blacephalon.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "baby-blowns",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Blacephalon",
+            "number": "32",
+            "set": "UNB"
+        },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+           "count": 1,
+            "name": "Blacephalon GX",
+            "number": "52",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Cramorant V",
+            "number": "155",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Oricorio GX",
+            "number": "95",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Blacephalon",
-          "number": "32",
-          "set": "UNB"
-      },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-         "count": 1,
-          "name": "Blacephalon GX",
-          "number": "52",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Cramorant V",
-          "number": "155",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Oricorio GX",
-          "number": "95",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -7218,27 +6725,23 @@ let masters = [
           "number": "178",
           "set": "LOT"
         },
-      {
-        "count": 14,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SSH"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 14,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+      ]
+    }
   },
   {
     firstName: 'Matty Masefield',
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Miloslav Poslední',
@@ -7246,192 +6749,172 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Air Balloon",
+            "number": "156",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Air Balloon",
-          "number": "156",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Aaron Stringfellow',
@@ -7439,178 +6922,160 @@ let masters = [
     sprite1: '../../../assets/sprites/cinccino.png',
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "oranguru-mill",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Cinccino",
+            "number": "147",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Minccino",
+          "number": "145",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Goomy",
+            "number": "91",
+            "set": "FLI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Bellelba & Brycen-Man",
+            "number": "186",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Lt. Surge's Strategy",
+            "number": "178",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Faba",
+            "number": "173",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Lillie's Poké Doll",
+            "number": "197",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Great Ball",
+          "number": "164",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Crushing Hammer",
+            "number": "159",
+            "set": "SSH"
+        },
+        {
+           "count": 3,
+            "name": "Pal Pad",
+            "number": "172",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Ordinary Rod",
+            "number": "171",
+            "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+          "count": 3,
+            "name": "Air Balloon",
+            "number": "156",
+            "set": "SSH"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Recycle Energy",
+            "number": "212",
+            "set": "UNM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Cinccino",
-          "number": "147",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Minccino",
-        "number": "145",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Magcargo GX",
-          "number": "44",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/goomy.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Bellelba & Brycen-Man",
-          "number": "186",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Lt. Surge's Strategy",
-          "number": "178",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Faba",
-          "number": "173",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Lillie's Poké Doll",
-          "number": "197",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Great Ball",
-        "number": "164",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Crushing Hammer",
-          "number": "159",
-          "set": "SSH"
-      },
-      {
-         "count": 3,
-          "name": "Pal Pad",
-          "number": "172",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Ordinary Rod",
-          "number": "171",
-          "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
-        },
-      {
-        "count": 3,
-          "name": "Air Balloon",
-          "number": "156",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Recycle Energy",
-          "number": "212",
-          "set": "UNM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Ethan Lee',
@@ -7618,194 +7083,167 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+         "count": 2,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-       "count": 2,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Gustavo Wada',
     flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Jordan Palmer',
@@ -7813,176 +7251,160 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Clay",
+            "number": "188",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 3,
+            "name": "Energy Spinner",
+            "number": "170",
+            "set": "UNB"
+          },
+        {
+           "count": 3,
+          "name": "Energy Switch",
+          "number": "162",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Cherish Ball",
+            "number": "191",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Ordinary Rod",
+            "number": "171",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Water Energy",
+            "number": "water",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/clay.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-          "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 3,
-          "name": "Energy Spinner",
-          "number": "170",
-          "set": "UNB"
-        },
-      {
-         "count": 3,
-        "name": "Energy Switch",
-        "number": "162",
-        "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Cherish Ball",
-          "number": "191",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Ordinary Rod",
-          "number": "171",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/03.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Henry Brand',
@@ -7990,304 +7412,251 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+            "count": 3,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 2,
+          "name": "Solgaleo GX",
+          "number": "89",
+          "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Venusaur & Snivy GX",
+            "number": "1",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+          "name": "Vileplume GX",
+          "number": "4",
+          "set": "CEC"
+        },
+        {
+          "count": 1,
+          "name": "Blastoise GX",
+          "number": "35",
+          "set": "UNB"
+        },
+        {
+            "count": 1,
+            "name": "Reshiram & Charizard GX",
+            "number": "20",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+          "name": "Greninja GX",
+          "number": "SM197",
+          "set": "SMP"
+        },
+        {
+          "count": 1,
+          "name": "Alolan Raticate GX",
+          "number": "85",
+          "set": "CES"
+        },
+        {
+          "count": 1,
+          "name": "Flygon GX",
+          "number": "110",
+          "set": "CEC"
+        },
+        {
+          "count": 1,
+          "name": "Indeedee V",
+          "number": "91",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Xerneas ♢",
+          "number": "144",
+          "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Wobbuffet",
+            "number": "93",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+           "count": 1,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Cherish Ball",
+            "number": "191",
+            "set": "UNM"
+          },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Air Balloon",
+            "number": "156",
+            "set": "SSH"
+        },
+        {
+           "count": 1,
+          "name": "Big Charm",
+          "number": "158",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Stealthy Hood",
+            "number": "186",
+            "set": "UNB"
+        },
+        {
+          "count": 3,
+            "name": "Chaotic Swell",
+            "number": "187",
+            "set": "CEC"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Aurora Energy",
+          "number": "186",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Unit Energy GRW",
+            "number": "137",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Weakness Guard Energy",
+            "number": "213",
+            "set": "UNM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-          "count": 3,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        cardImg: '../../assets/cards/2018-17/solgaleo-gx-ultra-road.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/venusaur-snivy-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/vileplume-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-        "name": "Blastoise GX",
-        "number": "35",
-        "set": "UNB"
-      },
-      {
-          "count": 1,
-          "name": "Reshiram & Charizard GX",
-          "number": "20",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-        "name": "Greninja GX",
-        "number": "SM197",
-        "set": "SMP"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/alolan-raticate-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/flygon-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/indeedee-v.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/xerneas-prism.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Wobbuffet",
-          "number": "93",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-         "count": 1,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Cherish Ball",
-          "number": "191",
-          "set": "UNM"
-        },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Air Balloon",
-          "number": "156",
-          "set": "SSH"
-      },
-      {
-         "count": 1,
-        "name": "Big Charm",
-        "number": "158",
-        "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Stealthy Hood",
-          "number": "186",
-          "set": "UNB"
-      },
-      {
-        "count": 3,
-          "name": "Chaotic Swell",
-          "number": "187",
-          "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/energy/aurora-energy.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 4,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-      {
-        "count": 2,
-          "name": "Unit Energy GRW",
-          "number": "137",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Weakness Guard Energy",
-          "number": "213",
-          "set": "UNM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Shawn Chan',
     flag: '../../../assets/flags/singapore.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blacephalon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Benjamin Hall',
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Nicholas Apostolou',
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Sam Lao',
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Cheuk Fai Brian Lee',
     flag: '../../../assets/flags/hong-kong.png',
     sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../assets/sprites/malamar.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Lucas Hamilton-Foster',
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Henry Rasheed',
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Pedro Torres',
@@ -8295,224 +7664,176 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Galarian Zigzagoon",
+          "number": "117",
+          "set": "SSH"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+         "count": 2,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 4,
+            "name": "Pokémon Catcher",
+            "number": "175",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Galarian Zigzagoon",
-        "number": "117",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-       "count": 2,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 4,
-          "name": "Pokémon Catcher",
-          "number": "175",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Blake Lobina',
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Alfred Yang',
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../assets/sprites/malamar.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Tsubota Hokuto',
     flag: '../../../assets/flags/japan.png',
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
   {
     firstName: 'Matthew Taverna',
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../assets/sprites/malamar.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png'
   },
 ]
 
@@ -8523,204 +7844,190 @@ let seniors = [
     sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../assets/sprites/malamar.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "malamar-mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+          "count": 3,
+            "name": "Malamar",
+            "number": "51",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Inkay",
+            "number": "50",
+            "set": "FLI"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Trevenant & Dusknoir GX",
+            "number": "SM217",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Gengar & Mimikyu GX",
+            "number": "53",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "56",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Poipole",
+            "number": "55",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Ultra Necrozma GX",
+            "number": "95",
+            "set": "FLI"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Blacephalon",
+            "number": "104",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+            "name": "Giratina",
+            "number": "97",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+          "name": "Mimikyu",
+          "number": "58",
+          "set": "GRI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 2,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Ordinary Rod",
+            "number": "171",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+           "count": 2,
+            "name": "Viridian Forest",
+            "number": "156",
+            "set": "TEU"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-        "count": 3,
-          "name": "Malamar",
-          "number": "51",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Inkay",
-          "number": "50",
-          "set": "FLI"
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/trevenant-dusknoir-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "56",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Poipole",
-          "number": "55",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Blacephalon",
-          "number": "104",
-          "set": "CEC"
-      },
-      {
-       "count": 1,
-          "name": "Giratina",
-          "number": "97",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-        "name": "Mimikyu",
-        "number": "58",
-        "set": "GRI"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 2,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Ordinary Rod",
-          "number": "171",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-         "count": 2,
-          "name": "Viridian Forest",
-          "number": "156",
-          "set": "TEU"
-      },
-      {
-        "count": 7,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Christian Moreno',
@@ -8728,36 +8035,11 @@ let seniors = [
     sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     sprite2: '../../../assets/sprites/ninetales.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "reshizard",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 1,
           "name": "Reshiram & Charizard GX",
           "number": "20",
@@ -8835,7 +8117,9 @@ let seniors = [
           "number": "99",
           "set": "TEU"
         },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -8895,13 +8179,16 @@ let seniors = [
           "number": "178",
           "set": "LOT"
         },
-      {
-        "count": 18,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SSH"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 18,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+      ]
+    }
   },
   {
     firstName: 'Travis Beckwith',
@@ -8909,202 +8196,184 @@ let seniors = [
     sprite1: '../../../assets/sprites/cinccino.png',
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "oranguru-mill",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Cinccino",
+            "number": "147",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Minccino",
+          "number": "145",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Aerodactyl GX",
+          "number": "106",
+          "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Girafarig",
+            "number": "94",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Wobbuffet",
+            "number": "93",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Bellelba & Brycen-Man",
+            "number": "186",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Lt. Surge's Strategy",
+            "number": "178",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Faba",
+            "number": "173",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Lillie's Poké Doll",
+            "number": "197",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Great Ball",
+          "number": "164",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Crushing Hammer",
+            "number": "159",
+            "set": "SSH"
+        },
+        {
+           "count": 3,
+            "name": "Pal Pad",
+            "number": "172",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Ordinary Rod",
+            "number": "171",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Evolution Incense",
+            "number": "163",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Air Balloon",
+            "number": "156",
+            "set": "SSH"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Recycle Energy",
+            "number": "212",
+            "set": "UNM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Cinccino",
-          "number": "147",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Minccino",
-        "number": "145",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Magcargo GX",
-          "number": "44",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-        "name": "Aerodactyl GX",
-        "number": "106",
-        "set": "UNM"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/girafarig.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Wobbuffet",
-          "number": "93",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Bellelba & Brycen-Man",
-          "number": "186",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Lt. Surge's Strategy",
-          "number": "178",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Faba",
-          "number": "173",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Lillie's Poké Doll",
-          "number": "197",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Great Ball",
-        "number": "164",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Crushing Hammer",
-          "number": "159",
-          "set": "SSH"
-      },
-      {
-         "count": 3,
-          "name": "Pal Pad",
-          "number": "172",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Ordinary Rod",
-          "number": "171",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Evolution Incense",
-          "number": "163",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Air Balloon",
-          "number": "156",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Recycle Energy",
-          "number": "212",
-          "set": "UNM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Renan Togashi',
@@ -9112,36 +8381,11 @@ let seniors = [
     sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     sprite2: '../../../assets/sprites/ninetales.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "reshizard",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
           "count": 1,
           "name": "Reshiram & Charizard GX",
           "number": "20",
@@ -9195,7 +8439,9 @@ let seniors = [
           "number": "99",
           "set": "TEU"
         },
-      {
+      ],
+      "trainer": [
+        {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -9255,13 +8501,16 @@ let seniors = [
           "number": "178",
           "set": "LOT"
         },
-      {
-        "count": 18,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SSH"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 18,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+      ]
+    }
   },
   {
     firstName: 'Christian Labella',
@@ -9269,184 +8518,166 @@ let seniors = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Galarian Zigzagoon",
+          "number": "117",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+           "count": 1,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 3,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Water Energy",
+            "number": "water",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Galarian Zigzagoon",
-        "number": "117",
-        "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-         "count": 1,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 3,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 2,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Justin Tse',
@@ -9454,200 +8685,184 @@ let seniors = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Girafarig",
+            "number": "94",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+           "count": 1,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 3,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Crushing Hammer",
+            "number": "159",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+           "count": 2,
+          "name": "Energy Switch",
+          "number": "162",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Chaotic Swell",
+            "number": "187",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 8,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Water Energy",
+            "number": "water",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "148",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/girafarig.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-         "count": 1,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 3,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Crushing Hammer",
-          "number": "159",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-         "count": 2,
-        "name": "Energy Switch",
-        "number": "162",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Chaotic Swell",
-          "number": "187",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 8,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 3,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Marcus Dwyer',
@@ -9655,180 +8870,160 @@ let seniors = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+         "count": 2,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 3,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-       "count": 2,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 3,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Kaya Lichtleitner',
@@ -9836,184 +9031,172 @@ let seniors = [
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "guru-pidgey",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Pidgeotto",
+            "number": "123",
+            "set": "TEU"
+        },
+        {
+          "count": 3,
+            "name": "Pidgeotto",
+            "number": "121",
+            "set": "TEU"
+        },
+        {
+          "count": 4,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+           "count": 2,
+              "name": "Latios GX",
+              "number": "78",
+              "set": "UNM"
+        },
+        {
+          "count": 2,
+            "name": "Mareep",
+            "number": "75",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Bellelba & Brycen-Man",
+            "number": "186",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Lt. Surge's Strategy",
+            "number": "178",
+            "set": "UNB"
+        },
+        {
+          "count": 2,
+            "name": "Lusamine",
+            "number": "96",
+            "set": "CIN"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+            "name": "Lillie's Poké Doll",
+            "number": "197",
+            "set": "CEC"
+        },
+        {
+           "count": 4,
+            "name": "Pal Pad",
+            "number": "172",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Ordinary Rod",
+            "number": "171",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Air Balloon",
+            "number": "156",
+            "set": "SSH"
+        },
+        {
+           "count": 2,
+          "name": "Slumbering Forest",
+          "number": "207",
+          "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Power Plant",
+            "number": "183",
+            "set": "UNB"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 1,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Recycle Energy",
+            "number": "212",
+            "set": "UNM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/pidgeotto.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/pidgey.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 4,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/latios-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Mareep",
-          "number": "75",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Magcargo GX",
-          "number": "44",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 4,
-          "name": "Bellelba & Brycen-Man",
-          "number": "186",
-          "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Lt. Surge's Strategy",
-          "number": "178",
-          "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-          "name": "Lillie's Poké Doll",
-          "number": "197",
-          "set": "CEC"
-      },
-      {
-         "count": 4,
-          "name": "Pal Pad",
-          "number": "172",
-          "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
-        },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Ordinary Rod",
-          "number": "171",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Air Balloon",
-          "number": "156",
-          "set": "SSH"
-      },
-      {
-         "count": 2,
-        "name": "Slumbering Forest",
-        "number": "207",
-        "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Power Plant",
-          "number": "183",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Recycle Energy",
-          "number": "212",
-          "set": "UNM"
-      },
-    ]
+    }
   },
 ]
 
@@ -10024,168 +9207,148 @@ let juniors = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Vitality Band",
+            "number": "185",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 10,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Vitality Band",
-          "number": "185",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 10,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Pedro Cavalcanti',
@@ -10193,198 +9356,184 @@ let juniors = [
     sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../assets/sprites/malamar.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "malamar-mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+          "count": 3,
+            "name": "Malamar",
+            "number": "51",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Inkay",
+            "number": "50",
+            "set": "FLI"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Trevenant & Dusknoir GX",
+            "number": "SM217",
+            "set": "SMP"
+        },
+        {
+          "count": 1,
+            "name": "Gengar & Mimikyu GX",
+            "number": "53",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Latios GX",
+            "number": "78",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "56",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Naganadel GX",
+            "number": "160",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Ultra Necrozma GX",
+            "number": "95",
+            "set": "FLI"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+            "name": "Blacephalon",
+            "number": "104",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+            "name": "Giratina",
+            "number": "97",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 3,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+           "count": 2,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 1,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+           "count": 3,
+            "name": "Viridian Forest",
+            "number": "156",
+            "set": "TEU"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-        "count": 3,
-          "name": "Malamar",
-          "number": "51",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Inkay",
-          "number": "50",
-          "set": "FLI"
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/trevenant-dusknoir-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Latios GX",
-          "number": "78",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "56",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel GX",
-          "number": "160",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        "count": 1,
-          "name": "Blacephalon",
-          "number": "104",
-          "set": "CEC"
-      },
-      {
-       "count": 1,
-          "name": "Giratina",
-          "number": "97",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 3,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-         "count": 2,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 1,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-         "count": 3,
-          "name": "Viridian Forest",
-          "number": "156",
-          "set": "TEU"
-      },
-      {
-        "count": 7,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Connor Chabie',
@@ -10392,160 +9541,148 @@ let juniors = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 2,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+          "count": 2,
+            "name": "Galarian Perrserker",
+            "number": "128",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Galarian Meowth",
+          "number": "127",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+           "count": 2,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
+          },
+        {
+           "count": 4,
+          "name": "Energy Switch",
+          "number": "162",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Pokémon Catcher",
+            "number": "175",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Judge Whistle",
+          "number": "146",
+          "set": "TEU"
+        },
+        {
+           "count": 1,
+            "name": "Viridian Forest",
+            "number": "156",
+            "set": "TEU"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 8,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Water Energy",
+            "number": "water",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 2,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-        cardImg: '../../assets/cards/2019-2020/galarian-perrserker.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/galarian-meowth.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-         "count": 2,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Acro Bike",
-          "number": "123",
-          "set": "CES"
-        },
-      {
-         "count": 4,
-        "name": "Energy Switch",
-        "number": "162",
-        "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Pokémon Catcher",
-          "number": "175",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/judge-whistle.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-         "count": 1,
-          "name": "Viridian Forest",
-          "number": "156",
-          "set": "TEU"
-      },
-      {
-        "count": 8,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Carson Washer',
@@ -10553,190 +9690,172 @@ let juniors = [
     sprite1: '../../../assets/sprites/cinccino.png',
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "oranguru-mill",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Cinccino",
+            "number": "147",
+            "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Minccino",
+          "number": "145",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Mewtwo & Mew GX",
+            "number": "71",
+            "set": "UNM"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Magcargo GX",
+            "number": "44",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Girafarig",
+            "number": "94",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Wobbuffet",
+            "number": "93",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Bellelba & Brycen-Man",
+            "number": "186",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Lt. Surge's Strategy",
+            "number": "178",
+            "set": "UNB"
+        },
+        {
+          "count": 1,
+            "name": "Faba",
+            "number": "173",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Lillie's Poké Doll",
+            "number": "197",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Great Ball",
+          "number": "164",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Crushing Hammer",
+            "number": "159",
+            "set": "SSH"
+        },
+        {
+           "count": 3,
+            "name": "Pal Pad",
+            "number": "172",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+          "count": 2,
+            "name": "Ordinary Rod",
+            "number": "171",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Evolution Incense",
+            "number": "163",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Pokémon Communication",
+            "number": "152",
+            "set": "TEU"
+          },
+        {
+          "count": 2,
+            "name": "Air Balloon",
+            "number": "156",
+            "set": "SSH"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Recycle Energy",
+            "number": "212",
+            "set": "UNM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Cinccino",
-          "number": "147",
-          "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Minccino",
-        "number": "145",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Mewtwo & Mew GX",
-          "number": "71",
-          "set": "UNM"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Magcargo GX",
-          "number": "44",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/girafarig.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Wobbuffet",
-          "number": "93",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Bellelba & Brycen-Man",
-          "number": "186",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Lt. Surge's Strategy",
-          "number": "178",
-          "set": "UNB"
-      },
-      {
-        "count": 1,
-          "name": "Faba",
-          "number": "173",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Lillie's Poké Doll",
-          "number": "197",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Great Ball",
-        "number": "164",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Crushing Hammer",
-          "number": "159",
-          "set": "SSH"
-      },
-      {
-         "count": 3,
-          "name": "Pal Pad",
-          "number": "172",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-        "count": 2,
-          "name": "Ordinary Rod",
-          "number": "171",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Evolution Incense",
-          "number": "163",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Pokémon Communication",
-          "number": "152",
-          "set": "TEU"
-        },
-      {
-        "count": 2,
-          "name": "Air Balloon",
-          "number": "156",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Recycle Energy",
-          "number": "212",
-          "set": "UNM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Alvin Lim',
@@ -10744,180 +9863,160 @@ let juniors = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 4,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
+        },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "97",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+         "count": 2,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 3,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Reset Stamp",
+            "number": "206",
+            "set": "UNM"
+          },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 4,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "97",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-       "count": 2,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 3,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Reset Stamp",
-          "number": "206",
-          "set": "UNM"
-        },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 9,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Mia Sun',
@@ -10925,184 +10024,166 @@ let juniors = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "adp",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Arceus & Dialga & Palkia GX",
+            "number": "156",
+            "set": "CEC"
+        },
+        {
+          "count": 3,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+            "count": 1,
+            "name": "Dedenne GX",
+            "number": "57",
+            "set": "UNB"
+          },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
+        },
+        {
+          "count": 1,
+            "name": "Phione",
+            "number": "57",
+            "set": "CEC"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Professor's Research",
+          "number": "178",
+          "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Marnie",
+            "number": "169",
+            "set": "SSH"
+        },
+        {
+           "count": 2,
+            "name": "Mallow & Lana",
+            "number": "198",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia & Caitlin",
+            "number": "189",
+            "set": "CEC"
+        },
+        {
+         "count": 1,
+            "name": "Guzma & Hala",
+            "number": "193",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Faba",
+            "number": "173",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+          "name": "Quick Ball",
+          "number": "179",
+          "set": "SSH"
+        },
+        {
+          "count": 4,
+          "name": "Metal Saucer",
+          "number": "170",
+          "set": "SSH"
+        },
+        {
+            "count": 4,
+            "name": "Custom Catcher",
+            "number": "171",
+            "set": "LOT"
+          },
+        {
+          "count": 3,
+            "name": "Switch",
+            "number": "183",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+          "name": "Tag Call",
+          "number": "206",
+          "set": "CEC"
+        },
+        {
+         "count": 1,
+            "name": "Energy Switch",
+            "number": "162",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Great Catcher",
+            "number": "192",
+            "set": "CEC"
+        },
+        {
+            "count": 2,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Metal Frying Pan",
+            "number": "112",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 10,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SSH"
+        },
+        {
+          "count": 2,
+            "name": "Aurora Energy",
+            "number": "186",
+            "set": "SSH"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Arceus & Dialga & Palkia GX",
-          "number": "156",
-          "set": "CEC"
-      },
-      {
-        "count": 3,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-          "count": 1,
-          "name": "Dedenne GX",
-          "number": "57",
-          "set": "UNB"
-        },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
-        "count": 1,
-          "name": "Phione",
-          "number": "57",
-          "set": "CEC"
-      },
-      {
-        "count": 4,
-        "name": "Professor's Research",
-        "number": "178",
-        "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Marnie",
-          "number": "169",
-          "set": "SSH"
-      },
-      {
-         "count": 2,
-          "name": "Mallow & Lana",
-          "number": "198",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia & Caitlin",
-          "number": "189",
-          "set": "CEC"
-      },
-      {
-       "count": 1,
-          "name": "Guzma & Hala",
-          "number": "193",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Faba",
-          "number": "173",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-        "name": "Quick Ball",
-        "number": "179",
-        "set": "SSH"
-      },
-      {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
-      },
-      {
-          "count": 4,
-          "name": "Custom Catcher",
-          "number": "171",
-          "set": "LOT"
-        },
-      {
-        "count": 3,
-          "name": "Switch",
-          "number": "183",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-        "name": "Tag Call",
-        "number": "206",
-        "set": "CEC"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/energy-switch-swsh.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Great Catcher",
-          "number": "192",
-          "set": "CEC"
-      },
-      {
-          "count": 2,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Metal Frying Pan",
-          "number": "112",
-          "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 10,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
-      },
-      {
-        "count": 2,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
-      },
-    ]
+    }
   },
   {
     firstName: 'Li Bartels',
@@ -11110,78 +10191,55 @@ let juniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blacephalon.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "baby-blowns",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Blacephalon",
+            "number": "32",
+            "set": "UNB"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+           "count": 1,
+            "name": "Blacephalon GX",
+            "number": "52",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Cramorant V",
+            "number": "155",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Zacian V",
+            "number": "138",
+            "set": "SSH"
+        },
+        {
+          "count": 1,
+            "name": "Oricorio GX",
+            "number": "95",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Mew",
+            "number": "76",
+            "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Blacephalon",
-          "number": "32",
-          "set": "UNB"
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-         "count": 1,
-          "name": "Blacephalon GX",
-          "number": "52",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Cramorant V",
-          "number": "155",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Zacian V",
-          "number": "138",
-          "set": "SSH"
-      },
-      {
-        "count": 1,
-          "name": "Oricorio GX",
-          "number": "95",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Mew",
-          "number": "76",
-          "set": "UNB"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -11271,13 +10329,16 @@ let juniors = [
           "number": "178",
           "set": "LOT"
         },
-      {
-        "count": 14,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SSH"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 14,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+      ]
+    }
   },
   {
     firstName: 'Elijah Maclean',
@@ -11285,66 +10346,43 @@ let juniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blacephalon.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "baby-blowns",
     event: "2020 Oceania Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Blacephalon",
+            "number": "32",
+            "set": "UNB"
+        },
+        {
+            "count": 3,
+            "name": "Jirachi",
+            "number": "99",
+            "set": "TEU"
+          },
+        {
+           "count": 1,
+            "name": "Blacephalon GX",
+            "number": "52",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Oricorio GX",
+            "number": "95",
+            "set": "CEC"
+        },
+        {
+          "count": 1,
+            "name": "Absol",
+            "number": "88",
+            "set": "TEU"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Blacephalon",
-          "number": "32",
-          "set": "UNB"
-      },
-      {
-          "count": 3,
-          "name": "Jirachi",
-          "number": "99",
-          "set": "TEU"
-        },
-      {
-         "count": 1,
-          "name": "Blacephalon GX",
-          "number": "52",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Oricorio GX",
-          "number": "95",
-          "set": "CEC"
-      },
-      {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
-      },
-      {
           "count": 4,
           "name": "Welder",
           "number": "189",
@@ -11417,8 +10455,10 @@ let juniors = [
           "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/island-challenge-amulet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Island Challenge Amulet",
+          "number": "194",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -11432,12 +10472,15 @@ let juniors = [
           "number": "178",
           "set": "LOT"
         },
-      {
-        "count": 14,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SSH"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 14,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SSH"
+        },
+      ]
+    }
   },
 ]

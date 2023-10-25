@@ -954,8 +954,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/judge-whistle.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Judge Whistle",
+        "number": "146",
+        "set": "TEU"
       },
       {
           "count": 1,
@@ -3979,12 +3981,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Necrozma GX",
+          "number": "95",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Gengar & Mimikyu GX",
+          "number": "53",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
@@ -6682,8 +6688,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Necrozma GX",
+          "number": "95",
+          "set": "FLI"
       },
       {
        "count": 2,
@@ -7193,8 +7201,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/judge-whistle.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Judge Whistle",
+        "number": "146",
+        "set": "TEU"
       },
       {
         "count": 4,
@@ -8158,12 +8168,16 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Necrozma GX",
+          "number": "95",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Gengar & Mimikyu GX",
+          "number": "53",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
@@ -9163,8 +9177,10 @@ let seniors = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/girafarig.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Girafarig",
+          "number": "94",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/larvitar.png',
@@ -9189,8 +9205,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2019-2020/plumeria.png',
@@ -9346,8 +9364,10 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/girafarig.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Girafarig",
+          "number": "94",
+          "set": "LOT"
       },
       {
         "count": 4,
@@ -9985,12 +10005,16 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Necrozma GX",
+          "number": "95",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Gengar & Mimikyu GX",
+          "number": "53",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',

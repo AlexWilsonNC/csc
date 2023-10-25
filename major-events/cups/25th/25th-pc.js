@@ -650,8 +650,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SSH"
       },
     ]
   },
@@ -767,8 +769,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SSH"
       },
     ]
   },

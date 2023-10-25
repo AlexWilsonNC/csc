@@ -1752,8 +1752,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/ninja-boy.png',
@@ -3915,8 +3917,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/solgaleo-gx-ultra-road.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Solgaleo GX",
+        "number": "89",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/cosmog-dust-gathering.png',
@@ -4379,8 +4383,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -6130,8 +6136,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/solgaleo-gx-ultra-road.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Solgaleo GX",
+        "number": "89",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/cosmog-dust-gathering.png',

@@ -257,8 +257,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/vileplume-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Vileplume GX",
+        "number": "4",
+        "set": "CEC"
       },
       {
         "count": 1,
@@ -416,8 +418,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/vileplume-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Vileplume GX",
+        "number": "4",
+        "set": "CEC"
       },
       {
         "count": 1,
@@ -793,8 +797,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/lightning-energy-swsh.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/speed-energy.png',
@@ -1170,8 +1176,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/lightning-energy-swsh.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/speed-energy.png',
@@ -1582,8 +1590,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/lightning-energy-swsh.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/speed-energy.png',
@@ -1655,8 +1665,10 @@ let juniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/trevenant-dusknoir-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Trevenant & Dusknoir GX",
+          "number": "SM217",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -1665,8 +1677,10 @@ let juniors = [
         "set": "SMP"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/vileplume-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Vileplume GX",
+        "number": "4",
+        "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/incineroar-gx.png',
@@ -1879,8 +1893,10 @@ let extras = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/lightning-energy-swsh.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/speed-energy.png',
@@ -1954,8 +1970,10 @@ let extras = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/vileplume-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Vileplume GX",
+        "number": "4",
+        "set": "CEC"
       },
       {
         "count": 1,
@@ -2173,8 +2191,10 @@ let extras = [
           "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/water-energy-swsh.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SSH"
       },
     ]
   },
@@ -2236,8 +2256,10 @@ let extras = [
         "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Gengar & Mimikyu GX",
+          "number": "53",
+          "set": "TEU"
       },
       {
           "count": 1,
@@ -2246,8 +2268,10 @@ let extras = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/trevenant-dusknoir-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Trevenant & Dusknoir GX",
+          "number": "SM217",
+          "set": "SMP"
       },
       {
         "count": 1,
@@ -2256,8 +2280,10 @@ let extras = [
         "set": "SMP"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/vileplume-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Vileplume GX",
+        "number": "4",
+        "set": "CEC"
       },
       {
         "count": 1,
