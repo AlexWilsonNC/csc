@@ -294,8 +294,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -491,8 +493,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -592,8 +596,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
         "count": 3,
@@ -650,8 +656,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 4,
@@ -958,8 +966,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -1137,8 +1147,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
@@ -1161,8 +1173,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 1,
@@ -1376,8 +1390,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -1489,8 +1505,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/baby-blacephalon.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Blacephalon",
+          "number": "32",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pidgeotto.png',
@@ -1791,8 +1809,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/baby-blacephalon.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Blacephalon",
+          "number": "32",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pidgeotto.png',
@@ -1813,8 +1833,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -1956,8 +1978,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         "count": 1,
@@ -1972,8 +1996,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -2135,8 +2161,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -2308,8 +2336,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-forest-kartenvoy.png',
@@ -2366,8 +2396,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-bringer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Beast Bringer",
+          "number": "164",
+          "set": "UNB"
       },
       {
         "count": 4,
@@ -2835,8 +2867,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 1,
@@ -3042,8 +3076,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         "count": 1,
@@ -3058,8 +3094,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -3185,8 +3223,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
         "count": 4,
@@ -3225,8 +3265,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/oricorio-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oricorio GX",
+          "number": "95",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -3362,8 +3404,10 @@ let masters = [
           "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ultra-forest-kartenvoy.png',
@@ -3420,8 +3464,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/beast-bringer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Beast Bringer",
+          "number": "164",
+          "set": "UNB"
       },
       {
         "count": 4,
@@ -3523,8 +3569,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -3718,8 +3766,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 1,
@@ -3873,12 +3923,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
           "count": 3,
@@ -3887,8 +3941,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/trevenant-dusknoir-gx.png',
@@ -3973,8 +4029,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -4114,8 +4172,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -4488,8 +4548,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -4784,8 +4846,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/baby-blacephalon.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Blacephalon",
+          "number": "32",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pidgeotto.png',
@@ -4961,8 +5025,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         "count": 1,
@@ -4977,8 +5043,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
@@ -5098,8 +5166,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/baby-blacephalon.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Blacephalon",
+          "number": "32",
+          "set": "UNB"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pidgeotto.png',
@@ -5273,8 +5343,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
           "count": 3,
@@ -5283,8 +5355,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -5418,12 +5492,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
           "count": 3,
@@ -5432,8 +5510,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/trevenant-dusknoir-gx.png',
@@ -5512,12 +5592,16 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lanas-fishing-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lana's Fishing Rod",
+          "number": "195",
+          "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -5663,8 +5747,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -5826,8 +5912,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 1,
@@ -5999,8 +6087,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         "count": 1,
@@ -6021,8 +6111,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 2,
@@ -6226,8 +6318,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -6351,8 +6445,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
@@ -6717,8 +6813,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 2,
@@ -6850,8 +6948,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         "count": 1,
@@ -6872,8 +6972,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 2,
@@ -7228,8 +7330,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lucario-melmateal-gx.png',
@@ -7413,8 +7517,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
           "count": 3,
@@ -7429,8 +7535,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 2,
@@ -7576,8 +7684,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
           "count": 4,
@@ -7592,8 +7702,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 2,
@@ -7749,8 +7861,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
           "count": 4,
@@ -7763,8 +7877,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -7918,8 +8034,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 1,
@@ -8159,8 +8277,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -8334,8 +8454,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -8622,8 +8744,10 @@ let masters = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         "count": 2,
@@ -8650,8 +8774,10 @@ let masters = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 1,
@@ -8845,8 +8971,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 4,
@@ -9336,16 +9464,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/ns-resolve.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
           "count": 3,
@@ -9530,8 +9662,10 @@ let seniors = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
           "count": 4,
@@ -9661,8 +9795,10 @@ let seniors = [
           "set": "UNM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         "count": 2,
@@ -9689,8 +9825,10 @@ let seniors = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 1,
@@ -10091,8 +10229,10 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
        "count": 1,
@@ -10248,8 +10388,10 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -10507,8 +10649,10 @@ let seniors = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lanas-fishing-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lana's Fishing Rod",
+          "number": "195",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2019-2020/stealthy-hood.png',
@@ -10594,8 +10738,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/drampa.png',
@@ -10612,8 +10758,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -10753,8 +10901,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/drampa.png',
@@ -10773,8 +10923,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -10941,8 +11093,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cryogonal.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cryogonal",
+          "number": "46",
+          "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/drampa.png',
@@ -10959,8 +11113,10 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -11309,8 +11465,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 2,
@@ -11500,8 +11658,10 @@ let juniors = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 3,
@@ -11617,12 +11777,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
           "count": 3,
@@ -11631,8 +11795,10 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -11713,8 +11879,10 @@ let juniors = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -11812,8 +11980,10 @@ let juniors = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
         "count": 1,
@@ -11951,12 +12121,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
           "count": 4,
@@ -11965,8 +12139,10 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/trevenant-dusknoir-gx.png',
@@ -12049,8 +12225,10 @@ let juniors = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -12204,8 +12382,10 @@ let juniors = [
           "set": "CEC"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mallow-lana.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mallow & Lana",
+          "number": "198",
+          "set": "CEC"
       },
       {
           "count": 4,

@@ -1057,8 +1057,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
@@ -1341,16 +1343,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -2275,16 +2283,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -2420,16 +2434,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
@@ -2757,16 +2777,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -2904,16 +2930,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -3057,12 +3089,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
           "count": 2,
@@ -3093,8 +3129,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/chimecho.png',
@@ -3145,8 +3183,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/friend-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Friend Ball",
+          "number": "131",
+          "set": "CES"
       },
       {
           "count": 4,
@@ -4228,8 +4268,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Adventure Bag",
+          "number": "167",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/choice-band.png',
@@ -4307,12 +4349,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
           "count": 2,
@@ -4325,8 +4371,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
@@ -4666,8 +4714,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
         "count": 4,
@@ -5284,16 +5334,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -5731,12 +5787,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
@@ -5749,8 +5809,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
@@ -6026,12 +6088,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
@@ -6044,8 +6110,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
@@ -7169,16 +7237,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -7329,12 +7403,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
@@ -7347,8 +7425,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/marshadow-gx.png',
@@ -7497,16 +7577,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -7841,20 +7927,26 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-necrozma-gx.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
           "count": 1,
@@ -8519,12 +8611,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Magcargo",
+          "number": "CES",
+          "set": "24"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Slugma",
+          "number": "CES",
+          "set": "23"
       },
       {
         "count": 1,
@@ -9306,12 +9402,16 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
           "count": 3,
@@ -9320,8 +9420,10 @@ let seniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
@@ -10223,8 +10325,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
         "count": 4,
@@ -10511,20 +10615,26 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-necrozma-gx.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
           "count": 2,

@@ -2196,12 +2196,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Magcargo",
+          "number": "CES",
+          "set": "24"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Slugma",
+          "number": "CES",
+          "set": "23"
       },
       {
         cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
@@ -2553,12 +2557,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Magcargo",
+          "number": "CES",
+          "set": "24"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Slugma",
+          "number": "CES",
+          "set": "23"
       },
       {
         cardImg: '../../assets/cards/2019-2020/weavile.png',
@@ -3033,12 +3041,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Magcargo",
+          "number": "CES",
+          "set": "24"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Slugma",
+          "number": "CES",
+          "set": "23"
       },
       {
         "count": 1,
@@ -3871,8 +3883,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-frying-pan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Metal Frying Pan",
+          "number": "112",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
@@ -3952,12 +3966,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Magcargo",
+          "number": "CES",
+          "set": "24"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Slugma",
+          "number": "CES",
+          "set": "23"
       },
       {
         cardImg: '../../assets/cards/2019-2020/weavile.png',
@@ -4588,8 +4606,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/onix.png',
@@ -5160,20 +5180,26 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele.png',
@@ -5877,12 +5903,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -5903,8 +5933,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele.png',
@@ -6069,8 +6101,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Magcargo",
+          "number": "CES",
+          "set": "24"
       },
       {
         "count": 1,
@@ -6518,8 +6552,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Magcargo",
+          "number": "CES",
+          "set": "24"
       },
       {
         cardImg: '../../assets/cards/2018-17/slugma.png',
@@ -6647,20 +6683,26 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele.png',
@@ -6723,8 +6765,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
         "count": 3,
@@ -6806,12 +6850,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Magcargo",
+          "number": "CES",
+          "set": "24"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Slugma",
+          "number": "CES",
+          "set": "23"
       },
       {
         cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
@@ -7309,8 +7357,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-frying-pan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Metal Frying Pan",
+          "number": "112",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -7404,12 +7454,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Magcargo",
+          "number": "CES",
+          "set": "24"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Slugma",
+          "number": "CES",
+          "set": "23"
       },
       {
         "count": 1,
@@ -7835,8 +7889,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
@@ -7899,8 +7955,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/shrineofpunush.png',
@@ -8812,8 +8870,10 @@ let seniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magcargo.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Magcargo",
+          "number": "CES",
+          "set": "24"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pyroar.png',
@@ -9558,8 +9618,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/shining-arceus.png',
@@ -9618,8 +9680,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
         "count": 2,
@@ -9989,12 +10053,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
@@ -10023,8 +10091,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/lunala-p.png',
@@ -10083,8 +10153,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/friend-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Friend Ball",
+          "number": "131",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2019-2020/escape-rope.png',
@@ -10150,8 +10222,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
@@ -10202,8 +10276,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',

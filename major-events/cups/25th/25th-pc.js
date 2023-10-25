@@ -136,8 +136,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/fighting-energy-swsh.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/energy/rapid-strike-energy.png',
@@ -400,8 +402,10 @@ let masters = [
         "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/fighting-energy-swsh.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/energy/rapid-strike-energy.png',
@@ -892,8 +896,10 @@ let masters = [
         "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/new-energy/fighting-energy-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SSH"
       },
     ]
   },

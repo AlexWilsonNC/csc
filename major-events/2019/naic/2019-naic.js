@@ -97,8 +97,10 @@ let masters = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -377,12 +379,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/baby-blacephalon.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Blacephalon",
+          "number": "32",
+          "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
           "count": 1,
@@ -667,20 +673,26 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
           "count": 2,
@@ -1115,8 +1127,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-frying-pan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Metal Frying Pan",
+          "number": "112",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -1768,16 +1782,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/necrozma-ultra.png',
@@ -2203,8 +2223,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-frying-pan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Metal Frying Pan",
+          "number": "112",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -2600,8 +2622,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/baby-blacephalon.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Blacephalon",
+          "number": "32",
+          "set": "UNB"
       },
       {
           "count": 4,
@@ -2899,8 +2923,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/blacephalon-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
         "count": 3,
@@ -3174,8 +3200,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-frying-pan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Metal Frying Pan",
+          "number": "112",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -3496,12 +3524,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Adventure Bag",
+          "number": "167",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/choice-band.png',
@@ -5312,8 +5344,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-frying-pan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Metal Frying Pan",
+          "number": "112",
+          "set": "FLI"
       },
       {
           "count": 3,
@@ -6378,8 +6412,10 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -6591,12 +6627,16 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Adventure Bag",
+          "number": "167",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/choice-band.png',
@@ -6720,8 +6760,10 @@ let seniors = [
           "set": "UNB"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -7287,12 +7329,16 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Adventure Bag",
+          "number": "167",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/choice-band.png',
@@ -7460,8 +7506,10 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/metal-frying-pan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Metal Frying Pan",
+          "number": "112",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -7938,8 +7986,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Adventure Bag",
+          "number": "167",
+          "set": "LOT"
       },
       {
           "count": 1,
@@ -8192,12 +8242,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
           "count": 3,
@@ -8210,8 +8264,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/giratina-distortion-door.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Giratina",
+          "number": "97",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -8890,12 +8946,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Adventure Bag",
+          "number": "167",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/spelltag.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Spell Tag",
+          "number": "190",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2019-2020/choice-band.png',

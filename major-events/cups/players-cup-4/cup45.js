@@ -643,8 +643,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/fighting-energy-swsh.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/rapid-strike-energy.png',
@@ -781,8 +783,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/big-charm.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Big Charm",
+        "number": "158",
+        "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2021-2022/chaotic-swell.png',
@@ -1304,8 +1308,10 @@ let juniors = [
         "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/new-energy/fighting-energy-swsh.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/new-energy/rapid-strike-energy.png',
@@ -1560,8 +1566,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/big-charm.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Big Charm",
+        "number": "158",
+        "set": "SSH"
       },
       {
         "count": 1,
@@ -2306,8 +2314,10 @@ let extras = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lanas-fishing-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lana's Fishing Rod",
+          "number": "195",
+          "set": "CEC"
       },
       {
         cardImg: '../../assets/cards/2021-2022/poke-communication.png',
