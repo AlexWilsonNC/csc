@@ -362,16 +362,20 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -644,12 +648,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -1389,8 +1397,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/aqua-patch.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aqua Patch",
+          "number": "119",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
@@ -1476,12 +1486,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -1637,12 +1651,16 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/kirlia-beat.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Kirlia",
+          "number": "140",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ralts-kiss.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/swampert.png',
@@ -1657,12 +1675,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -1937,12 +1959,16 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -2092,16 +2118,20 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -3822,12 +3852,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/weavile.png',
@@ -5005,16 +5039,20 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -5347,12 +5385,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/kirlia-beat.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Kirlia",
+          "number": "140",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/swampert.png',
@@ -5367,12 +5409,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -6136,12 +6182,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/swampert.png',
@@ -6654,16 +6704,20 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -6938,12 +6992,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -8868,12 +8926,16 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -9140,16 +9202,20 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -9277,12 +9343,16 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         "count": 2,

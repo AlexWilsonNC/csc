@@ -1989,8 +1989,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/giratina.png',

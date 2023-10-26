@@ -2859,8 +2859,10 @@ let masters = [
         "set": "DRM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wooper.png',
-        numImg: '../../assets/04.png'
+       "count": 4,
+        "name": "Wooper",
+        "number": "25",
+        "set": "DRM"
       },
       {
         "count": 2,
@@ -2881,8 +2883,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/magikarp-wailord-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Magikarp & Wailord GX",
+        "number": "SM166",
+        "set": "SMP"
       },
       {
         "count": 1,
@@ -2925,8 +2929,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/aqua-patch.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aqua Patch",
+          "number": "119",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -2953,8 +2959,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/wishful-baton.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Wishful Baton",
+        "number": "128",
+        "set": "BUS"
       },
       {
          "count": 2,
@@ -11601,12 +11609,16 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         "count": 1,

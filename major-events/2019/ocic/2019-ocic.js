@@ -4004,12 +4004,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -5109,12 +5113,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -7033,12 +7041,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -12158,12 +12170,16 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -12373,12 +12389,16 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "132",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         "count": 1,

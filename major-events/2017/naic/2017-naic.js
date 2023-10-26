@@ -442,8 +442,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip-promo1.png',
@@ -561,8 +563,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -621,8 +625,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/aqua-patch.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aqua Patch",
+          "number": "119",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/field-blower.png',
@@ -1236,8 +1242,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -2547,8 +2555,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -4407,8 +4417,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',

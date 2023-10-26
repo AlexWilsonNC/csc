@@ -55,8 +55,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -71,8 +73,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -867,8 +871,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -2321,8 +2327,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/sylveon-gx.png',
@@ -3191,8 +3199,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -3253,8 +3263,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/aqua-patch.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aqua Patch",
+          "number": "119",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -3467,8 +3479,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/sylveon-gx.png',
@@ -3739,8 +3753,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -3793,8 +3809,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/aqua-patch.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Aqua Patch",
+          "number": "119",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -3878,8 +3896,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -4401,12 +4421,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Vulpix",
+          "number": "21",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',

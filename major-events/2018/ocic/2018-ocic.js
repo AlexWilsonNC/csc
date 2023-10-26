@@ -59,8 +59,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -325,8 +327,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -1891,8 +1895,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -2164,8 +2170,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -2897,8 +2905,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -4457,8 +4467,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -4858,8 +4870,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts-kiss.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ralts",
+          "number": "91",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/ralts.png',
