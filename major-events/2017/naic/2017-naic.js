@@ -57,8 +57,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -188,8 +190,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2014-2016/lugia-ex-ces.png',
@@ -303,8 +307,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip-promo1.png',
@@ -456,8 +462,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/espeon-ex.png',
@@ -577,8 +585,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip-promo1.png',
@@ -706,8 +716,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/starmie.png',
@@ -766,8 +778,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fire.png',
@@ -827,8 +841,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -1177,8 +1193,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-water.png',
@@ -1248,8 +1266,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -1439,8 +1459,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/oricorio.png',
@@ -1564,8 +1586,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tauros-gx.png',
@@ -1787,8 +1811,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto.png',
@@ -1916,8 +1942,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/drampa-gx.png',
@@ -2053,8 +2081,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip-promo1.png',
@@ -2188,8 +2218,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -2303,8 +2335,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/starmie.png',
@@ -2363,8 +2397,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fire.png',
@@ -2424,8 +2460,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2014-2016/zygarde-ex.png',
@@ -2561,8 +2599,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -2710,8 +2750,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/oricorio.png',
@@ -2880,8 +2922,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto.png',
@@ -3007,8 +3051,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -3150,8 +3196,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tauros-gx.png',
@@ -3279,8 +3327,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -3420,8 +3470,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/starmie.png',
@@ -3484,8 +3536,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fire.png',
@@ -3621,8 +3675,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-water.png',
@@ -3686,8 +3742,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -3968,8 +4026,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -4161,8 +4221,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2014-2016/zygarde-ex.png',
@@ -4302,8 +4364,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/oricorio.png',
@@ -4413,8 +4477,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -4544,8 +4610,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
@@ -4701,8 +4769,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo.png',
@@ -5010,8 +5080,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
@@ -5311,8 +5383,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/scorched-earth.png',
@@ -5384,8 +5458,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -5571,8 +5647,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip-promo1.png',
@@ -5917,8 +5995,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
@@ -6092,8 +6172,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
@@ -6367,8 +6449,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip-promo1.png',
@@ -6644,8 +6728,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/oricorio.png',
@@ -6773,8 +6859,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/oricorio.png',
@@ -6892,8 +6980,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -7023,8 +7113,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
@@ -7160,8 +7252,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -7261,8 +7355,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -7366,8 +7462,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -7514,8 +7612,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -7915,8 +8015,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -8034,8 +8136,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/drampa-gx.png',
@@ -8201,8 +8305,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -8332,8 +8438,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -8457,8 +8565,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/oricorio.png',

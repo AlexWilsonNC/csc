@@ -61,8 +61,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/kartana-gx.png',
@@ -194,8 +196,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mew-ex.png',
@@ -349,8 +353,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mew-ex.png',
@@ -465,8 +471,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo-gx.png',
@@ -555,16 +563,22 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -687,8 +701,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/lunala-p.png',
@@ -810,8 +826,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/kartana-gx.png',
@@ -945,8 +963,10 @@ let masters = [
             "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -1066,12 +1086,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock-ex.png',
@@ -1082,8 +1106,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -1138,8 +1164,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -1343,20 +1371,26 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mew-ex.png',
@@ -1517,8 +1551,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -1619,8 +1655,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -1732,12 +1770,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -1748,8 +1790,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -1800,8 +1844,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -1871,8 +1917,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -1988,8 +2036,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mew-ex.png',
@@ -2135,20 +2185,26 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mew-ex.png',
@@ -2294,8 +2350,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-psychic.png',
@@ -2436,8 +2494,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -2576,8 +2636,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mew-ex.png',
@@ -2717,8 +2779,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo-gx.png',
@@ -2908,8 +2972,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -3017,12 +3083,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/diancie-p.png',
@@ -3077,8 +3147,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -3136,8 +3208,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -3200,8 +3274,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -3316,8 +3392,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mew-ex.png',
@@ -3489,8 +3567,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mew-ex.png',
@@ -3680,8 +3760,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -3732,8 +3814,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fire.png',
@@ -3812,8 +3896,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2014-2016/mew.png',
@@ -3947,8 +4033,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -4019,12 +4107,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/diancie-p.png',
@@ -4079,8 +4171,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -4130,12 +4224,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock-ex.png',
@@ -4154,8 +4252,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -4198,8 +4298,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -4325,8 +4427,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
@@ -4345,8 +4449,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -4393,8 +4499,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -4453,16 +4561,22 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/diancie-p.png',
@@ -4517,8 +4631,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -4580,16 +4696,22 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/diancie-p.png',
@@ -4644,8 +4766,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -4715,8 +4839,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -4836,16 +4962,22 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -4999,8 +5131,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/latios.png',
@@ -5126,8 +5260,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -5251,8 +5387,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mew-ex.png',
@@ -5394,8 +5532,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mew-ex.png',
@@ -5538,16 +5678,22 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -5689,8 +5835,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -5824,8 +5972,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo-gx.png',
@@ -5963,8 +6113,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-psychic.png',
@@ -6072,16 +6224,22 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -6144,8 +6302,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -6211,8 +6371,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
@@ -6352,8 +6514,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -6465,20 +6629,26 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock-ex.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/diancie-p.png',
@@ -6533,8 +6703,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',

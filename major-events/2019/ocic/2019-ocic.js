@@ -222,12 +222,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rockruff.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lucario-gx.png',
@@ -1159,8 +1163,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-dusk.png',
@@ -1291,8 +1297,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 3,
@@ -2406,12 +2414,16 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rockruff.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         "count": 1,
@@ -3819,8 +3831,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -3925,8 +3939,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 5,
@@ -3990,8 +4006,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -5099,8 +5117,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -7033,12 +7053,16 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rockruff.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         "count": 2,
@@ -7161,8 +7185,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         "count": 7,
@@ -7405,8 +7431,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -7523,8 +7551,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 1,
@@ -9287,8 +9317,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-dusk.png',
@@ -9421,8 +9453,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 4,
@@ -9486,8 +9520,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-dusk.png',
@@ -9604,8 +9640,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 1,
@@ -9916,8 +9954,10 @@ let seniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -10024,8 +10064,10 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 4,
@@ -12156,8 +12198,10 @@ let juniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -12306,8 +12350,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 4,
@@ -12371,8 +12417,10 @@ let juniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',

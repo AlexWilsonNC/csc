@@ -52,8 +52,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -378,8 +380,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/magcargo.png',
@@ -533,8 +537,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -581,8 +587,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-grass.png',
@@ -640,12 +648,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         "count": 2,
@@ -660,8 +672,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -732,8 +746,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -801,8 +817,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -966,8 +984,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -1210,8 +1230,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -1335,8 +1357,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/magcargo.png',
@@ -1431,8 +1455,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-water.png',
@@ -1588,8 +1614,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -1755,8 +1783,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fairy.png',
@@ -1971,8 +2001,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto-p.png',
@@ -2134,8 +2166,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/elms-lecture.png',
@@ -2528,8 +2562,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -2689,12 +2725,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rockruff.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         "count": 2,
@@ -2813,8 +2853,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -2874,12 +2916,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -2892,8 +2938,10 @@ let masters = [
           "set": "SMP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/diancie-p.png',
@@ -2954,8 +3002,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -3023,12 +3073,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rockruff.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -3141,8 +3195,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -3217,12 +3273,16 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rockruff.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -3357,8 +3417,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -3445,8 +3507,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -3568,8 +3632,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -3733,8 +3799,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -3872,8 +3940,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto-p.png',
@@ -3940,8 +4010,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 4,
@@ -4230,12 +4302,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rockruff.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         "count": 2,
@@ -4354,8 +4430,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -4435,8 +4513,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -4552,8 +4632,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -4721,8 +4803,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/magcargo.png',
@@ -4803,8 +4887,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 4,
@@ -4906,8 +4992,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -5055,8 +5143,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto-p.png',
@@ -5190,12 +5280,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rockruff.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -5324,8 +5418,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -5493,8 +5589,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fairy.png',
@@ -5743,8 +5841,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/machoke.png',
@@ -5870,8 +5970,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo.png',
@@ -5999,8 +6101,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -6113,8 +6217,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 4,
@@ -6202,8 +6308,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -6254,8 +6362,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-grass.png',
@@ -6513,8 +6623,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
@@ -6631,8 +6743,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -6720,8 +6834,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto-p.png',
@@ -6796,8 +6912,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fairy.png',
@@ -6857,16 +6975,22 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -6927,8 +7051,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -7004,8 +7130,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shuckle-gx.png',
@@ -7100,8 +7228,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 4,
@@ -7320,8 +7450,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -7442,8 +7574,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -7650,8 +7784,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -7760,8 +7896,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 4,
@@ -8002,8 +8140,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
@@ -8114,8 +8254,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 4,
@@ -8183,20 +8325,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto-p.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/diancie-p.png',
@@ -8275,8 +8423,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -8789,8 +8939,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-bulu-gx.png',
@@ -8918,12 +9070,16 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lycanroc-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-surprise-attack.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rockruff",
+        "number": "75",
+        "set": "FLI"
       },
       {
         "count": 2,
@@ -8938,8 +9094,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -9000,8 +9158,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -9073,8 +9233,10 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -9218,8 +9380,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto-p.png',
@@ -9445,8 +9609,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Brooklet Hill",
+        "number": "120",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -9882,8 +10048,10 @@ let seniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -10002,8 +10170,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         "count": 1,
@@ -10071,8 +10241,10 @@ let seniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -10191,8 +10363,10 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -10267,8 +10441,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -10408,8 +10584,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -10531,8 +10709,10 @@ let juniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Lycanroc GX",
+        "number": "74",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
@@ -10661,8 +10841,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/devoured-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Devoured Field",
+          "number": "93",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fighting.png',
@@ -11080,8 +11262,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -11342,8 +11526,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
