@@ -129,8 +129,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 3,
@@ -394,8 +396,10 @@ let masters = [
         numImg: '../../assets/10.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -451,8 +455,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru.png',
@@ -568,16 +574,20 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko GX",
+          "number": "47",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/latias-p.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -814,8 +824,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko GX",
+          "number": "47",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/latias-p.png',
@@ -1015,8 +1027,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-grass.png',
@@ -1185,8 +1199,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru.png',
@@ -1414,8 +1430,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       }
     ]
   },
@@ -1467,8 +1485,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru.png',
@@ -1660,8 +1680,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       }
     ]
   },
@@ -1801,8 +1823,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       }
     ]
   },
@@ -2458,8 +2482,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       }
     ]
   },
@@ -2599,8 +2625,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       }
     ]
   },
@@ -2889,8 +2917,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       }
     ]
   },
@@ -3038,8 +3068,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -3304,8 +3336,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       }
     ]
   },
@@ -3624,8 +3658,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru.png',
@@ -3942,8 +3978,10 @@ let masters = [
         numImg: '../../assets/09.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       }
     ]
   },
@@ -4079,8 +4117,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 2,
@@ -4225,8 +4265,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       }
       ]
     },
@@ -4735,8 +4777,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-beast-p.png',
@@ -4892,8 +4936,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -5025,8 +5071,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -5174,8 +5222,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       }
     ]
     }

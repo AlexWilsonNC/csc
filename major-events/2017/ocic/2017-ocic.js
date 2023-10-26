@@ -238,8 +238,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -355,8 +357,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -601,8 +605,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -863,8 +869,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -988,8 +996,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -1105,8 +1115,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -1847,8 +1859,10 @@ let masters = [
         numImg: '../../assets/09.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -2268,8 +2282,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -2803,8 +2819,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -3053,8 +3071,10 @@ let seniors = [
         numImg: '../../assets/07.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -3170,8 +3190,10 @@ let seniors = [
         numImg: '../../assets/09.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -3291,8 +3313,10 @@ let seniors = [
         numImg: '../../assets/07.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -3416,8 +3440,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -3545,8 +3571,10 @@ let seniors = [
         numImg: '../../assets/09.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -4068,8 +4096,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -4193,8 +4223,10 @@ let juniors = [
         numImg: '../../assets/07.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -4330,8 +4362,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -4467,8 +4501,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },

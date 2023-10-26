@@ -152,8 +152,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 2,
@@ -452,8 +454,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 3,
@@ -579,8 +583,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/boost-energy.png',
@@ -662,8 +668,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -883,8 +891,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 2,
@@ -950,8 +960,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -1198,8 +1210,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/guzma.png',
@@ -1329,8 +1343,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -1409,8 +1425,10 @@ let masters = [
         numImg: '../../assets/06.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -1462,8 +1480,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -1486,8 +1506,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
@@ -1510,8 +1532,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -1526,16 +1550,20 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/multi-switch.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
@@ -1637,8 +1665,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -1659,12 +1689,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1681,8 +1715,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
@@ -1693,8 +1729,10 @@ let masters = [
         numImg: '../../assets/08.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/boost-energy.png',
@@ -1975,8 +2013,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -2124,8 +2164,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 2,
@@ -2186,16 +2228,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -2220,8 +2268,10 @@ let masters = [
           "set": "23"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Muk",
+          "number": "58",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -2248,8 +2298,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/plumeria.png',
@@ -2262,8 +2314,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -2292,16 +2346,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/enhanced-hammer-gri.png',
@@ -2322,12 +2380,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/escape-rope.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Escape Rope",
+            "number": "114",
+            "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/champions-festival-2018.png',
@@ -2342,8 +2404,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -2510,8 +2574,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 2,
@@ -2557,12 +2623,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -2573,8 +2643,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
          "count": 1,
@@ -2597,8 +2669,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Muk",
+          "number": "58",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -2619,16 +2693,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -2637,12 +2715,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/nest-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -2651,8 +2733,10 @@ let masters = [
         "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
           "count": 1,
@@ -2661,8 +2745,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -2679,8 +2765,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 2,
@@ -2758,8 +2846,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -2814,8 +2904,10 @@ let masters = [
         numImg: '../../assets/09.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -2861,12 +2953,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -2881,8 +2977,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -2891,8 +2989,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Muk",
+          "number": "58",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -2913,16 +3013,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -2935,8 +3039,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -2945,8 +3051,10 @@ let masters = [
         "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
           "count": 1,
@@ -2955,12 +3063,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -2977,8 +3089,10 @@ let masters = [
         numImg: '../../assets/05.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -3059,8 +3173,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
          "count": 2,
@@ -3101,28 +3217,36 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lusamine-p.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/nest-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
           "count": 2,
@@ -3143,20 +3267,28 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/escape-rope.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Escape Rope",
+            "number": "114",
+            "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-switch-ces.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Energy Switch",
+          "number": "129",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
@@ -3167,8 +3299,10 @@ let masters = [
         numImg: '../../assets/08.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -3255,8 +3389,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/guzma.png',
@@ -3466,8 +3602,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 2,
@@ -3539,8 +3677,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/guzma.png',
@@ -3732,8 +3872,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 4,
@@ -3837,8 +3979,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -3855,8 +3999,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/copycat.png',
@@ -3909,12 +4055,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/nest-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
         "count": 2,
@@ -3980,12 +4130,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -3996,8 +4150,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
          "count": 1,
@@ -4032,8 +4188,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -4052,20 +4210,26 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
           "count": 1,
@@ -4074,12 +4238,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -4104,8 +4272,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 4,
@@ -4179,8 +4349,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -4390,8 +4562,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 2,
@@ -4473,8 +4647,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/elms-lecture.png',
@@ -4541,8 +4717,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-dark.png',
@@ -4708,8 +4886,10 @@ let masters = [
         numImg: '../../assets/09.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -4851,8 +5031,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -4898,12 +5080,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -4918,8 +5104,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -4928,8 +5116,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Muk",
+          "number": "58",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/machoke.png',
@@ -4958,16 +5148,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -4980,8 +5174,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -4994,8 +5190,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
           "count": 1,
@@ -5004,16 +5202,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/multi-switch.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -5030,8 +5232,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -5107,8 +5311,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
           "count": 3,
@@ -5117,8 +5323,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -5137,8 +5345,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -5159,8 +5369,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -5177,8 +5389,10 @@ let masters = [
         numImg: '../../assets/08.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/boost-energy.png',
@@ -5282,8 +5496,10 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -5292,8 +5508,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
           "count": 3,
@@ -5302,8 +5520,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
         "count": 3,
@@ -5316,8 +5536,10 @@ let masters = [
         numImg: '../../assets/08.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -5451,8 +5673,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-space.png',
@@ -5580,8 +5804,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-space.png',
@@ -5641,12 +5867,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -5657,8 +5887,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/weavile.png',
@@ -5695,16 +5927,20 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -5717,8 +5953,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/great-ball.png',
@@ -5731,16 +5969,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/multi-switch.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -5753,8 +5995,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 4,
@@ -5896,8 +6140,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -6013,8 +6259,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -6023,8 +6271,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
           "count": 3,
@@ -6033,16 +6283,22 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/nest-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/escape-rope.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Escape Rope",
+            "number": "114",
+            "set": "BUS"
       },
       {
           "count": 3,
@@ -6113,12 +6369,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -6133,8 +6393,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/weavile.png',
@@ -6169,16 +6431,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -6187,16 +6453,20 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
           "count": 1,
@@ -6205,12 +6475,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/weakness-policy.png',
@@ -6231,8 +6505,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 4,
@@ -6390,8 +6666,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -6519,8 +6797,10 @@ let masters = [
         numImg: '../../assets/09.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -6682,8 +6962,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 4,
@@ -6783,8 +7065,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -6793,8 +7077,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
           "count": 4,
@@ -6803,12 +7089,16 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/nest-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
          "count": 3,
@@ -6827,8 +7117,10 @@ let masters = [
         numImg: '../../assets/08.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -6868,12 +7160,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -6888,8 +7184,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/latios.png',
@@ -6908,8 +7206,10 @@ let masters = [
           "set": "23"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Muk",
+          "number": "58",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -6930,16 +7230,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -6948,16 +7252,20 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/great-ball.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
           "count": 1,
@@ -6966,12 +7274,16 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -6988,8 +7300,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -7172,12 +7486,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -7188,8 +7506,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/deoxys.png',
@@ -7222,16 +7542,20 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -7244,16 +7568,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
           "count": 1,
@@ -7266,8 +7594,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -7280,8 +7610,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 4,
@@ -7365,8 +7697,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/plumeria.png',
@@ -7389,8 +7723,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/max-potion.png',
@@ -7411,8 +7747,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
         "count": 3,
@@ -7484,12 +7822,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -7500,8 +7842,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/weavile.png',
@@ -7548,20 +7892,26 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
@@ -7572,8 +7922,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
           "count": 1,
@@ -7586,16 +7938,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/devoured-field.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 4,
@@ -7681,8 +8037,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/guzma.png',
@@ -7753,8 +8111,10 @@ let masters = [
         numImg: '../../assets/06.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -7820,8 +8180,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/machoke.png',
@@ -7848,8 +8210,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -7858,8 +8222,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -7882,24 +8248,32 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-grass.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/boost-energy.png',
@@ -7977,8 +8351,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -8031,8 +8407,10 @@ let masters = [
         numImg: '../../assets/10.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -8245,8 +8623,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/guzma.png',
@@ -8386,8 +8766,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -8511,8 +8893,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -8555,8 +8939,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-space.png',
@@ -8716,8 +9102,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -8775,8 +9163,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -8799,8 +9189,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
@@ -8823,8 +9215,10 @@ let seniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -8839,16 +9233,20 @@ let seniors = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/multi-switch.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/brooklet-hill.png',
@@ -8908,16 +9306,22 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shuckle-gx.png',
@@ -8968,8 +9372,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/plumeria.png',
@@ -8992,8 +9398,10 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/skull-grunt.png',
@@ -9012,8 +9420,10 @@ let seniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
@@ -9034,8 +9444,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/mt-coronet.png',
@@ -9046,8 +9458,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -9137,20 +9551,28 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/nest-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-loto.png',
@@ -9167,8 +9589,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
           "count": 2,
@@ -9183,8 +9607,10 @@ let seniors = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/counter-energy.png',
@@ -9228,12 +9654,16 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -9244,8 +9674,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shuckle-gx.png',
@@ -9280,12 +9712,16 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/mallow.png',
@@ -9306,8 +9742,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -9316,8 +9754,10 @@ let seniors = [
         "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
           "count": 1,
@@ -9326,12 +9766,16 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/weakness-policy.png',
@@ -9352,8 +9796,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -9393,12 +9839,16 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -9409,8 +9859,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -9427,8 +9879,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Muk",
+          "number": "58",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -9449,32 +9903,40 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/mallow.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
           "count": 1,
@@ -9483,16 +9945,20 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/multi-switch.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -9509,8 +9975,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         "count": 3,
@@ -9623,8 +10091,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-space.png',
@@ -9722,8 +10192,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -9774,8 +10246,10 @@ let juniors = [
         numImg: '../../assets/10.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -9815,12 +10289,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/zoroark-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Zoroark GX",
+          "number": "53",
+          "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/zorua.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Zorua",
+          "number": "52",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -9835,8 +10313,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -9845,8 +10325,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/alolan-muk.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Muk",
+          "number": "58",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -9871,16 +10353,20 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2019-2020/kukui.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/acerola.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Acerola",
+          "number": "112",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -9893,8 +10379,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -9907,16 +10395,20 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/multi-switch.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
           "count": 1,
@@ -9925,8 +10417,10 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -9943,8 +10437,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
     ]
   },
@@ -10030,8 +10526,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -10040,12 +10538,16 @@ let juniors = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/nest-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/energy-loto.png',
@@ -10062,12 +10564,16 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Choice Band",
+        "number": "121",
+        "set": "GRI"
       },
       {
           "count": 1,
@@ -10082,8 +10588,10 @@ let juniors = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Double Colorless Energy",
+        "number": "136",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/counter-energy.png',
@@ -10159,8 +10667,10 @@ let juniors = [
         "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele GX",
+          "number": "60",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
@@ -10205,8 +10715,10 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -10215,8 +10727,10 @@ let juniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
           "count": 3,
@@ -10225,12 +10739,16 @@ let juniors = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Rescue Stretcher",
+        "number": "130",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/nest-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -10239,8 +10757,10 @@ let juniors = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/escape-rope.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Escape Rope",
+            "number": "114",
+            "set": "BUS"
       },
       {
           "count": 3,
@@ -10316,8 +10836,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -10576,8 +11098,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',

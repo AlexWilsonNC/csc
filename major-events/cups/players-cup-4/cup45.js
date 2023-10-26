@@ -934,8 +934,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/triple-acceleration.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Triple Acceleration Energy",
+        "number": "190",
+        "set": "UNB"
       },
     ]
   },
@@ -1457,8 +1459,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/triple-acceleration.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Triple Acceleration Energy",
+        "number": "190",
+        "set": "UNB"
       },
     ]
   },
