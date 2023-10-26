@@ -253,8 +253,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pheromosa-buzzwole-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Pheromosa & Buzzwole GX",
+          "number": "1",
+          "set": "UNB"
       },
       {
          "count": 1,
@@ -414,8 +416,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pheromosa-buzzwole-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Pheromosa & Buzzwole GX",
+          "number": "1",
+          "set": "UNB"
       },
       {
          "count": 1,
@@ -999,8 +1003,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/yveltal.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Yveltal",
+        "number": "95",
+        "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
@@ -1982,8 +1988,10 @@ let extras = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/pheromosa-buzzwole-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Pheromosa & Buzzwole GX",
+          "number": "1",
+          "set": "UNB"
       },
       {
          "count": 1,

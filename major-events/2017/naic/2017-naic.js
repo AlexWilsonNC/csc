@@ -837,8 +837,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -1411,8 +1413,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -1534,8 +1538,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -1562,8 +1568,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -1753,8 +1761,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -1884,8 +1894,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -1908,8 +1920,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -2668,8 +2682,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -2836,8 +2852,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -3104,8 +3122,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -3132,8 +3152,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -3263,8 +3285,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -4250,8 +4274,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -4522,8 +4548,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/oricorio-energy.png',
@@ -5360,8 +5388,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -6584,8 +6614,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -6711,8 +6743,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -7332,8 +7366,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -7470,8 +7506,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/alolan-rattata.png',
@@ -7847,8 +7885,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -8006,8 +8046,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -8129,8 +8171,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -8157,8 +8201,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -8256,8 +8302,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -8284,8 +8332,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -8403,8 +8453,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',

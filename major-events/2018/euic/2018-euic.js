@@ -65,8 +65,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -200,8 +202,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -295,8 +299,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -809,8 +815,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -825,8 +833,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/kiawe.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Kiawe",
+          "number": "116",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -926,8 +936,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -1053,8 +1065,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -1338,8 +1352,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -1481,8 +1497,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -1572,8 +1590,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -1592,8 +1612,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -1882,8 +1904,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -2044,8 +2068,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -2147,8 +2173,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -2167,8 +2195,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -2437,8 +2467,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -2564,8 +2596,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/latios.png',
@@ -2671,8 +2705,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -2818,8 +2854,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/latios.png',
@@ -2949,8 +2987,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -3052,8 +3092,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -3076,8 +3118,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/giratina.png',
@@ -3175,8 +3219,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -3195,16 +3241,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -3564,8 +3614,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -3841,8 +3893,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -4102,8 +4156,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -4250,8 +4306,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -4270,8 +4328,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -4377,8 +4437,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -4401,16 +4463,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/vulpix-alolan.png',
@@ -4550,8 +4616,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -4681,8 +4749,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -4954,8 +5024,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -5076,8 +5148,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -5100,8 +5174,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -5859,8 +5935,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -6311,8 +6389,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/meowstic.png',
@@ -6327,8 +6407,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -6351,8 +6433,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/grimer-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Grimer",
+          "number": "57",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/giratina.png',
@@ -6708,8 +6792,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -6804,8 +6890,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -6927,8 +7015,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -7086,8 +7176,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/espeon-ex.png',
@@ -7189,8 +7281,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -7213,12 +7307,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -7479,8 +7577,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -7574,8 +7674,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -7713,8 +7815,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -7733,8 +7837,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',

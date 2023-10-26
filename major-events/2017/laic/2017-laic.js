@@ -306,8 +306,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -1432,8 +1434,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
@@ -3453,8 +3457,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',

@@ -310,8 +310,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -447,8 +449,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -590,8 +594,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -999,8 +1005,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -1450,8 +1458,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -1945,8 +1955,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/gardevoir-gx.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Gardevoir GX",
+          "number": "93",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/gallade.png',
@@ -2489,8 +2501,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/counter-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Energy",
+          "number": "100",
+          "set": "CIN"
       },
     ]
   },
@@ -2534,8 +2548,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -2707,8 +2723,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -3083,8 +3101,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -3230,8 +3250,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -3372,8 +3394,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
@@ -3384,8 +3408,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -3632,8 +3658,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/counter-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Energy",
+          "number": "100",
+          "set": "CIN"
       },
     ]
   },
@@ -3882,8 +3910,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -4164,8 +4194,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -4289,8 +4321,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -4383,8 +4417,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/counter-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Energy",
+          "number": "100",
+          "set": "CIN"
       },
     ]
   },
@@ -4598,8 +4634,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -4741,8 +4779,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -4827,8 +4867,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/counter-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Energy",
+          "number": "100",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -5047,8 +5089,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -5556,8 +5600,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -5812,8 +5858,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -6921,8 +6969,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/counter-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Energy",
+          "number": "100",
+          "set": "CIN"
       },
     ]
   },
@@ -7230,8 +7280,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Oranguru",
+            "number": "148",
+            "set": "SSH"
       },
       {
         cardImg: '../../assets/cards/2018-17/guzma.png',

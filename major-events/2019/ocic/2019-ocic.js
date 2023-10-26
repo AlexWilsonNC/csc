@@ -65,8 +65,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Oranguru",
+              "number": "113",
+              "set": "SUM"
       },
       {
         "count": 1,
@@ -93,8 +95,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -133,8 +137,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-loto.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Energy Loto",
+        "number": "122",
+        "set": "GRI"
       },
       {
           "count": 3,
@@ -431,8 +437,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -441,8 +449,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -628,8 +638,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -638,8 +650,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Oranguru",
+              "number": "113",
+              "set": "SUM"
       },
       {
         "count": 3,
@@ -994,8 +1008,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -1076,8 +1092,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/aether-paradise.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Aether Paradise Conservation Area",
+          "number": "116",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -1165,8 +1183,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/grimer-alolan-dark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Grimer",
+          "number": "83",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -1205,8 +1225,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -1352,8 +1374,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Oranguru",
+              "number": "113",
+              "set": "SUM"
       },
       {
         "count": 1,
@@ -1380,8 +1404,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1420,8 +1446,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-loto.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Energy Loto",
+        "number": "122",
+        "set": "GRI"
       },
       {
           "count": 3,
@@ -1521,8 +1549,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Marshadow GX",
+          "number": "80",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -1869,8 +1899,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Oranguru",
+              "number": "113",
+              "set": "SUM"
       },
       {
         "count": 1,
@@ -1897,8 +1929,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1937,8 +1971,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-loto.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Energy Loto",
+        "number": "122",
+        "set": "GRI"
       },
       {
           "count": 3,
@@ -2565,8 +2601,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Marshadow GX",
+          "number": "80",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -2738,8 +2776,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         "count": 4,
@@ -3113,12 +3153,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Marshadow GX",
+          "number": "80",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -3278,8 +3322,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Marshadow GX",
+          "number": "80",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -3288,8 +3334,10 @@ let masters = [
         "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -3437,8 +3485,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Marshadow GX",
+          "number": "80",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -3473,8 +3523,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -3827,8 +3879,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mallow.png',
@@ -3964,8 +4018,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/grimer-alolan-dark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Grimer",
+          "number": "83",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/weavile.png',
@@ -3982,8 +4038,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
           "count": 2,
@@ -4016,8 +4074,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mallow.png',
@@ -4066,8 +4126,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/max-potion.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -4086,8 +4148,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/black-market-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Black Market ♢",
+          "number": "134",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -4175,8 +4239,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -4418,8 +4484,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/aether-paradise.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Aether Paradise Conservation Area",
+          "number": "116",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -4692,8 +4760,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -4732,8 +4802,10 @@ let masters = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-loto.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Energy Loto",
+        "number": "122",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -5051,8 +5123,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/grimer-alolan-dark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Grimer",
+          "number": "83",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/weavile.png',
@@ -5069,8 +5143,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
           "count": 2,
@@ -5103,8 +5179,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mallow.png',
@@ -5153,8 +5231,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/max-potion.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -5173,8 +5253,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/black-market-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Black Market ♢",
+          "number": "134",
+          "set": "TEU"
       },
       {
         "count": 4,
@@ -5244,8 +5326,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -5411,8 +5495,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -5556,8 +5642,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -5566,8 +5654,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -5769,8 +5859,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Oranguru",
+              "number": "113",
+              "set": "SUM"
       },
       {
         "count": 1,
@@ -5797,8 +5889,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -5837,8 +5931,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-loto.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Energy Loto",
+        "number": "122",
+        "set": "GRI"
       },
       {
           "count": 3,
@@ -5938,8 +6034,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Marshadow GX",
+          "number": "80",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -6111,8 +6209,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -6193,8 +6293,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/aether-paradise.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Aether Paradise Conservation Area",
+          "number": "116",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -6270,8 +6372,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Oranguru",
+              "number": "113",
+              "set": "SUM"
       },
       {
         "count": 1,
@@ -6298,8 +6402,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -6338,8 +6444,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-loto.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Energy Loto",
+        "number": "122",
+        "set": "GRI"
       },
       {
           "count": 3,
@@ -6608,12 +6716,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Oranguru",
+              "number": "113",
+              "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -6951,8 +7063,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -6979,8 +7093,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -7100,8 +7216,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
           "count": 2,
@@ -7110,8 +7228,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-lele.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele",
+          "number": "SM45",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2019-2020/victini-v-beatdown.png',
@@ -7140,8 +7260,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -7150,8 +7272,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/gladion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Gladion",
+          "number": "95",
+          "set": "CIN"
       },
       {
         "count": 4,
@@ -7172,12 +7296,16 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-loto.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Energy Loto",
+        "number": "122",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Counter Catcher",
+          "number": "91",
+          "set": "CIN"
       },
       {
           "count": 1,
@@ -7210,8 +7338,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/counter-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Counter Energy",
+          "number": "100",
+          "set": "CIN"
       },
     ]
   },
@@ -7291,8 +7421,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/grimer-alolan-dark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Grimer",
+          "number": "83",
+          "set": "TEU"
       },
       {
         "count": 1,
@@ -7325,8 +7457,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -7484,8 +7618,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -7560,8 +7696,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/aether-paradise.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aether Paradise Conservation Area",
+          "number": "116",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -7666,8 +7804,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -7676,8 +7816,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Oranguru",
+              "number": "113",
+              "set": "SUM"
       },
       {
         "count": 3,
@@ -7831,8 +7973,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -7841,8 +7985,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -8035,8 +8181,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Marshadow GX",
+          "number": "80",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -8231,8 +8379,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
           "count": 4,
@@ -8401,8 +8551,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Marshadow GX",
+          "number": "80",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -8602,8 +8754,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -8612,8 +8766,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -8783,8 +8939,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Marshadow GX",
+          "number": "80",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -8805,16 +8963,20 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Koko",
+          "number": "SM31",
+          "set": "SMP"
       },
       {
         cardImg: '../../assets/cards/2019-2020/chimecho.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -8980,8 +9142,10 @@ let masters = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -9044,8 +9208,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/aether-paradise.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Aether Paradise Conservation Area",
+          "number": "116",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -9133,8 +9299,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/grimer-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Grimer",
+          "number": "57",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -9173,8 +9341,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -9509,8 +9679,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/grimer-alolan-dark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Grimer",
+          "number": "83",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -9561,8 +9733,10 @@ let seniors = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -9583,12 +9757,16 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/plumeria.png',
-        numImg: '../../assets/02.png'
+       "count": 2,
+          "name": "Plumeria",
+          "number": "120",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/gladion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Gladion",
+          "number": "95",
+          "set": "CIN"
       },
       {
         "count": 1,
@@ -9603,8 +9781,10 @@ let seniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/skull-grunt.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Team Skull Grunt",
+          "number": "133",
+          "set": "SUM"
       },
       {
           "count": 4,
@@ -9619,8 +9799,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/counter-catcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Counter Catcher",
+          "number": "91",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2019-2020/enhanced-hammer-gri.png',
@@ -9784,8 +9966,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -9897,8 +10081,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -9919,8 +10105,10 @@ let seniors = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -9947,8 +10135,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -10076,8 +10266,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Eevee",
+        "number": "101",
+        "set": "SUM"
       },
       {
         "count": 1,
@@ -10110,8 +10302,10 @@ let seniors = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -10138,8 +10332,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -10263,8 +10459,10 @@ let seniors = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Oranguru",
+              "number": "113",
+              "set": "SUM"
       },
       {
         "count": 1,
@@ -10291,8 +10489,10 @@ let seniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -10331,8 +10531,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-loto.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Energy Loto",
+        "number": "122",
+        "set": "GRI"
       },
       {
           "count": 3,
@@ -10438,8 +10640,10 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
           "count": 4,
@@ -10778,8 +10982,10 @@ let seniors = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -10960,8 +11166,10 @@ let juniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -11121,8 +11329,10 @@ let juniors = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -11292,8 +11502,10 @@ let juniors = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -11372,8 +11584,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/aether-paradise.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Aether Paradise Conservation Area",
+          "number": "116",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -11449,8 +11663,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 1,
@@ -11598,8 +11814,10 @@ let juniors = [
           "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/oranguru-instruct.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Oranguru",
+              "number": "113",
+              "set": "SUM"
       },
       {
         "count": 1,
@@ -11626,8 +11844,10 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -11672,8 +11892,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-loto.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Energy Loto",
+        "number": "122",
+        "set": "GRI"
       },
       {
           "count": 3,
@@ -11771,8 +11993,10 @@ let juniors = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+       "count": 1,
+          "name": "Marshadow GX",
+          "number": "80",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -11781,8 +12005,10 @@ let juniors = [
         "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
         "count": 4,
@@ -11946,8 +12172,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/grimer-alolan-dark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Grimer",
+          "number": "83",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/weavile.png',
@@ -11964,8 +12192,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
           "count": 3,
@@ -12002,8 +12232,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -12155,8 +12387,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/grimer-alolan-dark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Grimer",
+          "number": "83",
+          "set": "TEU"
       },
       {
         cardImg: '../../assets/cards/2019-2020/weavile.png',
@@ -12173,8 +12407,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/marshadow-let-loose.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Marshadow",
+        "number": "45",
+        "set": "SLG"
       },
       {
           "count": 2,
@@ -12211,8 +12447,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Kukui",
+          "number": "128",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -12255,8 +12493,10 @@ let juniors = [
           "set": "CES"
         },
       {
-        cardImg: '../../assets/cards/2019-2020/max-potion.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -12275,8 +12515,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/black-market-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Black Market ♢",
+          "number": "134",
+          "set": "TEU"
       },
       {
         "count": 4,
