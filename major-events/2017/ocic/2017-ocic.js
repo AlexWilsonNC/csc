@@ -686,8 +686,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-ranger.png',
@@ -2224,8 +2226,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -3931,8 +3935,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/team-flare-grunt.png',
@@ -4469,8 +4475,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',

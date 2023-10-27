@@ -1870,8 +1870,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -3006,8 +3008,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/team-flare-grunt.png',
@@ -3307,8 +3311,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -3730,8 +3736,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/field-blower.png',
@@ -3855,8 +3863,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/brigette.png',
@@ -4002,8 +4012,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -4123,8 +4135,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/brigette.png',
@@ -5218,8 +5232,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',

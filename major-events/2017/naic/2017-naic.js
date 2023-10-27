@@ -345,8 +345,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
@@ -615,12 +617,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/karen.png',
@@ -885,8 +891,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
@@ -1016,8 +1024,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -1982,8 +1992,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
@@ -3035,16 +3047,20 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vikavolt.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Vikavolt",
+          "number": "52",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/charjabug.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/grubbin.png',
-        numImg: '../../assets/03.png'
+       "count": 3,
+          "name": "Grubbin",
+          "number": "13",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip-promo1.png',
@@ -3371,8 +3387,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
@@ -3768,8 +3786,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -4513,8 +4533,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-ranger.png',
@@ -4634,8 +4656,10 @@ let masters = [
             "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oricorio",
+          "number": "55",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo.png',
@@ -4662,12 +4686,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/pokemon-fan-club.png',
@@ -4757,16 +4785,20 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vikavolt.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Vikavolt",
+          "number": "52",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/charjabug.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/grubbin.png',
-        numImg: '../../assets/03.png'
+       "count": 3,
+          "name": "Grubbin",
+          "number": "13",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -5102,8 +5134,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oricorio",
+          "number": "55",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -5122,12 +5156,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
@@ -5379,8 +5417,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/weakness-policy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Policy",
+          "number": "126",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -5502,8 +5542,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
@@ -5635,16 +5677,20 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/vikavolt.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Vikavolt",
+          "number": "52",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/charjabug.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/grubbin.png',
-        numImg: '../../assets/03.png'
+       "count": 3,
+          "name": "Grubbin",
+          "number": "13",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -5848,8 +5894,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/fisherman.png',
@@ -6013,8 +6061,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oricorio",
+          "number": "55",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -6033,12 +6083,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
@@ -6190,8 +6244,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oricorio",
+          "number": "55",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -6214,12 +6270,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/pokemon-center-lady.png',
@@ -7131,8 +7191,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oricorio",
+          "number": "55",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -7151,12 +7213,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
@@ -7502,8 +7568,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
@@ -8188,8 +8256,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
@@ -8605,8 +8675,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',

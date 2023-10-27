@@ -234,8 +234,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/delinquent.png',
@@ -278,8 +280,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/weakness-policy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Policy",
+          "number": "126",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -601,8 +605,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -613,8 +619,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -637,12 +645,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/weakness-policy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Policy",
+          "number": "126",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -1082,8 +1094,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -1241,8 +1255,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/plumeria.png',
@@ -1383,8 +1399,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -1417,8 +1435,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
@@ -1449,8 +1469,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
@@ -1535,8 +1557,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -1651,8 +1675,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 3,
@@ -1766,8 +1792,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -1782,8 +1810,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/diancie-p.png',
@@ -1901,8 +1931,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -2074,8 +2106,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/delinquent.png',
@@ -2118,8 +2152,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/weakness-policy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Policy",
+          "number": "126",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -2191,8 +2227,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -2235,12 +2273,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
@@ -2267,8 +2309,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/choice-band.png',
@@ -2478,8 +2522,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -2680,8 +2726,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -3079,8 +3127,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -3192,8 +3242,10 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -3597,8 +3649,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
@@ -4103,8 +4157,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -4220,8 +4276,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -4415,8 +4473,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/lucario-gx.png',
@@ -4557,8 +4617,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -4692,8 +4754,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -4823,8 +4887,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -5008,16 +5074,20 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -5036,16 +5106,20 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/timer-ball.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/choice-band.png',
@@ -5244,8 +5318,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -5425,8 +5501,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -5574,8 +5652,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
@@ -5724,8 +5804,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
@@ -5752,8 +5834,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/choice-band.png',
@@ -5861,8 +5945,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
@@ -6220,8 +6306,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -6498,8 +6586,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -6625,8 +6715,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 1,

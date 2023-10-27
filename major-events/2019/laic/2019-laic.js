@@ -644,8 +644,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -706,8 +708,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -730,8 +734,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
@@ -1214,16 +1220,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/rayquaza-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rayquaza GX",
+          "number": "109",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vikavolt.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Vikavolt",
+          "number": "52",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/grubbin.png',
-        numImg: '../../assets/03.png'
+       "count": 3,
+          "name": "Grubbin",
+          "number": "13",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dhelmise-grass.png',
@@ -1401,8 +1413,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
@@ -1508,8 +1522,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -1604,8 +1620,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         "count": 2,
@@ -2755,12 +2773,16 @@ let masters = [
           "set": "23"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/weavile.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Weavile",
+          "number": "74",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel-2nd-turn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "73",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -2912,8 +2934,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 3,
@@ -2970,8 +2994,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
@@ -3085,8 +3111,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -3149,8 +3177,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         "count": 4,
@@ -3263,8 +3293,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -3285,8 +3317,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shuckle-gx.png',
@@ -3491,16 +3525,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/rayquaza-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rayquaza GX",
+          "number": "109",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vikavolt.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Vikavolt",
+          "number": "52",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/grubbin.png',
-        numImg: '../../assets/03.png'
+       "count": 3,
+          "name": "Grubbin",
+          "number": "13",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dhelmise-grass.png',
@@ -3783,16 +3823,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/rayquaza-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rayquaza GX",
+          "number": "109",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vikavolt.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Vikavolt",
+          "number": "52",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/grubbin.png',
-        numImg: '../../assets/03.png'
+       "count": 3,
+          "name": "Grubbin",
+          "number": "13",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dhelmise-grass.png',
@@ -3932,8 +3978,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/weavile.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Weavile",
+          "number": "74",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/sneasel-ces.png',
@@ -3962,8 +4010,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
@@ -4099,8 +4149,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele",
+          "number": "94",
+          "set": "UPR"
       },
       {
          "count": 1,
@@ -4157,8 +4209,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/copycat.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Copycat",
+          "number": "127",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -4332,8 +4386,10 @@ let masters = [
           "set": "23"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/weavile.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Weavile",
+          "number": "74",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/sneasel.png',
@@ -4426,8 +4482,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/weakness-policy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Policy",
+          "number": "126",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -4549,8 +4607,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/acro-bike.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/field-blower.png',
@@ -4791,12 +4851,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/weavile.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Weavile",
+          "number": "74",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel-2nd-turn.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Sneasel",
+          "number": "73",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/sneasel-ces.png',
@@ -4839,8 +4903,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
@@ -5048,8 +5114,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/acro-bike.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/escape-rope.png',
@@ -5292,8 +5360,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -5364,8 +5434,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         "count": 4,
@@ -5402,8 +5474,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         "count": 3,
@@ -5680,8 +5754,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/onix.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Onix",
+          "number": "109",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
@@ -5883,8 +5959,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/acro-bike.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
@@ -6014,8 +6092,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/acro-bike.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/energy-switch-ces.png',
@@ -6107,8 +6187,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -6117,12 +6199,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/weavile.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Weavile",
+          "number": "74",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel-2nd-turn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "73",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -6175,8 +6261,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         "count": 4,
@@ -6201,8 +6289,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         "count": 2,
@@ -6633,8 +6723,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -6643,8 +6735,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/weavile.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Weavile",
+          "number": "74",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/sneasel.png',
@@ -6733,8 +6827,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/weakness-policy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Policy",
+          "number": "126",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -6866,8 +6962,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -6971,8 +7069,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 3,
@@ -7017,8 +7117,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
@@ -7140,8 +7242,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/weavile.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Weavile",
+          "number": "74",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/sneasel-ces.png',
@@ -7178,8 +7282,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/acerola.png',
@@ -7317,8 +7423,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/onix.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Onix",
+          "number": "109",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
@@ -7456,8 +7564,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
@@ -7790,8 +7900,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -7804,8 +7916,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/weavile.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Weavile",
+          "number": "74",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/sneasel.png',
@@ -7854,8 +7968,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         "count": 4,
@@ -7880,8 +7996,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         "count": 3,
@@ -7971,8 +8089,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/tapu-lele-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Tapu Lele",
+          "number": "94",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -8156,8 +8276,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/weavile.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Weavile",
+          "number": "74",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2019-2020/sneasel.png',
@@ -8244,8 +8366,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         "count": 3,
@@ -8317,8 +8441,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -8379,16 +8505,20 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/elms-lecture.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -8419,8 +8549,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/weakness-policy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Weakness Policy",
+          "number": "126",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -8705,8 +8837,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/acro-bike.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/nest-ball.png',
@@ -8923,16 +9057,22 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/rayquaza-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rayquaza GX",
+          "number": "109",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vikavolt.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Vikavolt",
+          "number": "52",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/grubbin.png',
-        numImg: '../../assets/03.png'
+       "count": 3,
+          "name": "Grubbin",
+          "number": "13",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dhelmise-grass.png',
@@ -9066,8 +9206,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -9122,8 +9264,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -9142,8 +9286,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
@@ -9269,8 +9415,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/acro-bike.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/mysterious-treasure.png',
@@ -9503,8 +9651,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Buzzwole GX",
+          "number": "57",
+          "set": "CIN"
       },
       {
         "count": 2,
@@ -9599,8 +9749,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         "count": 2,
@@ -10054,8 +10206,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -10108,8 +10262,10 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         "count": 2,
@@ -10166,8 +10322,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/weakness-policy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Weakness Policy",
+          "number": "126",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -10247,8 +10405,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -10269,8 +10429,10 @@ let seniors = [
           "set": "SMP"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/weavile.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Weavile",
+          "number": "74",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -10315,8 +10477,10 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         "count": 4,
@@ -10347,8 +10511,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         "count": 2,
@@ -10473,8 +10639,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/acro-bike.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -10622,8 +10790,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/acro-bike.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -10715,8 +10885,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-corner.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "73",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
@@ -10787,8 +10959,10 @@ let juniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mallow.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+        "name": "Mallow",
+        "number": "127",
+        "set": "GRI"
       },
       {
         "count": 4,
@@ -10813,8 +10987,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/multi-switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Multi Switch",
+        "number": "129",
+        "set": "GRI"
       },
       {
         "count": 1,
@@ -11127,8 +11303,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Oricorio",
+          "number": "55",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -11294,8 +11472,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/acro-bike.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -11415,8 +11595,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-kukui.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
       },
       {
         "count": 1,
