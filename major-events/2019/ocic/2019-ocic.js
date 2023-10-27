@@ -1279,8 +1279,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
           "count": 1,
@@ -4082,8 +4084,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "86",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -4200,8 +4204,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Bodybuilding Dumbbells",
+          "number": "113",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -5201,8 +5207,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "86",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -5319,8 +5327,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Bodybuilding Dumbbells",
+          "number": "113",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -6780,8 +6790,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/weavile.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Weavile",
+          "number": "86",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -7505,8 +7517,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "86",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -7575,8 +7589,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -9481,8 +9497,10 @@ let masters = [
           "set": "TEU"
         },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -9624,8 +9642,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "86",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -9692,8 +9712,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -9937,8 +9959,10 @@ let seniors = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/enhanced-hammer-gri.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
           "count": 1,
@@ -12340,8 +12364,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "86",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -12569,8 +12595,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "86",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -12685,8 +12713,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Bodybuilding Dumbbells",
+          "number": "113",
+          "set": "BUS"
       },
       {
         "count": 1,

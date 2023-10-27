@@ -64,12 +64,16 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/magcargo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/alolan-muk.png',
@@ -116,8 +120,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/crushing-hammer.png',
@@ -215,8 +221,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
        "count": 2,
@@ -386,8 +394,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/magcargo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto-p.png',
@@ -424,8 +434,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/counter-catcher.png',
@@ -571,8 +583,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-potion.png',
@@ -684,8 +698,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -835,12 +851,16 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/magcargo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/alolan-muk.png',
@@ -887,8 +907,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/crushing-hammer.png',
@@ -1171,8 +1193,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Bodybuilding Dumbbells",
+          "number": "113",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/shrineofpunush.png',
@@ -1375,12 +1399,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/magcargo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/alolan-muk.png',
@@ -1441,8 +1469,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/field-blower.png',
@@ -1785,8 +1815,10 @@ let masters = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
          "count": 1,
@@ -1874,8 +1906,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru.png',
@@ -1942,8 +1976,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Bodybuilding Dumbbells",
+          "number": "113",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/shrineofpunush.png',
@@ -2454,8 +2490,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -2464,8 +2502,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/enhanced-hammer-gri.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -2592,12 +2632,16 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/magcargo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/alolan-muk.png',
@@ -2644,8 +2688,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/crushing-hammer.png',
@@ -2968,8 +3014,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo.png',
@@ -3684,12 +3732,16 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/magcargo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/alolan-muk.png',
@@ -3736,8 +3788,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/crushing-hammer.png',
@@ -4030,8 +4084,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/palpad.png',
@@ -4251,8 +4307,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/enhanced-hammer-gri.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -4285,8 +4343,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Bodybuilding Dumbbells",
+          "number": "113",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -4392,8 +4452,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "86",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -4444,8 +4506,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -4478,8 +4542,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Bodybuilding Dumbbells",
+          "number": "113",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -4704,12 +4770,16 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/magcargo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/alolan-muk.png',
@@ -4756,8 +4826,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/crushing-hammer.png',
@@ -4873,12 +4945,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/magcargo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/ditto-p.png',
@@ -4929,8 +5005,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
@@ -5452,8 +5530,10 @@ let masters = [
         "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -6741,8 +6821,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Sneasel",
+          "number": "86",
+          "set": "CES"
       },
       {
          "count": 1,
@@ -6799,8 +6881,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -7101,8 +7185,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/cynthia.png',
@@ -7258,8 +7344,10 @@ let masters = [
           "set": "24"
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/machoke.png',
@@ -7302,8 +7390,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/palpad.png',
@@ -7749,8 +7839,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
        "count": 2,
@@ -7922,8 +8014,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "86",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -7980,8 +8074,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -8161,8 +8257,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/enhanced-hammer-gri.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -8282,8 +8380,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/sneasel.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "86",
+          "set": "CES"
       },
       {
          "count": 1,
@@ -8346,12 +8446,16 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/enhanced-hammer-gri.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -8473,8 +8577,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -8700,8 +8806,10 @@ let masters = [
         "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -8924,8 +9032,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
        "count": 2,
@@ -9246,8 +9356,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -9562,8 +9674,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/counter-catcher.png',
@@ -9842,8 +9956,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/durant.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Durant",
+          "number": "128",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -9946,12 +10062,16 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/enhanced-hammer-gri.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
          "count": 1,
@@ -10489,8 +10609,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -10977,8 +11099,10 @@ let juniors = [
         "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 1,

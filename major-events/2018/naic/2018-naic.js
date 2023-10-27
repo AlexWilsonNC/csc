@@ -637,8 +637,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
@@ -1116,8 +1118,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -1313,8 +1317,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/bodybuilding-dumbells.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Bodybuilding Dumbbells",
+          "number": "113",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/energy/energy-fairy.png',
@@ -1457,8 +1463,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
@@ -1816,8 +1824,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -2301,8 +2311,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
@@ -3082,8 +3094,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
@@ -3145,8 +3159,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -3256,8 +3272,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -4175,8 +4193,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -4298,8 +4318,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -4501,8 +4523,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
@@ -4641,8 +4665,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -4778,8 +4804,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -5112,8 +5140,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -5826,8 +5856,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
@@ -6334,8 +6366,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -6743,8 +6777,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',

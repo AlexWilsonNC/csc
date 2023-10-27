@@ -1179,8 +1179,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -3669,8 +3671,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/timer-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Timer Ball",
+          "number": "134",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',

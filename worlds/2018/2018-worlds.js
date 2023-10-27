@@ -352,8 +352,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -751,8 +753,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -1964,8 +1968,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo.png',
@@ -2105,8 +2111,10 @@ let masters = [
             "set": "SUM",
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo.png',
@@ -2359,8 +2367,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/slugma.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -2371,8 +2381,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/guzma.png',
@@ -2780,8 +2792,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -3251,8 +3265,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -3517,8 +3533,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo.png',
@@ -3923,8 +3941,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -4623,8 +4643,10 @@ let seniors = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -4880,8 +4902,10 @@ let seniors = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Diancie ♢",
+          "number": "74",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
