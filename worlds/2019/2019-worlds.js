@@ -25,7 +25,7 @@ let masters = [
           "count": 1,
           "name": "Solgaleo GX",
           "number": "SM104",
-          "set": "SMP"
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -931,13 +931,13 @@ let masters = [
           "count": 1,
           "name": "Solgaleo GX",
           "number": "SM104",
-          "set": "SMP"
+          "set": "PR-SM"
         },
         {
           "count": 1,
           "name": "Flareon GX",
           "number": "SM171",
-          "set": "SMP"
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -1545,7 +1545,7 @@ let masters = [
           "count": 1,
           "name": "Solgaleo GX",
           "number": "SM104",
-          "set": "SMP"
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -2794,7 +2794,7 @@ let masters = [
           "count": 1,
           "name": "Solgaleo GX",
           "number": "SM104",
-          "set": "SMP"
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -4952,7 +4952,7 @@ let masters = [
           "count": 1,
           "name": "Mimikyu",
           "number": "SM99",
-          "set": "SMP"
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -5953,7 +5953,7 @@ let masters = [
           "count": 1,
           "name": "Solgaleo GX",
           "number": "SM104",
-          "set": "SMP"
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -5995,7 +5995,7 @@ let masters = [
           "count": 1,
           "name": "Greninja GX",
           "number": "SM197",
-          "set": "SMP"
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -8688,7 +8688,7 @@ let masters = [
           "count": 1,
           "name": "Solgaleo GX",
           "number": "SM104",
-          "set": "SMP"
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -9561,7 +9561,7 @@ let seniors = [
           "count": 2,
             "name": "Solgaleo GX",
             "number": "SM104",
-            "set": "SMP"
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -10199,7 +10199,7 @@ let seniors = [
           "count": 1,
             "name": "Solgaleo GX",
             "number": "SM104",
-            "set": "SMP"
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -10953,7 +10953,7 @@ let juniors = [
           "count": 1,
             "name": "Solgaleo GX",
             "number": "SM104",
-            "set": "SMP"
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -11616,7 +11616,7 @@ let juniors = [
           "count": 1,
             "name": "Solgaleo GX",
             "number": "SM104",
-            "set": "SMP"
+            "set": "PR-SM"
         },
         {
           "count": 1,

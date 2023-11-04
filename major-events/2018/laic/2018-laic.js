@@ -52,8 +52,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 1,
@@ -477,8 +479,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -1061,8 +1063,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -1204,8 +1206,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mew-ex.png',
@@ -1530,8 +1534,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -2835,8 +2839,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -3386,8 +3390,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -3548,8 +3552,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -4076,8 +4080,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -4499,8 +4503,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -4826,8 +4830,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -4975,8 +4979,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -5299,8 +5303,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -5822,8 +5826,8 @@ let seniors = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -6767,8 +6771,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
@@ -6899,8 +6905,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 1,
@@ -7173,8 +7181,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 3,

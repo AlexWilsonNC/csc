@@ -96,8 +96,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/plumeria.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Plumeria",
+          "number": "120",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/team-skull-grunt.png',
@@ -138,8 +140,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-potion.png',
@@ -303,8 +307,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/choice-band.png',
@@ -734,8 +740,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lisia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Lisia",
+        "number": "137",
+        "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/ultra-ball.png',
@@ -883,8 +891,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/plumeria.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Plumeria",
+          "number": "120",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/team-skull-grunt.png',
@@ -925,8 +935,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-potion.png',
@@ -1185,8 +1197,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/choice-band.png',
@@ -1483,8 +1497,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/switch.png',
@@ -1582,8 +1598,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Diancie ♢",
+            "number": "74",
+            "set": "FLI"
       },
       {
         "count": 1,
@@ -1616,8 +1634,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lisia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Lisia",
+        "number": "137",
+        "set": "CES"
       },
       {
           "count": 4,
@@ -1766,7 +1786,7 @@ let masters = [
         "count": 1,
           "name": "Solgaleo GX",
           "number": "SM104",
-          "set": "SMP"
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/cosmog-dust-gathering.png',
@@ -1952,8 +1972,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lost-blender.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lost Blender",
+          "number": "181",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/field-blower.png',
@@ -1964,8 +1986,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/energy-recycle-system.png',
@@ -2664,8 +2688,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/plumeria.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Plumeria",
+          "number": "120",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/team-skull-grunt.png',
@@ -2706,8 +2732,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-potion.png',
@@ -3004,8 +3032,8 @@ let masters = [
       {
         "count": 2,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         "count": 1,
@@ -3399,8 +3427,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Diancie ♢",
+            "number": "74",
+            "set": "FLI"
       },
       {
         "count": 1,
@@ -3764,8 +3794,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/plumeria.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Plumeria",
+          "number": "120",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/team-skull-grunt.png',
@@ -3806,8 +3838,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-potion.png',
@@ -4090,8 +4124,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/field-blower.png',
@@ -4802,8 +4838,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/plumeria.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Plumeria",
+          "number": "120",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/team-skull-grunt.png',
@@ -4844,8 +4882,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-potion.png',
@@ -5015,8 +5055,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/field-blower.png',
@@ -5124,16 +5166,18 @@ let masters = [
       {
         "count": 2,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/shining-arceus.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         "count": 1,
@@ -5144,8 +5188,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Lele",
-          "number": "SM45",
-          "set": "SMP"
+          "number": "45",
+          "set": "PR-SM"
       },
       {
        "count": 1,
@@ -5814,8 +5858,8 @@ let masters = [
       {
         "count": 4,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
        "count": 2,
@@ -5826,8 +5870,8 @@ let masters = [
       {
         "count": 2,
           "name": "Tapu Lele",
-          "number": "SM45",
-          "set": "SMP"
+          "number": "45",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/shining-arceus.png',
@@ -5840,8 +5884,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         "count": 1,
@@ -6617,8 +6663,10 @@ let masters = [
         "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         "count": 1,
@@ -6641,8 +6689,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Lele",
-          "number": "SM45",
-          "set": "SMP"
+          "number": "45",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/deoxys.png',
@@ -6799,8 +6847,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 1,
@@ -7396,8 +7446,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/field-blower.png',
@@ -7493,8 +7545,8 @@ let masters = [
       {
         "count": 3,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
        "count": 1,
@@ -7505,8 +7557,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Lele",
-          "number": "SM45",
-          "set": "SMP"
+          "number": "45",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/shining-arceus.png',
@@ -7519,8 +7571,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         "count": 1,
@@ -7660,8 +7714,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 2,
@@ -7921,8 +7977,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/choice-band.png',
@@ -8293,8 +8351,10 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mount-lanakila.png',
-        numImg: '../../assets/02.png'
+          "count": 2,
+          "name": "Mount Lanakila",
+          "number": "118",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -8585,8 +8645,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         "count": 1,
@@ -8639,8 +8699,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/field-blower.png',
@@ -8720,24 +8782,34 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2019-2020/jumpluff.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Jumpluff",
+          "number": "14",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/skiploom.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Skiploom",
+          "number": "13",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/hoppip.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Hoppip",
+          "number": "12",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/trumbeak.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Trumbeak",
+          "number": "165",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/natu.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Natu",
+          "number": "87",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -8796,8 +8868,10 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lost-blender.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lost Blender",
+          "number": "181",
+          "set": "LOT"
       },
       {
         "count": 2,
@@ -8897,22 +8971,24 @@ let masters = [
       {
         "count": 2,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/shining-arceus.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         "count": 1,
           "name": "Tapu Lele",
-          "number": "SM45",
-          "set": "SMP"
+          "number": "45",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/onix.png',
@@ -9114,8 +9190,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/choice-band.png',
@@ -9700,8 +9778,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/choice-band.png',
@@ -9795,8 +9875,10 @@ let seniors = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/diancie-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Diancie ♢",
+            "number": "74",
+            "set": "FLI"
       },
       {
         "count": 1,
@@ -9829,8 +9911,10 @@ let seniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lisia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Lisia",
+        "number": "137",
+        "set": "CES"
       },
       {
           "count": 4,
@@ -10145,24 +10229,28 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/passimian-team-play.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Passimian",
+          "number": "73",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/passimian-huddle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Passimian",
+          "number": "70",
+          "set": "UPR"
       },
       {
         "count": 4,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         "count": 1,
           "name": "Tapu Lele",
-          "number": "SM45",
-          "set": "SMP"
+          "number": "45",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/deoxys.png',
@@ -10545,8 +10633,8 @@ let seniors = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
          "count": 1,
@@ -10856,8 +10944,8 @@ let juniors = [
       {
         "count": 2,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
        "count": 2,
@@ -10870,8 +10958,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         "count": 1,
@@ -10882,8 +10972,8 @@ let juniors = [
       {
         "count": 1,
           "name": "Tapu Lele",
-          "number": "SM45",
-          "set": "SMP"
+          "number": "45",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/onix.png',
@@ -11013,8 +11103,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 2,
@@ -11194,24 +11286,28 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/passimian-team-play.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Passimian",
+          "number": "73",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/passimian-huddle.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Passimian",
+          "number": "70",
+          "set": "UPR"
       },
       {
         "count": 3,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         "count": 1,
           "name": "Tapu Lele",
-          "number": "SM45",
-          "set": "SMP"
+          "number": "45",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/deoxys.png',
@@ -11230,8 +11326,10 @@ let juniors = [
               "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/victini-v-beatdown.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Victini",
+          "number": "49",
+          "set": "LOT"
       },
       {
           "count": 4,
@@ -11383,8 +11481,10 @@ let juniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         "count": 1,
@@ -11405,8 +11505,10 @@ let juniors = [
         "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/chimecho.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Chimecho",
+        "number": "43",
+        "set": "CIN"
       },
       {
        "count": 1,
@@ -11550,8 +11652,8 @@ let juniors = [
       {
         "count": 2,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
        "count": 2,
@@ -11560,8 +11662,10 @@ let juniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         "count": 1,
@@ -11860,8 +11964,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/plumeria.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Plumeria",
+          "number": "120",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/sightseer.png',

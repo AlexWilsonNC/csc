@@ -216,8 +216,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -486,8 +486,8 @@ let masters = [
       {
         "count": 2,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/drampa-gx.png',
@@ -621,8 +621,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/espeon-ex.png',
@@ -631,8 +633,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -1064,8 +1066,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/plumeria.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Plumeria",
+          "number": "120",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -1572,8 +1576,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/plumeria.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Plumeria",
+          "number": "120",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/brigette.png',
@@ -1685,8 +1691,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo.png',
@@ -1842,8 +1848,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -1987,8 +1993,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -2011,8 +2017,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/plumeria.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Plumeria",
+          "number": "120",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -3121,8 +3129,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna.png',
@@ -3275,8 +3283,8 @@ let seniors = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo.png',
@@ -3839,8 +3847,8 @@ let seniors = [
       {
         "count": 2,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo.png',
@@ -4652,8 +4660,8 @@ let juniors = [
       {
         "count": 2,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         "count": 2,
@@ -4930,14 +4938,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oricorio.png',
@@ -5073,8 +5083,8 @@ let juniors = [
       {
         "count": 2,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         "count": 3,
@@ -5192,8 +5202,8 @@ let juniors = [
       {
         "count": 2,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/volcanion-ex.png',

@@ -467,12 +467,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-dawn-wings.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Dawn Wings Necrozma GX",
+          "number": "63",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         "count": 2,
@@ -485,8 +489,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+            "name": "Marshadow GX",
+            "number": "80",
+            "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/giratina.png',
@@ -699,20 +705,26 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-dawn-wings.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Dawn Wings Necrozma GX",
+          "number": "63",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo-gx.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+            "name": "Marshadow GX",
+            "number": "80",
+            "set": "BUS"
       },
       {
         "count": 1,
@@ -963,8 +975,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/latios.png',
@@ -1265,8 +1277,10 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/plumeria.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Plumeria",
+          "number": "120",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/team-skull-grunt.png',
@@ -1305,8 +1319,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/02.png'
+          "count": 2,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2014-2016/fairy-drop.png',
@@ -1735,8 +1751,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/palpad.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
@@ -2398,12 +2416,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-necrozma-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Necrozma GX",
+          "number": "95",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-dawn-wings.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Dawn Wings Necrozma GX",
+          "number": "63",
+          "set": "UPR"
       },
       {
         "count": 2,
@@ -2706,8 +2728,8 @@ let masters = [
       {
         "count": 1,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/oranguru-resource-manag.png',
@@ -2849,8 +2871,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+            "name": "Marshadow GX",
+            "number": "80",
+            "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/mimikyu.png',
@@ -3956,16 +3980,22 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-dawn-wings.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Dawn Wings Necrozma GX",
+          "number": "63",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+            "name": "Marshadow GX",
+            "number": "80",
+            "set": "BUS"
       },
       {
         "count": 1,
@@ -4093,8 +4123,8 @@ let masters = [
       {
         "count": 2,
           "name": "Tapu Koko",
-          "number": "SM31",
-          "set": "SMP"
+          "number": "31",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -4515,8 +4545,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/01.png'
+          "count": 1,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/buzzwole.png',
@@ -6082,12 +6114,16 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-necrozma-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Necrozma GX",
+          "number": "95",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-dawn-wings.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Dawn Wings Necrozma GX",
+          "number": "63",
+          "set": "UPR"
       },
       {
         "count": 2,
@@ -6223,12 +6259,16 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-dawn-wings.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Dawn Wings Necrozma GX",
+          "number": "63",
+          "set": "UPR"
       },
       {
         "count": 2,
@@ -6241,8 +6281,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+            "name": "Marshadow GX",
+            "number": "80",
+            "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo-gx.png',
@@ -6499,20 +6541,26 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Necrozma GX",
+        "number": "63",
+        "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo-gx.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-dawn-wings.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Dawn Wings Necrozma GX",
+          "number": "63",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/marshadow-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+            "name": "Marshadow GX",
+            "number": "80",
+            "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/clefairy-evo.png',

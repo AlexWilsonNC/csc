@@ -12,11 +12,15 @@
     <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
     <meta property='og:url' content='www.ptcglegends.com'/>
     <meta property='og:image:width' content='1200' />
-    <meta property='og:image:height' content='627' />    <title>PTCG Legends | 2019 EUIC</title>
+    <meta property='og:image:height' content='627' />    <title>PTCG Legends | 2019 NAIC</title>
+    
     <link rel="stylesheet"  href="../../../style.css">
     <link rel="stylesheet" href="../../../css/nav.css">
     <link rel="stylesheet" href="../../../css/worlds.css">
     <link rel="stylesheet" href="../../../css/footer.css">
+        <link rel="stylesheet" href="../../../css/card-database.css">
+    <link rel="stylesheet" href="../../../css/era.css">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
@@ -117,43 +121,71 @@
     <div class='contain-extra-nav'>
         <div class='extra-nav'>
             <a href='./summary'>Summary</a>
-            <a href='./results'>Results</a>
-            <a href='./streams' class="active-extra">Streams</a>
+            <a href='./results' class="active-extra underline">Results</a>
+            <a href='./streams'>Streams</a>
             <a style='color:rgb(101, 101, 101);pointer-events:none;'>Pictures</a>
         </div>
     </div>
 
-    <div class='center'>
-        <!-- <iframe class='gallery' src="https://albumizr.com/a/HWfj" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe> -->
+    <div id='modal-section'>
+        <div class='modal'>
+            <div class='modal-top'>
+                <div class='cs-plus-ap'>
+                    <p class='playerName'>Name</p>
+                </div>
+                <div class='modal-x'>
+                    <p>X</p>
+                </div>
+            </div>
+            <div class='modal-bottom'>
+                <!-- <div class='pokemon-card'> -->
+                    <!-- <img class='pok-card-small' src=''> -->
+                    <!-- <img class='num-1' src=''> -->
+                <!-- </div> -->
+            </div>
+        </div>
     </div>
+    <div class='behind-modal'></div>
+    <div class='second-behind-modal'></div>
+    
+    <div id='zoomed-bg'>
+        <img id='insert-zoomed-img' src='' alt='zoomed in card'>
+    </div>
+    <div class='contain-event'>
+         <div id="zoom-card-box"></div>
+        <div class='event-content'>
+            <div class='event-results'>
+                <div class='results-left'>
+                    <h2 class='center'>2019 NAIC Results</h2>
+                    <div class='divisions'>
+                        <a class='light-bg mastersBtn' href='./results'>Masters</a>
+                        <a class='dark-bg seniorsBtn' href='./results-seniors'>Seniors</a>
+                        <a class='light-bg juniorsBtn' href='./results-juniors'>Juniors</a>
+                    </div>
 
-    <div class='videos-section'>
-        <a href='https://youtu.be/pp7up3LK2gk' target='_'>
-            <h3>2019 EUIC - Masters Finals</h3>
-            <img src='../../../assets/2019/19-eu-masters-finals.jpg'>
-            <p>Philipp Leciejewski (Pikarom) vs Gustavo Wada (Pikarom) in the finals of the European International Championships.</p>
-        </a>
-        <a href='https://youtu.be/VnJf-C7sXIA' target='_'>
-            <h3>2019 EUIC - Senior Finals</h3>
-            <img src='../../../assets/2019/19-eu-sr-finals.jpg'>
-            <p>Lewis Mason (Zapdos Jirachi) vs Tanner Hurley (Zapdos Jirachi) in the finals of the European International Championships.</p>
-        </a>
-        <a href='https://youtu.be/HAWMyr4D7lA' target='_'>
-            <h3>2019 EUIC - Juniors Finals</h3>
-            <img src='../../../assets/2019/19-eu-jr-finals.jpg'>
-            <p>Daniel Magda (Zapdos Jirachi) vs Šimon Belanyi (Malamar) in the finals of the European International Championships.</p>
-        </a>
-        <a href='https://youtu.be/h-mmLxAgTLk' target='_'>
-            <h3>2019 EUIC - Day 2</h3>
-            <img src='../../../assets/2019/19-eu-day2.jpg'>
-            <p>The entire stream from Day 2 of the European International Championships, including Pokken, VGC, & TCG.</p>
-        </a>
-        <a href='https://youtu.be/KIxPkkdnfFc' target='_'>
-            <h3>2019 EUIC - Day 1</h3>
-            <img src='../../../assets/2019/19-eu-day1.jpg'>
-            <p>The entire stream from Day 1 of the European International Championships, including Pokken, VGC, & TCG.</p>
-        </a>
-        <br>
+                    <ol class='masters-ol'>
+                        <!--Rendered masters List-->
+                    </ol>
+                    <ol class='seniors-ol' style='display: block;'>
+                        <!--Rendered seniors List-->
+                    </ol>
+                    <ol class='juniors-ol'>
+                        <!--Rendered juniors List-->
+                    </ol>
+
+                </div>
+
+                <div class='results-right'>
+                    <div class='seniors-meta'  style='display: flex;'>
+                        <!-- <h2 class='center'>Top 8 Bracket</h2>
+                        <img class='meta-chart' src='../../../assets/'> -->
+                        <img class='meta-chart' style='border-radius:15px;width:70%;'
+                            src='../../../assets/2019/isaiah-b.jpg'>
+                        <p class='center italic'>Isaiah Bradner - 2019 Seniors NAIC Champion</p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <footer class='era-footer'>
@@ -185,10 +217,52 @@
             website is simply a place for Pokémon TCG fans to look at events and results from the
             greatest game in history!</div>
     </footer>
-    <script src='../../../darkmode/darkmode-worlds-streams.js'></script>
+     <script src='../../../darkmode/darkmode-worlds-res-tweets2.js'></script>
 
-    <script src="../../../../index.js"></script>
-     
+    <script src='./2019-ocic.js'></script>
+    <script src='../../../decklist-script/sort-og-seniors.js'></script>
+    <script src='../../../decklist-script/convert-set-names.js'></script>
+
+    <script src='../../../card-database/sv/sv151.js'></script>
+    <script src='../../../card-database/sv/sv3.js'></script>
+    <script src='../../../card-database/sv/sv2.js'></script>
+    <script src='../../../card-database/sv/sv1.js'></script>
+    <script src='../../../card-database/sv/promos.js'></script>
+    <script src='../../../card-database/swsh/lost-origin.js'></script>
+    <script src='../../../card-database/swsh/brilliant-stars.js'></script>
+    <script src='../../../card-database/swsh/astral-radiance.js'></script>
+    <script src='../../../card-database/swsh/battle-styles.js'></script>
+    <script src='../../../card-database/swsh/celebrations.js'></script>
+    <script src='../../../card-database/swsh/chilling-reign.js'></script>
+    <script src='../../../card-database/swsh/crown-zenith.js'></script>
+    <script src='../../../card-database/swsh/evolving-skies.js'></script>
+    <script src='../../../card-database/swsh/fusion-strike.js'></script>
+    <script src='../../../card-database/swsh/pokemon-go.js'></script>
+    <script src='../../../card-database/swsh/shining-fates.js'></script>
+    <script src='../../../card-database/swsh/silver-tempest.js'></script>
+    <script src='../../../card-database/swsh/vivid-voltage.js'></script>
+    <script src='../../../card-database/swsh/champions-path.js'></script>
+    <script src='../../../card-database/swsh/darkness-ablaze.js'></script>
+    <script src='../../../card-database/swsh/rebel-clash.js'></script>
+    <script src='../../../card-database/swsh/sword-shield.js'></script>
+    <script src='../../../card-database/swsh/promos.js'></script>
+    <script src='../../../card-database/sm/burning-shadow.js'></script>
+    <script src='../../../card-database/sm/celestial-storm.js'></script>
+    <script src='../../../card-database/sm/cosmic-eclipse.js'></script>
+    <script src='../../../card-database/sm/crimson-invasion.js'></script>
+    <script src='../../../card-database/sm/detective-pikachu.js'></script>
+    <script src='../../../card-database/sm/dragon-majesty.js'></script>
+    <script src='../../../card-database/sm/forbidden-light.js'></script>
+    <script src='../../../card-database/sm/guardians-rising.js'></script>
+    <script src='../../../card-database/sm/hidden-fates.js'></script>
+    <script src='../../../card-database/sm/lost-thunder.js'></script>
+    <script src='../../../card-database/sm/promos.js'></script>
+    <script src='../../../card-database/sm/shining-legends.js'></script>
+    <script src='../../../card-database/sm/sun-moon.js'></script>
+    <script src='../../../card-database/sm/team-up.js'></script>
+    <script src='../../../card-database/sm/ultra-prism.js'></script>
+    <script src='../../../card-database/sm/unbroken-bonds.js'></script>
+    <script src='../../../card-database/sm/unified-minds.js'></script>
 </body>
 
 </html>

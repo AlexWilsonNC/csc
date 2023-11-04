@@ -1688,13 +1688,13 @@ let juniors = [
         "count": 1,
           "name": "Trevenant & Dusknoir GX",
           "number": "SM217",
-          "set": "SMP"
+          "set": "PR-SM"
       },
       {
         "count": 1,
         "name": "Greninja GX",
         "number": "SM197",
-        "set": "SMP"
+        "set": "PR-SM"
       },
       {
          "count": 1,
@@ -2295,13 +2295,13 @@ let extras = [
         "count": 1,
           "name": "Trevenant & Dusknoir GX",
           "number": "SM217",
-          "set": "SMP"
+          "set": "PR-SM"
       },
       {
         "count": 1,
         "name": "Greninja GX",
         "number": "SM197",
-        "set": "SMP"
+        "set": "PR-SM"
       },
       {
          "count": 1,
