@@ -355,16 +355,7 @@ let masters = [
           "set": "SUM"
         },
       ]
-    },
-    deck: [
-      
-      
-      {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/06.png'
-      },
-      
-    ]
+    }
   },
   {
     firstName: 'Clifton Goh',
@@ -372,196 +363,190 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/decidueye.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-decidueye",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 3,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 3,
+            "name": "Decidueye GX",
+            "number": "12",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Rowlet",
+            "number": "9",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Alolan Ninetales GX",
+            "number": "132",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Alolan Ninetales GX",
+            "number": "22",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Alolan Vulpix",
+            "number": "21",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+              "name": "Magcargo",
+              "number": "24",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Judge",
+            "number": "108",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Rare Candy",
+            "number": "142",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Counter Gain",
+            "number": "170",
+            "set": "LOT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Fairy Energy",
+            "number": "fairy",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 3,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 3,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 2,
-          "name": "Alolan Ninetales GX",
-          "number": "132",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 3,
-          "name": "Alolan Vulpix",
-          "number": "21",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-            "name": "Magcargo",
-            "number": "24",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Judge",
-          "number": "108",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 1,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/counter-gain.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 3,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Jonathan Lanciano',
@@ -611,16 +596,20 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -645,12 +634,16 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
       },
       {
         "count": 4,
@@ -816,8 +809,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -1178,8 +1173,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/sophacles.png',
@@ -1391,8 +1388,10 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
     ]
   },
@@ -1498,8 +1497,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
       },
       {
         "count": 2,
@@ -1639,8 +1640,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -2073,8 +2076,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2256,8 +2261,10 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
     ]
   },
@@ -2309,12 +2316,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -2383,8 +2394,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
       },
       {
         "count": 2,
@@ -2423,8 +2436,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
           "count": 1,
@@ -2433,8 +2448,10 @@ let masters = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2498,12 +2515,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -2512,8 +2533,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "22",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -2540,8 +2563,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -2562,8 +2587,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -2608,16 +2635,20 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/energy/energy-grass.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4029,8 +4060,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
       },
       {
         "count": 2,
@@ -4389,8 +4422,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
       },
       {
         "count": 2,
@@ -4524,8 +4559,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -4588,8 +4625,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         "count": 3,
@@ -5139,8 +5178,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -5515,8 +5556,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -5728,8 +5771,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -5837,12 +5882,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -5851,8 +5900,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "22",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -5909,8 +5960,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
       },
       {
         "count": 3,
@@ -5955,12 +6008,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -6353,8 +6410,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -6625,8 +6684,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -7070,20 +7131,26 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Alolan Ninetales GX",
+          "number": "22",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -7140,8 +7207,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
       },
       {
         "count": 3,
@@ -7172,8 +7241,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         "count": 2,
@@ -7186,8 +7257,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -7642,12 +7715,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -7656,8 +7733,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "22",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -7720,8 +7799,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
       },
       {
         "count": 2,
@@ -7760,8 +7841,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
           "count": 1,
@@ -7776,8 +7859,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -8064,8 +8149,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -8134,8 +8221,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/counter-gain.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
         "count": 2,
@@ -8691,8 +8780,10 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
     ]
   },
@@ -9361,8 +9452,10 @@ let masters = [
         "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -9733,8 +9826,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -9976,8 +10071,10 @@ let masters = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
     ]
   },
@@ -10099,8 +10196,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
       },
       {
         "count": 2,
@@ -10384,8 +10483,10 @@ let seniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/sightseer.png',
@@ -10503,12 +10604,16 @@ let seniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -10517,8 +10622,10 @@ let seniors = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "22",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -10569,8 +10676,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -10619,12 +10728,16 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/counter-gain.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -11660,8 +11773,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/sightseer.png',
@@ -11835,8 +11950,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -12670,8 +12787,10 @@ let juniors = [
           "set": "UPR"
         },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -12748,8 +12867,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
     ]
   },
@@ -12821,8 +12942,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 2,

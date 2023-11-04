@@ -40,16 +40,20 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
@@ -165,16 +169,20 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
@@ -429,16 +437,20 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
@@ -792,16 +804,20 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
@@ -2468,16 +2484,20 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
@@ -2947,8 +2967,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-lightning.png',
@@ -3316,8 +3338,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/double-dragon-energy.png',
@@ -3618,16 +3642,20 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
@@ -4224,8 +4252,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/12.png'
+        "count": 12,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
     ]
   },

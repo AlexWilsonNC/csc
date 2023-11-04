@@ -170,16 +170,20 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
@@ -454,20 +458,26 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "22",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -597,8 +607,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Ninetales GX",
+          "number": "22",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -1322,20 +1334,26 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "22",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -2191,16 +2209,20 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -2731,20 +2753,26 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Alolan Ninetales GX",
+          "number": "22",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -5478,8 +5506,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -6427,8 +6457,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
     ]
   },
@@ -6622,8 +6654,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -6797,16 +6831,20 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -7611,8 +7649,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',

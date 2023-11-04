@@ -83,8 +83,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/brigette.png',
@@ -240,8 +242,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -575,8 +579,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/brigette.png',
@@ -683,8 +689,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
          "count": 2,
@@ -972,8 +980,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/brigette.png',
@@ -1286,8 +1296,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -1493,8 +1505,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -1607,8 +1621,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -1787,8 +1803,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -1899,8 +1917,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -2193,8 +2213,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -2328,8 +2350,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -2523,8 +2547,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -2694,8 +2720,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -2844,8 +2872,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -4025,8 +4055,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -4995,8 +5027,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -5415,8 +5449,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -5892,8 +5928,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie.png',
@@ -6212,8 +6250,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -6710,8 +6750,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -7016,8 +7058,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -7175,8 +7219,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',

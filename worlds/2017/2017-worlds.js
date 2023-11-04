@@ -149,8 +149,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -540,8 +542,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -1047,8 +1051,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1289,8 +1295,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -1404,8 +1412,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -1684,8 +1694,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -2298,8 +2310,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -2631,8 +2645,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -2888,8 +2904,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Guzma",
+          "number": "115",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -3479,8 +3497,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Ninetales GX",
+          "number": "22",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -3873,8 +3893,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -4075,8 +4097,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/ninetales-gx-alolan.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Alolan Ninetales GX",
+          "number": "22",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -4326,8 +4350,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4522,16 +4548,20 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
@@ -4750,8 +4780,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4901,8 +4933,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4960,16 +4994,20 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/decidueye-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Decidueye GX",
+          "number": "12",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rowlet.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rowlet",
+          "number": "9",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -5660,8 +5698,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Fairy Energy",
+          "number": "fairy",
+          "set": "SUM"
       },
       {
         "count": 4,
