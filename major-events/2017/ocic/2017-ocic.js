@@ -85,8 +85,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -210,8 +212,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -329,8 +333,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -440,8 +446,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -460,8 +468,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
@@ -577,8 +587,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -700,16 +712,20 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Pokémon Catcher",
+          "number": "126",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -841,8 +857,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -972,8 +990,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -1091,8 +1111,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -1282,8 +1304,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -1823,8 +1847,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -1835,8 +1861,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/nest-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -1950,8 +1978,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -1970,8 +2000,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
@@ -2071,8 +2103,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -2252,8 +2286,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2014-2016/acro-bike.png',
@@ -2371,8 +2407,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -2383,8 +2421,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/nest-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -2672,8 +2712,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -2797,8 +2839,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -2912,8 +2956,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -3039,8 +3085,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
@@ -3166,8 +3214,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -3289,8 +3339,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
@@ -3420,8 +3472,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -3543,8 +3597,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -3681,8 +3737,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -3818,8 +3876,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -3949,8 +4009,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -3961,8 +4023,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
@@ -4078,8 +4142,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -4199,8 +4265,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
@@ -4334,8 +4402,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
@@ -4485,8 +4555,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2014-2016/acro-bike.png',
@@ -4608,8 +4680,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -4620,8 +4694,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-catcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Pokémon Catcher",
+          "number": "126",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/energy-retrieval.png',

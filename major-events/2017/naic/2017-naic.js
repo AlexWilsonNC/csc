@@ -87,24 +87,32 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -216,8 +224,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -232,8 +242,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -363,20 +375,28 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -486,8 +506,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -498,20 +520,26 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -637,8 +665,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -647,12 +677,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -756,12 +790,16 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -772,8 +810,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
@@ -901,24 +941,30 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/special-charge.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -1038,32 +1084,42 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-potion.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-water.png',
@@ -1167,8 +1223,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
@@ -1185,20 +1243,28 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-potion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rough-seas.png',
@@ -1316,20 +1382,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-potion.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/level-ball.png',
@@ -1340,16 +1412,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -1501,28 +1577,36 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -1634,20 +1718,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -1658,8 +1748,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/parallel-city.png',
@@ -1857,28 +1949,36 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/parallel-city.png',
@@ -2004,28 +2104,36 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -2129,8 +2237,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -2141,28 +2251,36 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-potion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -2262,24 +2380,32 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -2383,12 +2509,16 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -2399,8 +2529,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
@@ -2508,20 +2640,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -2536,8 +2674,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -2659,32 +2799,40 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -2798,28 +2946,36 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -2970,28 +3126,36 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/parallel-city.png',
@@ -3103,8 +3267,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
@@ -3115,8 +3281,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/switch.png',
@@ -3127,8 +3295,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/nest-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
@@ -3139,8 +3309,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-grass.png',
@@ -3250,20 +3422,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -3274,8 +3452,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/parallel-city.png',
@@ -3399,28 +3579,36 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/special-charge.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -3524,16 +3712,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/switch.png',
@@ -3544,12 +3736,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-potion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -3659,8 +3855,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
@@ -3677,20 +3875,28 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-potion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rough-seas.png',
@@ -3800,16 +4006,22 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -3820,8 +4032,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2014-2016/team-magmas-secret-base.png',
@@ -4084,16 +4298,20 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
@@ -4279,20 +4497,26 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -4307,8 +4531,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -4418,28 +4644,36 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -4551,8 +4785,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -4563,20 +4799,28 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-potion.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-metal.png',
@@ -4710,16 +4954,20 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/special-charge.png',
@@ -4855,8 +5103,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
@@ -4867,20 +5117,26 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -5188,24 +5444,30 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/switch.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2014-2016/gardevoir-spirit-link.png',
@@ -5397,8 +5659,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/nest-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/heavy-ball.png',
@@ -5556,28 +5820,36 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/special-charge.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -5739,8 +6011,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -5751,8 +6025,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
@@ -5767,8 +6043,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -5916,12 +6194,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
@@ -5932,16 +6214,22 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-potion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
@@ -6111,12 +6399,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/switch.png',
@@ -6294,8 +6586,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -6306,8 +6600,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/escape-rope.png',
@@ -6555,8 +6851,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/level-ball.png',
@@ -6567,16 +6865,20 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/special-charge.png',
@@ -6587,8 +6889,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -6697,28 +7001,36 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/level-ball.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-water.png',
@@ -6830,24 +7142,32 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -6957,24 +7277,32 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -7086,28 +7414,38 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Enhanced Hammer",
+          "number": "124",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -7237,8 +7575,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
@@ -7257,8 +7597,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2014-2016/gardevoir-spirit-link.png',
@@ -7360,16 +7702,20 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/altar-of-the-moone.png',
@@ -7459,16 +7805,20 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/altar-of-the-moone.png',
@@ -7582,24 +7932,30 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/special-charge.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -7728,16 +8084,20 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -7855,28 +8215,38 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-potion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rough-seas.png',
@@ -7984,12 +8354,16 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-potion.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Max Potion",
+          "number": "128",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/level-ball.png',
@@ -8000,16 +8374,20 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/rotom-dex.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
@@ -8129,20 +8507,28 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -8270,32 +8656,42 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/nest-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Nest Ball",
+          "number": "123",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/special-charge.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -8415,28 +8811,36 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -8552,28 +8956,36 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Field Blower",
+          "number": "125",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -8685,16 +9097,20 @@ let juniors = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Ultra Ball",
+          "number": "135",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -8709,8 +9125,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',

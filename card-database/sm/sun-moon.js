@@ -11706,5 +11706,104 @@ let sm1 = [
             "small": "https://images.pokemontcg.io/sm1/172.png",
             "large": "https://images.pokemontcg.io/sm1/172_hires.png"
         }
-    }
+    },
+    {
+        "id": "sm1-grass",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_G_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_G_R_EN.png"
+        }
+    },
+    {
+        "id": "sm1-fire",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_R_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_R_R_EN.png"
+        }
+    },
+    {
+        "id": "sm1-water",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_W_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_W_R_EN.png"
+        }
+    },
+    {
+        "id": "sm1-lightning",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_L_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_L_R_EN.png"
+        }
+    },
+    {
+        "id": "sm1-fighting",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_F_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_F_R_EN.png"
+        }
+    },
+    {
+        "id": "sm1-psychic",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_P_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_P_R_EN.png"
+        }
+    },
+    {
+        "id": "sm1-dark",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_D_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_D_R_EN.png"
+        }
+    },
+    {
+        "id": "sm1-metal",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_M_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_M_R_EN.png"
+        }
+    },
+    {
+        "id": "sm1-fairy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_Y_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_Y_R_EN.png"
+        }
+    },
 ]
