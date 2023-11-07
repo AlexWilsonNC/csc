@@ -3797,8 +3797,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -6478,8 +6480,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2014-2016/gardevoir-spirit-link.png',

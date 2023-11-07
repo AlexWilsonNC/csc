@@ -332,8 +332,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/tapu-bulu-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Bulu GX",
+          "number": "32",
+          "set": "PR-SM"
       },
       {
         "count": 3,
@@ -668,8 +670,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/tapu-bulu-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Bulu GX",
+          "number": "32",
+          "set": "PR-SM"
       },
       {
         "count": 3,
@@ -821,8 +825,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -992,8 +998,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 1,
@@ -1543,8 +1551,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -1639,8 +1649,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2160,8 +2172,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
@@ -2625,8 +2639,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/tapu-bulu-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Bulu GX",
+          "number": "32",
+          "set": "PR-SM"
       },
       {
         "count": 3,
@@ -2978,8 +2994,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -3058,8 +3076,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -3468,8 +3488,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -3609,8 +3631,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -3695,8 +3719,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4144,8 +4170,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 1,
@@ -6117,16 +6145,22 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lurantis.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Lurantis",
+          "number": "25",
+          "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/fomantis.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Fomantis",
+          "number": "14",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-bulu-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Tapu Bulu GX",
+          "number": "32",
+          "set": "PR-SM"
       },
       {
         "count": 2,
@@ -6778,8 +6812,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/tapu-bulu-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Bulu GX",
+          "number": "32",
+          "set": "PR-SM"
       },
       {
         "count": 3,
@@ -6941,8 +6977,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',
@@ -7088,8 +7126,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 1,
@@ -7269,8 +7309,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -8178,8 +8220,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/octillery.png',

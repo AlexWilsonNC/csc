@@ -53,8 +53,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -75,8 +77,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/latios.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Latios",
+          "number": "41",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -527,12 +531,16 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/malamar.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -631,8 +639,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
     ]
   },
@@ -795,12 +805,16 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -831,12 +845,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lunala-p.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lunala ♢",
+          "number": "62",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mimikyu.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "58",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/giratina.png',
@@ -903,8 +921,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
     ]
   },
@@ -956,8 +976,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -978,8 +1000,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/latios.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Latios",
+          "number": "41",
+          "set": "SLG"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -1113,8 +1137,10 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/latios.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Latios",
+          "number": "41",
+          "set": "SLG"
       },
       {
         "count": 1,
@@ -1905,8 +1931,10 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -2722,12 +2750,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/malamar.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         "count": 3,
@@ -2816,8 +2848,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -3219,12 +3253,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/malamar.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shining-lugia.png',
@@ -3247,8 +3285,10 @@ let masters = [
             "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mimikyu.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Mimikyu",
+          "number": "58",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -3311,8 +3351,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4450,12 +4492,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/malamar.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -4558,8 +4604,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
     ]
   },
@@ -5871,8 +5919,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -5889,8 +5939,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/latios.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Latios",
+          "number": "41",
+          "set": "SLG"
       },
       {
        "count": 4,
@@ -6342,8 +6394,10 @@ let seniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -6693,8 +6747,10 @@ let juniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -6797,8 +6853,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -6844,12 +6902,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/malamar.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         "count": 3,
@@ -6956,8 +7018,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -7009,12 +7073,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -7109,8 +7177,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
     ]
   },
@@ -7309,12 +7379,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/malamar.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Malamar",
+          "number": "51",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/inkay.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Inkay",
+          "number": "50",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo-promo.png',
@@ -7429,8 +7503,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
     ]
   },

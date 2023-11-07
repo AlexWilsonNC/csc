@@ -210,8 +210,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -369,8 +371,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -449,8 +453,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -504,8 +510,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -655,8 +663,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -763,8 +773,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -824,8 +836,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -900,8 +914,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1112,8 +1128,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -1200,8 +1218,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -1522,8 +1542,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -1610,8 +1632,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -1674,8 +1698,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -1752,8 +1778,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2135,8 +2163,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -2231,8 +2261,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2743,8 +2775,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -2823,8 +2857,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -3220,8 +3256,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -3310,8 +3348,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -3365,8 +3405,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -3461,8 +3503,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -3982,8 +4026,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -4078,8 +4124,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -4445,8 +4493,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -4535,8 +4585,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -5324,8 +5376,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -5440,8 +5494,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',

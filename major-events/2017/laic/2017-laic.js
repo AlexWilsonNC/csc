@@ -376,8 +376,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
@@ -622,8 +624,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
@@ -751,8 +755,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
@@ -1003,8 +1009,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -1265,8 +1273,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
@@ -2717,8 +2727,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2830,8 +2842,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -3225,8 +3239,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
@@ -3492,8 +3508,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -3611,8 +3629,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
@@ -3873,8 +3893,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/special-charge.png',
@@ -4012,8 +4034,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -4399,8 +4423,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/escape-rope.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Escape Rope",
+          "number": "114",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',

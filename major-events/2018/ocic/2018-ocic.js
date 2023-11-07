@@ -534,8 +534,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock-ex.png',
@@ -1082,8 +1084,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -1394,8 +1398,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 1,
@@ -1875,8 +1881,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/mewtwo.png',
@@ -2352,8 +2360,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock-ex.png',
@@ -2825,8 +2835,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/tapu-bulu-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Tapu Bulu GX",
+          "number": "32",
+          "set": "PR-SM"
       },
       {
         "count": 3,
@@ -3048,8 +3060,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock-ex.png',
@@ -3187,8 +3201,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock-ex.png',
@@ -3510,8 +3526,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 2,
@@ -3966,8 +3984,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock-ex.png',
@@ -4759,8 +4779,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -4843,8 +4865,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -5746,8 +5770,10 @@ let seniors = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -5826,8 +5852,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Psychic Energy",
+          "number": "psychic",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -6302,8 +6330,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/tapu-bulu-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Tapu Bulu GX",
+          "number": "32",
+          "set": "PR-SM"
       },
       {
         "count": 3,
@@ -6903,8 +6933,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         "count": 1,
@@ -7201,8 +7233,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock-ex.png',
@@ -7338,8 +7372,10 @@ let juniors = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
@@ -7642,8 +7678,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2014-2016/zygarde-ex.png',
@@ -7771,8 +7809,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/tapu-bulu-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Tapu Bulu GX",
+          "number": "32",
+          "set": "PR-SM"
       },
       {
         "count": 3,
@@ -7938,8 +7978,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rockruff-promo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rockruff",
+          "number": "06",
+          "set": "PR-SM"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock-ex.png',
