@@ -3751,12 +3751,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -3819,8 +3823,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/energy/fairy-energy-evo.png',
@@ -6438,12 +6444,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',

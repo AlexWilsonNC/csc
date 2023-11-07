@@ -1,9 +1,3 @@
-const masterList = document.querySelector('.masters-ol');
-const seniorList = document.querySelector('.seniors-ol');
-const juniorList = document.querySelector('.juniors-ol');
-
-const modalBottom = document.querySelector('.modal-bottom');
-
 let masters = [
   {
     firstName: 'Stéphane Ivanoff',
@@ -12,171 +6,171 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Garbodor",
+            "number": "51",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Garbodor",
+            "number": "57",
+          "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Trubbish",
+            "number": "56",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Kartana GX",
+            "number": "70",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Latios",
+            "number": "41",
+            "set": "SLG"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Puzzle of Time",
+            "number": "109",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Evosoda",
+            "number": "116",
+            "set": "XY"
+        },
+        {
+          "count": 1,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 3,
+              "name": "Unit Energy LPM",
+              "number": "138",
+              "set": "UPR"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Garbodor",
-          "number": "51",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 3,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/kartana-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Latios",
-          "number": "41",
-          "set": "SLG"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 3,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/evosoda.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 3,
-            "name": "Unit Energy LPM",
-            "number": "138",
-            "set": "UPR"
-      },
-    ]
+    }
   },
   {
     firstName: 'Tord Reklev',
@@ -185,7 +179,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zoroark.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -242,8 +236,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -252,8 +248,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -262,8 +260,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -292,12 +292,16 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/evosoda.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Evosoda",
+          "number": "116",
+          "set": "XY"
       },
       {
         "count": 3,
@@ -336,12 +340,16 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/reverse-valley.png',
@@ -362,7 +370,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -425,12 +433,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
        "count": 2,
@@ -439,8 +451,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -459,12 +473,16 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/evosoda.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Evosoda",
+          "number": "116",
+          "set": "XY"
       },
       {
         "count": 2,
@@ -491,8 +509,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -501,8 +521,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -575,8 +597,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -585,8 +609,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -595,8 +621,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -627,16 +655,20 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 10,
@@ -695,12 +727,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -721,8 +757,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -737,8 +775,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -771,8 +811,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -867,8 +909,10 @@ let masters = [
             "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -917,8 +961,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 11,
@@ -935,7 +981,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -982,12 +1028,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Garbodor",
+          "number": "57",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -996,8 +1046,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kartana-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Kartana GX",
+          "number": "70",
+          "set": "CIN"
       },
       {
         "count": 1,
@@ -1006,8 +1058,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -1016,12 +1070,16 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -1042,8 +1100,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -1058,8 +1118,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/evosoda.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Evosoda",
+          "number": "116",
+          "set": "XY"
       },
       {
         "count": 1,
@@ -1074,8 +1136,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -1084,8 +1148,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -1155,12 +1221,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
        "count": 4,
@@ -1201,12 +1271,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 10,
@@ -1229,7 +1303,7 @@ let masters = [
     sprite2: '../../../assets/sprites/hoopa-unbound.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -1244,7 +1318,7 @@ let masters = [
     sprite2: '../../../assets/sprites/necrozma.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -1259,7 +1333,7 @@ let masters = [
     sprite2: '../../../assets/sprites/yveltal.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -1324,12 +1398,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -1376,8 +1454,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -1410,7 +1490,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -1459,8 +1539,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -1491,8 +1573,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -1565,7 +1649,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -1580,7 +1664,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -1653,12 +1737,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -1691,8 +1779,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -1713,8 +1803,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/evosoda.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Evosoda",
+          "number": "116",
+          "set": "XY"
       },
       {
         "count": 1,
@@ -1735,12 +1827,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -1767,7 +1863,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -1782,7 +1878,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -1823,8 +1919,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "57",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trubbish.png',
@@ -1837,8 +1935,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 4,
@@ -1853,8 +1953,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -1901,8 +2003,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 7,
@@ -1937,12 +2041,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "57",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -1963,12 +2071,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -1983,8 +2095,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -2027,12 +2141,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -2063,7 +2181,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -2130,8 +2248,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
        "count": 4,
@@ -2140,8 +2260,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 2,
@@ -2176,8 +2298,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -2210,7 +2334,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2251,8 +2375,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "57",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trubbish.png',
@@ -2265,8 +2391,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 4,
@@ -2281,8 +2409,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -2329,8 +2459,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 7,
@@ -2357,7 +2489,7 @@ let masters = [
     sprite2: '../../../assets/sprites/zoroark.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2414,8 +2546,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -2424,8 +2558,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -2434,8 +2570,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -2464,12 +2602,16 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/evosoda.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Evosoda",
+          "number": "116",
+          "set": "XY"
       },
       {
         "count": 3,
@@ -2508,12 +2650,16 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/reverse-valley.png',
@@ -2534,7 +2680,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2607,12 +2753,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -2627,8 +2777,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -2655,8 +2807,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -2689,12 +2843,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -2721,7 +2879,7 @@ let masters = [
     sprite2: '../../../assets/sprites/necrozma-ultra.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2784,8 +2942,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -2800,12 +2960,16 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -2834,8 +2998,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -2874,7 +3040,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -2889,7 +3055,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -2930,8 +3096,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "57",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trubbish.png',
@@ -2944,8 +3112,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 4,
@@ -2960,8 +3130,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -3008,8 +3180,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 7,
@@ -3036,7 +3210,7 @@ let masters = [
     sprite2: '../../../assets/sprites/hoopa-unbound.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3051,7 +3225,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -3122,8 +3296,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
        "count": 4,
@@ -3132,8 +3308,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 2,
@@ -3142,8 +3320,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -3164,12 +3344,16 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/evosoda.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Evosoda",
+          "number": "116",
+          "set": "XY"
       },
       {
         "count": 2,
@@ -3196,12 +3380,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -3224,7 +3412,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lugia-shiny.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -3291,8 +3479,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
        "count": 4,
@@ -3301,8 +3491,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 2,
@@ -3311,8 +3503,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -3347,8 +3541,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 8,
@@ -3371,7 +3567,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3386,7 +3582,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3401,7 +3597,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3416,7 +3612,7 @@ let masters = [
     sprite2: '../../../assets/sprites/yveltal.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3431,7 +3627,7 @@ let masters = [
     sprite2: '../../../assets/sprites/magnezone.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -3494,12 +3690,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
        "count": 2,
@@ -3508,8 +3708,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -3578,7 +3780,7 @@ let masters = [
     sprite2: '../../../assets/sprites/necrozma-ultra.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3633,8 +3835,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
        "count": 4,
@@ -3643,8 +3847,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 2,
@@ -3679,8 +3885,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -3713,7 +3921,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3776,12 +3984,16 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -3826,8 +4038,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -3860,7 +4074,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3875,7 +4089,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3890,7 +4104,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3905,7 +4119,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -3968,12 +4182,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
        "count": 2,
@@ -3982,8 +4200,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -4002,12 +4222,16 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/evosoda.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Evosoda",
+          "number": "116",
+          "set": "XY"
       },
       {
         "count": 2,
@@ -4034,8 +4258,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -4044,8 +4270,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -4072,7 +4300,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4087,7 +4315,7 @@ let masters = [
     sprite2: '../../../assets/sprites/necrozma-ultra.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4102,7 +4330,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -4161,12 +4389,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -4175,8 +4407,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -4203,8 +4437,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -4213,8 +4449,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/evosoda.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Evosoda",
+          "number": "116",
+          "set": "XY"
       },
       {
         "count": 2,
@@ -4235,8 +4473,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -4245,8 +4485,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -4269,7 +4511,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4284,7 +4526,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4299,7 +4541,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4314,7 +4556,7 @@ let masters = [
     sprite2: '../../../assets/sprites/necrozma.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4329,7 +4571,7 @@ let masters = [
     sprite2: '../../../assets/sprites/volcanion.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -4380,8 +4622,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
        "count": 4,
@@ -4396,8 +4640,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 4,
@@ -4418,8 +4664,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -4448,7 +4696,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4463,7 +4711,7 @@ let masters = [
     sprite2: '../../../assets/sprites/necrozma.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -4540,8 +4788,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
        "count": 4,
@@ -4556,8 +4806,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -4594,8 +4846,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -4618,7 +4872,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4633,7 +4887,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4683,8 +4937,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
        "count": 4,
@@ -4699,8 +4955,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 4,
@@ -4795,8 +5053,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
        "count": 4,
@@ -4805,8 +5065,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 2,
@@ -4841,8 +5103,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -4875,7 +5139,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4940,8 +5204,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
        "count": 4,
@@ -4950,8 +5216,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 2,
@@ -4986,8 +5254,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -5020,7 +5290,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5035,7 +5305,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lapras.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5050,7 +5320,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5065,7 +5335,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5080,7 +5350,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lucario.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5165,8 +5435,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -5181,8 +5453,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 4,
@@ -5205,8 +5479,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -5236,7 +5512,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5309,8 +5585,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
        "count": 4,
@@ -5319,8 +5597,10 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 2,
@@ -5355,8 +5635,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -5389,7 +5671,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5462,8 +5744,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
        "count": 4,
@@ -5472,8 +5756,10 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 2,
@@ -5508,8 +5794,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -5542,7 +5830,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5583,12 +5871,16 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "57",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -5603,8 +5895,10 @@ let seniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -5613,8 +5907,10 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -5665,8 +5961,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 7,
@@ -5693,7 +5991,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5766,12 +6064,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -5810,8 +6112,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -5850,12 +6154,16 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -5882,7 +6190,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -5925,12 +6233,16 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Garbodor",
+          "number": "57",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -5951,8 +6263,10 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -5961,8 +6275,10 @@ let seniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -5971,8 +6287,10 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -6003,8 +6321,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -6037,7 +6357,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6078,12 +6398,16 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "57",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -6098,8 +6422,10 @@ let seniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -6158,8 +6484,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 7,
@@ -6186,7 +6514,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/golisopod.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6261,12 +6589,16 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 2,
@@ -6287,8 +6619,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -6297,8 +6631,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -6319,8 +6655,10 @@ let seniors = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -6329,8 +6667,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -6353,7 +6693,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6400,12 +6740,16 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Garbodor",
+          "number": "57",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -6418,8 +6762,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/kartana-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Kartana GX",
+          "number": "70",
+          "set": "CIN"
       },
       {
         cardImg: '../../assets/cards/2018-17/necrozma-dusk-mane.png',
@@ -6430,8 +6776,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 3,
@@ -6446,12 +6794,16 @@ let seniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
          "count": 1,
@@ -6466,8 +6818,10 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -6482,8 +6836,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/evosoda.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Evosoda",
+          "number": "116",
+          "set": "XY"
       },
       {
         "count": 1,
@@ -6504,12 +6860,16 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -6535,7 +6895,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6608,12 +6968,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 2,
@@ -6646,8 +7010,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -6680,12 +7046,16 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -6706,7 +7076,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6753,12 +7123,16 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Garbodor",
+          "number": "57",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -6771,8 +7145,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 2,
@@ -6781,8 +7157,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
        "count": 2,
@@ -6797,12 +7175,16 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/evosoda.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Evosoda",
+          "number": "116",
+          "set": "XY"
       },
       {
         "count": 3,
@@ -6845,12 +7227,16 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -6873,7 +7259,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/necrozma-ultra.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -6940,8 +7326,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -6956,8 +7344,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -6966,8 +7356,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -7000,8 +7392,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
@@ -7014,8 +7408,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 8,
@@ -7044,7 +7440,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/necrozma.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7127,8 +7523,10 @@ let juniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -7137,12 +7535,16 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -7173,8 +7575,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 10,
@@ -7191,7 +7595,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7264,8 +7668,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -7280,8 +7686,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -7316,8 +7724,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -7350,7 +7760,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/marshadow.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7443,12 +7853,16 @@ let juniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -7457,8 +7871,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Brigette",
+          "number": "134",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -7489,8 +7905,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -7499,8 +7917,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 10,
@@ -7517,7 +7937,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7558,12 +7978,16 @@ let juniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "57",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -7584,12 +8008,16 @@ let juniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -7632,8 +8060,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 7,
@@ -7660,7 +8090,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
     deckid: "eee",
-    event: "eeee",
+    event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
@@ -7743,8 +8173,10 @@ let juniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -7753,8 +8185,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -7783,8 +8217,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -7811,424 +8247,3 @@ let juniors = [
     ]
   },
 ]
-
-//masters
-function displayList(array = []) {
-  masterList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2018 NAIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          // if (deck.breakCard === true) {
-          //   pokeCard.classList.add('poke-break')
-          // }
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-          zoomboxBreak = document.getElementById("zoom-card-box-break");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-
-          // const pokeBreak = document.getElementsByClassName("break-pokemon");
-
-          // if (pokeBreak.length > 0) {
-          //   for (let i of pokeBreak) {
-          //     i.onclick = () => {
-          //       let clone = i.cloneNode();
-          //       clone.className = "poke-break";
-          //       zoomboxBreak.innerHTML = "";
-          //       zoomboxBreak.appendChild(clone);
-          //       zoomboxBreak.className = "show";
-          //     };
-          //   }
-          // }
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-          // zoomboxBreak.onclick = () => {
-          //   zoomboxBreak.className = "";
-          // };
-        });
-      })
-    }
-
-    masterList.appendChild(item_element);
-  }
-}
-
-// seniors
-function displayList2(array = []) {
-  seniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2018 NAIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-    seniorList.appendChild(item_element);
-  }
-}
-
-// juniors
-function displayList3(array = []) {
-  juniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2018 NAIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-    juniorList.appendChild(item_element);
-  }
-}
-
-const modal = document.querySelector('.modal');
-const modalX = document.querySelector('.modal-x');
-const behind = document.querySelector('.behind-modal');
-
-displayList(masters);
-displayList2(seniors);
-displayList3(juniors);

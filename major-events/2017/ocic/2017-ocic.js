@@ -61,12 +61,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -113,8 +117,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
@@ -208,12 +214,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -238,8 +248,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -335,12 +347,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -365,8 +381,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -438,12 +456,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -500,16 +522,20 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 12,
@@ -599,12 +625,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -629,8 +659,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -708,16 +740,20 @@ let masters = [
             "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/fisherman.png',
@@ -772,8 +808,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
@@ -867,12 +905,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -913,8 +955,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -1018,12 +1062,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -1048,8 +1096,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -1145,12 +1195,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -1175,8 +1229,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -1332,16 +1388,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/delinquent.png',
@@ -1388,8 +1448,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 12,
@@ -1879,12 +1941,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -1931,8 +1997,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/reverse-valley.png',
@@ -2008,12 +2076,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -2070,12 +2142,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
@@ -2141,16 +2217,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/delinquent.png',
@@ -2197,8 +2277,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 12,
@@ -2306,16 +2388,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -2336,8 +2422,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2014-2016/buddy-buddy-resuce.png',
@@ -2378,8 +2466,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2014-2016/team-magmas-secret-base.png',
@@ -2433,12 +2523,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2014-2016/yveltal-sts.png',
@@ -2449,16 +2543,20 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
@@ -2489,8 +2587,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
@@ -2501,8 +2601,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 12,
@@ -2756,12 +2858,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -2897,12 +3003,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -2927,8 +3037,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -3000,12 +3112,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -3056,8 +3172,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
@@ -3141,20 +3259,28 @@ let seniors = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/01.png'
+        "count": 4,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -3187,16 +3313,20 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2014-2016/shrine-of-memories.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 7,
@@ -3252,12 +3382,16 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -3272,12 +3406,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -3314,12 +3452,16 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 9,
@@ -3379,12 +3521,16 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -3399,12 +3545,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -3441,8 +3591,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2014-2016/shrine-of-memories.png',
@@ -3546,12 +3698,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -3576,8 +3732,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -3641,12 +3799,16 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Garbodor",
+          "number": "51",
+          "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Trubbish",
+          "number": "56",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -3661,12 +3823,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -3709,16 +3875,20 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 9,
@@ -3809,12 +3979,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -3950,12 +4124,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -4069,12 +4247,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
@@ -4137,16 +4319,20 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 12,
@@ -4232,12 +4418,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -4266,8 +4456,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
@@ -4345,12 +4537,16 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -4401,12 +4597,16 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Parallel City",
+          "number": "145",
+          "set": "BKT"
       },
       {
         "count": 7,
@@ -4490,8 +4690,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -4502,8 +4704,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/skyla.png',
@@ -4520,8 +4724,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/puzzle-of-time.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Puzzle of Time",
+          "number": "109",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -4546,8 +4752,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
@@ -4637,12 +4845,16 @@ let juniors = [
             "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
@@ -4703,8 +4915,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -4770,12 +4984,16 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Professor Sycamore",
+          "number": "107",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "N",
+          "number": "105",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
@@ -4836,8 +5054,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Float Stone",
+          "number": "137",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/scorched-earth.png',
