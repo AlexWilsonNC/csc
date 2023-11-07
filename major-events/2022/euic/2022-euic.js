@@ -1561,7 +1561,7 @@ let masters = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -2389,7 +2389,7 @@ let masters = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -4575,7 +4575,7 @@ let masters = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -4718,7 +4718,7 @@ let masters = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/urshifu-rapid-strike-gmax.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -5449,7 +5449,7 @@ let masters = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -6829,7 +6829,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mew-vmax.png',
     sprite2: '../../../assets/sprites/genesect.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -9650,7 +9650,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -9664,7 +9664,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -9678,7 +9678,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -9692,7 +9692,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -9706,7 +9706,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -9720,7 +9720,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -9734,7 +9734,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',

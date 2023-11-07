@@ -148,8 +148,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -283,8 +285,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -372,8 +376,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -408,8 +414,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Energy Recycler",
+          "number": "123",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/heavy-ball.png',
@@ -430,12 +438,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       },
     ]
   },
@@ -732,8 +744,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Energy Recycler",
+          "number": "123",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/heavy-ball.png',
@@ -746,12 +760,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       },
     ]
   },
@@ -1082,8 +1100,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1251,8 +1271,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1426,8 +1448,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1448,7 +1472,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -1463,7 +1487,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -1788,8 +1812,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1927,8 +1953,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
     ]
   },
@@ -2058,8 +2086,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -2074,7 +2104,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lucario.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -2206,8 +2236,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2387,7 +2419,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -2402,7 +2434,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -2546,8 +2578,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -2667,8 +2701,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Energy Recycler",
+          "number": "123",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/heavy-ball.png',
@@ -2685,12 +2721,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       },
     ]
   },
@@ -2701,7 +2741,7 @@ let masters = [
     sprite2: '../../../assets/sprites/vikavolt.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -2873,8 +2913,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -3034,7 +3076,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3049,7 +3091,7 @@ let masters = [
     sprite2: '../../../assets/sprites/sylveon.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3213,8 +3255,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -3350,8 +3394,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -3366,7 +3412,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lucario.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3506,8 +3552,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -3814,8 +3862,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -3832,7 +3882,7 @@ let masters = [
     sprite2: '../../../assets/sprites/magnezone.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3888,8 +3938,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/glaceon-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Glaceon GX",
+          "number": "39",
+          "set": "UPR"
       },
       {
         "count": 3,
@@ -4004,8 +4056,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4022,7 +4076,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4194,8 +4248,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4222,7 +4278,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4366,8 +4422,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -4382,7 +4440,7 @@ let masters = [
     sprite2: '../../../assets/sprites/vikavolt.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4397,7 +4455,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4412,7 +4470,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lucario.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4582,8 +4640,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4848,8 +4908,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/brigette.png',
@@ -4888,8 +4950,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
     ]
   },
@@ -5063,8 +5127,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -5238,8 +5304,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -5256,7 +5324,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5424,8 +5492,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -5601,8 +5671,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -5752,8 +5824,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -5768,7 +5842,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5783,7 +5857,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5945,8 +6019,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -5963,7 +6039,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lucario.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5978,7 +6054,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lucario.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5993,7 +6069,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6135,8 +6211,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/12.png'
+        "count": 12,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
     ]
   },
@@ -6147,7 +6225,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6281,8 +6359,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -6297,7 +6377,7 @@ let masters = [
     sprite2: '../../../assets/sprites/greninja.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6312,7 +6392,7 @@ let masters = [
     sprite2: '../../../assets/sprites/vikavolt.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6327,7 +6407,7 @@ let masters = [
     sprite2: '../../../assets/sprites/ho-oh.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6342,7 +6422,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6516,8 +6596,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -6649,8 +6731,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -6748,8 +6832,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/brigette.png',
@@ -6778,8 +6864,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Energy Recycler",
+          "number": "123",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/heavy-ball.png',
@@ -6792,12 +6880,16 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       },
     ]
   },
@@ -6931,8 +7023,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -7114,8 +7208,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -7253,8 +7349,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -7392,8 +7490,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -7547,8 +7647,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -7695,8 +7797,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -7834,8 +7938,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -8001,8 +8107,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -8154,8 +8262,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -8293,8 +8403,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -8384,8 +8496,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/n.png',
@@ -8440,8 +8554,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/13.png'
+        "count": 13,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
     ]
   },
@@ -8611,8 +8727,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -8752,8 +8870,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/11.png'
+        "count": 11,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',

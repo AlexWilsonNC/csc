@@ -2939,7 +2939,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/palkia-origin.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -3263,7 +3263,7 @@ let masters = [
     sprite1: '../../../assets/sprites/palkia-origin.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -3748,7 +3748,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo.png',
     sprite2: '../../../assets/sprites/miltank.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -3891,7 +3891,7 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -4349,7 +4349,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mew-vmax.png',
     sprite2: '../../../assets/sprites/genesect.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -4903,7 +4903,7 @@ let masters = [
     sprite1: '../../../assets/sprites/palkia-origin.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -5219,7 +5219,7 @@ let masters = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -5233,7 +5233,7 @@ let masters = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -5891,7 +5891,7 @@ let masters = [
     sprite1: '../../../assets/sprites/palkia-origin.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -6062,7 +6062,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/palkia-origin.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -7265,7 +7265,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mew-vmax.png',
     sprite2: '../../../assets/sprites/genesect.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
@@ -7573,7 +7573,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mew-vmax.png',
     sprite2: '../../../assets/sprites/genesect.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    deckid: "eee",,
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',

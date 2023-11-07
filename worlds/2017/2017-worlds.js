@@ -302,8 +302,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -600,8 +602,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-rainbow.png',
@@ -1281,8 +1285,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -1337,8 +1343,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/14.png'
+        "count": 14,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       }
     ]
   },
@@ -1467,8 +1475,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/14.png'
+        "count": 14,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       }
     ]
   },
@@ -1827,8 +1837,10 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -1901,8 +1913,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2068,8 +2082,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2296,8 +2312,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -2352,8 +2370,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/14.png'
+        "count": 14,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       }
     ]
   },
@@ -2489,8 +2509,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -2956,8 +2978,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/13.png'
+        "count": 13,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       }
     ]
   },
@@ -3057,8 +3081,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -3141,8 +3167,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -3529,8 +3557,10 @@ let seniors = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/giratina.png',
@@ -3605,8 +3635,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4129,8 +4161,10 @@ let seniors = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -4197,8 +4231,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4272,8 +4308,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -4634,8 +4672,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -5026,8 +5066,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -5088,8 +5130,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -5163,8 +5207,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/giratina.png',
@@ -5533,8 +5579,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -5618,8 +5666,10 @@ let juniors = [
             "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -5775,8 +5825,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/giratina.png',

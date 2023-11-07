@@ -209,7 +209,7 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {
@@ -1241,7 +1241,7 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {
@@ -2618,7 +2618,7 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {
@@ -3443,7 +3443,7 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {
@@ -3807,7 +3807,7 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {
@@ -4321,7 +4321,7 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {
@@ -5241,7 +5241,7 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {
@@ -5772,7 +5772,7 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {
@@ -7667,7 +7667,7 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {
@@ -8779,7 +8779,7 @@ let seniors = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {
@@ -9310,7 +9310,7 @@ let seniors = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {
@@ -11263,7 +11263,7 @@ let juniors = [
         {
           "count": 2,
             "name": "Solgaleo GX",
-            "number": "SM104",
+            "number": "104",
             "set": "PR-SM"
         },
         {

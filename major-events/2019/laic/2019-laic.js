@@ -554,160 +554,148 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/decidueye.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-decidueye",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Decidueye GX",
+            "number": "12",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Dartrix",
+            "number": "10",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Rowlet",
+            "number": "9",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 4,
+            "name": "Rare Candy",
+            "number": "142",
+            "set": "CES"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Nest Ball",
+            "number": "123",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Great Ball",
+            "number": "60",
+            "set": "SLG"
+        },
+        {
+          "count": 3,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Devoured Field",
+            "number": "93",
+            "set": "CIN"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 1,
+            "name": "Grass Energy",
+            "number": "grass",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Super Boost Energy ♢",
+            "number": "136",
+            "set": "UPR"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Decidueye GX",
-          "number": "12",
-          "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Rowlet",
-          "number": "9",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Rare Candy",
-          "number": "142",
-          "set": "CES"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Great Ball",
-          "number": "60",
-          "set": "SLG"
-      },
-      {
-        "count": 3,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Devoured Field",
-          "number": "93",
-          "set": "CIN"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/energy/boost-energy.png',
-        numImg: '../../assets/01.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Alex Schemanske',
@@ -715,182 +703,172 @@ let masters = [
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "buzzwole-gx",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+          "name": "Lycanroc GX",
+          "number": "74",
+          "set": "GRI"
+        },
+        {
+          "count": 2,
+          "name": "Rockruff",
+          "number": "75",
+          "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Alolan Ninetales GX",
+            "number": "132",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+            "name": "Alolan Vulpix",
+            "number": "21",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Buzzwole",
+            "number": "77",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Diancie ♢",
+            "number": "74",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Girafarig",
+            "number": "94",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Marshadow",
+          "number": "45",
+          "set": "SLG"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+              "name": "Professor Kukui",
+              "number": "128",
+              "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+          "name": "Lisia",
+          "number": "137",
+          "set": "CES"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+          "name": "Multi Switch",
+          "number": "129",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+          "name": "Brooklet Hill",
+          "number": "120",
+          "set": "GRI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Unit Energy DFY",
+          "number": "118",
+          "set": "FLI"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 2,
-        "name": "Lycanroc GX",
-        "number": "74",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-        "name": "Rockruff",
-        "number": "75",
-        "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Alolan Ninetales GX",
-          "number": "132",
-          "set": "LOT"
-      },
-      {
-        "count": 2,
-          "name": "Alolan Vulpix",
-          "number": "21",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Diancie ♢",
-          "number": "74",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Girafarig",
-          "number": "94",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-        "name": "Marshadow",
-        "number": "45",
-        "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-            "name": "Professor Kukui",
-            "number": "128",
-            "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-        "name": "Lisia",
-        "number": "137",
-        "set": "CES"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/switch.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-        "name": "Multi Switch",
-        "number": "129",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-        "name": "Brooklet Hill",
-        "number": "120",
-        "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/07.png'
-      },
-      {
-        "count": 4,
-        "name": "Unit Energy DFY",
-        "number": "118",
-        "set": "FLI"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Caleb Gedemer',
@@ -898,210 +876,190 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-control",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Articuno GX",
+            "number": "31",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+              "name": "Magcargo",
+              "number": "24",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+              "name": "Slugma",
+              "number": "23",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Alolan Muk",
+            "number": "58",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Sableye",
+            "number": "80",
+            "set": "GRI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Plumeria",
+            "number": "120",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Team Skull Grunt",
+            "number": "133",
+            "set": "SUM"
+        },
+        {
+         "count": 1,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Gladion",
+            "number": "95",
+            "set": "CIN"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Crushing Hammer",
+            "number": "115",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 2,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Articuno GX",
-          "number": "31",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-            "name": "Magcargo",
-            "number": "24",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-            "name": "Slugma",
-            "number": "23",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Alolan Muk",
-          "number": "58",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Sableye",
-          "number": "80",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Plumeria",
-          "number": "120",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Team Skull Grunt",
-          "number": "133",
-          "set": "SUM"
-      },
-      {
-       "count": 1,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Gladion",
-          "number": "95",
-          "set": "CIN"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Crushing Hammer",
-          "number": "115",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 2,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Zach Lesage',
@@ -1109,126 +1067,118 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/naganadel.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "blacephalon-naganadel",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Blacephalon GX",
+            "number": "52",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Naganadel",
+            "number": "108",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Poipole",
+            "number": "55",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+          "name": "Marshadow",
+          "number": "45",
+          "set": "SLG"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
         },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Sophocles",
+            "number": "123",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Choice Helmet",
+            "number": "169",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+            "name": "Ultra Space",
+            "number": "115",
+            "set": "FLI"
+        },
+        {
+            "count": 1,
+            "name": "Heat Factory ♢",
+            "number": "178",
+            "set": "LOT"
+          },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 16,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
         },
       ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17/blacephalon-gx.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 4,
-          "name": "Naganadel",
-          "number": "108",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Poipole",
-          "number": "55",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-        "name": "Marshadow",
-        "number": "45",
-        "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/sophacles.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 2,
-          "name": "Choice Helmet",
-          "number": "169",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/ultra-space.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-          "count": 1,
-          "name": "Heat Factory ♢",
-          "number": "178",
-          "set": "LOT"
-        },
-      {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/16.png'
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Tord Reklev',
@@ -1236,164 +1186,148 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/granbull.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "granbull",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Granbull",
+            "number": "138",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Snubbull",
+            "number": "137",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Slugma",
+            "number": "43",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+            "name": "Oranguru",
+            "number": "113",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Apricorn Maker",
+            "number": "124",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Diantha",
+            "number": "105",
+            "set": "FLI"
+        },
+        {
+         "count": 2,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Great Ball",
+            "number": "60",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Nest Ball",
+            "number": "123",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "PokéNav",
+            "number": "140",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Bodybuilding Dumbbells",
+            "number": "113",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Fairy Energy",
+            "number": "fairy",
+            "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Granbull",
-          "number": "138",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Snubbull",
-          "number": "137",
-          "set": "LOT"
-      },
-      {
-        "count": 2,
-          "name": "Magcargo",
-          "number": "24",
-          "set": "CES"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/slugma-stampede.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Apricorn Maker",
-          "number": "124",
-          "set": "CES"
-      },
-      {
-        "count": 2,
-          "name": "Diantha",
-          "number": "105",
-          "set": "FLI"
-      },
-      {
-       "count": 2,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Great Ball",
-          "number": "60",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "PokéNav",
-          "number": "140",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Bodybuilding Dumbbells",
-          "number": "113",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 7,
-          "name": "Fairy Energy",
-          "number": "fairy",
-          "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Marcelo Magalhaes',
@@ -1401,144 +1335,136 @@ let masters = [
     sprite1: '../../../assets/sprites/rayquaza.png',
     sprite2: '../../../assets/sprites/vikavolt.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "rayquaza-gx",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Rayquaza GX",
+            "number": "109",
+            "set": "CES"
+        },
+        {
+          "count": 3,
+            "name": "Vikavolt",
+            "number": "52",
+            "set": "SUM"
+        },
+        {
+         "count": 3,
+            "name": "Grubbin",
+            "number": "13",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Dhelmise",
+            "number": "22",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Zeraora GX",
+            "number": "86",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Marshadow",
+          "number": "45",
+          "set": "SLG"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
+          "count": 4,
+             "name": "Guzma",
+             "number": "115",
+             "set": "BUS"
+         },
+         {
+           "count": 3,
+             "name": "Volkner",
+             "number": "135",
+             "set": "UPR"
+         },
+         {
+           "count": 3,
+             "name": "Cynthia",
+             "number": "119",
+             "set": "UPR"
+         },
+         {
+           "count": 2,
+             "name": "Lillie",
+             "number": "125",
+             "set": "UPR"
+         },
+         {
+           "count": 4,
+             "name": "Ultra Ball",
+             "number": "135",
+             "set": "SUM"
+         },
+         {
+           "count": 4,
+             "name": "Rare Candy",
+             "number": "142",
+             "set": "CES"
+         },
+         {
+           "count": 2,
+             "name": "Nest Ball",
+             "number": "123",
+             "set": "SUM"
+         },
+         {
+           "count": 2,
+             "name": "Mysterious Treasure",
+             "number": "113",
+             "set": "FLI"
+         },
+         {
+           "count": 2,
+             "name": "Energy Recycler",
+             "number": "123",
+             "set": "GRI"
+         },
+         {
+           "count": 1,
+             "name": "Rescue Stretcher",
+             "number": "130",
+             "set": "GRI"
+         },
+         {
+           "count": 3,
+             "name": "Lysandre Labs",
+             "number": "111",
+             "set": "FLI"
+         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Grass Energy",
+            "number": "grass",
+            "set": "SUM"
+        },
+        {
+          "count": 7,
+            "name": "Lightning Energy",
+            "number": "lightning",
+            "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Rayquaza GX",
-          "number": "109",
-          "set": "CES"
-      },
-      {
-        "count": 3,
-          "name": "Vikavolt",
-          "number": "52",
-          "set": "SUM"
-      },
-      {
-       "count": 3,
-          "name": "Grubbin",
-          "number": "13",
-          "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/dhelmise-grass.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Zeraora GX",
-          "number": "86",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-        "name": "Marshadow",
-        "number": "45",
-        "set": "SLG"
-      },
-      {
-       "count": 4,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/volkner.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Rare Candy",
-          "number": "142",
-          "set": "CES"
-      },
-      {
-        "count": 2,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/07.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Roberto Coregio Jr',
@@ -1546,208 +1472,196 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/glaceon.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-glaceon",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Glaceon GX",
+            "number": "39",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+          "name": "Eevee",
+          "number": "101",
+          "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+              "name": "Magcargo",
+              "number": "24",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+              "name": "Slugma",
+              "number": "23",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Alolan Muk",
+            "number": "58",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Marshadow",
+          "number": "45",
+          "set": "SLG"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Tate & Liza",
+            "number": "148",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+              "name": "Professor Kukui",
+              "number": "128",
+              "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Apricorn Maker",
+            "number": "124",
+            "set": "CES"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Nest Ball",
+            "number": "123",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Aqua Patch",
+            "number": "119",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Devoured Field",
+            "number": "93",
+            "set": "CIN"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 6,
+            "name": "Water Energy",
+            "number": "water",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/glaceon-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 3,
-        "name": "Eevee",
-        "number": "101",
-        "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-            "name": "Magcargo",
-            "number": "24",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-            "name": "Slugma",
-            "number": "23",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Alolan Muk",
-          "number": "58",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-        "name": "Marshadow",
-        "number": "45",
-        "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Tate & Liza",
-          "number": "148",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-            "name": "Professor Kukui",
-            "number": "128",
-            "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/apricorn-maker.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Aqua Patch",
-          "number": "119",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Devoured Field",
-          "number": "93",
-          "set": "CIN"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/06.png'
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-    ]
+    } 
   },
   {
     firstName: 'Ian Robb',
@@ -1755,78 +1669,55 @@ let masters = [
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/ninetales-alola.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "buzzwole-gx",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+            "name": "Alolan Ninetales GX",
+            "number": "132",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+            "name": "Alolan Vulpix",
+            "number": "21",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
+        },
+        {
+          "count": 1,
+              "name": "Diancie ♢",
+              "number": "74",
+              "set": "FLI"
+        },
+        {
+          "count": 1,
+          "name": "Marshadow",
+          "number": "45",
+          "set": "SLG"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 2,
-          "name": "Alolan Ninetales GX",
-          "number": "132",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Alolan Vulpix",
-          "number": "21",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-        "name": "Buzzwole",
-        "number": "77",
-        "set": "FLI"
-      },
-      {
-        "count": 1,
-            "name": "Diancie ♢",
-            "number": "74",
-            "set": "FLI"
-      },
-      {
-        "count": 1,
-        "name": "Marshadow",
-        "number": "45",
-        "set": "SLG"
-      },
-      {
           "count": 4,
           "name": "Cynthia",
           "number": "119",
@@ -1904,23 +1795,28 @@ let masters = [
         "number": "120",
         "set": "GRI"
       },
-      {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/07.png'
-      },
-      {
-        "count": 4,
-        "name": "Unit Energy DFY",
-        "number": "118",
-        "set": "FLI"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 7,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Unit Energy DFY",
+          "number": "118",
+          "set": "FLI"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
+        },
+      ]
+    }
   },
   {
     firstName: 'Robin Schulz',
@@ -1928,170 +1824,160 @@ let masters = [
     sprite1: '../../../assets/sprites/gardevoir.png',
     sprite2: '../../../assets/sprites/swampert.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "gardevoir-gx",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
+          "count": 3,
+           "name": "Gardevoir GX",
+           "number": "93",
+           "set": "BUS"
+       },
+       {
+         "count": 1,
+           "name": "Kirlia",
+           "number": "140",
+           "set": "LOT"
+       },
+       {
+         "count": 3,
+           "name": "Ralts",
+           "number": "91",
+           "set": "BUS"
+       },
+       {
+         "count": 2,
+           "name": "Swampert",
+           "number": "35",
+           "set": "CES"
+       },
+       {
+         "count": 1,
+           "name": "Marshtomp",
+           "number": "34",
+           "set": "CES"
+       },
+       {
+         "count": 2,
+           "name": "Mudkip",
+           "number": "32",
+           "set": "CES"
+       },
+       {
+         "count": 2,
+           "name": "Alolan Ninetales GX",
+           "number": "132",
+           "set": "LOT"
+       },
+       {
+         "count": 2,
+           "name": "Alolan Vulpix",
+           "number": "21",
+           "set": "GRI"
+       },
+       {
+         "count": 1,
+           "name": "Solgaleo GX",
+           "number": "104",
+           "set": "PR-SM"
+       },
+       {
+         "count": 1,
+           "name": "Cosmog",
+           "number": "64",
+           "set": "SUM"
+       },
+       {
+         "count": 3,
+           "name": "Tapu Lele GX",
+           "number": "60",
+           "set": "GRI"
+       },
+       {
+         "count": 1,
+           "name": "Ditto ♢",
+           "number": "154",
+           "set": "LOT"
+       },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+            "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Rare Candy",
+          "number": "142",
+          "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+           "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
+        },
+        {
+          "count": 2,
+          "name": "Brooklet Hill",
+          "number": "120",
+          "set": "GRI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 8,
+            "name": "Fairy Energy",
+            "number": "fairy",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Super Boost Energy ♢",
+            "number": "136",
+            "set": "UPR"
         },
       ]
-    },
-    deck: [
-      {
-         "count": 3,
-          "name": "Gardevoir GX",
-          "number": "93",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Kirlia",
-          "number": "140",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Ralts",
-          "number": "91",
-          "set": "BUS"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/swampert.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/marshtomp.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/mudkip.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Alolan Ninetales GX",
-          "number": "132",
-          "set": "LOT"
-      },
-      {
-        "count": 2,
-          "name": "Alolan Vulpix",
-          "number": "21",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Solgaleo GX",
-          "number": "SM104",
-          "set": "PR-SM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/cosmog-dust-gathering.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 3,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-          "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Rare Candy",
-        "number": "142",
-        "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-         "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-        "name": "Choice Band",
-        "number": "121",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-        "name": "Brooklet Hill",
-        "number": "120",
-        "set": "GRI"
-      },
-      {
-        "count": 8,
-          "name": "Fairy Energy",
-          "number": "fairy",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/energy/boost-energy.png',
-        numImg: '../../assets/01.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Victor Freitas',
@@ -2099,174 +1985,160 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/granbull.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "granbull",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Granbull",
+            "number": "138",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+            "name": "Snubbull",
+            "number": "137",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+            "name": "Snubbull",
+            "number": "90",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+              "name": "Slugma",
+              "number": "23",
+              "set": "CES"
+        },
+        {
+          "count": 3,
+            "name": "Oranguru",
+            "number": "113",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Apricorn Maker",
+            "number": "124",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Diantha",
+            "number": "105",
+            "set": "FLI"
+        },
+        {
+         "count": 2,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Tate & Liza",
+            "number": "148",
+            "set": "CES"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Nest Ball",
+            "number": "123",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Great Ball",
+            "number": "60",
+            "set": "SLG"
+        },
+        {
+          "count": 3,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Lost Blender",
+            "number": "181",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Energy Recycle System",
+            "number": "128",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Bodybuilding Dumbbells",
+            "number": "113",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Fairy Energy",
+            "number": "fairy",
+            "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Granbull",
-          "number": "138",
-          "set": "LOT"
-      },
-      {
-        "count": 2,
-          "name": "Snubbull",
-          "number": "137",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/snubbull-reckless.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Magcargo",
-          "number": "24",
-          "set": "CES"
-      },
-      {
-        "count": 2,
-            "name": "Slugma",
-            "number": "23",
-            "set": "CES"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/oranguru.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Apricorn Maker",
-          "number": "124",
-          "set": "CES"
-      },
-      {
-        "count": 2,
-          "name": "Diantha",
-          "number": "105",
-          "set": "FLI"
-      },
-      {
-       "count": 2,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Tate & Liza",
-          "number": "148",
-          "set": "CES"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Great Ball",
-          "number": "60",
-          "set": "SLG"
-      },
-      {
-        "count": 3,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Lost Blender",
-          "number": "181",
-          "set": "LOT"
-      },
-      {
-        "count": 2,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/energy-recycle-system.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Bodybuilding Dumbbells",
-          "number": "113",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 7,
-          "name": "Fairy Energy",
-          "number": "fairy",
-          "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Bruno Lima',
@@ -2274,198 +2146,178 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/decidueye.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-decidueye",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 3,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 3,
+            "name": "Decidueye GX",
+            "number": "12",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Rowlet",
+            "number": "9",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Alolan Ninetales GX",
+            "number": "132",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+            "name": "Alolan Vulpix",
+            "number": "21",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
         },
+        {
+          "count": 3,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+         "count": 2,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Olivia",
+            "number": "119",
+            "set": "BUS"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Rare Candy",
+            "number": "142",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Great Ball",
+            "number": "60",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Counter Gain",
+            "number": "170",
+            "set": "LOT"
+        },
+        {
+            "count": 1,
+            "name": "Escape Board",
+            "number": "122",
+            "set": "UPR"
+          },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Fairy Energy",
+            "number": "fairy",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 3,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 3,
-          "name": "Decidueye GX",
-          "number": "12",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Rowlet",
-          "number": "9",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Alolan Ninetales GX",
-          "number": "132",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Alolan Vulpix",
-          "number": "21",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-       "count": 2,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Lillie",
-          "number": "125",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Olivia",
-          "number": "119",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Rare Candy",
-          "number": "142",
-          "set": "CES"
-      },
-      {
-        "count": 2,
-          "name": "Great Ball",
-          "number": "60",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Counter Gain",
-          "number": "170",
-          "set": "LOT"
-      },
-      {
-          "count": 1,
-          "name": "Escape Board",
-          "number": "122",
-          "set": "UPR"
-        },
-      {
-        "count": 4,
-          "name": "Fairy Energy",
-          "number": "fairy",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Eder Soto',
@@ -2473,196 +2325,178 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/decidueye.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-decidueye",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 3,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Decidueye GX",
+            "number": "12",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Rowlet",
+            "number": "9",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Alolan Ninetales GX",
+            "number": "132",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Alolan Ninetales GX",
+            "number": "22",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Alolan Vulpix",
+            "number": "21",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Rare Candy",
+            "number": "142",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Counter Gain",
+            "number": "170",
+            "set": "LOT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 1,
+            "name": "Grass Energy",
+            "number": "grass",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Fairy Energy",
+            "number": "fairy",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 2,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 3,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Decidueye GX",
-          "number": "12",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Rowlet",
-          "number": "9",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Alolan Ninetales GX",
-          "number": "132",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Alolan Ninetales GX",
-          "number": "22",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Alolan Vulpix",
-          "number": "21",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Lillie",
-          "number": "125",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Rare Candy",
-          "number": "142",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Counter Gain",
-          "number": "170",
-          "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Fairy Energy",
-          "number": "fairy",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 2,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Jorge Salas',
@@ -2671,13 +2505,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: 'zoroark-lycanroc'
   },
   {
     firstName: 'Riley Hulbert',
@@ -2685,232 +2513,220 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-control",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
+          "count": 4,
+           "name": "Zoroark GX",
+           "number": "53",
+           "set": "SLG"
+       },
+       {
+         "count": 4,
+           "name": "Zorua",
+           "number": "52",
+           "set": "SLG"
+       },
+       {
+         "count": 2,
+           "name": "Tapu Lele GX",
+           "number": "60",
+           "set": "GRI"
+       },
+       {
+         "count": 2,
+           "name": "Oranguru",
+           "number": "114",
+           "set": "UPR"
+       },
+       {
+         "count": 1,
+           "name": "Shuckle GX",
+           "number": "17",
+           "set": "LOT"
+       },
+       {
+          "count": 1,
+           "name": "Magcargo",
+           "number": "24",
+           "set": "CES"
+       },
+       {
+         "count": 1,
+           "name": "Slugma",
+           "number": "23",
+           "set": "CES"
+       },
+       {
+         "count": 1,
+           "name": "Alolan Muk",
+           "number": "58",
+           "set": "SUM"
+       },
+       {
+         "count": 1,
+           "name": "Ditto ♢",
+           "number": "154",
+           "set": "LOT"
+       },
+       {
+         "count": 1,
+           "name": "Girafarig",
+           "number": "94",
+           "set": "LOT"
+       },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+            "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+         "count": 2,
+            "name": "Plumeria",
+            "number": "120",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Judge",
+            "number": "108",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Team Skull Grunt",
+            "number": "133",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Faba",
+            "number": "173",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Mars",
+            "number": "128",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Gladion",
+            "number": "95",
+            "set": "CIN"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+           "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+              "name": "Escape Rope",
+              "number": "114",
+              "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Champions Festival",
+            "number": "148",
+            "set": "PR-SM"
+        },
+        {
+          "count": 1,
+            "name": "Mt. Coronet",
+            "number": "130",
+            "set": "UPR"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-         "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/shuckle-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-         "count": 1,
-          "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
-      },
-      {
-        "count": 1,
-          "name": "Slugma",
-          "number": "CES",
-          "set": "23"
-      },
-      {
-        "count": 1,
-          "name": "Alolan Muk",
-          "number": "58",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Girafarig",
-          "number": "94",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-          "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-       "count": 2,
-          "name": "Plumeria",
-          "number": "120",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Lillie",
-          "number": "125",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Judge",
-          "number": "108",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Team Skull Grunt",
-          "number": "133",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Faba",
-          "number": "173",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Mars",
-          "number": "128",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Gladion",
-          "number": "95",
-          "set": "CIN"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-        "name": "Rescue Stretcher",
-        "number": "130",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-         "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-            "name": "Escape Rope",
-            "number": "114",
-            "set": "BUS"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/champions-festival-2018.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/mt-coronet.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Gustavo Wada',
@@ -2919,13 +2735,7 @@ let masters = [
     sprite2: '../../../assets/sprites/tapu-koko.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "passimian",
   },
   {
     firstName: 'Joey Ruettiger',
@@ -2933,210 +2743,190 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-control",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Articuno GX",
+            "number": "31",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+              "name": "Magcargo",
+              "number": "24",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+              "name": "Slugma",
+              "number": "23",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Alolan Muk",
+            "number": "58",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Sableye",
+            "number": "80",
+            "set": "GRI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Plumeria",
+            "number": "120",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Team Skull Grunt",
+            "number": "133",
+            "set": "SUM"
+        },
+        {
+         "count": 1,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Gladion",
+            "number": "95",
+            "set": "CIN"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Crushing Hammer",
+            "number": "115",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 2,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Articuno GX",
-          "number": "31",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-            "name": "Magcargo",
-            "number": "24",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-            "name": "Slugma",
-            "number": "23",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Alolan Muk",
-          "number": "58",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Sableye",
-          "number": "80",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Plumeria",
-          "number": "120",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Team Skull Grunt",
-          "number": "133",
-          "set": "SUM"
-      },
-      {
-       "count": 1,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Gladion",
-          "number": "95",
-          "set": "CIN"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Crushing Hammer",
-          "number": "115",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 2,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Miloslav Poslední',
@@ -3144,202 +2934,184 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-lycanroc",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
+          "count": 4,
+           "name": "Zoroark GX",
+           "number": "53",
+           "set": "SLG"
+       },
+       {
+         "count": 4,
+           "name": "Zorua",
+           "number": "52",
+           "set": "SLG"
+       },
+       {
+         "count": 2,
+         "name": "Lycanroc GX",
+         "number": "74",
+         "set": "GRI"
+       },
+       {
+         "count": 2,
+         "name": "Rockruff",
+         "number": "75",
+         "set": "FLI"
+       },
+       {
+         "count": 2,
+           "name": "Tapu Lele GX",
+           "number": "60",
+           "set": "GRI"
+       },
+       {
+          "count": 1,
+           "name": "Magcargo",
+           "number": "24",
+           "set": "CES"
+       },
+       {
+         "count": 1,
+           "name": "Slugma",
+           "number": "23",
+           "set": "CES"
+       },
+       {
+          "count": 1,
+           "name": "Weavile",
+           "number": "74",
+           "set": "UPR"
+       },
+       {
+         "count": 1,
+           "name": "Sneasel",
+           "number": "73",
+           "set": "UPR"
+       },
+       {
+         "count": 1,
+           "name": "Alolan Muk",
+           "number": "58",
+           "set": "SUM"
+       },
+       {
+         "count": 1,
+           "name": "Ditto ♢",
+           "number": "154",
+           "set": "LOT"
+       },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+            "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Judge",
+            "number": "108",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Nest Ball",
+            "number": "123",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+          "name": "Great Ball",
+          "number": "164",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+          },
+        {
+          "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Counter Gain",
+            "number": "170",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+            "name": "Devoured Field",
+            "number": "93",
+            "set": "CIN"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 2,
+          "name": "Unit Energy DFY",
+          "number": "118",
+          "set": "FLI"
         },
       ]
-    },
-    deck: [
-      {
-         "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-        "name": "Lycanroc GX",
-        "number": "74",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-        "name": "Rockruff",
-        "number": "75",
-        "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-         "count": 1,
-          "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
-      },
-      {
-        "count": 1,
-          "name": "Slugma",
-          "number": "CES",
-          "set": "23"
-      },
-      {
-         "count": 1,
-          "name": "Weavile",
-          "number": "74",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Sneasel",
-          "number": "73",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Alolan Muk",
-          "number": "58",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Lillie",
-          "number": "125",
-          "set": "UPR"
-      },
-      {
-          "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        "count": 2,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Professor Kukui",
-          "number": "128",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Judge",
-          "number": "108",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-        "name": "Great Ball",
-        "number": "164",
-        "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Rescue Stretcher",
-        "number": "130",
-        "set": "GRI"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-        },
-      {
-        "count": 3,
-        "name": "Choice Band",
-        "number": "121",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Counter Gain",
-          "number": "170",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Devoured Field",
-          "number": "93",
-          "set": "CIN"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 2,
-        "name": "Unit Energy DFY",
-        "number": "118",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Damian Riquel',
@@ -3347,170 +3119,160 @@ let masters = [
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "buzzwole-gx",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 3,
+          "name": "Lycanroc GX",
+          "number": "74",
+          "set": "GRI"
+        },
+        {
+          "count": 3,
+          "name": "Rockruff",
+          "number": "75",
+          "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Buzzwole",
+            "number": "77",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Koko",
+            "number": "31",
+            "set": "PR-SM"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Diancie ♢",
+            "number": "74",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Sudowoodo",
+            "number": "66",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+          "name": "Marshadow",
+          "number": "45",
+          "set": "SLG"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+         "count": 4,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+              "name": "Professor Kukui",
+              "number": "128",
+              "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+          "name": "Brooklet Hill",
+          "number": "120",
+          "set": "GRI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 9,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 3,
-        "name": "Lycanroc GX",
-        "number": "74",
-        "set": "GRI"
-      },
-      {
-        "count": 3,
-        "name": "Rockruff",
-        "number": "75",
-        "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Tapu Koko",
-          "number": "31",
-          "set": "PR-SM"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Diancie ♢",
-          "number": "74",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-        "name": "Marshadow",
-        "number": "45",
-        "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-       "count": 4,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 2,
-            "name": "Professor Kukui",
-            "number": "128",
-            "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-        "name": "Brooklet Hill",
-        "number": "120",
-        "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/09.png'
-      },
-      {
-        "count": 3,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Vitor Lugon',
@@ -3518,190 +3280,172 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-lycanroc",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
+          "count": 4,
+           "name": "Zoroark GX",
+           "number": "53",
+           "set": "SLG"
+       },
+       {
+         "count": 4,
+           "name": "Zorua",
+           "number": "52",
+           "set": "SLG"
+       },
+       {
+         "count": 2,
+         "name": "Lycanroc GX",
+         "number": "74",
+         "set": "GRI"
+       },
+       {
+         "count": 2,
+         "name": "Rockruff",
+         "number": "75",
+         "set": "FLI"
+       },
+       {
+         "count": 1,
+           "name": "Rockruff",
+           "number": "73",
+           "set": "GRI"
+       },
+       {
+         "count": 3,
+           "name": "Tapu Lele GX",
+           "number": "60",
+           "set": "GRI"
+       },
+       {
+         "count": 1,
+           "name": "Naganadel",
+           "number": "108",
+           "set": "LOT"
+       },
+       {
+         "count": 1,
+           "name": "Alolan Muk",
+           "number": "58",
+           "set": "SUM"
+       },
+       {
+         "count": 1,
+           "name": "Ditto ♢",
+           "number": "154",
+           "set": "LOT"
+       },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+            "count": 3,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Judge",
+            "number": "108",
+            "set": "FLI"
+        },
+        {
+           "count": 1,
+          "name": "Mallow",
+          "number": "127",
+          "set": "GRI"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+          "name": "Great Ball",
+          "number": "164",
+          "set": "SSH"
+        },
+        {
+          "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+          },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Counter Gain",
+            "number": "170",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+            "name": "Devoured Field",
+            "number": "93",
+            "set": "CIN"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 5,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-         "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-        "name": "Lycanroc GX",
-        "number": "74",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-        "name": "Rockruff",
-        "number": "75",
-        "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Rockruff",
-          "number": "73",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Naganadel",
-          "number": "108",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Alolan Muk",
-          "number": "58",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-          "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Professor Kukui",
-          "number": "128",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Judge",
-          "number": "108",
-          "set": "FLI"
-      },
-      {
-         "count": 1,
-        "name": "Mallow",
-        "number": "127",
-        "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-        "name": "Great Ball",
-        "number": "164",
-        "set": "SSH"
-      },
-      {
-        "count": 1,
-        "name": "Rescue Stretcher",
-        "number": "130",
-        "set": "GRI"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-        },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-        "name": "Choice Band",
-        "number": "121",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Counter Gain",
-          "number": "170",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Devoured Field",
-          "number": "93",
-          "set": "CIN"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/05.png'
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Lucas Pereira',
@@ -3710,13 +3454,7 @@ let masters = [
     sprite2: '../../../assets/sprites/tapu-koko.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "passimian",
   },
   {
     firstName: 'Paulo de Freitas',
@@ -3724,218 +3462,202 @@ let masters = [
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "buzzwole-gx",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
+        },
+        {
+          "count": 2,
+          "name": "Lycanroc GX",
+          "number": "74",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+          "name": "Rockruff",
+          "number": "75",
+          "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Rockruff",
+            "number": "73",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Shuckle GX",
+            "number": "17",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+           "count": 2,
+            "name": "Magcargo",
+            "number": "24",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Slugma",
+            "number": "23",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+              "name": "Diancie ♢",
+              "number": "74",
+              "set": "FLI"
+        },
+        {
+          "count": 1,
+                "name": "Oranguru",
+                "number": "113",
+                "set": "SUM"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+            "count": 3,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Professor Kukui",
+            "number": "128",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Lusamine ♢",
+            "number": "182",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Nest Ball",
+            "number": "123",
+            "set": "SUM"
+        },
+        {
+            "count": 2,
+            "name": "Acro Bike",
+            "number": "123",
+            "set": "CES"
+          },
+        {
+          "count": 2,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+            "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+          },
+        {
+          "count": 1,
+              "name": "Escape Rope",
+              "number": "114",
+              "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Energy Switch",
+            "number": "129",
+            "set": "CES"
+        },
+        {
+          "count": 3,
+          "name": "Choice Band",
+          "number": "121",
+          "set": "GRI"
+        },
+        {
+          "count": 3,
+          "name": "Brooklet Hill",
+          "number": "120",
+          "set": "GRI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 8,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 2,
-        "name": "Buzzwole",
-        "number": "77",
-        "set": "FLI"
-      },
-      {
-        "count": 2,
-        "name": "Lycanroc GX",
-        "number": "74",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-        "name": "Rockruff",
-        "number": "75",
-        "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Rockruff",
-          "number": "73",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/shuckle-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-         "count": 2,
-          "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
-      },
-      {
-        "count": 1,
-          "name": "Slugma",
-          "number": "CES",
-          "set": "23"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-            "name": "Diancie ♢",
-            "number": "74",
-            "set": "FLI"
-      },
-      {
-        "count": 1,
-              "name": "Oranguru",
-              "number": "113",
-              "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Lillie",
-          "number": "125",
-          "set": "UPR"
-      },
-      {
-          "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Professor Kukui",
-          "number": "128",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Lusamine ♢",
-          "number": "182",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-          "count": 2,
-          "name": "Acro Bike",
-          "number": "123",
-          "set": "CES"
-        },
-      {
-        "count": 2,
-          "name": "Beast Ring",
-          "number": "102",
-          "set": "FLI"
-      },
-      {
-          "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-        },
-      {
-        "count": 1,
-            "name": "Escape Rope",
-            "number": "114",
-            "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Energy Switch",
-          "number": "129",
-          "set": "CES"
-      },
-      {
-        "count": 3,
-        "name": "Choice Band",
-        "number": "121",
-        "set": "GRI"
-      },
-      {
-        "count": 3,
-        "name": "Brooklet Hill",
-        "number": "120",
-        "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/08.png'
-      },
-      {
-        "count": 1,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Benjamin Ferrel',
@@ -3944,13 +3666,7 @@ let masters = [
     sprite2: '../../../assets/sprites/ninetales-alola.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "zoroark-gx",
   },
   {
     firstName: 'Vinicius Lopes',
@@ -3958,150 +3674,142 @@ let masters = [
     sprite1: '../../../assets/sprites/rayquaza.png',
     sprite2: '../../../assets/sprites/vikavolt.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "rayquaza-gx",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Rayquaza GX",
+            "number": "109",
+            "set": "CES"
+        },
+        {
+          "count": 3,
+            "name": "Vikavolt",
+            "number": "52",
+            "set": "SUM"
+        },
+        {
+         "count": 3,
+            "name": "Grubbin",
+            "number": "13",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Dhelmise",
+            "number": "22",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Zeraora GX",
+            "number": "86",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Marshadow",
+          "number": "45",
+          "set": "SLG"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
+          "count": 4,
+             "name": "Guzma",
+             "number": "115",
+             "set": "BUS"
+         },
+         {
+           "count": 3,
+             "name": "Cynthia",
+             "number": "119",
+             "set": "UPR"
+         },
+         {
+           "count": 3,
+             "name": "Lillie",
+             "number": "125",
+             "set": "UPR"
+         },
+         {
+           "count": 2,
+             "name": "Volkner",
+             "number": "135",
+             "set": "UPR"
+         },
+         {
+           "count": 1,
+             "name": "Acerola",
+             "number": "112",
+             "set": "BUS"
+         },
+         {
+           "count": 4,
+             "name": "Ultra Ball",
+             "number": "135",
+             "set": "SUM"
+         },
+         {
+           "count": 4,
+             "name": "Rare Candy",
+             "number": "142",
+             "set": "CES"
+         },
+         {
+           "count": 2,
+             "name": "Nest Ball",
+             "number": "123",
+             "set": "SUM"
+         },
+         {
+           "count": 2,
+             "name": "Mysterious Treasure",
+             "number": "113",
+             "set": "FLI"
+         },
+         {
+           "count": 2,
+             "name": "Energy Recycler",
+             "number": "123",
+             "set": "GRI"
+         },
+         {
+           "count": 1,
+             "name": "Rescue Stretcher",
+             "number": "130",
+             "set": "GRI"
+         },
+         {
+           "count": 2,
+             "name": "Lysandre Labs",
+             "number": "111",
+             "set": "FLI"
+         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Grass Energy",
+            "number": "grass",
+            "set": "SUM"
+        },
+        {
+          "count": 7,
+            "name": "Lightning Energy",
+            "number": "lightning",
+            "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Rayquaza GX",
-          "number": "109",
-          "set": "CES"
-      },
-      {
-        "count": 3,
-          "name": "Vikavolt",
-          "number": "52",
-          "set": "SUM"
-      },
-      {
-       "count": 3,
-          "name": "Grubbin",
-          "number": "13",
-          "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/dhelmise-grass.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Zeraora GX",
-          "number": "86",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-        "name": "Marshadow",
-        "number": "45",
-        "set": "SLG"
-      },
-      {
-       "count": 4,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/volkner.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Rare Candy",
-          "number": "142",
-          "set": "CES"
-      },
-      {
-        "count": 2,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/07.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Michael Pramawat',
@@ -4109,210 +3817,190 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-control",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Articuno GX",
+            "number": "31",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+              "name": "Magcargo",
+              "number": "24",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+              "name": "Slugma",
+              "number": "23",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Alolan Muk",
+            "number": "58",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Sableye",
+            "number": "80",
+            "set": "GRI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Plumeria",
+            "number": "120",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Team Skull Grunt",
+            "number": "133",
+            "set": "SUM"
+        },
+        {
+         "count": 1,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Gladion",
+            "number": "95",
+            "set": "CIN"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Crushing Hammer",
+            "number": "115",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 2,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Articuno GX",
-          "number": "31",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-            "name": "Magcargo",
-            "number": "24",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-            "name": "Slugma",
-            "number": "23",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Alolan Muk",
-          "number": "58",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Sableye",
-          "number": "80",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Plumeria",
-          "number": "120",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Team Skull Grunt",
-          "number": "133",
-          "set": "SUM"
-      },
-      {
-       "count": 1,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Gladion",
-          "number": "95",
-          "set": "CIN"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Crushing Hammer",
-          "number": "115",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 2,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Dalton Acchetta',
@@ -4320,150 +4008,142 @@ let masters = [
     sprite1: '../../../assets/sprites/rayquaza.png',
     sprite2: '../../../assets/sprites/vikavolt.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "rayquaza-gx",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Rayquaza GX",
+            "number": "109",
+            "set": "CES"
+        },
+        {
+          "count": 3,
+            "name": "Vikavolt",
+            "number": "52",
+            "set": "SUM"
+        },
+        {
+         "count": 3,
+            "name": "Grubbin",
+            "number": "13",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Dhelmise",
+            "number": "22",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Zeraora GX",
+            "number": "86",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Marshadow",
+          "number": "45",
+          "set": "SLG"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
+          "count": 4,
+             "name": "Guzma",
+             "number": "115",
+             "set": "BUS"
+         },
+         {
+           "count": 3,
+             "name": "Cynthia",
+             "number": "119",
+             "set": "UPR"
+         },
+         {
+           "count": 3,
+             "name": "Volkner",
+             "number": "135",
+             "set": "UPR"
+         },
+         {
+           "count": 2,
+             "name": "Lillie",
+             "number": "125",
+             "set": "UPR"
+         },
+         {
+           "count": 1,
+             "name": "Acerola",
+             "number": "112",
+             "set": "BUS"
+         },
+         {
+           "count": 4,
+             "name": "Ultra Ball",
+             "number": "135",
+             "set": "SUM"
+         },
+         {
+           "count": 4,
+             "name": "Rare Candy",
+             "number": "142",
+             "set": "CES"
+         },
+         {
+           "count": 2,
+             "name": "Nest Ball",
+             "number": "123",
+             "set": "SUM"
+         },
+         {
+           "count": 2,
+             "name": "Mysterious Treasure",
+             "number": "113",
+             "set": "FLI"
+         },
+         {
+           "count": 2,
+             "name": "Energy Recycler",
+             "number": "123",
+             "set": "GRI"
+         },
+         {
+           "count": 1,
+             "name": "Rescue Stretcher",
+             "number": "130",
+             "set": "GRI"
+         },
+         {
+           "count": 2,
+             "name": "Lysandre Labs",
+             "number": "111",
+             "set": "FLI"
+         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Grass Energy",
+            "number": "grass",
+            "set": "SUM"
+        },
+        {
+          "count": 7,
+            "name": "Lightning Energy",
+            "number": "lightning",
+            "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Rayquaza GX",
-          "number": "109",
-          "set": "CES"
-      },
-      {
-        "count": 3,
-          "name": "Vikavolt",
-          "number": "52",
-          "set": "SUM"
-      },
-      {
-       "count": 3,
-          "name": "Grubbin",
-          "number": "13",
-          "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/dhelmise-grass.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Zeraora GX",
-          "number": "86",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-        "name": "Marshadow",
-        "number": "45",
-        "set": "SLG"
-      },
-      {
-       "count": 4,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/volkner.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Rare Candy",
-          "number": "142",
-          "set": "CES"
-      },
-      {
-        "count": 2,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/07.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Ramon Duarte',
@@ -4471,190 +4151,172 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/ninetales-alola.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-gx",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Alolan Ninetales GX",
+            "number": "132",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+            "name": "Alolan Vulpix",
+            "number": "21",
+            "set": "GRI"
+        },
+        {
+           "count": 2,
+            "name": "Weavile",
+            "number": "74",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Sneasel",
+            "number": "86",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+              "name": "Professor Kukui",
+              "number": "128",
+              "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Judge",
+            "number": "108",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+          "name": "Energy Loto",
+          "number": "122",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Counter Gain",
+            "number": "170",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+            "name": "Devoured Field",
+            "number": "93",
+            "set": "CIN"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Unit Energy DFY",
+          "number": "118",
+          "set": "FLI"
+        },
+        {
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Alolan Ninetales GX",
-          "number": "132",
-          "set": "LOT"
-      },
-      {
-        "count": 2,
-          "name": "Alolan Vulpix",
-          "number": "21",
-          "set": "GRI"
-      },
-      {
-         "count": 2,
-          "name": "Weavile",
-          "number": "74",
-          "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/sneasel-ces.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-            "name": "Professor Kukui",
-            "number": "128",
-            "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Judge",
-          "number": "108",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-        "name": "Energy Loto",
-        "number": "122",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Counter Gain",
-          "number": "170",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Devoured Field",
-          "number": "93",
-          "set": "CIN"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Unit Energy DFY",
-        "number": "118",
-        "set": "FLI"
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Nelson Rodrigues',
@@ -4662,226 +4324,214 @@ let masters = [
     sprite1: '../../../assets/sprites/steelix.png',
     sprite2: '../../../assets/sprites/hoopa-unbound.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "wall",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Steelix",
+            "number": "89",
+            "set": "CES"
+        },
+        {
+          "count": 3,
+            "name": "Onix",
+            "number": "109",
+            "set": "LOT"
+        },
+        {
+          "count": 2,
+            "name": "Hoopa",
+            "number": "55",
+            "set": "SLG"
+        },
+        {
+          "count": 1,
+            "name": "Wailord",
+            "number": "40",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Wailmer",
+            "number": "39",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Lele",
+            "number": "94",
+            "set": "UPR"
+        },
+        {
+           "count": 1,
+            "name": "Unown",
+            "number": "91",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Articuno GX",
+            "number": "31",
+            "set": "CES"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Steven's Resolve",
+            "number": "145",
+            "set": "CES"
+        },
+        {
+            "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+          },
+        {
+          "count": 3,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Lusamine",
+            "number": "96",
+            "set": "CIN"
+        },
+        {
+         "count": 2,
+            "name": "Plumeria",
+            "number": "120",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Team Skull Grunt",
+            "number": "133",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Copycat",
+            "number": "127",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Mars",
+            "number": "128",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Tate & Liza",
+            "number": "148",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Gladion",
+            "number": "95",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Faba",
+            "number": "173",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Pokémon Fan Club",
+          "number": "133",
+          "set": "UPR"
+        },
+        {
+           "count": 4,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Crushing Hammer",
+            "number": "115",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+            "name": "Nest Ball",
+            "number": "123",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+          "name": "Rescue Stretcher",
+          "number": "130",
+          "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Metal Frying Pan",
+            "number": "112",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Bodybuilding Dumbbells",
+            "number": "113",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Shrine of Punishment",
+            "number": "143",
+            "set": "CES"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 1,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Counter Energy",
+            "number": "100",
+            "set": "CIN"
         },
       ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17/steelix.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/onix.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 2,
-          "name": "Hoopa",
-          "number": "55",
-          "set": "SLG"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/wailord.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/wailmer.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Lele",
-          "number": "94",
-          "set": "UPR"
-      },
-      {
-         "count": 1,
-          "name": "Unown",
-          "number": "91",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Articuno GX",
-          "number": "31",
-          "set": "CES"
-      },
-      {
-        "count": 4,
-          "name": "Steven's Resolve",
-          "number": "145",
-          "set": "CES"
-      },
-      {
-          "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-        },
-      {
-        "count": 3,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "Lusamine",
-          "number": "96",
-          "set": "CIN"
-      },
-      {
-       "count": 2,
-          "name": "Plumeria",
-          "number": "120",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Team Skull Grunt",
-          "number": "133",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Copycat",
-          "number": "127",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Mars",
-          "number": "128",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Tate & Liza",
-          "number": "148",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Gladion",
-          "number": "95",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Faba",
-          "number": "173",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-        "name": "Pokémon Fan Club",
-        "number": "133",
-        "set": "UPR"
-      },
-      {
-         "count": 4,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Crushing Hammer",
-          "number": "115",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        "count": 2,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-        "name": "Rescue Stretcher",
-        "number": "130",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Metal Frying Pan",
-          "number": "112",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Bodybuilding Dumbbells",
-          "number": "113",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Shrine of Punishment",
-          "number": "143",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Counter Energy",
-          "number": "100",
-          "set": "CIN"
-      },
-    ]
+    }
   },
   {
     firstName: 'Nicolas Magliulo',
@@ -4889,96 +4539,73 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-lycanroc",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
+          "count": 4,
+           "name": "Zoroark GX",
+           "number": "53",
+           "set": "SLG"
+       },
+       {
+         "count": 4,
+           "name": "Zorua",
+           "number": "52",
+           "set": "SLG"
+       },
+       {
+         "count": 2,
+         "name": "Lycanroc GX",
+         "number": "74",
+         "set": "GRI"
+       },
+       {
+         "count": 2,
+         "name": "Rockruff",
+         "number": "75",
+         "set": "FLI"
+       },
+       {
+         "count": 2,
+           "name": "Tapu Lele GX",
+           "number": "60",
+           "set": "GRI"
+       },
+       {
+          "count": 1,
+           "name": "Magcargo",
+           "number": "24",
+           "set": "CES"
+       },
+       {
+         "count": 1,
+           "name": "Slugma",
+           "number": "23",
+           "set": "CES"
+       },
+       {
+          "count": 1,
+           "name": "Weavile",
+           "number": "74",
+           "set": "UPR"
+       },
+       {
+         "count": 1,
+           "name": "Sneasel",
+           "number": "86",
+           "set": "CES"
+       },
+       {
+         "count": 1,
+           "name": "Ditto ♢",
+           "number": "154",
+           "set": "LOT"
+       },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
-    deck: [
-      {
-         "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-        "name": "Lycanroc GX",
-        "number": "74",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-        "name": "Rockruff",
-        "number": "75",
-        "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-         "count": 1,
-          "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
-      },
-      {
-        "count": 1,
-          "name": "Slugma",
-          "number": "CES",
-          "set": "23"
-      },
-      {
-         "count": 1,
-          "name": "Weavile",
-          "number": "74",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Sneasel",
-          "number": "86",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
           "count": 3,
           "name": "Cynthia",
           "number": "119",
@@ -5074,23 +4701,28 @@ let masters = [
           "number": "93",
           "set": "CIN"
       },
-      {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Unit Energy DFY",
-        "number": "118",
-        "set": "FLI"
-      },
-    ]
+      ],
+      "energy": [
+        {
+          "count": 1,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Unit Energy DFY",
+          "number": "118",
+          "set": "FLI"
+        },
+      ]
+    }
   },
   {
     firstName: 'Manuel Jorach',
@@ -5098,146 +4730,136 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/naganadel.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "blacephalon-naganadel",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Blacephalon GX",
+            "number": "52",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Naganadel",
+            "number": "108",
+            "set": "LOT"
+        },
+        {
+          "count": 3,
+            "name": "Poipole",
+            "number": "107",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Alolan Muk",
+            "number": "58",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 1,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
         },
+        {
+          "count": 1,
+          "name": "Marshadow",
+          "number": "45",
+          "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+              "name": "Acro Bike",
+              "number": "123",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Ultra Space",
+            "number": "115",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
+        },
+        {
+            "count": 1,
+            "name": "Heat Factory ♢",
+            "number": "178",
+            "set": "LOT"
+          },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 16,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
         },
       ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17/blacephalon-gx.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 4,
-          "name": "Naganadel",
-          "number": "108",
-          "set": "LOT"
-      },
-      {
-        "count": 3,
-          "name": "Poipole",
-          "number": "107",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Alolan Muk",
-          "number": "58",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-        "name": "Marshadow",
-        "number": "45",
-        "set": "SLG"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 3,
-            "name": "Acro Bike",
-            "number": "123",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/ultra-space.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-          "count": 1,
-          "name": "Heat Factory ♢",
-          "number": "178",
-          "set": "LOT"
-        },
-      {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/16.png'
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Jimmy Pendarvis',
@@ -5245,210 +4867,190 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/oranguru.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-control",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Articuno GX",
+            "number": "31",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+              "name": "Magcargo",
+              "number": "24",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+              "name": "Slugma",
+              "number": "23",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Alolan Muk",
+            "number": "58",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Sableye",
+            "number": "80",
+            "set": "GRI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Plumeria",
+            "number": "120",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Team Skull Grunt",
+            "number": "133",
+            "set": "SUM"
+        },
+        {
+         "count": 1,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Gladion",
+            "number": "95",
+            "set": "CIN"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Crushing Hammer",
+            "number": "115",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Switch",
+            "number": "147",
+            "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Lysandre Labs",
+            "number": "111",
+            "set": "FLI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 2,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Articuno GX",
-          "number": "31",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-            "name": "Magcargo",
-            "number": "24",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-            "name": "Slugma",
-            "number": "23",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Alolan Muk",
-          "number": "58",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-          "name": "Sableye",
-          "number": "80",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Plumeria",
-          "number": "120",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Team Skull Grunt",
-          "number": "133",
-          "set": "SUM"
-      },
-      {
-       "count": 1,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Gladion",
-          "number": "95",
-          "set": "CIN"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Crushing Hammer",
-          "number": "115",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Switch",
-          "number": "147",
-          "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Lysandre Labs",
-          "number": "111",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 2,
-        "name": "Rainbow Energy",
-        "number": "151",
-        "set": "CES"
-      },
-    ]
+    }
   },
   {
     firstName: 'Gabriel Massaroth',
@@ -5456,194 +5058,178 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/weavile.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-gx",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+           "count": 2,
+            "name": "Weavile",
+            "number": "74",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Sneasel",
+            "number": "73",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Sneasel",
+            "number": "86",
+            "set": "CES"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+              "name": "Magcargo",
+              "number": "24",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+              "name": "Slugma",
+              "number": "23",
+              "set": "CES"
+        },
+        {
+          "count": 1,
+            "name": "Ditto ♢",
+            "number": "154",
+            "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Marshadow",
+          "number": "45",
+          "set": "SLG"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Elm's Lecture",
+            "number": "188",
+            "set": "LOT"
+        },
+        {
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+              "name": "Professor Kukui",
+              "number": "128",
+              "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Judge",
+            "number": "108",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Devoured Field",
+            "number": "93",
+            "set": "CIN"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Dark Energy",
+            "number": "dark",
+            "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-         "count": 2,
-          "name": "Weavile",
-          "number": "74",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Sneasel",
-          "number": "73",
-          "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/sneasel-ces.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-            "name": "Magcargo",
-            "number": "24",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-            "name": "Slugma",
-            "number": "23",
-            "set": "CES"
-      },
-      {
-        "count": 1,
-          "name": "Ditto ♢",
-          "number": "154",
-          "set": "LOT"
-      },
-      {
-        "count": 1,
-        "name": "Marshadow",
-        "number": "45",
-        "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Professor Elm's Lecture",
-          "number": "188",
-          "set": "LOT"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-            "name": "Professor Kukui",
-            "number": "128",
-            "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Lillie",
-          "number": "125",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Judge",
-          "number": "108",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-          "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Devoured Field",
-          "number": "93",
-          "set": "CIN"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/03.png'
-      },
-    ]
+    }
   },
   {
     firstName: 'Bryan de Vries',
@@ -5652,13 +5238,7 @@ let masters = [
     sprite2: '../../../assets/sprites/decidueye.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "zoroark-decidueye",
   },
   {
     firstName: 'Gabriel Modesto',
@@ -5667,13 +5247,7 @@ let masters = [
     sprite2: '../../../assets/sprites/tapu-koko.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "malamar",
   },
   {
     firstName: 'William Azevedo',
@@ -5761,8 +5335,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -6233,8 +5809,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -6302,16 +5880,20 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/swampert.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Swampert",
+          "number": "35",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2018-17/mudkip-tackle.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mudkip.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Mudkip",
+          "number": "32",
+          "set": "CES"
       },
       {
         "count": 2,
@@ -6422,8 +6004,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/boost-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Boost Energy ♢",
+          "number": "136",
+          "set": "UPR"
       },
     ]
   },
@@ -6587,13 +6171,7 @@ let masters = [
     sprite2: '../../../assets/sprites/naganadel.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "eee",
   },
   {
     firstName: 'Bastian Silva',
@@ -6602,13 +6180,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "eee",
   },
   {
     firstName: 'Dillon Bussert',
@@ -6646,8 +6218,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/blacephalon-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
         "count": 3,
@@ -6690,12 +6264,16 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sophacles.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sophocles",
+          "number": "123",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -6710,8 +6288,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -6732,8 +6312,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-space.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -6742,8 +6324,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/15.png'
+        "count": 15,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -6789,8 +6373,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/blacephalon-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
         "count": 3,
@@ -6811,8 +6397,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -6827,8 +6415,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -6847,8 +6437,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -6879,8 +6471,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-space.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -6889,8 +6483,10 @@ let masters = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/15.png'
+        "count": 15,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -6988,8 +6584,10 @@ let masters = [
           "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
           "count": 4,
@@ -7137,8 +6735,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Dartrix",
+          "number": "10",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -7165,12 +6765,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/swampert.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Swampert",
+          "number": "35",
+          "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mudkip.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Mudkip",
+          "number": "32",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -7179,8 +6783,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -7253,8 +6859,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -7275,8 +6883,10 @@ let masters = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/boost-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Boost Energy ♢",
+          "number": "136",
+          "set": "UPR"
       },
     ]
   },
@@ -7456,13 +7066,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "eee",
   },
   {
     firstName: 'Thiago Mayer',
@@ -7550,8 +7154,8 @@ let masters = [
       {
          "count": 1,
           "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
+          "number": "24",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -7650,8 +7254,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -7938,8 +7544,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/zygarde-gx.png',
@@ -7964,8 +7572,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 2,
@@ -7992,8 +7602,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/escape-rope.png',
@@ -8018,8 +7630,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -8101,8 +7715,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shuckle-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Shuckle GX",
+          "number": "17",
+          "set": "LOT"
       },
       {
          "count": 1,
@@ -8111,14 +7727,16 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sneasel-ces.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sneasel",
+          "number": "86",
+          "set": "CES"
       },
       {
          "count": 1,
           "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
+          "number": "24",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -8483,14 +8101,14 @@ let masters = [
       {
          "count": 1,
           "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
+          "number": "24",
+          "set": "CES"
       },
       {
         "count": 1,
           "name": "Slugma",
-          "number": "CES",
-          "set": "23"
+          "number": "23",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -8589,8 +8207,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -9024,8 +8644,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/shuckle-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Shuckle GX",
+          "number": "17",
+          "set": "LOT"
       },
       {
         "count": 2,
@@ -9239,14 +8861,14 @@ let masters = [
       {
          "count": 1,
           "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
+          "number": "24",
+          "set": "CES"
       },
       {
         "count": 1,
           "name": "Slugma",
-          "number": "CES",
-          "set": "23"
+          "number": "23",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -9406,8 +9028,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -9458,8 +9082,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 2,
@@ -9504,8 +9130,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -9544,8 +9172,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -9719,8 +9349,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -9729,8 +9361,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/boost-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Boost Energy ♢",
+          "number": "136",
+          "set": "UPR"
       },
     ]
   },
@@ -9816,8 +9450,10 @@ let masters = [
         "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 3,
@@ -10132,8 +9768,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/dhelmise-grass.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Dhelmise",
+          "number": "22",
+          "set": "CES"
       },
       {
         "count": 2,
@@ -10170,12 +9808,16 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/volkner.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -10214,8 +9856,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Energy Recycler",
+          "number": "123",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -10230,12 +9874,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       },
     ]
   },
@@ -10314,8 +9962,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -10348,8 +9998,10 @@ let seniors = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -10358,12 +10010,16 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/switch.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Switch",
+          "number": "147",
+          "set": "CES"
       },
       {
         "count": 1,
@@ -10396,8 +10052,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -10449,8 +10107,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/blacephalon-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
         "count": 3,
@@ -10493,8 +10153,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -10503,8 +10165,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 3,
@@ -10535,8 +10199,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-space.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -10545,8 +10211,10 @@ let seniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/15.png'
+        "count": 15,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -10909,8 +10577,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -10980,8 +10650,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shuckle-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Shuckle GX",
+          "number": "17",
+          "set": "LOT"
       },
       {
         "count": 1,
@@ -11004,8 +10676,8 @@ let seniors = [
       {
          "count": 1,
           "name": "Magcargo",
-          "number": "CES",
-          "set": "24"
+          "number": "24",
+          "set": "CES"
       },
       {
         cardImg: '../../assets/cards/2019-2020/pyroar.png',
@@ -11126,8 +10798,10 @@ let seniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -11370,8 +11044,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shuckle-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Shuckle GX",
+          "number": "17",
+          "set": "LOT"
       },
       {
         cardImg: '../../assets/cards/2018-17/latios.png',
@@ -11492,8 +11168,10 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -11689,8 +11367,10 @@ let seniors = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -11745,8 +11425,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/blacephalon-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
         "count": 3,
@@ -11783,8 +11465,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 1,
@@ -11793,8 +11477,10 @@ let juniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 3,
@@ -11831,8 +11517,10 @@ let juniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-space.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -11841,8 +11529,10 @@ let juniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/16.png'
+        "count": 16,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -11940,8 +11630,10 @@ let juniors = [
         "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -12205,8 +11897,10 @@ let juniors = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -12646,8 +12340,10 @@ let juniors = [
         "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -12847,20 +12543,28 @@ let juniors = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -12910,8 +12614,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/blacephalon-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
       },
       {
         "count": 3,
@@ -12938,8 +12644,10 @@ let juniors = [
         "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 3,
@@ -12954,8 +12662,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sophacles.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Sophocles",
+          "number": "123",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -12968,8 +12678,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 4,
@@ -12994,8 +12706,10 @@ let juniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-space.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
           "count": 1,
@@ -13004,8 +12718,10 @@ let juniors = [
           "set": "LOT"
         },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/16.png'
+        "count": 16,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
       {
         "count": 1,

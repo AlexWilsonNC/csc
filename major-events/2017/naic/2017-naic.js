@@ -260,8 +260,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -560,8 +562,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -637,8 +641,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -709,8 +715,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -842,8 +850,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/14.png'
+        "count": 14,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
     ]
   },
@@ -987,8 +997,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1134,8 +1146,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -1289,8 +1303,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -1450,8 +1466,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2309,8 +2327,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2571,8 +2591,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/14.png'
+        "count": 14,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
     ]
   },
@@ -2867,8 +2889,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -3329,8 +3353,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Energy Recycler",
+          "number": "123",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ffb.png',
@@ -3343,12 +3369,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       },
     ]
   },
@@ -3647,8 +3677,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -3786,8 +3818,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/13.png'
+        "count": 13,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
     ]
   },
@@ -3937,8 +3971,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -4350,8 +4386,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/14.png'
+        "count": 14,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
     ]
   },
@@ -4851,8 +4889,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-psychic.png',
@@ -4938,8 +4978,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -5014,8 +5056,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -5087,8 +5131,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -5151,8 +5197,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Energy Recycler",
+          "number": "123",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -5171,12 +5219,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       },
     ]
   },
@@ -5414,8 +5466,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/oricorio.png',
@@ -5731,8 +5785,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -5890,8 +5946,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -6061,8 +6119,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-recycler-gri.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Energy Recycler",
+          "number": "123",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/heavy-ball.png',
@@ -6083,12 +6143,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/05.png'
+        "count": 5,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       },
     ]
   },
@@ -6266,8 +6330,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -6379,8 +6445,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -6937,8 +7005,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -7071,8 +7141,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -7424,8 +7496,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -7762,8 +7836,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/14.png'
+        "count": 14,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
     ]
   },
@@ -7865,8 +7941,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/14.png'
+        "count": 14,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
     ]
   },
@@ -8006,8 +8084,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -8293,8 +8373,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -8434,8 +8516,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -8742,8 +8826,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -9179,8 +9265,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
       {
         "count": 4,

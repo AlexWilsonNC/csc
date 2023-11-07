@@ -269,8 +269,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -384,8 +386,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -462,8 +466,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -551,8 +557,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/max-elixir.png',
@@ -611,12 +619,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       }
     ]
   },
@@ -754,12 +766,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       }
     ]
   },
@@ -799,8 +815,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -871,8 +889,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -895,8 +915,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -1044,12 +1066,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       }
     ]
   },
@@ -1207,8 +1233,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       }
     ]
   },
@@ -1328,8 +1356,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -1415,8 +1445,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/volkner.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Volkner",
+          "number": "135",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -1463,12 +1495,16 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       }
     ]
   },
@@ -1755,8 +1791,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -1809,12 +1847,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       }
     ]
   },
@@ -1884,8 +1926,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
@@ -2168,8 +2212,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -2194,8 +2240,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock.png',
@@ -2325,8 +2373,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -2353,8 +2403,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock.png',
@@ -2564,8 +2616,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -2609,8 +2663,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -2677,8 +2733,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -2713,8 +2771,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -3096,8 +3156,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -3144,8 +3206,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
       },
       {
         "count": 4,
@@ -3488,8 +3552,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -3586,8 +3652,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -3637,8 +3705,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -3943,8 +4013,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
@@ -3969,8 +4041,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Sudowoodo",
+          "number": "66",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/regirock.png',
@@ -4192,8 +4266,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-water.png',
-        numImg: '../../assets/06.png'
+        "count": 6,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-splash.png',
@@ -4340,12 +4416,16 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       }
     ]
   },
@@ -4385,8 +4465,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -4457,8 +4539,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -4487,8 +4571,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -4630,8 +4716,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4879,8 +4967,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/jirachi.png',
@@ -5141,8 +5231,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -5214,8 +5306,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -5238,8 +5332,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -5408,8 +5504,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         "count": 2,
@@ -5481,8 +5579,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -5505,8 +5605,10 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fighting.png',
-        numImg: '../../assets/08.png'
+        "count": 8,
+          "name": "Fighting Energy",
+          "number": "fighting",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/strong-energy.png',
@@ -5775,8 +5877,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/buzzwole.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Buzzwole",
+          "number": "77",
+          "set": "FLI"
       },
       {
         "count": 1,
@@ -5853,8 +5957,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -6680,8 +6786,10 @@ let juniors = [
           "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/beast-ring.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
       },
       {
         "count": 3,
@@ -6718,12 +6826,16 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ultra-space.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/12.png'
+        "count": 12,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/energy-beast-p.png',

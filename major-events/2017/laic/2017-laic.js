@@ -251,8 +251,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -390,8 +392,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -519,8 +523,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -640,8 +646,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/13.png'
+        "count": 13,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
     ]
   },
@@ -763,8 +771,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/12.png'
+        "count": 12,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
     ]
   },
@@ -882,8 +892,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-grass.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Grass Energy",
+          "number": "grass",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1017,8 +1029,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/12.png'
+        "count": 12,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
     ]
   },
@@ -1152,8 +1166,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -1273,8 +1289,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/13.png'
+        "count": 13,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
     ]
   },
@@ -1540,8 +1558,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2437,8 +2457,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/07.png'
+        "count": 7,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -2828,8 +2850,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/12.png'
+        "count": 12,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
     ]
   },
@@ -2973,8 +2997,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-lightning.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Lightning Energy",
+          "number": "lightning",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -3098,8 +3124,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -3217,8 +3245,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/12.png'
+        "count": 12,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
     ]
   },
@@ -3601,8 +3631,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/12.png'
+        "count": 12,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
     ]
   },
@@ -3865,8 +3897,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4000,8 +4034,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fire.png',
-        numImg: '../../assets/12.png'
+        "count": 12,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "SUM"
       },
     ]
   },
@@ -4127,8 +4163,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-metal.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Metal Energy",
+          "number": "metal",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -4389,8 +4427,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-dark.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
+          "name": "Dark Energy",
+          "number": "dark",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/double-dragon-energy.png',
