@@ -420,8 +420,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -667,8 +669,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -814,8 +818,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
           "count": 1,
@@ -927,12 +933,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -977,8 +987,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -1464,8 +1476,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -1613,8 +1627,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -1987,8 +2003,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -2251,8 +2269,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Trubbish",
+          "number": "50",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -2454,12 +2474,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -2842,8 +2866,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -2929,12 +2955,16 @@ let masters = [
             "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -2979,8 +3009,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -3096,8 +3128,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Trubbish",
+          "number": "50",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -3287,8 +3321,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Trubbish",
+          "number": "50",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -4063,12 +4099,16 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -4435,12 +4475,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -4650,8 +4694,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -4911,12 +4957,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -4967,8 +5017,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -5138,8 +5190,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -5749,12 +5803,16 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -5800,8 +5858,10 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -6032,12 +6092,16 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -6083,8 +6147,10 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -7310,8 +7376,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-dusk-mane-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Dusk Mane Necrozma GX",
+          "number": "90",
+          "set": "UPR"
       },
       {
         cardImg: '../../assets/cards/2018-17/necrozma-dusk-mane.png',

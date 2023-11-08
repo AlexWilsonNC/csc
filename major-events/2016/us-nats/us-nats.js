@@ -4419,8 +4419,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/fairy-drop.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fairy Drop",
+          "number": "99",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/super-rod.png',

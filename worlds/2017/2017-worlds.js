@@ -61,8 +61,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/remoraid-wild-river.png',
@@ -129,8 +131,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -145,8 +149,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -1067,8 +1073,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/remoraid-wild-river.png',
@@ -1121,8 +1129,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/fisherman.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fisherman",
+          "number": "136",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -1135,8 +1145,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -1306,8 +1318,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -1389,8 +1403,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/volcanion-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Volcanion-EX",
+            "number": "26",
+            "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2018-17/turtonator-gx.png',
@@ -1407,8 +1423,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/volcanion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Volcanion",
+            "number": "25",
+            "set": "STS"
       },
       {
         "count": 1,
@@ -1461,8 +1479,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -1520,12 +1540,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/volcanion.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Volcanion",
+            "number": "25",
+            "set": "STS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/volcanion-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Volcanion-EX",
+            "number": "26",
+            "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2018-17/turtonator-gx.png',
@@ -1748,8 +1772,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -2045,8 +2071,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/skyla.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Skyla",
+          "number": "148",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/pokemon-fan-club.png',
@@ -2220,8 +2248,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/skyla.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Skyla",
+          "number": "148",
+          "set": "BKT"
       },
       {
          "count": 1,
@@ -2417,8 +2447,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -2498,8 +2530,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/volcanion-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Volcanion-EX",
+            "number": "26",
+            "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2018-17/turtonator-gx.png',
@@ -2516,8 +2550,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/volcanion.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Volcanion",
+            "number": "25",
+            "set": "STS"
       },
       {
         "count": 1,
@@ -2570,8 +2606,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -2645,12 +2683,16 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -2677,8 +2719,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/fisherman.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fisherman",
+          "number": "136",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -2707,8 +2751,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -2801,8 +2847,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sylveon-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Sylveon GX",
+          "number": "92",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -2875,8 +2923,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -3132,12 +3182,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/volcanion.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Volcanion",
+            "number": "25",
+            "set": "STS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/volcanion-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Volcanion-EX",
+            "number": "26",
+            "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2018-17/turtonator-gx.png',
@@ -3377,8 +3431,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/skyla.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Skyla",
+          "number": "148",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -3841,8 +3897,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/remoraid-wild-river.png',
@@ -4147,8 +4205,10 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sylveon-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Sylveon GX",
+          "number": "92",
+          "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -4211,8 +4271,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -4227,8 +4289,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -4324,8 +4388,10 @@ let seniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trubbish.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Trubbish",
+          "number": "50",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -4483,8 +4549,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/remoraid-wild-river.png',
@@ -4650,12 +4718,16 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -4714,8 +4786,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -5124,12 +5198,16 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -5166,8 +5244,10 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/fisherman.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fisherman",
+          "number": "136",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -5182,8 +5262,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -5345,12 +5427,16 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -5669,8 +5755,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -5679,8 +5767,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/fairy-garden.png',
@@ -6100,8 +6190,10 @@ let juniors = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/volcanion-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Volcanion-EX",
+            "number": "26",
+            "set": "STS"
       },
       {
         "count": 1,
@@ -6178,8 +6270,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -6339,8 +6433,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -6349,8 +6445,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/fairy-garden.png',

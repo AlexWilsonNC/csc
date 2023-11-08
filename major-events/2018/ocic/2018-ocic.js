@@ -129,8 +129,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -248,8 +250,10 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-break.png',
@@ -264,12 +268,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -469,8 +477,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -586,20 +596,26 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -644,8 +660,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -739,8 +757,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
@@ -753,12 +773,16 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -805,8 +829,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -894,8 +920,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
@@ -908,12 +936,16 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -960,8 +992,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -1039,8 +1073,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/volcanion-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Volcanion-EX",
+            "number": "26",
+            "set": "STS"
       },
       {
         "count": 4,
@@ -1107,8 +1143,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -1415,8 +1453,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/special-charge.png',
@@ -1884,8 +1924,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
@@ -1898,12 +1940,16 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -1952,8 +1998,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -2471,8 +2519,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -2588,20 +2638,26 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -2640,8 +2696,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -2814,8 +2872,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -3139,12 +3199,16 @@ let masters = [
             "set": "SSH"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -3165,8 +3229,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/skyla.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Skyla",
+          "number": "148",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -3181,8 +3247,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 3,
@@ -3205,8 +3273,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -3342,20 +3412,26 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -3493,20 +3569,26 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -3545,8 +3627,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -3719,8 +3803,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -4075,8 +4161,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -4165,12 +4253,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/volcanion-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Volcanion-EX",
+            "number": "26",
+            "set": "STS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/volcanion.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Volcanion",
+            "number": "25",
+            "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2018-17/turtonator-gx.png',
@@ -4227,8 +4319,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/professors-letter.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Professor's Letter",
+          "number": "146",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -4253,12 +4347,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-retrieval.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Energy Retrieval",
+          "number": "116",
+          "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -4346,20 +4444,26 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -4508,8 +4612,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-break.png',
@@ -4520,12 +4626,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -4712,8 +4822,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
@@ -4726,12 +4838,16 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -4780,8 +4896,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -5103,8 +5221,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -5289,8 +5409,10 @@ let masters = [
           "set": "XY"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -5387,8 +5509,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
@@ -5401,12 +5525,16 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -5453,8 +5581,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -5657,8 +5787,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -5815,8 +5947,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
@@ -5829,12 +5963,16 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -5881,8 +6019,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -6070,8 +6210,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sylveon-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Sylveon GX",
+          "number": "92",
+          "set": "GRI"
       },
       {
         "count": 2,
@@ -6086,12 +6228,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
@@ -6134,8 +6280,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -6144,8 +6292,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -6471,8 +6621,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/energy-switch.png',
@@ -6624,8 +6776,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -6916,8 +7070,10 @@ let seniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/skyla.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Skyla",
+          "number": "148",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
@@ -6936,8 +7092,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -7041,12 +7199,16 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -7091,8 +7253,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -7172,8 +7336,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
@@ -7186,12 +7352,16 @@ let seniors = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -7230,8 +7400,10 @@ let seniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -7339,8 +7511,10 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/team-flare-grunt.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Team Flare Grunt",
+          "number": "73",
+          "set": "GEN"
       },
       {
         cardImg: '../../assets/cards/2018-17/team-rockets-handiwork.png',
@@ -7353,8 +7527,10 @@ let seniors = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2018-17/skyla.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Skyla",
+          "number": "148",
+          "set": "BKT"
       },
       {
         "count": 2,
@@ -7752,8 +7928,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -7843,20 +8021,26 @@ let juniors = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -8336,20 +8520,26 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -8521,8 +8711,10 @@ let juniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/skyla.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Skyla",
+          "number": "148",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
@@ -8547,8 +8739,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Rare Candy",
+          "number": "129",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -8567,8 +8761,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -8650,8 +8846,10 @@ let juniors = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
@@ -8664,12 +8862,16 @@ let juniors = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,

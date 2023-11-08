@@ -1178,147 +1178,145 @@ let masters = [
     event: "2018 North America Internationals",
     decklist: {
       "pokemon":[
-
+        {
+          "count": 2,
+            "name": "Yveltal BREAK",
+            "number": "66",
+            "set": "STS"
+          // breakCard: true
+        },
+        {
+          "count": 3,
+            "name": "Yveltal",
+            "number": "65",
+            "set": "STS"
+        },
+        {
+          "count": 1,
+            "name": "Yveltal",
+            "number": "54",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Hoopa",
+            "number": "55",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+              "name": "Mewtwo",
+              "number": "51",
+              "set": "EVO"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Koko",
+            "number": "31",
+            "set": "PR-SM"
+        },
+        {
+          "count": 1,
+            "name": "Latios",
+            "number": "41",
+            "set": "SLG"
+        },
+        {
+          "count": 1,
+              "name": "Oranguru",
+                "number": "113",
+                "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
       ],
       "trainer":[
-
+        {
+          "count": 4,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+         "count": 4,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Max Elixir",
+            "number": "102",
+            "set": "BKP"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Super Rod",
+            "number": "149",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
+        },
       ],
       "energy":[
+        {
+          "count": 10,
+            "name": "Dark Energy",
+            "number": "dark",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Yveltal BREAK",
-          "number": "66",
-          "set": "STS"
-        // breakCard: true
-      },
-      {
-        "count": 3,
-          "name": "Yveltal",
-          "number": "65",
-          "set": "STS"
-      },
-      {
-        "count": 1,
-          "name": "Yveltal",
-          "number": "54",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Hoopa",
-          "number": "55",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-            "name": "Mewtwo",
-            "number": "51",
-            "set": "EVO"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Koko",
-          "number": "31",
-          "set": "PR-SM"
-      },
-      {
-        "count": 1,
-          "name": "Latios",
-          "number": "41",
-          "set": "SLG"
-      },
-      {
-        "count": 1,
-            "name": "Oranguru",
-              "number": "113",
-              "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-       "count": 4,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Max Elixir",
-          "number": "102",
-          "set": "BKP"
-      },
-      {
-        "count": 2,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 3,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 1,
-          "name": "Parallel City",
-          "number": "145",
-          "set": "BKT"
-      },
-      {
-        "count": 10,
-          "name": "Dark Energy",
-          "number": "dark",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Gustavo Wada',
@@ -1327,13 +1325,7 @@ let masters = [
     sprite2: '../../../assets/sprites/hoopa-unbound.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "wall"
   },
   {
     firstName: 'Matthew Padget',
@@ -1342,13 +1334,7 @@ let masters = [
     sprite2: '../../../assets/sprites/necrozma.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "malamar"
   },
   {
     firstName: 'Dustin Zimmerman',
@@ -1357,13 +1343,7 @@ let masters = [
     sprite2: '../../../assets/sprites/yveltal.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "yveltal-break"
   },
   {
     firstName: 'Ahmed Ali',
@@ -1371,156 +1351,160 @@ let masters = [
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eeee",
+    deckid: "buzzwole-gx",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon":[
-
+        {
+          "count": 3,
+            "name": "Buzzwole",
+            "number": "77",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+          "name": "Lycanroc GX",
+          "number": "74",
+          "set": "GRI"
+        },
+        {
+          "count": 2,
+          "name": "Rockruff",
+          "number": "75",
+          "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Regirock-EX",
+            "number": "43",
+            "set": "FCO"
+        },
+        {
+          "count": 1,
+            "name": "Diancie ♢",
+            "number": "74",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Octillery",
+            "number": "33",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Remoraid",
+            "number": "32",
+            "set": "BKT"
+        },
       ],
       "trainer":[
-
+        {
+          "count": 4,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Max Elixir",
+            "number": "102",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Super Rod",
+            "number": "149",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+          "name": "Brooklet Hill",
+          "number": "120",
+          "set": "GRI"
+        },
       ],
       "energy":[
+        {
+          "count": 9,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Strong Energy",
+            "number": "104",
+            "set": "FFI"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
+        },
       ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Buzzwole",
-          "number": "77",
-          "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 2,
-        "name": "Lycanroc GX",
-        "number": "74",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-        "name": "Rockruff",
-        "number": "75",
-        "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Diancie ♢",
-          "number": "74",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 3,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Max Elixir",
-          "number": "102",
-          "set": "BKP"
-      },
-      {
-        "count": 3,
-          "name": "Beast Ring",
-          "number": "102",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 2,
-        "name": "Brooklet Hill",
-        "number": "120",
-        "set": "GRI"
-      },
-      {
-        "count": 9,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Christopher Venier',
@@ -1529,13 +1513,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "zoroark-golisopod"
   },
   {
     firstName: 'Kyle Lesniewicz',
@@ -1547,150 +1525,156 @@ let masters = [
     event: "2018 North America Internationals",
     decklist: {
       "pokemon":[
-
+        {
+          "count": 3,
+            "name": "Sylveon GX",
+            "number": "92",
+            "set": "GRI"
+        },
+        {
+          "count": 4,
+          "name": "Eevee",
+          "number": "101",
+          "set": "SUM"
+        },
       ],
       "trainer":[
-
+        {
+          "count": 4,
+            "name": "Team Flare Grunt",
+            "number": "73",
+            "set": "GEN"
+        },
+        {
+          "count": 2,
+            "name": "Lusamine",
+            "number": "96",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Gladion",
+            "number": "95",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 1,
+              "name": "Professor Kukui",
+              "number": "128",
+              "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Plumeria",
+            "number": "120",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Team Skull Grunt",
+            "number": "133",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Team Rocket's Handiwork",
+            "number": "112",
+            "set": "FCO"
+        },
+        {
+          "count": 4,
+            "name": "Nest Ball",
+            "number": "123",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Puzzle of Time",
+            "number": "109",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 4,
+            "name": "Crushing Hammer",
+            "number": "115",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+            "count": 2,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Fairy Drop",
+            "number": "99",
+            "set": "FCO"
+        },
+        {
+          "count": 1,
+            "name": "Professor's Letter",
+            "number": "146",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Bodybuilding Dumbbells",
+            "number": "113",
+            "set": "BUS"
+        },
       ],
       "energy":[
-      ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17/sylveon-gx.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 4,
-        "name": "Eevee",
-        "number": "101",
-        "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/team-flare-grunt.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 2,
-          "name": "Lusamine",
-          "number": "96",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Gladion",
-          "number": "95",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 1,
-            "name": "Professor Kukui",
-            "number": "128",
+        {
+          "count": 11,
+            "name": "Fairy Energy",
+            "number": "fairy",
             "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Plumeria",
-          "number": "120",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Team Skull Grunt",
-          "number": "133",
+        },
+        {
+          "count": 1,
+          "name": "Double Colorless Energy",
+          "number": "136",
           "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/team-rockets-handiwork.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Puzzle of Time",
-          "number": "109",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "Crushing Hammer",
-          "number": "115",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-          "count": 2,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2014-2016/fairy-drop.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/professors-letter.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 2,
-          "name": "Bodybuilding Dumbbells",
-          "number": "113",
-          "set": "BUS"
-      },
-      {
-        "count": 11,
-          "name": "Fairy Energy",
-          "number": "fairy",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-    ]
+        },
+      ]
+    }
   },
   {
     firstName: 'Nikolas Campbell',
@@ -1699,13 +1683,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "buzzwole-gx"
   },
   {
     firstName: 'Mark Dizon',
@@ -1713,204 +1691,184 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-lycanroc",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+          "name": "Lycanroc GX",
+          "number": "74",
+          "set": "GRI"
+        },
+        {
+          "count": 2,
+          "name": "Rockruff",
+          "number": "75",
+          "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Rockruff",
+            "number": "73",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+              "name": "Mew-EX",
+              "number": "126",
+              "set": "PR-XY"
+        },
+        {
+          "count": 1,
+              "name": "Mewtwo",
+              "number": "51",
+              "set": "EVO"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+           "count": 1,
+          "name": "Mallow",
+          "number": "127",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Puzzle of Time",
+            "number": "109",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Evosoda",
+            "number": "116",
+            "set": "XY"
+        },
+        {
+          "count": 1,
+          "name": "Multi Switch",
+          "number": "129",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 1,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Strong Energy",
+            "number": "104",
+            "set": "FFI"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-        "name": "Lycanroc GX",
-        "number": "74",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-        "name": "Rockruff",
-        "number": "75",
-        "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Rockruff",
-          "number": "73",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-            "name": "Mew-EX",
-            "number": "126",
-            "set": "PR-XY"
-      },
-      {
-        "count": 1,
-            "name": "Mewtwo",
-            "number": "51",
-            "set": "EVO"
-      },
-      {
-        "count": 3,
-          "name": "Brigette",
-          "number": "134",
-          "set": "BKT"
-      },
-      {
-        "count": 3,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-         "count": 1,
-        "name": "Mallow",
-        "number": "127",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Puzzle of Time",
-          "number": "109",
-          "set": "BKP"
-      },
-      {
-        "count": 3,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Evosoda",
-          "number": "116",
-          "set": "XY"
-      },
-      {
-        "count": 1,
-        "name": "Multi Switch",
-        "number": "129",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 1,
-          "name": "Parallel City",
-          "number": "145",
-          "set": "BKT"
-      },
-      {
-        "count": 1,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
-      },
-    ]
+    }
   },
   {
     firstName: 'William Azevedo',
@@ -1919,13 +1877,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "zoroark-golisopod"
   },
   {
     firstName: 'Alex Schemanske',
@@ -1933,323 +1885,303 @@ let masters = [
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "buzzwole-garbodor",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Buzzwole",
+            "number": "77",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Garbodor",
+            "number": "57",
+            "set": "BKP"
+        },
+        {
+          "count": 2,
+            "name": "Trubbish",
+            "number": "50",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Nest Ball",
+            "number": "123",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Order Pad",
+            "number": "131",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Random Receiver",
+            "number": "109",
+            "set": "FCO"
+        },
+        {
+          "count": 4,
+            "name": "Fighting Fury Belt",
+            "number": "99",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Strong Energy",
+            "number": "104",
+            "set": "FFI"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Buzzwole",
-          "number": "77",
-          "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Garbodor",
-          "number": "57",
-          "set": "BKP"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/trubbish.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 1,
-          "name": "Lillie",
-          "number": "125",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Beast Ring",
-          "number": "102",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Order Pad",
-          "number": "131",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/random-receiver.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Fighting Fury Belt",
-          "number": "99",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 7,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Tran Nguyen',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/garbodor.png',
-    sprite2: '../../../assets/sprites/buzzwole.png',
+    sprite1: '../../../assets/sprites/buzzwole.png',
+    sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eeee",
+    deckid: "buzzwole-garbodor",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon":[
-
+        {
+          "count": 2,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+            "name": "Buzzwole",
+            "number": "77",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Garbodor",
+            "number": "51",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Garbodor",
+            "number": "57",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "Trubbish",
+            "number": "56",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
       ],
       "trainer":[
-
+        {
+          "count": 4,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+            "count": 1,
+            "name": "Pal Pad",
+            "number": "132",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Fighting Fury Belt",
+            "number": "99",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
+        },
       ],
       "energy":[
-      ]
-    },
-    deck: [
-      {
-        "count": 2,
-          "name": "Garbodor",
-          "number": "51",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Garbodor",
-          "number": "57",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-          "name": "Trubbish",
-          "number": "56",
-          "set": "BKP"
-      },
-      {
-        "count": 2,
-          "name": "Buzzwole",
-          "number": "77",
-          "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 3,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Brigette",
-          "number": "134",
-          "set": "BKT"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
+        {
+          "count": 4,
+            "name": "Strong Energy",
+            "number": "104",
+            "set": "FFI"
+        },
+        {
+          "count": 4,
+              "name": "Rainbow Energy",
+              "number": "137",
+              "set": "SUM"
+        },
+        {
+          "count": 2,
+          "name": "Double Colorless Energy",
+          "number": "136",
           "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
+        },
+        {
           "count": 1,
-          "name": "Pal Pad",
-          "number": "132",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Fighting Fury Belt",
-          "number": "99",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 2,
-          "name": "Parallel City",
-          "number": "145",
-          "set": "BKT"
-      },
-      {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
-      },
-      {
-        "count": 4,
-            "name": "Rainbow Energy",
-            "number": "137",
-            "set": "SUM"
-      },
-      {
-        "count": 2,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
+        },
+      ]
+    }
   },
   {
     firstName: 'Michael Laundrie',
@@ -2258,13 +2190,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "buzzwole-garbodor"
   },
   {
     firstName: 'Michael Pramawat',
@@ -2272,152 +2198,154 @@ let masters = [
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eeee",
+    deckid: "buzzwole-gx",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon":[
-
+        {
+          "count": 4,
+            "name": "Buzzwole",
+            "number": "77",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+          "name": "Lycanroc GX",
+          "number": "74",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+          "name": "Rockruff",
+          "number": "75",
+          "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Rockruff",
+            "number": "73",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Diancie ♢",
+            "number": "74",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Octillery",
+            "number": "33",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Remoraid",
+            "number": "32",
+            "set": "BKT"
+        },
       ],
       "trainer":[
-
+        {
+          "count": 4,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+         "count": 4,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Max Elixir",
+            "number": "102",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Super Rod",
+            "number": "149",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+          "name": "Brooklet Hill",
+          "number": "120",
+          "set": "GRI"
+        },
       ],
       "energy":[
+        {
+          "count": 9,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Strong Energy",
+            "number": "104",
+            "set": "FFI"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
+        },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Buzzwole",
-          "number": "77",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 2,
-        "name": "Lycanroc GX",
-        "number": "74",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-        "name": "Rockruff",
-        "number": "75",
-        "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Rockruff",
-          "number": "73",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Diancie ♢",
-          "number": "74",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 4,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-       "count": 4,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Max Elixir",
-          "number": "102",
-          "set": "BKP"
-      },
-      {
-        "count": 3,
-          "name": "Beast Ring",
-          "number": "102",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 3,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 3,
-        "name": "Brooklet Hill",
-        "number": "120",
-        "set": "GRI"
-      },
-      {
-        "count": 9,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Cody Graham',
@@ -2425,158 +2353,142 @@ let masters = [
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "buzzwole-garbodor",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Buzzwole",
+            "number": "77",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Garbodor",
+            "number": "57",
+            "set": "BKP"
+        },
+        {
+          "count": 2,
+            "name": "Trubbish",
+            "number": "50",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Nest Ball",
+            "number": "123",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Order Pad",
+            "number": "131",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Random Receiver",
+            "number": "109",
+            "set": "FCO"
+        },
+        {
+          "count": 4,
+            "name": "Fighting Fury Belt",
+            "number": "99",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Strong Energy",
+            "number": "104",
+            "set": "FFI"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Buzzwole",
-          "number": "77",
-          "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Garbodor",
-          "number": "57",
-          "set": "BKP"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/trubbish.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 1,
-          "name": "Lillie",
-          "number": "125",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Beast Ring",
-          "number": "102",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Order Pad",
-          "number": "131",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/random-receiver.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Fighting Fury Belt",
-          "number": "99",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 7,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Philip Schulz',
@@ -2584,198 +2496,178 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/zoroark.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-gx",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+              "name": "Mew-EX",
+              "number": "126",
+              "set": "PR-XY"
+        },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+           "count": 1,
+          "name": "Mallow",
+          "number": "127",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Delinquent",
+            "number": "98",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+            "name": "Team Flare Grunt",
+            "number": "73",
+            "set": "GEN"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Puzzle of Time",
+            "number": "109",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Evosoda",
+            "number": "116",
+            "set": "XY"
+        },
+        {
+          "count": 3,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Weakness Policy",
+            "number": "126",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Reverse Valley",
+            "number": "110",
+            "set": "BKP"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-            "name": "Mew-EX",
-            "number": "126",
-            "set": "PR-XY"
-      },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Brigette",
-          "number": "134",
-          "set": "BKT"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-         "count": 1,
-        "name": "Mallow",
-        "number": "127",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Delinquent",
-          "number": "98",
-          "set": "BKP"
-      },
-      {
-        "count": 1,
-          "name": "Team Flare Grunt",
-          "number": "73",
-          "set": "GEN"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Puzzle of Time",
-          "number": "109",
-          "set": "BKP"
-      },
-      {
-        "count": 3,
-          "name": "Evosoda",
-          "number": "116",
-          "set": "XY"
-      },
-      {
-        "count": 3,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        "count": 2,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Weakness Policy",
-          "number": "126",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 2,
-          "name": "Parallel City",
-          "number": "145",
-          "set": "BKT"
-      },
-      {
-        "count": 1,
-          "name": "Reverse Valley",
-          "number": "110",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Pedro Torres',
@@ -2783,204 +2675,184 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-lycanroc",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+          "name": "Lycanroc GX",
+          "number": "74",
+          "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Rockruff",
+            "number": "73",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+          "name": "Rockruff",
+          "number": "75",
+          "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+              "name": "Mew-EX",
+              "number": "126",
+              "set": "PR-XY"
+        },
+        {
+          "count": 1,
+              "name": "Mewtwo",
+              "number": "51",
+              "set": "EVO"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+              "name": "Professor Kukui",
+              "number": "128",
+              "set": "SUM"
+        },
+        {
+           "count": 1,
+          "name": "Mallow",
+          "number": "127",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Puzzle of Time",
+            "number": "109",
+            "set": "BKP"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+          "name": "Multi Switch",
+          "number": "129",
+          "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 1,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Strong Energy",
+            "number": "104",
+            "set": "FFI"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-        "name": "Lycanroc GX",
-        "number": "74",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Rockruff",
-          "number": "73",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-        "name": "Rockruff",
-        "number": "75",
-        "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-            "name": "Mew-EX",
-            "number": "126",
-            "set": "PR-XY"
-      },
-      {
-        "count": 1,
-            "name": "Mewtwo",
-            "number": "51",
-            "set": "EVO"
-      },
-      {
-        "count": 3,
-          "name": "Brigette",
-          "number": "134",
-          "set": "BKT"
-      },
-      {
-        "count": 3,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 1,
-            "name": "Professor Kukui",
-            "number": "128",
-            "set": "SUM"
-      },
-      {
-         "count": 1,
-        "name": "Mallow",
-        "number": "127",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Puzzle of Time",
-          "number": "109",
-          "set": "BKP"
-      },
-      {
-        "count": 2,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-        "name": "Multi Switch",
-        "number": "129",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 2,
-          "name": "Parallel City",
-          "number": "145",
-          "set": "BKT"
-      },
-      {
-        "count": 1,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Dalton Didelot',
@@ -2988,160 +2860,148 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/necrozma-ultra.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "malamar",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Malamar",
+            "number": "51",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Inkay",
+            "number": "50",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Ultra Necrozma GX",
+            "number": "95",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Dawn Wings Necrozma GX",
+            "number": "63",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Hoopa",
+            "number": "51",
+            "set": "STS"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 1,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 4,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Professor's Letter",
+            "number": "146",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Super Rod",
+            "number": "149",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Altar of the Moon",
+            "number": "117",
+            "set": "GRI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 8,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Malamar",
-          "number": "51",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Inkay",
-          "number": "50",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Ultra Necrozma GX",
-          "number": "95",
-          "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Dawn Wings Necrozma GX",
-          "number": "63",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/hoopa-psychic.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 1,
-          "name": "Brigette",
-          "number": "134",
-          "set": "BKT"
-      },
-      {
-        "count": 4,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/professors-letter.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Beast Ring",
-          "number": "102",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 3,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/altar-of-the-moone.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 8,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Daniel Altavilla',
@@ -3150,13 +3010,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "buzzwole-garbodor"
   },
   {
     firstName: 'Alexander Hill',
@@ -3164,158 +3018,142 @@ let masters = [
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "buzzwole-garbodor",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Buzzwole",
+            "number": "77",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Garbodor",
+            "number": "57",
+            "set": "BKP"
+        },
+        {
+          "count": 2,
+            "name": "Trubbish",
+            "number": "50",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 4,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+            "name": "Lillie",
+            "number": "125",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Nest Ball",
+            "number": "123",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Order Pad",
+            "number": "131",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Random Receiver",
+            "number": "109",
+            "set": "FCO"
+        },
+        {
+          "count": 4,
+            "name": "Fighting Fury Belt",
+            "number": "99",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 7,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Strong Energy",
+            "number": "104",
+            "set": "FFI"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Buzzwole",
-          "number": "77",
-          "set": "FLI"
-      },
-      {
-        "count": 2,
-          "name": "Garbodor",
-          "number": "57",
-          "set": "BKP"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/trubbish.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 1,
-          "name": "Lillie",
-          "number": "125",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Beast Ring",
-          "number": "102",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Order Pad",
-          "number": "131",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/random-receiver.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Fighting Fury Belt",
-          "number": "99",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 7,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Boston Moreland',
@@ -3324,13 +3162,7 @@ let masters = [
     sprite2: '../../../assets/sprites/hoopa-unbound.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "wall"
   },
   {
     firstName: 'John Kettler',
@@ -3338,190 +3170,172 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/golisopod.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-golisopod",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Golisopod GX",
+            "number": "17",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Wimpod",
+            "number": "16",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Koko",
+            "number": "31",
+            "set": "PR-SM"
+        },
+        {
+          "count": 1,
+            "name": "Oranguru",
+            "number": "114",
+            "set": "UPR"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+         "count": 4,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+           "count": 1,
+          "name": "Mallow",
+          "number": "127",
+          "set": "GRI"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Puzzle of Time",
+            "number": "109",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Evosoda",
+            "number": "116",
+            "set": "XY"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Grass Energy",
+            "number": "grass",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Golisopod GX",
-          "number": "17",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Wimpod",
-          "number": "16",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Tapu Koko",
-          "number": "31",
-          "set": "PR-SM"
-      },
-      {
-        "count": 1,
-          "name": "Oranguru",
-          "number": "114",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Brigette",
-          "number": "134",
-          "set": "BKT"
-      },
-      {
-       "count": 4,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-         "count": 1,
-        "name": "Mallow",
-        "number": "127",
-        "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Puzzle of Time",
-          "number": "109",
-          "set": "BKP"
-      },
-      {
-        "count": 3,
-          "name": "Evosoda",
-          "number": "116",
-          "set": "XY"
-      },
-      {
-        "count": 2,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 1,
-          "name": "Parallel City",
-          "number": "145",
-          "set": "BKT"
-      },
-      {
-        "count": 3,
-          "name": "Grass Energy",
-          "number": "grass",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Nick Capobianco',
@@ -3529,158 +3343,142 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/lugia-shiny.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "malamar",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Malamar",
+            "number": "51",
+            "set": "FLI"
+        },
+        {
+          "count": 4,
+            "name": "Inkay",
+            "number": "50",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Shining Lugia",
+            "number": "82",
+            "set": "PR-SM"
+        },
+        {
+          "count": 3,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+              "name": "Mewtwo GX",
+              "number": "39",
+              "set": "SLG"
+        },
+        {
+           "count": 1,
+              "name": "Marshadow GX",
+              "number": "80",
+              "set": "BUS"
+        },
+        {
+           "count": 1,
+            "name": "Mimikyu",
+            "number": "58",
+            "set": "GRI"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+         "count": 4,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 4,
+            "name": "Mysterious Treasure",
+            "number": "113",
+            "set": "FLI"
+        },
+        {
+          "count": 3,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Professor's Letter",
+            "number": "146",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Fighting Fury Belt",
+            "number": "99",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 8,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Malamar",
-          "number": "51",
-          "set": "FLI"
-      },
-      {
-        "count": 4,
-          "name": "Inkay",
-          "number": "50",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/shining-lugia.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 3,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-            "name": "Mewtwo GX",
-            "number": "39",
-            "set": "SLG"
-      },
-      {
-         "count": 1,
-            "name": "Marshadow GX",
-            "number": "80",
-            "set": "BUS"
-      },
-      {
-         "count": 1,
-          "name": "Mimikyu",
-          "number": "58",
-          "set": "GRI"
-      },
-      {
-        "count": 4,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-       "count": 4,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Brigette",
-          "number": "134",
-          "set": "BKT"
-      },
-      {
-        "count": 4,
-          "name": "Mysterious Treasure",
-          "number": "113",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/professors-letter.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Rescue Stretcher",
-          "number": "130",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Fighting Fury Belt",
-          "number": "99",
-          "set": "BKP"
-      },
-      {
-        "count": 3,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 8,
-          "name": "Psychic Energy",
-          "number": "psychic",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Brian Miller',
@@ -3689,13 +3487,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "zoroark-golisopod"
   },
   {
     firstName: 'Lance Bradshaw',
@@ -3704,13 +3496,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "buzzwole-gx"
   },
   {
     firstName: 'Timothy Eberhardt',
@@ -3719,13 +3505,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "golisopod-garbodor"
   },
   {
     firstName: 'Clifton Goh',
@@ -3734,13 +3514,7 @@ let masters = [
     sprite2: '../../../assets/sprites/yveltal.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "yveltal-break"
   },
   {
     firstName: 'Eli Ottaviano',
@@ -3748,154 +3522,160 @@ let masters = [
     sprite1: '../../../assets/sprites/necrozma-dusk-mane.png',
     sprite2: '../../../assets/sprites/magnezone.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "duskmane-magnezone",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Dusk Mane Necrozma GX",
+            "number": "90",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Magnezone",
+            "number": "83",
+            "set": "UPR"
+        },
+        {
+          "count": 3,
+            "name": "Magnemite",
+            "number": "81",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Dialga GX",
+            "number": "82",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Celesteela GX",
+            "number": "67",
+            "set": "PR-SM"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Octillery",
+            "number": "33",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Remoraid",
+            "number": "32",
+            "set": "BKT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 2,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+         "count": 2,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Skyla",
+            "number": "148",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Fisherman",
+            "number": "136",
+            "set": "BKT"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Rare Candy",
+            "number": "129",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Professor's Letter",
+            "number": "146",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Energy Retrieval",
+            "number": "116",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Timer Ball",
+            "number": "134",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Fighting Fury Belt",
+            "number": "99",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+              "name": "Mount Coronet",
+              "number": "130",
+              "set": "UPR"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 11,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17/necrozma-dusk-mane-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/magnezone.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/magnemite.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/dialga-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/celesteela-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 4,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 2,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-       "count": 2,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Brigette",
-          "number": "134",
-          "set": "BKT"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/skyla.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/fisherman.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/rare-candy-sum.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 2,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/professors-letter.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/energy-retrieval.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 1,
-          "name": "Timer Ball",
-          "number": "134",
-          "set": "SUM"
-      },
-      {
-        "count": 2,
-          "name": "Fighting Fury Belt",
-          "number": "99",
-          "set": "BKP"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/mt-coronet.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        "count": 11,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Nathan Brower',
@@ -3904,13 +3684,7 @@ let masters = [
     sprite2: '../../../assets/sprites/necrozma-ultra.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "malamar"
   },
   {
     firstName: 'Ian Robb',
@@ -3918,140 +3692,142 @@ let masters = [
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eeee",
+    deckid: "buzzwole-gx",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon":[
-
+        {
+          "count": 4,
+            "name": "Buzzwole",
+            "number": "77",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 2,
+          "name": "Lycanroc GX",
+          "number": "74",
+          "set": "GRI"
+        },
+        {
+          "count": 2,
+          "name": "Rockruff",
+          "number": "75",
+          "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Diancie ♢",
+            "number": "74",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Octillery",
+            "number": "33",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Remoraid",
+            "number": "32",
+            "set": "BKT"
+        },
       ],
       "trainer":[
-
+        {
+          "count": 4,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+         "count": 4,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Max Elixir",
+            "number": "102",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Beast Ring",
+            "number": "102",
+            "set": "FLI"
+        },
+        {
+          "count": 2,
+            "name": "Super Rod",
+            "number": "149",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+          "name": "Brooklet Hill",
+          "number": "120",
+          "set": "GRI"
+        },
       ],
       "energy":[
+        {
+          "count": 8,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Strong Energy",
+            "number": "104",
+            "set": "FFI"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
+        },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Buzzwole",
-          "number": "77",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 2,
-        "name": "Lycanroc GX",
-        "number": "74",
-        "set": "GRI"
-      },
-      {
-        "count": 2,
-        "name": "Rockruff",
-        "number": "75",
-        "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Diancie ♢",
-          "number": "74",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 4,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-       "count": 4,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 2,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Max Elixir",
-          "number": "102",
-          "set": "BKP"
-      },
-      {
-        "count": 3,
-          "name": "Beast Ring",
-          "number": "102",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 3,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 3,
-        "name": "Brooklet Hill",
-        "number": "120",
-        "set": "GRI"
-      },
-      {
-        "count": 8,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Ian Buck',
@@ -4060,13 +3836,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "zoroark-golisopod"
   },
   {
     firstName: 'David Suddaby',
@@ -4074,154 +3844,154 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/buzzwole.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eeee",
+    deckid: "buzzwole-gx",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon":[
-
+        {
+          "count": 3,
+            "name": "Buzzwole GX",
+            "number": "57",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Buzzwole",
+            "number": "77",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Regirock-EX",
+            "number": "43",
+            "set": "FCO"
+        },
+        {
+          "count": 1,
+            "name": "Diancie ♢",
+            "number": "74",
+            "set": "FLI"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+              "name": "Oranguru",
+                "number": "113",
+                "set": "SUM"
+        },
       ],
       "trainer":[
-
+        {
+          "count": 4,
+             "name": "Guzma",
+             "number": "115",
+             "set": "BUS"
+         },
+         {
+           "count": 4,
+             "name": "Cynthia",
+             "number": "119",
+             "set": "UPR"
+         },
+         {
+           "count": 3,
+             "name": "Professor Sycamore",
+             "number": "107",
+             "set": "BKP"
+         },
+         {
+           "count": 2,
+             "name": "N",
+             "number": "105",
+             "set": "FCO"
+         },
+         {
+           "count": 4,
+             "name": "Max Elixir",
+             "number": "102",
+             "set": "BKP"
+         },
+         {
+           "count": 4,
+             "name": "Beast Ring",
+             "number": "102",
+             "set": "FLI"
+         },
+         {
+           "count": 3,
+             "name": "Ultra Ball",
+             "number": "135",
+             "set": "SUM"
+         },
+         {
+           "count": 3,
+             "name": "Order Pad",
+             "number": "131",
+             "set": "UPR"
+         },
+         {
+           "count": 1,
+             "name": "Random Receiver",
+             "number": "109",
+             "set": "FCO"
+         },
+         {
+           "count": 1,
+             "name": "Nest Ball",
+             "number": "123",
+             "set": "SUM"
+         },
+         {
+           "count": 1,
+             "name": "Counter Catcher",
+             "number": "91",
+             "set": "CIN"
+         },
+         {
+           "count": 3,
+             "name": "Fighting Fury Belt",
+             "number": "99",
+             "set": "BKP"
+         },
+         {
+           "count": 3,
+             "name": "Float Stone",
+             "number": "137",
+             "set": "BKT"
+         },
+         {
+           "count": 2,
+           "name": "Brooklet Hill",
+           "number": "120",
+           "set": "GRI"
+         },
       ],
       "energy":[
+        {
+          "count": 9,
+            "name": "Fighting Energy",
+            "number": "fighting",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Strong Energy",
+            "number": "104",
+            "set": "FFI"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
+        },
       ]
-    },
-    deck: [
-      {
-        "count": 3,
-          "name": "Buzzwole GX",
-          "number": "57",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Buzzwole",
-          "number": "77",
-          "set": "FLI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Diancie ♢",
-          "number": "74",
-          "set": "FLI"
-      },
-      {
-        "count": 1,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-            "name": "Oranguru",
-              "number": "113",
-              "set": "SUM"
-      },
-      {
-       "count": 4,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 3,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 2,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 4,
-          "name": "Max Elixir",
-          "number": "102",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-          "name": "Beast Ring",
-          "number": "102",
-          "set": "FLI"
-      },
-      {
-        "count": 3,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 3,
-          "name": "Order Pad",
-          "number": "131",
-          "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/random-receiver.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-          "name": "Nest Ball",
-          "number": "123",
-          "set": "SUM"
-      },
-      {
-        "count": 1,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        "count": 3,
-          "name": "Fighting Fury Belt",
-          "number": "99",
-          "set": "BKP"
-      },
-      {
-        "count": 3,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 2,
-        "name": "Brooklet Hill",
-        "number": "120",
-        "set": "GRI"
-      },
-      {
-        "count": 9,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Emre Erel',
@@ -4230,13 +4000,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "buzzwole-gx"
   },
   {
     firstName: 'Wesley Hollenberg',
@@ -4245,13 +4009,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "buzzwole-garbodor"
   },
   {
     firstName: 'Samuel Hough',
@@ -4260,13 +4018,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "buzzwole-garbodor"
   },
   {
     firstName: 'Igor Costa',
@@ -4274,192 +4026,172 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/golisopod.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-golisopod",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Golisopod GX",
+            "number": "17",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Wimpod",
+            "number": "16",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+              "name": "Mew-EX",
+              "number": "126",
+              "set": "PR-XY"
+        },
+        {
+          "count": 1,
+              "name": "Mewtwo",
+              "number": "51",
+              "set": "EVO"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+         "count": 2,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Delinquent",
+            "number": "98",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Puzzle of Time",
+            "number": "109",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Evosoda",
+            "number": "116",
+            "set": "XY"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+            "name": "Grass Energy",
+            "number": "grass",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+        {
+          "count": 1,
+              "name": "Rainbow Energy",
+              "number": "137",
+              "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Golisopod GX",
-          "number": "17",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "Wimpod",
-          "number": "16",
-          "set": "BUS"
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-            "name": "Mew-EX",
-            "number": "126",
-            "set": "PR-XY"
-      },
-      {
-        "count": 1,
-            "name": "Mewtwo",
-            "number": "51",
-            "set": "EVO"
-      },
-      {
-        "count": 4,
-          "name": "Brigette",
-          "number": "134",
-          "set": "BKT"
-      },
-      {
-        "count": 3,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-       "count": 2,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 1,
-          "name": "Delinquent",
-          "number": "98",
-          "set": "BKP"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Puzzle of Time",
-          "number": "109",
-          "set": "BKP"
-      },
-      {
-        "count": 3,
-          "name": "Evosoda",
-          "number": "116",
-          "set": "XY"
-      },
-      {
-        "count": 2,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 1,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-          "name": "Parallel City",
-          "number": "145",
-          "set": "BKT"
-      },
-      {
-        "count": 2,
-          "name": "Grass Energy",
-          "number": "grass",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-      {
-        "count": 1,
-            "name": "Rainbow Energy",
-            "number": "137",
-            "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Sean Kavanaugh',
@@ -4468,13 +4200,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "buzzwole-gx"
   },
   {
     firstName: 'Ramon Miranda',
@@ -4483,13 +4209,7 @@ let masters = [
     sprite2: '../../../assets/sprites/necrozma-ultra.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "malamar"
   },
   {
     firstName: 'Riley Hulbert',
@@ -4497,184 +4217,166 @@ let masters = [
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/golisopod.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "zoroark-golisopod",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Golisopod GX",
+            "number": "17",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Wimpod",
+            "number": "16",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+           "count": 1,
+          "name": "Mallow",
+          "number": "127",
+          "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Puzzle of Time",
+            "number": "109",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Evosoda",
+            "number": "116",
+            "set": "XY"
+        },
+        {
+          "count": 2,
+            "name": "Counter Catcher",
+            "number": "91",
+            "set": "CIN"
+        },
+        {
+          "count": 1,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+            "name": "Grass Energy",
+            "number": "grass",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-          "name": "Zoroark GX",
-          "number": "53",
-          "set": "SLG"
-      },
-      {
-        "count": 4,
-          "name": "Zorua",
-          "number": "52",
-          "set": "SLG"
-      },
-      {
-        "count": 2,
-          "name": "Golisopod GX",
-          "number": "17",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "Wimpod",
-          "number": "16",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 3,
-          "name": "Brigette",
-          "number": "134",
-          "set": "BKT"
-      },
-      {
-        "count": 3,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 3,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 1,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-        "count": 1,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-         "count": 1,
-        "name": "Mallow",
-        "number": "127",
-        "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Acerola",
-          "number": "112",
-          "set": "BUS"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-          "name": "Puzzle of Time",
-          "number": "109",
-          "set": "BKP"
-      },
-      {
-        "count": 3,
-          "name": "Field Blower",
-          "number": "125",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Evosoda",
-          "number": "116",
-          "set": "XY"
-      },
-      {
-        "count": 2,
-          "name": "Counter Catcher",
-          "number": "91",
-          "set": "CIN"
-      },
-      {
-        "count": 1,
-          "name": "Enhanced Hammer",
-          "number": "124",
-          "set": "GRI"
-      },
-      {
-        "count": 1,
-          "name": "Max Potion",
-          "number": "128",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 1,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 2,
-          "name": "Parallel City",
-          "number": "145",
-          "set": "BKT"
-      },
-      {
-        "count": 3,
-          "name": "Grass Energy",
-          "number": "grass",
-          "set": "SUM"
-      },
-      {
-        "count": 4,
-        "name": "Double Colorless Energy",
-        "number": "136",
-        "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Zach Elliott',
@@ -4683,13 +4385,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "zoroark-golisopod"
   },
   {
     firstName: 'Hunter Harless',
@@ -4698,13 +4394,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "zoroark-golisopod"
   },
   {
     firstName: 'Gibson Archer',
@@ -4713,13 +4403,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "zoroark-golisopod"
   },
   {
     firstName: 'Riley Pazdera',
@@ -4728,13 +4412,7 @@ let masters = [
     sprite2: '../../../assets/sprites/necrozma.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "malamar"
   },
   {
     firstName: 'Sam Liggett',
@@ -4742,124 +4420,118 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/volcanion.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "volcanion",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+              "name": "Volcanion-EX",
+              "number": "26",
+              "set": "STS"
+        },
+        {
+          "count": 4,
+              "name": "Volcanion",
+              "number": "25",
+              "set": "STS"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Octillery",
+            "number": "33",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Remoraid",
+            "number": "32",
+            "set": "BKT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+         "count": 4,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 2,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+         "count": 4,
+              "name": "Professor's Letter",
+              "number": "146",
+              "set": "BKT"
+        },
+        {
+          "count": 4,
+            "name": "Energy Retrieval",
+            "number": "116",
+            "set": "SUM"
+        },
+        {
+          "count": 1,
+            "name": "Super Rod",
+            "number": "149",
+            "set": "BKT"
+        },
+        {
+          "count": 4,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+          "name": "Brooklet Hill",
+          "number": "120",
+          "set": "GRI"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 13,
+            "name": "Fire Energy",
+            "number": "fire",
+            "set": "SUM"
         },
       ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17/volcanion-ex.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/volcanion.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        "count": 2,
-          "name": "Tapu Lele GX",
-          "number": "60",
-          "set": "GRI"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Professor Sycamore",
-          "number": "107",
-          "set": "BKP"
-      },
-      {
-       "count": 4,
-          "name": "Guzma",
-          "number": "115",
-          "set": "BUS"
-      },
-      {
-        "count": 3,
-          "name": "Cynthia",
-          "number": "119",
-          "set": "UPR"
-      },
-      {
-        "count": 2,
-          "name": "N",
-          "number": "105",
-          "set": "FCO"
-      },
-      {
-        "count": 4,
-          "name": "Ultra Ball",
-          "number": "135",
-          "set": "SUM"
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/professors-letter.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/energy-retrieval.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 4,
-          "name": "Float Stone",
-          "number": "137",
-          "set": "BKT"
-      },
-      {
-        "count": 2,
-          "name": "Choice Band",
-          "number": "121",
-          "set": "GRI"
-      },
-      {
-        "count": 3,
-        "name": "Brooklet Hill",
-        "number": "120",
-        "set": "GRI"
-      },
-      {
-        "count": 13,
-          "name": "Fire Energy",
-          "number": "fire",
-          "set": "SUM"
-      },
-    ]
+    }
   },
   {
     firstName: 'Bodhi Tracy',
@@ -4868,13 +4540,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "buzzwole-garbodor"
   },
   {
     firstName: 'Joshua Bickel',
@@ -4882,7 +4548,7 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/necrozma.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "malamar",
     event: "2018 North America Internationals",
     decklist: {
       "pokemon": [
@@ -4952,8 +4618,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/hoopa-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Hoopa",
+          "number": "51",
+          "set": "STS"
       },
       {
         "count": 1,
@@ -5048,13 +4716,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garbodor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "eee"
   },
   {
     firstName: 'Christian Franco',
@@ -5063,13 +4725,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "eee"
   },
   {
     firstName: 'James Arnold',
@@ -5253,12 +4909,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -5303,8 +4963,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -5351,13 +5013,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "eee"
   },
   {
     firstName: 'Andrew Scott',
@@ -5403,8 +5059,10 @@ let masters = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -5413,12 +5071,16 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 1,
@@ -5469,8 +5131,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -5517,13 +5181,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "eee"
   },
   {
     firstName: 'Jason Schmidt',
@@ -5532,13 +5190,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lapras.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "eee"
   },
   {
     firstName: 'Alejo Iturbe',
@@ -5547,13 +5199,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "eee"
   },
   {
     firstName: 'Dakota Gillanders',
@@ -5562,13 +5208,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
-      },
-    ]
+    deckid: "eee"
   },
   {
     firstName: 'Benjamin Potter',
@@ -5654,12 +5294,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -5698,8 +5342,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -5808,12 +5454,16 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -5858,8 +5508,10 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -5971,12 +5623,16 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -6021,8 +5677,10 @@ let seniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -6182,8 +5840,10 @@ let seniors = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2018-17/random-receiver.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Random Receiver",
+          "number": "109",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -6192,8 +5852,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -6725,8 +6387,10 @@ let seniors = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2018-17/random-receiver.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Random Receiver",
+          "number": "109",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -7949,12 +7613,16 @@ let juniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -8005,8 +7673,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,
@@ -8132,8 +7802,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/hoopa-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Hoopa",
+          "number": "51",
+          "set": "STS"
       },
       {
         "count": 3,
@@ -8444,8 +8116,10 @@ let juniors = [
         "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/regirock-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Regirock-EX",
+          "number": "43",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -8460,12 +8134,16 @@ let juniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/octillery.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Octillery",
+          "number": "33",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-ion-pool.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Remoraid",
+          "number": "32",
+          "set": "BKT"
       },
       {
        "count": 4,
@@ -8510,8 +8188,10 @@ let juniors = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 3,

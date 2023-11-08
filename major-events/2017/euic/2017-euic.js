@@ -3793,8 +3793,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/fairy-drop.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fairy Drop",
+          "number": "99",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2018-17/switch.png',
@@ -3807,8 +3809,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2014-2016/buddy-buddy-resuce.png',
@@ -6486,8 +6490,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/super-rod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Super Rod",
+          "number": "149",
+          "set": "BKT"
       },
       {
         "count": 2,
