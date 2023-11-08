@@ -67,13 +67,13 @@ function displayList(array = []) {
                             //sm
                             sm12, sm11, sm10, sm9, sm8, sm7, sm6, sm5, sm4, sm3, sm2, sm1, det, sm115, sm75, sm35, smp,
                             //XY
-                            xy12, xy11, xy10, g1, xy9, xy8, xy7, xy6, dc1, xy5, xy4, xy3, xy2, xy1
+                            xy12, xy11, xy10, g1, xy9, xy8, xy7, xy6, dc1, xy5, xy4, xy3, xy2, xy1, xyp
                         }
 
                         // 60 card checker
                         let sixtyCheck = item.decklist.pokemon.reduce((n, {count}) => n + count, 0) + item.decklist.trainer.reduce((n, {count}) => n + count, 0) + item.decklist.energy.reduce((n, {count}) => n + count, 0);
                         if (sixtyCheck !== 60) {
-                            confirm('NOT 60 CARD! only' + " " + sixtyCheck)
+                            confirm('NOT 60 CARDS! only' + " " + sixtyCheck)
                         }
 
                         const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)

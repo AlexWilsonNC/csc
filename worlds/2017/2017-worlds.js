@@ -208,12 +208,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -328,8 +332,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 3,
@@ -534,12 +540,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -660,8 +670,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -747,8 +759,10 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
         "count": 4,
@@ -1314,8 +1328,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -1435,8 +1451,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/switch.png',
@@ -1555,8 +1573,10 @@ let masters = [
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
         numImg: '../../assets/01.png'
       },      {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -1581,8 +1601,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -1752,8 +1774,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -1916,8 +1940,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       }
     ]
   },
@@ -2534,8 +2560,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/switch.png',
@@ -2821,8 +2849,10 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/delinquent.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Delinquent",
+          "number": "98",
+          "set": "BKP"
       },
       {
        "count": 1,
@@ -3043,8 +3073,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -3162,8 +3194,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -3186,8 +3220,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -3510,8 +3546,10 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/team-flare-grunt.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Team Flare Grunt",
+          "number": "73",
+          "set": "GEN"
       },
       {
         "count": 4,
@@ -3558,8 +3596,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -3681,8 +3721,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/team-flare-grunt.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Team Flare Grunt",
+          "number": "73",
+          "set": "GEN"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -3725,8 +3767,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -3823,8 +3867,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/giratina.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Giratina",
+            "number": "184",
+            "set": "PR-XY"
       },
       {
         "count": 4,
@@ -4376,8 +4422,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -4817,8 +4865,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/team-flare-grunt.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Team Flare Grunt",
+          "number": "73",
+          "set": "GEN"
       },
       {
         "count": 4,
@@ -4865,8 +4915,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -5237,8 +5289,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/giratina.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Giratina",
+            "number": "184",
+            "set": "PR-XY"
       },
       {
         "count": 4,
@@ -5370,12 +5424,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -5565,8 +5623,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/giratina.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Giratina",
+            "number": "184",
+            "set": "PR-XY"
       },
       {
         "count": 4,
@@ -5804,8 +5864,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
@@ -5818,8 +5880,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -5865,12 +5929,16 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -6100,8 +6168,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/special-charge.png',
@@ -6223,8 +6293,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/giratina.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Giratina",
+            "number": "184",
+            "set": "PR-XY"
       },
       {
         "count": 4,

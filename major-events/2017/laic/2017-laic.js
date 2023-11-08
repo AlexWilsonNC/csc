@@ -128,8 +128,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -646,8 +648,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -660,8 +664,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
@@ -781,8 +787,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -799,8 +807,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -1047,8 +1057,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -1071,8 +1083,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -1331,8 +1345,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -1345,8 +1361,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
@@ -2479,8 +2497,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
         cardImg: '../../assets/cards/2018-17/wobbuffet.png',
@@ -2531,16 +2551,20 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         "count": 3,
@@ -2692,8 +2716,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -2940,8 +2966,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -2964,8 +2992,10 @@ let seniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
@@ -3093,8 +3123,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -3232,8 +3264,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -3250,12 +3284,16 @@ let seniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/reverse-valley.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Reverse Valley",
+          "number": "110",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -3357,8 +3395,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -3379,8 +3419,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -3490,8 +3532,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -3512,8 +3556,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/fairy-garden.png',
@@ -3765,8 +3811,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -3789,8 +3837,10 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
@@ -3932,8 +3982,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -4188,8 +4240,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -4218,8 +4272,10 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
@@ -4474,8 +4530,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -4599,8 +4657,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
@@ -4617,8 +4677,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',

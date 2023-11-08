@@ -806,8 +806,10 @@ let masters = [
         numImg: '../../assets/04.png',
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png',
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI",
       },
       {
         cardImg: '../../assets/cards/energy/dce-xy1.png',
@@ -1620,8 +1622,10 @@ let masters = [
         numImg: '../../assets/07.png'
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       }
     ]
   },
@@ -2824,8 +2828,10 @@ let masters = [
         numImg: '../../assets/03.png',
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png',
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI",
       },
       {
         cardImg: '../../assets/cards/energy/dce-xy1.png',
@@ -4274,8 +4280,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       }
     ]
   },
@@ -6979,8 +6987,10 @@ let seniors = [
         numImg: '../../assets/05.png',
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png',
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI",
       },
     ]
   },
@@ -7518,8 +7528,10 @@ let juniors = [
         numImg: '../../assets/05.png',
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png',
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI",
       },
     ]
   },
@@ -7917,8 +7929,10 @@ let juniors = [
         numImg: '../../assets/08.png',
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png',
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI",
       },
     ]
   },

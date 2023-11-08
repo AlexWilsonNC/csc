@@ -387,8 +387,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/energy/xy-dce.png',
@@ -2441,8 +2443,10 @@ let masters = [
         numImg: '../../assets/05.png'
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       }
     ]
   },

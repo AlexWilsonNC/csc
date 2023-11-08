@@ -1947,8 +1947,10 @@ let juniors = [
         numImg: '../../assets/05.png',
             },
             {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png',
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI",
             },
         ]
     },

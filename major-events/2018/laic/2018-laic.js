@@ -124,8 +124,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/energy-switch.png',
@@ -160,8 +162,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -275,8 +279,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -303,8 +309,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -537,8 +545,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -655,8 +665,10 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
       {
         "count": 4,
@@ -1068,12 +1080,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
         "count": 3,
@@ -1190,8 +1206,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -1243,12 +1261,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -1257,8 +1279,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -1448,12 +1472,16 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
         "count": 1,
@@ -1564,8 +1592,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -1671,8 +1701,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
         "count": 4,
@@ -1824,12 +1856,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -1838,8 +1874,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -2212,8 +2250,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -2240,8 +2280,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -2296,12 +2338,16 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 2,
@@ -2410,8 +2456,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
     ]
   },
@@ -2483,8 +2531,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -2493,8 +2543,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/giratina.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Giratina",
+            "number": "184",
+            "set": "PR-XY"
       },
       {
         "count": 4,
@@ -2762,8 +2814,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -2983,12 +3037,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -2997,8 +3055,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
@@ -3365,12 +3425,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -3379,8 +3443,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -3608,8 +3674,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -3636,8 +3704,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -3766,8 +3836,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/energy-switch.png',
@@ -3802,8 +3874,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -4016,12 +4090,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -4030,8 +4108,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -4230,8 +4310,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -4440,20 +4522,26 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/giratina.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Giratina",
+            "number": "184",
+            "set": "PR-XY"
       },
       {
         "count": 3,
@@ -4558,8 +4646,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
       {
         "count": 1,
@@ -4694,8 +4784,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -4732,8 +4824,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -4830,12 +4924,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -4844,8 +4942,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -5035,12 +5135,16 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
         "count": 1,
@@ -5133,8 +5237,10 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
       {
         "count": 4,
@@ -5272,8 +5378,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ffb.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Fighting Fury Belt",
+          "number": "99",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -5341,12 +5449,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -5355,8 +5467,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -5487,8 +5601,10 @@ let masters = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
       {
         "count": 1,
@@ -5564,8 +5680,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -5740,12 +5858,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -5754,8 +5876,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -5770,8 +5894,10 @@ let masters = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
        "count": 4,
@@ -5925,12 +6051,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -5939,8 +6069,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -6073,8 +6205,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
     ]
   },
@@ -6192,8 +6326,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -6220,8 +6356,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -6303,12 +6441,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -6317,8 +6459,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -6327,8 +6471,10 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
        "count": 4,
@@ -6591,8 +6737,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/energy-switch.png',
@@ -6755,8 +6903,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -6787,8 +6937,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -6904,12 +7056,16 @@ let seniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/golisopod-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Golisopod GX",
+          "number": "17",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wimpod.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Wimpod",
+          "number": "16",
+          "set": "BUS"
       },
       {
         "count": 3,
@@ -6918,8 +7074,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -7451,8 +7609,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         "count": 2,
@@ -7485,8 +7645,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -7568,8 +7730,10 @@ let seniors = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -7578,8 +7742,10 @@ let seniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
         "count": 3,
@@ -7690,8 +7856,10 @@ let seniors = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -7839,12 +8007,16 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-rainbow.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Rainbow Energy",
+            "number": "137",
+            "set": "SUM"
       },
     ]
   },
@@ -7918,8 +8090,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
         "count": 4,
@@ -7988,8 +8162,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
       {
         "count": 2,
@@ -8151,8 +8327,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -8279,8 +8457,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -8307,8 +8487,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -8426,8 +8608,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -8454,8 +8638,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -8531,16 +8717,20 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
         "count": 3,
@@ -8639,8 +8829,10 @@ let juniors = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
       {
         "count": 1,
@@ -8760,8 +8952,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/super-rod.png',
@@ -8798,8 +8992,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -8873,8 +9069,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 4,
@@ -9006,8 +9204,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/mewtwo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mewtwo",
+            "number": "51",
+            "set": "EVO"
       },
       {
         "count": 1,
@@ -9052,8 +9252,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/energy-retrieval.png',
@@ -9175,8 +9377,10 @@ let juniors = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mew-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew-EX",
+            "number": "126",
+            "set": "PR-XY"
       },
       {
         "count": 1,
@@ -9293,8 +9497,10 @@ let juniors = [
         "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
@@ -9408,8 +9614,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/max-elixir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Max Elixir",
+          "number": "102",
+          "set": "BKP"
       },
       {
         "count": 4,
@@ -9436,8 +9644,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/strong-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Strong Energy",
+          "number": "104",
+          "set": "FFI"
       },
     ]
   },
