@@ -923,8 +923,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,

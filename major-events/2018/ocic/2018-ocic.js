@@ -264,8 +264,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 2,
@@ -602,8 +604,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 2,
@@ -763,8 +767,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -926,8 +932,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -1242,8 +1250,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 4,
@@ -1930,8 +1940,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -2644,8 +2656,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 2,
@@ -3189,8 +3203,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         "count": 1,
@@ -3265,8 +3281,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/heavy-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Heavy Ball",
+            "number": "140",
+            "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/switch.png',
@@ -3418,8 +3436,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 2,
@@ -3575,8 +3595,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 2,
@@ -4115,8 +4137,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -4275,8 +4299,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -4450,8 +4476,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 2,
@@ -4828,8 +4856,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -5175,8 +5205,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -5515,8 +5547,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -5953,8 +5987,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -6438,8 +6474,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 4,
@@ -7042,8 +7080,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         "count": 1,
@@ -7110,8 +7150,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/heavy-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Heavy Ball",
+            "number": "140",
+            "set": "BKT"
       },
       {
         "count": 1,
@@ -7342,8 +7384,10 @@ let seniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -7876,8 +7920,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -8027,8 +8073,10 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 2,
@@ -8194,8 +8242,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 4,
@@ -8526,8 +8576,10 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 2,
@@ -8689,8 +8741,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         "count": 1,
@@ -8751,8 +8805,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/heavy-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Heavy Ball",
+            "number": "140",
+            "set": "BKT"
       },
       {
         "count": 2,
@@ -8852,8 +8908,10 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sudowoodo-watch-n-learn.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Sudowoodo",
+            "number": "67",
+            "set": "BKP"
       },
       {
         "count": 1,

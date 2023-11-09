@@ -316,8 +316,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/heavy-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Heavy Ball",
+            "number": "140",
+            "set": "BKT"
       },
       {
         "count": 4,
@@ -755,8 +757,10 @@ let masters = [
         "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -1714,8 +1718,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 4,
@@ -2381,8 +2387,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -5550,8 +5558,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -5860,8 +5870,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -6107,8 +6119,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/heavy-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Heavy Ball",
+            "number": "140",
+            "set": "BKT"
       },
       {
         "count": 4,

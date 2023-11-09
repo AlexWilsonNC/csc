@@ -5146,8 +5146,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 4,
@@ -7382,8 +7384,10 @@ let juniors = [
           "set": "UPR"
       },
       {
-        cardImg: '../../assets/cards/2018-17/necrozma-dusk-mane.png',
-        numImg: '../../assets/01.png'
+        "count":  1,
+            "name": "Dusk Mane Necrozma",
+            "number": "107",
+            "set": "PR-SM"
       },
       {
         "count": 1,

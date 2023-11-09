@@ -712,8 +712,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
@@ -1099,8 +1101,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
@@ -1572,8 +1576,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
@@ -1830,8 +1836,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
@@ -2120,8 +2128,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/octillery.png',
@@ -3285,8 +3295,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
@@ -3704,8 +3716,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
@@ -4866,8 +4880,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',

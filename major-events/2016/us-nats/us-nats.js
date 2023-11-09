@@ -597,8 +597,10 @@ let masters = [
         numImg: '../../assets/03.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/02.png',
+        "count": 2,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
@@ -1093,8 +1095,10 @@ let masters = [
         numImg: '../../assets/02.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png',
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/gallade.png',
@@ -2372,8 +2376,10 @@ let masters = [
         numImg: '../../assets/03.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png',
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
@@ -2513,8 +2519,10 @@ let masters = [
         numImg: '../../assets/03.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/02.png',
+        "count": 2,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
@@ -2638,8 +2646,10 @@ let masters = [
         numImg: '../../assets/03.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png',
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
@@ -3130,8 +3140,10 @@ let masters = [
         numImg: '../../assets/03.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png',
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
@@ -3446,8 +3458,10 @@ let masters = [
         numImg: '../../assets/03.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/02.png',
+        "count": 2,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
@@ -3575,8 +3589,10 @@ let masters = [
         numImg: '../../assets/03.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/02.png',
+        "count": 2,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
@@ -3887,8 +3903,10 @@ let masters = [
         numImg: '../../assets/03.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/02.png',
+        "count": 2,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
@@ -5155,8 +5173,10 @@ let masters = [
         numImg: '../../assets/03.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/02.png',
+        "count": 2,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
@@ -5280,8 +5300,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/trevenant-ex.png',
@@ -5445,8 +5467,10 @@ let masters = [
         numImg: '../../assets/03.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png',
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
               cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
@@ -5811,8 +5835,10 @@ let masters = [
         numImg: '../../assets/01.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png',
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/n.png',

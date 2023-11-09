@@ -249,8 +249,10 @@ let masters = [
         numImg: '../../assets/03.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/02.png',
+        "count": 2,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
@@ -5806,8 +5808,10 @@ let tenEvent = [
         numImg: '../../assets/01.png'
             },
             {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
             },
             {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',

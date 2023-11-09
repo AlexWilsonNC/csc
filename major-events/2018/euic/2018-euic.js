@@ -1692,8 +1692,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -3725,8 +3727,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -4275,8 +4279,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/heavy-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Heavy Ball",
+            "number": "140",
+            "set": "BKT"
       },
       {
         "count": 1,
@@ -4442,8 +4448,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/heavy-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Heavy Ball",
+            "number": "140",
+            "set": "BKT"
       },
       {
         "count": 1,
@@ -5190,8 +5198,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -5804,8 +5814,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/heavy-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Heavy Ball",
+            "number": "140",
+            "set": "BKT"
       },
       {
         "count": 2,
@@ -5927,8 +5939,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -6152,8 +6166,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/heavy-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Heavy Ball",
+            "number": "140",
+            "set": "BKT"
       },
       {
         "count": 1,
@@ -6278,8 +6294,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -6671,8 +6689,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -7019,8 +7039,10 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/jirachi.png',
@@ -7198,8 +7220,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-fini-gx.png',
@@ -7435,8 +7459,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/heavy-ball.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Heavy Ball",
+            "number": "140",
+            "set": "BKT"
       },
       {
         "count": 1,
@@ -7981,8 +8007,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2018-17/drampa-gx.png',
@@ -8309,8 +8337,10 @@ let seniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 4,
@@ -8950,8 +8980,10 @@ let juniors = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 1,
@@ -9324,8 +9356,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/heavy-ball.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Heavy Ball",
+            "number": "140",
+            "set": "BKT"
       },
       {
         "count": 1,
@@ -9437,8 +9471,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/mew.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Mew",
+            "number": "29",
+            "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/cobalion.png',
@@ -9610,8 +9646,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/espeon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Espeon-EX",
+            "number": "52",
+            "set": "BKP"
       },
       {
         "count": 4,
