@@ -2238,8 +2238,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/xurkitree-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Xurkitree GX",
+              "number": "68",
+              "set": "PR-SM"
       },
       {
         "count": 1,
@@ -2284,8 +2286,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninja-boy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Ninja Boy",
+              "number": "103",
+              "set": "STS"
       },
       {
         "count": 1,
@@ -3350,8 +3354,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 1,
@@ -3676,8 +3682,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 4,
@@ -4824,8 +4832,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 1,
@@ -5332,8 +5342,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 2,
@@ -6081,8 +6093,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 2,
@@ -6440,8 +6454,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 2,
@@ -6823,8 +6839,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 4,

@@ -1481,8 +1481,10 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 4,
@@ -4233,8 +4235,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/scorched-earth.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+              "name": "Scorched Earth",
+              "number": "110",
+              "set": "FCO"
       },
       {
         "count": 11,
@@ -5142,8 +5146,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2018-17/red-card.png',
@@ -5309,8 +5315,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/scorched-earth.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+              "name": "Scorched Earth",
+              "number": "110",
+              "set": "FCO"
       },
       {
         "count": 11,
@@ -7615,8 +7623,10 @@ let seniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/xurkitree-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Xurkitree GX",
+              "number": "68",
+              "set": "PR-SM"
       },
       {
         "count": 1,
@@ -8074,8 +8084,10 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/scorched-earth.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+              "name": "Scorched Earth",
+              "number": "110",
+              "set": "FCO"
       },
       {
         "count": 11,
@@ -8821,8 +8833,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/xurkitree-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Xurkitree GX",
+              "number": "68",
+              "set": "PR-SM"
       },
       {
         "count": 1,

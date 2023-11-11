@@ -1650,8 +1650,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2014-2016/jolteon-ex.png',
-        numImg: '../../assets/02.png',
+        "count": 2,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN",
       },
       {
         cardImg: '../../assets/cards/2014-2016/lugia-ex-ces.png',
@@ -3301,8 +3303,10 @@ let masters = [
         numImg: '../../assets/02.png',
       },
       {
-        cardImg: '../../assets/cards/2014-2016/jolteon-ex.png',
-        numImg: '../../assets/01.png',
+        "count": 1,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN",
       },
       {
         cardImg: '../../assets/cards/2014-2016/hoopa-ex.png',
@@ -4158,8 +4162,10 @@ let masters = [
         numImg: '../../assets/01.png',
       },
       {
-        cardImg: '../../assets/cards/2014-2016/jolteon-ex.png',
-        numImg: '../../assets/01.png',
+        "count": 1,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN",
       },
       {
         cardImg: '../../assets/cards/2014-2016/hoopa-ex.png',
@@ -5920,8 +5926,10 @@ let juniors = [
         numImg: '../../assets/01.png',
       },
       {
-        cardImg: '../../assets/cards/2014-2016/jolteon-ex.png',
-        numImg: '../../assets/01.png',
+        "count": 1,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN",
       },
       {
         cardImg: '../../assets/cards/2014-2016/flygon-ex.png',
@@ -6061,8 +6069,10 @@ let juniors = [
         numImg: '../../assets/01.png',
       },
       {
-        cardImg: '../../assets/cards/2014-2016/jolteon-ex.png',
-        numImg: '../../assets/01.png',
+        "count": 1,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN",
       },
       {
         cardImg: '../../assets/cards/2014-2016/flygon-ex.png',

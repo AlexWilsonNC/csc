@@ -139,8 +139,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/scorched-earth.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Scorched Earth",
+              "number": "110",
+              "set": "FCO"
       },
       {
         "count": 12,
@@ -854,8 +856,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/scorched-earth.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+              "name": "Scorched Earth",
+              "number": "110",
+              "set": "FCO"
       },
       {
         "count": 12,
@@ -2047,8 +2051,10 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/town-map.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Town Map",
+              "number": "150",
+              "set": "BKT"
       },
       {
         "count": 2,
@@ -2530,8 +2536,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 1,
@@ -2540,8 +2548,10 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/town-map.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Town Map",
+              "number": "150",
+              "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/lucky-helmet.png',
@@ -3286,8 +3296,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/scorched-earth.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Scorched Earth",
+              "number": "110",
+              "set": "FCO"
       },
       {
         "count": 12,
@@ -4411,8 +4423,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninja-boy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Ninja Boy",
+              "number": "103",
+              "set": "STS"
       },
       {
         "count": 1,
@@ -5055,8 +5069,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 1,
@@ -5240,8 +5256,10 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/scorched-earth.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Scorched Earth",
+              "number": "110",
+              "set": "FCO"
       },
       {
         "count": 12,

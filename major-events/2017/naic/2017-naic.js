@@ -1081,8 +1081,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 4,
@@ -3028,8 +3030,10 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/town-map.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Town Map",
+              "number": "150",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -4093,8 +4097,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 3,
@@ -5119,8 +5125,10 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/town-map.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Town Map",
+              "number": "150",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -5616,8 +5624,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
@@ -6399,8 +6409,10 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/scorched-earth.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Scorched Earth",
+              "number": "110",
+              "set": "FCO"
       },
       {
         "count": 7,
@@ -6554,8 +6566,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 1,
@@ -7691,8 +7705,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 3,
@@ -8904,8 +8920,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 4,
@@ -9728,8 +9746,10 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 3,
@@ -10213,8 +10233,10 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2014-2016/captivating-pokepuff.png',

@@ -1610,8 +1610,10 @@ let seniors = [
         numImg: '../../assets/02.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/jolteon-ex.png',
-        numImg: '../../assets/01.png',
+        "count": 1,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN",
             },
             {
         cardImg: '../../assets/cards/2014-2016/hoopa-ex.png',
@@ -5682,8 +5684,10 @@ let tenEvent = [
         numImg: '../../assets/04.png'
             },
             {
-        cardImg: '../../assets/cards/2014-2016/jolteon-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN"
             },
             {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
@@ -5948,8 +5952,10 @@ let tenEvent = [
         numImg: '../../assets/01.png'
             },
             {
-        cardImg: '../../assets/cards/2014-2016/jolteon-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN"
             },
             {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
@@ -6224,8 +6230,10 @@ let tenEvent = [
         numImg: '../../assets/02.png'
             },
             {
-        cardImg: '../../assets/cards/2014-2016/jolteon-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN"
             },
             {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',

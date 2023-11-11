@@ -817,8 +817,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninja-boy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Ninja Boy",
+              "number": "103",
+              "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
@@ -3531,8 +3533,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
@@ -6368,8 +6372,10 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 1,

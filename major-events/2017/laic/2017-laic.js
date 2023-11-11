@@ -76,8 +76,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/jolteon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN"
       },
       {
         cardImg: '../../assets/cards/2014-2016/regice.png',
@@ -835,8 +837,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/scorched-earth.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Scorched Earth",
+              "number": "110",
+              "set": "FCO"
       },
       {
         "count": 12,
@@ -1115,8 +1119,10 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/scorched-earth.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Scorched Earth",
+              "number": "110",
+              "set": "FCO"
       },
       {
         "count": 1,
@@ -2551,8 +2557,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ninja-boy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Ninja Boy",
+              "number": "103",
+              "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
@@ -3046,8 +3054,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/scorched-earth.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Scorched Earth",
+              "number": "110",
+              "set": "FCO"
       },
       {
         "count": 12,
@@ -3109,8 +3119,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/jolteon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN"
       },
       {
         "count": 1,
@@ -3994,8 +4006,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/jolteon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Jolteon-EX",
+              "number": "28",
+              "set": "GEN"
       },
       {
         cardImg: '../../assets/cards/2014-2016/beedrill-ex.png',
@@ -4177,8 +4191,10 @@ let juniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/special-charge.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Special Charge",
+              "number": "105",
+              "set": "STS"
       },
       {
         "count": 1,
