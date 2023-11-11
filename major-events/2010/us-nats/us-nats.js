@@ -626,7 +626,7 @@ let masters = [
     sprite2: '../../../assets/sprites/jumpluff.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -981,7 +981,7 @@ let masters = [
     sprite2: '../../../assets/sprites/machamp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -1170,7 +1170,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -1185,7 +1185,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -1200,7 +1200,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -1215,7 +1215,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -1230,7 +1230,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -1406,7 +1406,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -1746,7 +1746,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -1918,7 +1918,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2058,7 +2058,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gallade.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2073,7 +2073,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gallade.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2088,7 +2088,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2103,7 +2103,7 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2567,7 +2567,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2582,7 +2582,7 @@ let masters = [
     sprite2: '../../../assets/sprites/machamp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2597,7 +2597,7 @@ let masters = [
     sprite2: '../../../assets/sprites/regigigas.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2612,7 +2612,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2627,7 +2627,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2642,7 +2642,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2657,7 +2657,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2672,7 +2672,7 @@ let masters = [
     sprite2: '../../../assets/sprites/mesprit.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2687,7 +2687,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2702,7 +2702,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2717,7 +2717,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gallade.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2732,7 +2732,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2855,7 +2855,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gallade.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2870,7 +2870,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2885,7 +2885,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gallade.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2900,7 +2900,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2915,7 +2915,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2930,7 +2930,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2945,7 +2945,7 @@ let masters = [
     sprite2: '../../../assets/sprites/jumpluff.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2960,7 +2960,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2975,7 +2975,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2990,7 +2990,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3005,7 +3005,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3020,7 +3020,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3035,7 +3035,7 @@ let masters = [
     sprite2: '../../../assets/sprites/donphan.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3050,7 +3050,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3065,7 +3065,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gengar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3080,7 +3080,7 @@ let masters = [
     sprite2: '../../../assets/sprites/tyranitar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3095,7 +3095,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3110,7 +3110,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gengar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3125,7 +3125,7 @@ let masters = [
     sprite2: '../../../assets/sprites/jumpluff.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3140,7 +3140,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gyarados.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3155,7 +3155,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3170,7 +3170,7 @@ let masters = [
     sprite2: '../../../assets/sprites/machamp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3185,7 +3185,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3200,7 +3200,7 @@ let masters = [
     sprite2: '../../../assets/sprites/mesprit.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3215,7 +3215,7 @@ let masters = [
     sprite2: '../../../assets/sprites/machamp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3230,7 +3230,7 @@ let masters = [
     sprite2: '../../../assets/sprites/machamp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3245,7 +3245,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3260,7 +3260,7 @@ let masters = [
     sprite2: '../../../assets/sprites/jumpluff.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3275,7 +3275,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3290,7 +3290,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3305,7 +3305,7 @@ let masters = [
     sprite2: '../../../assets/sprites/shuppet.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3320,7 +3320,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gallade.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3335,7 +3335,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3350,7 +3350,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3365,7 +3365,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3380,7 +3380,7 @@ let masters = [
     sprite2: '../../../assets/sprites/jumpluff.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3395,7 +3395,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3410,7 +3410,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gallade.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3425,7 +3425,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3440,7 +3440,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gyarados.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3455,7 +3455,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gengar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3470,7 +3470,7 @@ let masters = [
     sprite2: '../../../assets/sprites/donphan.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3485,7 +3485,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gengar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3500,7 +3500,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3515,7 +3515,7 @@ let masters = [
     sprite2: '../../../assets/sprites/machamp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3530,7 +3530,7 @@ let masters = [
     sprite2: '../../../assets/sprites/tyranitar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3545,7 +3545,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3560,7 +3560,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3575,7 +3575,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gallade.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3590,7 +3590,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gliscor.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3605,7 +3605,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3620,7 +3620,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gyarados.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3635,7 +3635,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gyarados.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3650,7 +3650,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3665,7 +3665,7 @@ let masters = [
     sprite2: '../../../assets/sprites/entei-raikou.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3680,7 +3680,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3695,7 +3695,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3710,7 +3710,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3860,7 +3860,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3875,7 +3875,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3890,7 +3890,7 @@ let masters = [
     sprite2: '../../../assets/sprites/nidoqueen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3905,7 +3905,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3920,7 +3920,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3935,7 +3935,7 @@ let masters = [
     sprite2: '../../../assets/sprites/torterra.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3950,7 +3950,7 @@ let masters = [
     sprite2: '../../../assets/sprites/tyranitar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3965,7 +3965,7 @@ let masters = [
     sprite2: '../../../assets/sprites/tyranitar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3980,7 +3980,7 @@ let masters = [
     sprite2: '../../../assets/sprites/nidoqueen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3995,7 +3995,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4010,7 +4010,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4025,7 +4025,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4040,7 +4040,7 @@ let masters = [
     sprite2: '../../../assets/sprites/jumpluff.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4055,7 +4055,7 @@ let masters = [
     sprite2: '../../../assets/sprites/jumpluff.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4070,7 +4070,7 @@ let masters = [
     sprite2: '../../../assets/sprites/machamp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4085,7 +4085,7 @@ let masters = [
     sprite2: '../../../assets/sprites/machamp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4100,7 +4100,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4115,7 +4115,7 @@ let masters = [
     sprite2: '../../../assets/sprites/manectric.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4130,7 +4130,7 @@ let masters = [
     sprite2: '../../../assets/sprites/jumpluff.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4145,7 +4145,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4160,7 +4160,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4175,7 +4175,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gallade.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4190,7 +4190,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4205,7 +4205,7 @@ let masters = [
     sprite2: '../../../assets/sprites/torterra.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4220,7 +4220,7 @@ let masters = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4235,7 +4235,7 @@ let masters = [
     sprite2: '../../../assets/sprites/jumpluff.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4250,7 +4250,7 @@ let masters = [
     sprite2: '../../../assets/sprites/shuppet.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4268,7 +4268,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4283,7 +4283,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4298,7 +4298,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4313,7 +4313,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/gengar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4328,7 +4328,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/jumpluff.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4653,7 +4653,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/gallade.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4668,7 +4668,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/gyarados.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4683,7 +4683,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4698,7 +4698,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/gengar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4713,7 +4713,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4728,7 +4728,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/azelf.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4743,7 +4743,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/machamp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4758,7 +4758,7 @@ let seniors = [
     sprite2: '../../../assets/sprites/garchomp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4773,7 +4773,7 @@ let seniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4937,7 +4937,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/tyranitar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4952,7 +4952,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/blaziken.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4967,7 +4967,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4982,7 +4982,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4997,7 +4997,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5012,7 +5012,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5027,7 +5027,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5042,7 +5042,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5057,7 +5057,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5072,7 +5072,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5087,7 +5087,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5102,7 +5102,7 @@ let juniors = [
     sprite2: '../../../assets/sprites/machamp.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5117,7 +5117,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5132,7 +5132,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5147,7 +5147,7 @@ let juniors = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',

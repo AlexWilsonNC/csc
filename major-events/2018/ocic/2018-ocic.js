@@ -59,8 +59,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -409,8 +411,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -831,8 +835,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -996,8 +1002,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -2006,8 +2014,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -2461,8 +2471,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -2754,7 +2766,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -2816,8 +2828,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -3135,7 +3149,7 @@ let masters = [
     sprite2: '../../../assets/sprites/vikavolt.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3323,7 +3337,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3338,7 +3352,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3353,7 +3367,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3368,7 +3382,7 @@ let masters = [
     sprite2: '../../../assets/sprites/volcanion.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3490,8 +3504,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -3693,7 +3709,7 @@ let masters = [
     sprite2: '../../../assets/sprites/vikavolt.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -3755,8 +3771,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -4233,7 +4251,7 @@ let masters = [
     sprite2: '../../../assets/sprites/vikavolt.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4530,8 +4548,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -4578,7 +4598,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4758,7 +4778,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4773,7 +4793,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gardevoir.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4788,7 +4808,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -4922,8 +4942,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -4970,7 +4992,7 @@ let masters = [
     sprite2: '../../../assets/sprites/vikavolt.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5301,7 +5323,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5479,7 +5501,7 @@ let masters = [
     sprite2: '../../../assets/sprites/vikavolt.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5611,8 +5633,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -5659,7 +5683,7 @@ let masters = [
     sprite2: '../../../assets/sprites/gardevoir.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5674,7 +5698,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5689,7 +5713,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5751,8 +5775,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
         "count": 4,
@@ -5889,7 +5915,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5904,7 +5930,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -5919,7 +5945,7 @@ let masters = [
     sprite2: '../../../assets/sprites/greninja.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6051,8 +6077,10 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -6099,7 +6127,7 @@ let masters = [
     sprite2: '../../../assets/sprites/sylveon.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6114,7 +6142,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6129,7 +6157,7 @@ let masters = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6144,7 +6172,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6159,7 +6187,7 @@ let masters = [
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6174,7 +6202,7 @@ let masters = [
     sprite2: '../../../assets/sprites/volcanion.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6224,12 +6252,16 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Kirlia",
+          "number": "92",
+          "set": "BUS"
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
@@ -6242,8 +6274,10 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Ralts",
+          "number": "52",
+          "set": "AOR"
       },
       {
         "count": 2,
@@ -6372,7 +6406,7 @@ let masters = [
     sprite2: '../../../assets/sprites/sylveon.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6387,7 +6421,7 @@ let masters = [
     sprite2: '../../../assets/sprites/golisopod.png',
     // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
-    deckid: "eee",,
+    deckid: "eee",
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
@@ -6436,8 +6470,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         "count": 3,
@@ -6470,8 +6506,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 1,
@@ -6665,8 +6703,10 @@ let seniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -7070,8 +7110,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/grubbin.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Grubbin",
+          "number": "13",
+          "set": "SUM"
       },
       {
         "count": 2,
@@ -8566,8 +8608,10 @@ let juniors = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/zygarde-ex.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Zygarde-EX",
+          "number": "54",
+          "set": "FCO"
       },
       {
         "count": 1,
@@ -8972,8 +9016,10 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 1,

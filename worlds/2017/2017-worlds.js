@@ -47,12 +47,16 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Kirlia",
+          "number": "92",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -389,8 +393,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -590,8 +596,10 @@ let masters = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
@@ -902,8 +910,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -1063,12 +1073,16 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Kirlia",
+          "number": "92",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -1232,8 +1246,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -1690,8 +1706,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -1864,8 +1882,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 2,
@@ -2359,8 +2379,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 2,
@@ -3027,8 +3049,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -3544,8 +3568,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -3709,8 +3735,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -4199,12 +4227,16 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Kirlia",
+          "number": "92",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -4374,8 +4406,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 2,
@@ -4712,12 +4746,16 @@ let seniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Kirlia",
+          "number": "92",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -4881,8 +4919,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -5194,16 +5234,22 @@ let juniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Kirlia",
+          "number": "92",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Ralts",
+          "number": "52",
+          "set": "AOR"
       },
       {
         "count": 2,
@@ -5357,8 +5403,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Kirlia",
+          "number": "92",
+          "set": "BUS"
       },
       {
         "count": 4,
@@ -5695,8 +5743,10 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Ralts",
+          "number": "52",
+          "set": "AOR"
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas-break.png',
@@ -5838,8 +5888,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -5888,8 +5940,10 @@ let juniors = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -6373,12 +6427,16 @@ let juniors = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Kirlia",
+          "number": "92",
+          "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Ralts",
+          "number": "52",
+          "set": "AOR"
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas-break.png',

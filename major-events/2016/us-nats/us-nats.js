@@ -1491,8 +1491,10 @@ let masters = [
         numImg: '../../assets/01.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/04.png',
+        "count": 4,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP",
             },
             {
               cardImg: '../../assets/cards/2014-2016/float-stone.png',
@@ -1962,8 +1964,10 @@ let masters = [
         numImg: '../../assets/01.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/04.png',
+        "count": 4,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP",
             },
             {
         cardImg: '../../assets/cards/2014-2016/deminsion-valley.png',
@@ -2141,8 +2145,10 @@ let masters = [
     },
     deck: [
             {
-        cardImg: '../../assets/cards/2014-2016/zygarde-ex.png',
-        numImg: '../../assets/03.png',
+         "count": 3,
+          "name": "Zygarde-EX",
+          "number": "54",
+          "set": "FCO",
             },
             {
         cardImg: '../../assets/cards/2014-2016/carbink-break.png',
@@ -4296,8 +4302,10 @@ let masters = [
         numImg: '../../assets/01.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/04.png',
+        "count": 4,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP",
             },
             {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',

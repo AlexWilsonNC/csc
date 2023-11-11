@@ -1704,12 +1704,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Ralts",
+          "number": "52",
+          "set": "AOR"
       },
       {
         "count": 4,
@@ -2102,8 +2106,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 1,
@@ -3661,12 +3667,16 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/gallade.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Gallade",
+          "number": "84",
+          "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ralts.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Ralts",
+          "number": "52",
+          "set": "AOR"
       },
       {
         "count": 4,
@@ -5487,8 +5497,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 1,

@@ -734,8 +734,10 @@ let seniors = [
         numImg: '../../assets/01.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/02.png',
+        "count": 2,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP",
             },
             {
         cardImg: '../../assets/cards/2014-2016/float-stone.png',
@@ -862,8 +864,10 @@ let seniors = [
         numImg: '../../assets/01.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/03.png',
+        "count": 3,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP",
             },
             {
         cardImg: '../../assets/cards/2014-2016/float-stone.png',
@@ -1917,8 +1921,10 @@ let juniors = [
         numImg: '../../assets/01.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/04.png',
+        "count": 4,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP",
             },
             {
         cardImg: '../../assets/cards/2014-2016/float-stone.png',
@@ -2820,8 +2826,10 @@ let sevenEvent = [
         numImg: '../../assets/01.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/03.png',
+        "count": 3,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP",
             },
             {
         cardImg: '../../assets/cards/2014-2016/weakness-policy.png',
@@ -3096,8 +3104,10 @@ let sevenEvent = [
         numImg: '../../assets/01.png'
             },
             {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP"
             },
             {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',
@@ -4263,8 +4273,10 @@ let fiveEvent = [
         numImg: '../../assets/01.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/04.png',
+        "count": 4,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP",
             },
             {
         cardImg: '../../assets/cards/2014-2016/weakness-policy.png',
@@ -4799,8 +4811,10 @@ let fiveEvent = [
         numImg: '../../assets/01.png',
             },
             {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/03.png',
+        "count": 3,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP",
             },
             {
         cardImg: '../../assets/cards/2014-2016/head-ringer.png',

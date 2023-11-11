@@ -41,8 +41,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -335,8 +337,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -373,8 +377,10 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -981,8 +987,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 2,
@@ -999,8 +1007,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -1156,8 +1166,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/talonflame.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Talonflame",
+          "number": "96",
+          "set": "STS"
       },
       {
         "count": 4,
@@ -1673,8 +1685,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -1711,8 +1725,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -1824,8 +1840,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -1862,12 +1880,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tauros-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Tauros GX",
+            "number": "100",
+            "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -2075,8 +2097,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -2117,8 +2141,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -2234,8 +2260,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -2266,8 +2294,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
@@ -2570,8 +2600,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -2862,8 +2894,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 2,
@@ -2890,12 +2924,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/zygarde-ex.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Zygarde-EX",
+          "number": "54",
+          "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -3067,8 +3105,10 @@ let masters = [
             "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip-promo1.png',
@@ -3198,8 +3238,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -3236,8 +3278,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -3394,8 +3438,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -3436,8 +3482,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -3728,8 +3776,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -3766,12 +3816,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tauros-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Tauros GX",
+            "number": "100",
+            "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -3907,8 +3961,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 2,
@@ -3927,8 +3983,10 @@ let masters = [
             "set": "PR-XY"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -4378,8 +4436,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -4903,8 +4963,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 2,
@@ -4931,12 +4993,16 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/zygarde-ex.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Zygarde-EX",
+          "number": "54",
+          "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -5064,8 +5130,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -5102,8 +5170,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -5936,8 +6006,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -6334,8 +6406,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 2,
@@ -6354,8 +6428,10 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -6764,8 +6840,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/talonflame.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Talonflame",
+          "number": "96",
+          "set": "STS"
       },
       {
         "count": 4,
@@ -7166,8 +7244,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -7465,8 +7545,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 1,
@@ -7742,8 +7824,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -7780,8 +7864,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 3,
@@ -7897,8 +7983,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -7935,8 +8023,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 4,
@@ -8048,8 +8138,10 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 3,
@@ -8086,8 +8178,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -8442,8 +8536,10 @@ let seniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -8559,8 +8655,10 @@ let seniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Energy Switch",
+          "number": "117",
+          "set": "SUM"
       },
       {
         "count": 4,
@@ -8638,8 +8736,10 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 2,
@@ -8652,8 +8752,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -8961,8 +9063,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/talonflame.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Talonflame",
+          "number": "96",
+          "set": "STS"
       },
       {
         "count": 4,
@@ -9106,8 +9210,10 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/talonflame.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Talonflame",
+          "number": "96",
+          "set": "STS"
       },
       {
         "count": 3,
@@ -9241,8 +9347,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -9420,24 +9528,30 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tauros-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Tauros GX",
+            "number": "100",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/tapu-koko-flying-flip-promo1.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 1,
@@ -9579,8 +9693,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -9736,8 +9852,10 @@ let juniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+            "name": "Espeon GX",
+            "number": "61",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
@@ -9909,8 +10027,10 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/drampa-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Drampa GX",
+            "number": "115",
+            "set": "GRI"
       },
       {
         "count": 2,
@@ -9919,8 +10039,10 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/oricorio.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Oricorio",
+          "number": "56",
+          "set": "GRI"
       },
       {
         "count": 1,

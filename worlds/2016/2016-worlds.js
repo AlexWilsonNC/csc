@@ -202,8 +202,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/talonflame.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Talonflame",
+          "number": "96",
+          "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2014-2016/n.png',
@@ -250,8 +252,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',
@@ -446,12 +450,16 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Octillery",
+            "number": "33",
+            "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Remoraid",
+            "number": "32",
+            "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2014-2016/unown.png',
@@ -591,8 +599,10 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/talonflame.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Talonflame",
+          "number": "96",
+          "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
@@ -651,8 +661,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',
@@ -2134,12 +2146,16 @@ let masters = [
             "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/octillery.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Octillery",
+            "number": "33",
+            "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/remoraid-ion-pool.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+            "name": "Remoraid",
+            "number": "32",
+            "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
@@ -2357,8 +2373,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2014-2016/zygarde-ex.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Zygarde-EX",
+          "number": "54",
+          "set": "FCO"
       },
       {
         cardImg: '../../assets/cards/2014-2016/lucario-ex.png',
@@ -2855,8 +2873,10 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2014-2016/forest-of-giant-plants.png',
@@ -3583,8 +3603,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/talonflame.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Talonflame",
+          "number": "96",
+          "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
@@ -3941,8 +3963,10 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone.png',
@@ -4319,8 +4343,10 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/bursting-balloon.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
+          "name": "Bursting Balloon",
+          "number": "97",
+          "set": "BKP"
       },
       {
         cardImg: '../../assets/cards/2014-2016/head-ringer.png',

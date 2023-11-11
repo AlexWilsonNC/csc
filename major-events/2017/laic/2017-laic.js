@@ -503,8 +503,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tauros-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Tauros GX",
+            "number": "100",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2014-2016/beedrill-ex.png',
@@ -2517,8 +2519,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tauros-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Tauros GX",
+            "number": "100",
+            "set": "SUM"
       },
       {
         "count": 1,
@@ -2690,8 +2694,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/tauros-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+            "name": "Tauros GX",
+            "number": "100",
+            "set": "SUM"
       },
       {
         "count": 1,
