@@ -71,12 +71,14 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-wild-river.png',
-        numImg: '../../assets/02.png'
+        "name": "Remoraid",
+            "number": "31",
+            "set": "BKT",
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/diancie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -122,11 +124,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -178,7 +180,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/energy/wonder-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       }
     ]
   },
@@ -291,15 +293,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -400,7 +402,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -458,15 +460,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -603,7 +605,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -637,11 +639,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -814,7 +816,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -824,7 +826,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -919,7 +921,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 3,
@@ -977,7 +979,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -987,7 +989,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -1099,12 +1101,14 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-wild-river.png',
-        numImg: '../../assets/01.png'
+        "name": "Remoraid",
+            "number": "31",
+            "set": "BKT",
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/diancie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 3,
@@ -1132,7 +1136,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -1142,11 +1146,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -1156,7 +1160,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -1208,7 +1212,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/energy/wonder-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       }
     ]
   },
@@ -1309,7 +1313,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -1319,7 +1323,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -1414,15 +1418,15 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/ho-oh-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/salazzle-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/salandit.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -1444,7 +1448,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -1490,7 +1494,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -1627,7 +1631,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },      {
         "count": 4,
           "name": "Max Elixir",
@@ -1642,7 +1646,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -1773,11 +1777,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
        "count": 1,
@@ -1787,7 +1791,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -1827,7 +1831,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -1925,7 +1929,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -1959,7 +1963,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -2048,19 +2052,19 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex-mega.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -2100,7 +2104,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -2116,7 +2120,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/pokemon-fan-club.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -2126,11 +2130,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -2158,11 +2162,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 5,
@@ -2215,19 +2219,19 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex-mega.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -2237,15 +2241,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/unown.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -2267,7 +2271,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
        "count": 1,
@@ -2277,7 +2281,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -2305,15 +2309,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -2329,7 +2333,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -2339,7 +2343,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -2458,7 +2462,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -2468,7 +2472,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -2508,7 +2512,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 7,
@@ -2561,15 +2565,15 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/ho-oh-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/salazzle-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/salandit.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -2591,7 +2595,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -2637,7 +2641,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -2780,7 +2784,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -2790,7 +2794,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dive-ball.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 3,
@@ -2894,7 +2898,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-calm-mind.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 3,
@@ -2910,7 +2914,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -2938,7 +2942,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -2966,11 +2970,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -3016,7 +3020,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/energy/wonder-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       }
     ]
   },
@@ -3105,8 +3109,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wobbuffet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Wobbuffet",
+              "number": "RC11",
+              "set": "GEN"
       },
       {
         "count": 4,
@@ -3122,7 +3128,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -3138,11 +3144,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -3259,11 +3265,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/ho-oh-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -3273,7 +3279,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
          "count": 1,
@@ -3319,11 +3325,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -3351,7 +3357,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 13,
@@ -3428,19 +3434,19 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex-mega.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -3450,11 +3456,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -3476,7 +3482,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -3492,7 +3498,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -3514,11 +3520,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -3540,7 +3546,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -3550,7 +3556,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 5,
@@ -3663,7 +3669,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -3685,7 +3691,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -3713,7 +3719,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -3808,7 +3814,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -3836,7 +3842,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -3846,7 +3852,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/ace-trainer.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -3856,7 +3862,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -3975,8 +3981,10 @@ let seniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-wild-river.png',
-        numImg: '../../assets/02.png'
+        "name": "Remoraid",
+            "number": "31",
+            "set": "BKT",
+        "count": 2,
       },
       {
         "count": 2,
@@ -4022,11 +4030,11 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/pokemon-center-lady.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/karen.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -4054,7 +4062,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -4076,7 +4084,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/rough-seas.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 7,
@@ -4128,96 +4136,128 @@ let seniors = [
     },
       deck: [
         {
-          cardImg: '../../assets/cards/2018-17/greninja-break.png',
-          numImg: '../../assets/03.png'
+          "name": "Greninja BREAK",
+          "number": "41",
+          "set": "BKP",
+          "count": 3,
         },
         {
-          cardImg: '../../assets/cards/2018-17/greninja.png',
-          numImg: '../../assets/04.png'
+          "name": "Greninja",
+          "number": "40",
+          "set": "BKP",
+          "count": 4,
         },
         {
-          cardImg: '../../assets/cards/2018-17/frogadier-water-duplicates.png',
-          numImg: '../../assets/04.png'
+          "name": "Frogadier",
+           "number": "39",
+           "set": "BKP",
+          "count": 4,
         },
         {
           cardImg: '../../assets/cards/2018-17/froakie-bubble.png',
-          numImg: '../../assets/04.png'
+          "count": 4,
         },
         {
-          cardImg: '../../assets/cards/2018-17/starmie.png',
-          numImg: '../../assets/01.png'
+          "name": "Starmie",
+           "number": "31",
+           "set": "EVO",
+          "count": 1,
         },
         {
-          cardImg: '../../assets/cards/2018-17/staryu.png',
-          numImg: '../../assets/01.png'
+          "name": "Staryu",
+           "number": "25",
+           "set": "BKP",
+          "count": 1,
         },
         {
           cardImg: '../../assets/cards/2018-17/jirachi.png',
-          numImg: '../../assets/01.png'
+          "count": 1,
         },
         {
-          cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-          numImg: '../../assets/04.png'
+          "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP",
+          "count": 4,
         },
         {
-          cardImg: '../../assets/cards/2018-17/n.png',
-          numImg: '../../assets/04.png'
+          "name": "N",
+            "number": "105",
+            "set": "FCO",
+          "count": 4,
         },
         {
           cardImg: '../../assets/cards/2018-17/teammates.png',
-          numImg: '../../assets/02.png'
+          "count": 2,
         },
         {
-          cardImg: '../../assets/cards/2018-17/guzma.png',
-          numImg: '../../assets/01.png'
+          "name": "Guzma",
+            "number": "115",
+            "set": "BUS",
+          "count": 1,
         },
         {
           cardImg: '../../assets/cards/2018-17/ace-trainer.png',
-          numImg: '../../assets/01.png'
+          "count": 1,
         },
         {
           cardImg: '../../assets/cards/2018-17/dive-ball.png',
-          numImg: '../../assets/04.png'
+          "count": 4,
         },
         {
           cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-          numImg: '../../assets/03.png'
+          "count": 3,
         },
         {
-          cardImg: '../../assets/cards/2018-17/field-blower.png',
-          numImg: '../../assets/03.png'
+          "name": "Field Blower",
+            "number": "125",
+            "set": "GRI",
+          "count": 3,
         },
         {
-          cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-          numImg: '../../assets/02.png'
+          "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+          "count": 2,
         },
         {
           cardImg: '../../assets/cards/2018-17/level-ball.png',
-          numImg: '../../assets/02.png'
+          "count": 2,
         },
         {
-          cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-          numImg: '../../assets/02.png'
+          "name": "Rescue Stretcher",
+             "number": "130",
+             "set": "GRI",
+          "count": 2,
         },
         {
-          cardImg: '../../assets/cards/2018-17/super-rod.png',
-          numImg: '../../assets/01.png'
+          "name": "Super Rod",
+             "number": "149",
+             "set": "BKT",
+          "count": 1,
         },
         {
-          cardImg: '../../assets/cards/2018-17/enhanced-hammer.png',
-          numImg: '../../assets/01.png'
+          "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI",
+          "count": 1,
         },
         {
-          cardImg: '../../assets/cards/2018-17/choice-band.png',
-          numImg: '../../assets/02.png'
+          "name": "Choice Band",
+            "number": "121",
+            "set": "GRI",
+          "count": 2,
         },
         {
-          cardImg: '../../assets/cards/energy/energy-water.png',
-          numImg: '../../assets/07.png'
+          "name": "Water Energy",
+            "number": "water",
+            "set": "SUM",
+          "count": 7,
         },
         {
-          cardImg: '../../assets/cards/energy/energy-splash.png',
-          numImg: '../../assets/03.png'
+          "name": "Splash Energy",
+            "number": "113",
+            "set": "BKP",
+          "count": 3,
         }
       ]
   },
@@ -4288,7 +4328,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/flareon.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 3,
@@ -4322,7 +4362,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -4338,7 +4378,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -4402,7 +4442,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/energy/wonder-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       }
     ]
   },
@@ -4479,7 +4519,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -4513,11 +4553,11 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -4557,7 +4597,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 3,
@@ -4633,8 +4673,10 @@ let seniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-wild-river.png',
-        numImg: '../../assets/02.png'
+        "name": "Remoraid",
+            "number": "31",
+            "set": "BKT",
+        "count": 2,
       },
       {
         "count": 2,
@@ -4674,7 +4716,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
          "count": 1,
@@ -4702,7 +4744,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 1,
@@ -4724,7 +4766,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/rough-seas.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 8,
@@ -4843,7 +4885,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
        "count": 1,
@@ -4853,7 +4895,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
          "count": 1,
@@ -4875,7 +4917,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -4915,7 +4957,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/energy/wonder-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       }
     ]
   },
@@ -5022,7 +5064,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -5038,7 +5080,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -5066,7 +5108,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -5131,7 +5173,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -5141,15 +5183,15 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/gloom.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/oddish-poison-powder.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 3,
@@ -5159,7 +5201,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 4,
@@ -5187,7 +5229,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -5197,11 +5239,11 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/level-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -5211,7 +5253,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 3,
@@ -5327,7 +5369,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -5361,7 +5403,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 2,
@@ -5438,7 +5480,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-calm-mind.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
          "count": 1,
@@ -5496,7 +5538,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -5512,7 +5554,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 2,
@@ -5564,7 +5606,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/energy/wonder-energy.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       }
     ]
   },
@@ -5623,7 +5665,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 3,
@@ -5693,11 +5735,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -5719,7 +5761,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 5,
@@ -5778,7 +5820,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-calm-mind.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
          "count": 3,
@@ -5788,11 +5830,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas-break.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 2,
@@ -5826,7 +5868,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -5836,11 +5878,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -5850,7 +5892,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 3,
@@ -5872,11 +5914,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/fairy-garden.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
       },
       {
         "count": 4,
@@ -5886,7 +5928,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/energy/wonder-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       }
     ]
   },
@@ -5957,7 +5999,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -6015,7 +6057,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -6025,7 +6067,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -6065,7 +6107,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -6190,7 +6232,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -6279,15 +6321,15 @@ let juniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/xerneas-rainbow-force.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/bisharp.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/pawniard.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -6309,7 +6351,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -6349,15 +6391,15 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -6409,7 +6451,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 8,
@@ -6480,11 +6522,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas-break.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 2,
@@ -6518,7 +6560,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -6528,11 +6570,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -6542,7 +6584,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 3,
@@ -6564,11 +6606,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/fairy-garden.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
       },
       {
         "count": 4,
@@ -6578,7 +6620,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/energy/wonder-energy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       }
     ]
   }

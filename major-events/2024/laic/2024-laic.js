@@ -42,7 +42,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -86,7 +86,7 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -130,7 +130,7 @@ let juniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },

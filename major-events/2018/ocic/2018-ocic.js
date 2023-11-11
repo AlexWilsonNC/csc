@@ -259,11 +259,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-break.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-bad.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -593,7 +593,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lycanroc.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 2,
@@ -820,7 +820,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -987,7 +987,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -1082,7 +1082,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/ho-oh-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 3,
@@ -1255,11 +1255,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-break.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-bad.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -1293,7 +1293,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -1442,7 +1442,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -1566,8 +1566,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -1751,8 +1753,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -2105,8 +2109,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -2659,7 +2665,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lycanroc.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 2,
@@ -2776,7 +2782,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3159,7 +3165,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3349,7 +3355,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3364,7 +3370,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3379,7 +3385,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3394,7 +3400,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3604,7 +3610,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lycanroc.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 2,
@@ -3721,7 +3727,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3954,8 +3960,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -3971,7 +3979,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lycanroc.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 3,
@@ -4156,11 +4164,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-break.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-bad.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -4265,7 +4273,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4360,7 +4368,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -4616,7 +4624,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4681,11 +4689,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-break.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-bad.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 2,
@@ -4796,7 +4804,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4811,7 +4819,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4826,7 +4834,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5010,7 +5018,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5153,7 +5161,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/red-card.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -5236,11 +5244,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-break.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-bad.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -5345,7 +5353,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5523,7 +5531,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5636,7 +5644,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -5705,7 +5713,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5720,7 +5728,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5735,7 +5743,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5937,7 +5945,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5952,7 +5960,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5967,7 +5975,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6080,7 +6088,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -6149,7 +6157,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6164,7 +6172,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6179,7 +6187,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6194,7 +6202,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6209,7 +6217,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6224,7 +6232,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6283,7 +6291,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 3,
@@ -6329,7 +6337,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -6428,7 +6436,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6443,7 +6451,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6555,7 +6563,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -6650,11 +6658,11 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/xerneas-break.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 3,
@@ -6664,7 +6672,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -6740,7 +6748,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/fairy-garden.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 12,
@@ -6853,7 +6861,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 4,
@@ -6965,8 +6973,10 @@ let seniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -7193,7 +7203,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -7614,7 +7624,7 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/wishiwashi-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -7654,7 +7664,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/team-rockets-handiwork.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 3,
@@ -8005,11 +8015,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-break.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/carbink-bad.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -8152,7 +8162,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lycanroc.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 2,
@@ -8367,7 +8377,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -8479,8 +8489,10 @@ let juniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -8520,7 +8532,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -8651,7 +8663,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lycanroc.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 2,
@@ -8818,7 +8830,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/charjabug.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
        "count": 3,
@@ -8870,7 +8882,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -9055,7 +9067,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,

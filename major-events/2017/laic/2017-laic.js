@@ -47,7 +47,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -57,23 +57,23 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/gloom.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/oddish.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2014-2016/lugia-ex-ces.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -83,7 +83,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/regice.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -99,7 +99,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 4,
@@ -109,15 +109,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/level-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -127,7 +127,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -186,7 +186,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -196,31 +196,31 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/gloom.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/oddish.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/lugia-ex-ces.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/yanmega.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/yanma-sts.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -236,7 +236,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -246,15 +246,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/level-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -264,7 +264,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 3,
@@ -317,23 +317,23 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex-mega.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -349,7 +349,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -365,15 +365,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/brocks-grit.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -389,15 +389,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -407,7 +407,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -417,7 +417,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -476,7 +476,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -486,23 +486,23 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/gloom.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/oddish.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2014-2016/lugia-ex-ces.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -512,7 +512,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/beedrill-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -528,7 +528,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -538,15 +538,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/level-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -556,7 +556,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 3,
@@ -609,19 +609,19 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/darkrai-ex-bkp.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2014-2016/yveltal-sts.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -637,15 +637,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -661,7 +661,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -677,7 +677,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -687,7 +687,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -752,15 +752,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/salamence-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -776,7 +776,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -786,11 +786,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -806,7 +806,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 2,
@@ -834,7 +834,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -893,7 +893,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -903,27 +903,27 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/gloom.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/oddish.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2014-2016/lugia-ex-ces.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/beedrill-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -939,7 +939,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 4,
@@ -949,15 +949,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/level-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -967,7 +967,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -1032,11 +1032,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -1052,7 +1052,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -1062,15 +1062,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-ranger.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -1086,7 +1086,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -1175,39 +1175,41 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex-mega.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/gumshoos-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/yungoos.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/wobbuffet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Wobbuffet",
+              "number": "RC11",
+              "set": "GEN"
       },
       {
         "count": 3,
@@ -1223,7 +1225,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -1233,15 +1235,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/brocks-grit.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -1257,15 +1259,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -1275,7 +1277,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -1328,19 +1330,19 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/darkrai-ex-bkp.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2014-2016/yveltal-sts.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -1356,15 +1358,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -1380,7 +1382,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -1396,7 +1398,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -1406,7 +1408,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -1460,7 +1462,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -1502,7 +1504,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -1544,7 +1546,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -1585,31 +1587,31 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex-mega.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/rayquaza-ex-dragon-promo.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/salamence-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -1625,7 +1627,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 3,
@@ -1635,7 +1637,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -1651,19 +1653,19 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/brocks-grit.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -1673,15 +1675,15 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -1691,7 +1693,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -1745,7 +1747,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -1787,7 +1789,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -1829,7 +1831,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -1871,7 +1873,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -1913,7 +1915,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -1955,7 +1957,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -1997,7 +1999,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2039,7 +2041,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2081,7 +2083,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2123,7 +2125,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2165,7 +2167,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2207,7 +2209,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2249,7 +2251,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2291,7 +2293,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2333,7 +2335,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2375,7 +2377,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2417,7 +2419,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2458,7 +2460,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2502,11 +2504,11 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/yveltal-ex-shiny.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/yveltal-fright-night.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 4,
@@ -2522,7 +2524,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -2537,8 +2539,10 @@ let seniors = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/wobbuffet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Wobbuffet",
+              "number": "RC11",
+              "set": "GEN"
       },
       {
         "count": 4,
@@ -2554,7 +2558,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -2564,7 +2568,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -2574,7 +2578,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -2584,7 +2588,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -2673,7 +2677,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -2683,23 +2687,23 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/gloom.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/oddish.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/lugia-ex-ces.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -2727,7 +2731,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -2737,15 +2741,15 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/level-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -2755,7 +2759,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -2808,23 +2812,23 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/mega-mewtwo-y-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-ex-shatter-shot.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/wobbuffet.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -2852,15 +2856,15 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -2870,11 +2874,11 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -2884,7 +2888,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-spirit-link.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 3,
@@ -2894,7 +2898,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/shrine-of-memories.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -2965,15 +2969,15 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/salamence-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -2983,7 +2987,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -2999,15 +3003,15 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-ranger.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -3023,7 +3027,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -3051,7 +3055,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -3104,19 +3108,19 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/xerneas-break.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerneas-rainbow-force.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2014-2016/flygon-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -3132,19 +3136,21 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/wobbuffet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Wobbuffet",
+              "number": "RC11",
+              "set": "GEN"
       },
       {
         "count": 4,
@@ -3160,19 +3166,19 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -3194,7 +3200,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
          "count": 1,
@@ -3204,7 +3210,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -3214,7 +3220,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 7,
@@ -3273,27 +3279,29 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/zoroark-break.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/zorua-bkt.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2014-2016/yveltal-ex-shiny.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/yveltal-fright-night.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 3,
@@ -3309,15 +3317,15 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -3333,7 +3341,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -3416,15 +3424,15 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/darkrai-ex-bkp.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2014-2016/yveltal-sts.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -3440,7 +3448,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -3450,7 +3458,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -3466,11 +3474,11 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -3480,7 +3488,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -3496,7 +3504,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/reverse-valley.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 12,
@@ -3543,27 +3551,29 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/xerneas-break.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2014-2016/salamence-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/giratina-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/wobbuffet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Wobbuffet",
+              "number": "RC11",
+              "set": "GEN"
       },
       {
         "count": 4,
@@ -3579,15 +3589,15 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -3603,7 +3613,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -3619,7 +3629,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -3629,7 +3639,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/fairy-garden.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 10,
@@ -3639,7 +3649,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/energy/double-dragon-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3683,23 +3693,25 @@ let juniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/mega-mewtwo-y-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-ex-shatter-shot.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/wobbuffet.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Wobbuffet",
+              "number": "RC11",
+              "set": "GEN"
       },
       {
         "count": 4,
@@ -3715,15 +3727,15 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -3733,11 +3745,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 1,
@@ -3747,7 +3759,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-spirit-link.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 2,
@@ -3757,7 +3769,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/shrine-of-memories.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -3828,15 +3840,15 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/salamence-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -3852,7 +3864,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -3868,15 +3880,15 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-ranger.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -3892,7 +3904,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -3920,11 +3932,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/rough-seas.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 12,
@@ -3977,7 +3989,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -3987,23 +3999,23 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vileplume.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/gloom.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/oddish.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2014-2016/lugia-ex-ces.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -4013,7 +4025,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/beedrill-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -4029,7 +4041,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -4039,15 +4051,15 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/level-ball.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/revitalizer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -4057,7 +4069,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/forest-of-giant-plants.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 3,
@@ -4110,39 +4122,39 @@ let juniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex-mega.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/raichu.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/pikachu.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 3,
@@ -4152,7 +4164,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -4162,7 +4174,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -4172,7 +4184,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -4182,7 +4194,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -4204,7 +4216,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -4214,7 +4226,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -4279,15 +4291,15 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/salamence-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -4297,7 +4309,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -4313,15 +4325,15 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-ranger.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -4337,7 +4349,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -4371,7 +4383,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 12,
@@ -4418,31 +4430,31 @@ let juniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex-mega.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 3,
@@ -4452,11 +4464,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -4472,7 +4484,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -4488,11 +4500,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/mega-turbo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -4502,7 +4514,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -4512,7 +4524,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/sky-field.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -4565,31 +4577,31 @@ let juniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/mega-gardevoir-ex-sts.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/m-gardevoir-ex-prc.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/gardevoir-ex-sts.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas-break.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -4599,7 +4611,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -4609,15 +4621,15 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/brocks-grit.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -4633,19 +4645,19 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2014-2016/gardevoir-spirit-link.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/fairy-garden.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 12,
@@ -4692,27 +4704,27 @@ let juniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/darkrai-ex-bkp.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2014-2016/giratina-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2014-2016/salamence-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/yveltal-sts.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -4728,23 +4740,23 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lysandre.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/olympia.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-ranger.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -4760,7 +4772,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/trainers-mail.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 1,
@@ -4782,7 +4794,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -4792,7 +4804,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -4808,7 +4820,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/energy/double-dragon-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },

@@ -42,92 +42,92 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil/ro.041.dark_muk.jpg',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/ro.057.grimer.jpg',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/n1.024.murkrow.jpg',
-        numImg: '../../assets/02.png',
+        "count": 2,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/n1.012.pichu_.jpg',
-        numImg: '../../assets/02.png',
+        "count": 2,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/n1.020.cleffa.jpg',
-        numImg: '../../assets/01.png',
+        "count": 1,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/n1.100.double_gust.jpg',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/g1.100.erika_.jpg',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg',
-        numImg: '../../assets/03.png',
+        "count": 3,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/ro.076.imposter_oaks_revenge.jpg',
-        numImg: '../../assets/03.png',
+        "count": 3,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/g1.114.mistys_wrath.jpg',
-        numImg: '../../assets/03.png',
+        "count": 3,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg',
-        numImg: '../../assets/03.png',
+        "count": 3,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/n1.086.focus_band.jpg',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/n4.093.exp_all.jpg',
-        numImg: '../../assets/03.png',
+        "count": 3,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/n3.063.rockets_hideout.jpg',
-        numImg: '../../assets/03.png',
+        "count": 3,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/g2.102.chaos_gym.jpg',
-        numImg: '../../assets/02.png',
+        "count": 2,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/bs.099.grass_energy.jpg',
-        numImg: '../../assets/09.png',
+        "count": 9,,
         oldCard: true
       },
       {
         cardImg: '../../assets/cards/base-fossil/n1.104.darkness_energy.jpg',
-        numImg: '../../assets/02.png',
+        "count": 2,,
         oldCard: true
       },
     ]
@@ -170,7 +170,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]
@@ -213,7 +213,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]
@@ -256,7 +256,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]
@@ -302,7 +302,7 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]
@@ -345,7 +345,7 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]
@@ -388,7 +388,7 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]
@@ -431,7 +431,7 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]
@@ -474,7 +474,7 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]
@@ -517,7 +517,7 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]
@@ -560,7 +560,7 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]
@@ -603,7 +603,7 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]
@@ -649,7 +649,7 @@ let juniors = [
     deck: [
       {
         cardImg: '../../assets/cards/base-fossil',
-        numImg: '../../assets/04.png',
+        "count": 4,,
         oldCard: true
       },
     ]

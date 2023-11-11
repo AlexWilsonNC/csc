@@ -46,75 +46,75 @@ let masters = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006/arcanine-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/growlith.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/ninetales.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
             },
             {
         cardImg: '../../assets/cards/2004-2006/vulpix.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/latios-water.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/latias-fire-body.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/jirachi.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/prof-oaks-research-old.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/marys-request.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/elms-training-method.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
             },
             {
         cardImg: '../../assets/cards/2004-2006/pokemon-reversal.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
             },
             {
         cardImg: '../../assets/cards/2004-2006/switch.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/cursed-stone.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/old-energy/fire-energy-holon-phantoms.png',
-        numImg: '../../assets/10.png'
+        "count": 10,
             },
             {
         cardImg: '../../assets/cards/old-energy/rainbow-energy-2006.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/old-energy/react-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
         ]
     },
@@ -155,7 +155,7 @@ let masters = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -198,107 +198,107 @@ let seniors = [
         deck: [
             {
               cardImg: '../../assets/cards/2004-2006/lugia-ex.png',
-              numImg: '../../assets/01.png'
+              "count": 1,
             },
             {
               cardImg: '../../assets/cards/2004-2006/blastoise-ex.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/wartortle.png',
-              numImg: '../../assets/01.png'
+              "count": 1,
             },
             {
               cardImg: '../../assets/cards/2004-2006/squirtle.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/steelix-ex.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/onix-horn-rush.png',
-              numImg: '../../assets/01.png'
+              "count": 1,
             },
             {
               cardImg: '../../assets/cards/2004-2006/onix.png',
-              numImg: '../../assets/01.png'
+              "count": 1,
             },
             {
               cardImg: '../../assets/cards/2004-2006/pidgeot.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/pidgeotto.png',
-              numImg: '../../assets/01.png'
+              "count": 1,
             },
             {
               cardImg: '../../assets/cards/2004-2006/pidgey.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/jirachi.png',
-              numImg: '../../assets/03.png'
+              "count": 3,
             },
             {
               cardImg: '../../assets/cards/2004-2006/ditto-mr-mime.png',
-              numImg: '../../assets/01.png'
+              "count": 1,
             },
             {
         cardImg: '../../assets/cards/2004-2006/holon-electrode.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
               },
             {
               cardImg: '../../assets/cards/2004-2006/holon-magneton.png',
-              numImg: '../../assets/01.png'
+              "count": 1,
             },
             {
               cardImg: '../../assets/cards/2004-2006/elms-training-method.png',
-              numImg: '../../assets/04.png'
+              "count": 4,
             },
             {
               cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-              numImg: '../../assets/03.png'
+              "count": 3,
             },
             {
               cardImg: '../../assets/cards/2004-2006/holon-mentor.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/holon-scientist.png',
-              numImg: '../../assets/01.png'
+              "count": 1,
             },
             {
               cardImg: '../../assets/cards/2004-2006/rare-candy-2006.png',
-              numImg: '../../assets/04.png'
+              "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
               },
             {
               cardImg: '../../assets/cards/2004-2006/holon-transeiver.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/switch.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/power-tree.png',
-              numImg: '../../assets/03.png'
+              "count": 3,
             },
             {
               cardImg: '../../assets/cards/2004-2006/giant-stump.png',
-              numImg: '../../assets/01.png'
+              "count": 1,
             },
             {
               cardImg: '../../assets/cards/old-energy/water-energy-holon-phantoms.png',
-              numImg: '../../assets/09.png'
+              "count": 9,
             }
           ]
     },
@@ -339,7 +339,7 @@ let seniors = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -382,92 +382,92 @@ let juniors = [
         deck: [
             {
               cardImg: '../../assets/cards/2004-2006/dark-tyranitar.png',
-              numImg: '../../assets/03.png'
+              "count": 3,
             },
             {
               cardImg: '../../assets/cards/2004-2006/dark-pupitar.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/larvitar.png',
-              numImg: '../../assets/03.png'
+              "count": 3,
             },
             {
               cardImg: '../../assets/cards/2004-2006/electrode-ex.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/voltorb.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/ninetales.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/vulpix.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/plusle.png',
-              numImg: '../../assets/04.png'
+              "count": 4,
             },
             {
               cardImg: '../../assets/cards/2004-2006/tv-reporter.png',
-              numImg: '../../assets/04.png'
+              "count": 4,
             },
             {
               cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-              numImg: '../../assets/03.png'
+              "count": 3,
             },
             {
               cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-              numImg: '../../assets/03.png'
+              "count": 3,
             },
             {
         cardImg: '../../assets/cards/2004-2006/pow-hand-extension.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
               },
               {
         cardImg: '../../assets/cards/2004-2006/life-herb.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
               },
             {
               cardImg: '../../assets/cards/2004-2006/rare-candy-2006.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/tr.089.rockets_poke_ball.jpg',
-              numImg: '../../assets/02.png',
+              "count": 2,,
               radiusCard: true
             },
             {
               cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/2004-2006/battle-fronteir.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/old-energy/fire-energy-holon-phantoms.png',
-              numImg: '../../assets/06.png'
+              "count": 6,
             },
             {
               cardImg: '../../assets/cards/old-energy/2007-darkness-energy-special.png',
-              numImg: '../../assets/04.png'
+              "count": 4,
             },
             {
               cardImg: '../../assets/cards/old-energy/r-energy.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/old-energy/rainbow-energy-2006.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             },
             {
               cardImg: '../../assets/cards/old-energy/holon-energy-ff.png',
-              numImg: '../../assets/02.png'
+              "count": 2,
             }
           ]
     },
@@ -508,7 +508,7 @@ let juniors = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -549,7 +549,7 @@ let juniors = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -590,7 +590,7 @@ let juniors = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -631,7 +631,7 @@ let juniors = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -672,7 +672,7 @@ let juniors = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -713,7 +713,7 @@ let juniors = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -754,7 +754,7 @@ let juniors = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -798,7 +798,7 @@ let fiveEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -839,7 +839,7 @@ let fiveEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -879,90 +879,90 @@ let fiveEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006/mew-ex.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/uf.028.jynx_.jpg',
-                numImg: '../../assets/02.png',
+                "count": 2,,
                 oldCard: true
             },
             {
         cardImg: '../../assets/cards/2004-2006/lm.028.wobbuffet.jpg',
-                numImg: '../../assets/03.png',
+                "count": 3,,
                 oldCard: true
             },
             {
         cardImg: '../../assets/cards/2004-2006/lm.071.wynaut.jpg',
-                numImg: '../../assets/03.png',
+                "count": 3,,
                 oldCard: true
             },
             {
         cardImg: '../../assets/cards/2004-2006/roselia.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/minun.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/uf.00I.unown_.jpg',
-                numImg: '../../assets/02.png',
+                "count": 2,,
                 oldCard: true
             },
             {
         cardImg: '../../assets/cards/2004-2006/uf.00E.unown_.jpg',
-                numImg: '../../assets/01.png',
+                "count": 1,,
                 oldCard: true
             },
             {
         cardImg: '../../assets/cards/2004-2006/lm.008.lapras.jpg',
-                numImg: '../../assets/01.png',
+                "count": 1,,
                 oldCard: true
             },
             {
         cardImg: '../../assets/cards/2004-2006/castform.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/holon-magnemite.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/holon-voltorb.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/tr.086.rockets_admin.jpg',
-                numImg: '../../assets/04.png',
+                "count": 4,,
                 radiusCard: true
             },
             {
         cardImg: '../../assets/cards/2004-2006/holon-mentor.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
             },
             {
         cardImg: '../../assets/cards/2004-2006/holon-adventurer.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/holon-transeiver.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/pow-hand-extension.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
             },
             {
         cardImg: '../../assets/cards/2004-2006/battle-fronteir.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
         ]
     },
@@ -1003,7 +1003,7 @@ let fiveEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -1044,7 +1044,7 @@ let fiveEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -1085,7 +1085,7 @@ let fiveEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -1126,7 +1126,7 @@ let fiveEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -1167,7 +1167,7 @@ let fiveEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2004-2006',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -1211,7 +1211,7 @@ let sixEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2008-2010',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -1251,111 +1251,111 @@ let sixEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2007-2008/flygon-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
             },
             {
         cardImg: '../../assets/cards/2007-2008/vibrava-grass.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
             },
             {
         cardImg: '../../assets/cards/2007-2008/vibrava-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
             },
             {
         cardImg: '../../assets/cards/2007-2008/trapinch-grass.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2007-2008/nidoqueen-metal.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2007-2008/nidoran-metal.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2007-2008/magcargo.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2007-2008/slugma.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2007-2008/castform.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2007-2008/holons-magnemite.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
             },
             {
         cardImg: '../../assets/cards/2007-2008/tv-reporter.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
             },
             {
         cardImg: '../../assets/cards/2007-2008/holon-mentor.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2007-2008/holon-scientist.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
             },
             {
         cardImg: '../../assets/cards/2007-2008/holon-adventurer.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
             },
             {
         cardImg: '../../assets/cards/2007-2008/holons-farmer.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
             },
             {
         cardImg: '../../assets/cards/2007-2008/holon-researcher.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
             },
             {
         cardImg: '../../assets/cards/2007-2008/holon-transceiver.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2007-2008/rare-candy-2006.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/2007-2008/windstorm.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
             },
             {
         cardImg: '../../assets/cards/2007-2008/pluspower.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/warp-point.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/2004-2006/switch.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
             },
             {
         cardImg: '../../assets/cards/2007-2008/giant-stump.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
             },
             {
         cardImg: '../../assets/cards/old-energy/lightning-energy-holon-phantoms.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
             },
             {
         cardImg: '../../assets/cards/old-energy/boost-energy.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
             },
             {
         cardImg: '../../assets/cards/old-energy/rainbow-energy-2006.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
             },
             {
         cardImg: '../../assets/cards/old-energy/react-energy.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
             },
         ]
     },
@@ -1396,7 +1396,7 @@ let sixEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2008-2010',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -1437,7 +1437,7 @@ let sixEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2008-2010',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -1482,7 +1482,7 @@ let sevenEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -1527,7 +1527,7 @@ let eightEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },
@@ -1572,7 +1572,7 @@ let nineEvent = [
         deck: [
             {
         cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png'
+                "count": 4,
             },
         ]
     },

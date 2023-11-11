@@ -47,8 +47,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -88,7 +90,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -207,15 +209,15 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/silvally-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/type-null.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/registeel.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -231,7 +233,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -241,7 +243,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dhelmise.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -311,7 +313,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/fighting-memory.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 10,
@@ -376,7 +378,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 3,
@@ -597,7 +599,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -740,7 +742,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/zygarde.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -1040,7 +1042,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/ho-oh-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 2,
@@ -1176,8 +1178,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -1217,7 +1221,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -1341,8 +1345,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -1382,7 +1388,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -1469,7 +1475,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -1510,11 +1516,11 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/silvally-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/type-null.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -1530,7 +1536,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/registeel.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -1540,7 +1546,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -1634,11 +1640,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/fighting-memory.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/psychic-memory.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 8,
@@ -1697,7 +1703,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 4,
@@ -1864,15 +1870,15 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/silvally-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/type-null.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/registeel.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -1888,7 +1894,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -1976,7 +1982,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/fighting-memory.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 11,
@@ -2041,7 +2047,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 4,
@@ -2170,7 +2176,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2211,31 +2217,33 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/heatmor.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/riachu-ability.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/pikachu-promo.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/pikachu.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/victini.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/durant.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/jirachi.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Jirachi",
+              "number": "67",
+              "set": "PR-XY"
       },
       {
         "count": 1,
@@ -2311,7 +2319,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/devolution-spray.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 4,
@@ -2374,7 +2382,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2427,7 +2435,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -2550,7 +2558,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2603,7 +2611,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/zorua-bkt.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 2,
@@ -2637,7 +2645,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -2768,7 +2776,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
          "count": 4,
@@ -2929,11 +2937,11 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/silvally-gx.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/type-null.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -2949,7 +2957,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/registeel.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -2965,7 +2973,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/scizor-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -3041,11 +3049,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/fighting-memory.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/psychic-memory.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 8,
@@ -3103,8 +3111,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -3144,7 +3154,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -3268,12 +3278,14 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/zorua-bkt.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 3,
@@ -3446,7 +3458,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -3594,8 +3606,10 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 2,
@@ -3605,11 +3619,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/zoroark-break.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/zorua-bkt.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 2,
@@ -3637,7 +3651,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/shining-jirachi.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -3701,7 +3715,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 3,
@@ -3766,11 +3780,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/silvally-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/type-null.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 3,
@@ -3822,7 +3836,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -3862,7 +3876,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 5,
@@ -4221,7 +4235,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4585,11 +4599,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/silvally-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/type-null.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -4694,7 +4708,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4740,8 +4754,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 4,
@@ -4769,7 +4785,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -4880,7 +4896,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4895,7 +4911,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4936,11 +4952,11 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/xerneas-break.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 3,
@@ -5016,11 +5032,11 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/fairy-garden.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 12,
@@ -5047,7 +5063,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5088,15 +5104,15 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/metagross-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/metang.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/beldum.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 1,
@@ -5124,7 +5140,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -5243,7 +5259,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -5384,7 +5400,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5399,7 +5415,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5414,7 +5430,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5467,7 +5483,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
          "count": 4,
@@ -5634,7 +5650,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -5994,7 +6010,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -6304,7 +6320,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6351,7 +6367,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dartrix.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -6415,7 +6431,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -6496,7 +6512,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6555,7 +6571,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -6684,7 +6700,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6699,7 +6715,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6745,8 +6761,10 @@ let masters = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         "count": 3,
@@ -6858,7 +6876,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -6891,7 +6909,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6906,7 +6924,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -7013,7 +7031,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -7155,8 +7173,10 @@ let masters = [
             "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/jirachi.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Jirachi",
+              "number": "67",
+              "set": "PR-XY"
       },
       {
         "count": 4,
@@ -7178,7 +7198,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -7218,7 +7238,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 5,
@@ -7251,7 +7271,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -7266,7 +7286,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -7379,7 +7399,7 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -7454,7 +7474,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -7830,11 +7850,11 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/registeel.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 2,
@@ -7844,11 +7864,11 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/zorua-bkt.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/zorua-whiny-voice.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -7979,15 +7999,15 @@ let seniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/metagross-gx.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         cardImg: '../../assets/cards/2018-17/metang.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         cardImg: '../../assets/cards/2018-17/beldum.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 1,
@@ -8009,7 +8029,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/magearna-ex.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -8128,11 +8148,11 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/meowstic.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/espurr.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 2,
@@ -8256,7 +8276,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/po-town.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 8,
@@ -8314,12 +8334,14 @@ let seniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/zorua-bkt.png',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
       {
         "count": 3,
@@ -8971,12 +8993,14 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-wild-river.png',
-        numImg: '../../assets/01.png'
+        "name": "Remoraid",
+            "number": "31",
+            "set": "BKT",
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2018-17/diancie.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -9052,7 +9076,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/energy/energy-fairy.png',
-        numImg: '../../assets/09.png'
+        "count": 9,
       },
       {
         "count": 4,
@@ -9104,16 +9128,18 @@ let juniors = [
           "set": "SLG"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zoroark.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zoroark",
+              "number": "91",
+              "set": "BKT"
       },
       {
         cardImg: '../../assets/cards/2018-17/zorua-whiny-voice.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         cardImg: '../../assets/cards/2018-17/zorua-bkt.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 3,
@@ -9280,7 +9306,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 4,
@@ -9604,7 +9630,7 @@ let juniors = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17/registeel.png',
-        numImg: '../../assets/03.png'
+        "count": 3,
       },
       {
         "count": 3,
@@ -9620,7 +9646,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/scizor-ex.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 1,
@@ -9648,7 +9674,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/dhelmise.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -9676,7 +9702,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/lillie-sum.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,
@@ -9801,11 +9827,11 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/xerneas-break.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerneas-sts.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 1,
@@ -9814,8 +9840,10 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/remoraid-wild-river.png',
-        numImg: '../../assets/01.png'
+        "name": "Remoraid",
+            "number": "31",
+            "set": "BKT",
+        "count": 1,
       },
       {
         "count": 1,
@@ -9897,7 +9925,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/fairy-garden.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
       },
       {
         "count": 8,
@@ -10004,7 +10032,7 @@ let juniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
       },
       {
         "count": 4,

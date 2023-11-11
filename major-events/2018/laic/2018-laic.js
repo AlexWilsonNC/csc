@@ -1477,7 +1477,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -1492,7 +1492,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2121,7 +2121,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2446,7 +2446,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2461,7 +2461,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -2774,7 +2774,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3117,7 +3117,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3132,7 +3132,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3451,7 +3451,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -3931,7 +3931,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4119,7 +4119,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4325,7 +4325,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4489,7 +4489,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4504,7 +4504,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -4519,7 +4519,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5381,7 +5381,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5903,7 +5903,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -5918,7 +5918,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6100,7 +6100,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6115,7 +6115,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6130,7 +6130,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6294,7 +6294,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6452,7 +6452,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6467,7 +6467,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6482,7 +6482,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
@@ -6497,7 +6497,7 @@ let masters = [
     deck: [
       {
         cardImg: '../../assets/cards/2018-17',
-        numImg: '../../assets/04.png'
+        "count": 4,
       },
     ]
   },
