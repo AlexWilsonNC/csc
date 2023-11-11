@@ -61,8 +61,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/cobalion.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cobalion",
+          "number": "74",
+          "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2014-2016/absol.png',
@@ -266,8 +268,10 @@ let masters = [
         numImg: '../../assets/08.png'
       },
       {
-        cardImg: '../../assets/cards/energy/energy-splash.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Splash Energy",
+          "number": "113",
+          "set": "BKP"
       }
     ]
   },
@@ -992,8 +996,10 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/cobalion.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Cobalion",
+          "number": "74",
+          "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2014-2016/aegislash-ex.png',

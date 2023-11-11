@@ -742,8 +742,10 @@ let masters = [
         numImg: '../../assets/07.png',
       },
       {
-        cardImg: '../../assets/cards/energy/energy-splash.png',
-        numImg: '../../assets/03.png',
+         "count": 3,
+          "name": "Splash Energy",
+          "number": "113",
+          "set": "BKP",
       },
     ]
   },
@@ -2010,8 +2012,10 @@ let masters = [
         numImg: '../../assets/06.png',
       },
       {
-        cardImg: '../../assets/cards/energy/energy-splash.png',
-        numImg: '../../assets/04.png',
+         "count": 4,
+          "name": "Splash Energy",
+          "number": "113",
+          "set": "BKP",
       },
     ]
   },
@@ -3033,8 +3037,10 @@ let masters = [
         numImg: '../../assets/05.png',
       },
       {
-        cardImg: '../../assets/cards/energy/energy-splash.png',
-        numImg: '../../assets/04.png',
+         "count": 4,
+          "name": "Splash Energy",
+          "number": "113",
+          "set": "BKP",
       },
     ]
   },
@@ -3811,8 +3817,10 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/switch.png',
-        numImg: '../../assets/02.png'
+         "count": 2,
+          "name": "Switch",
+          "number": "132",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -4858,8 +4866,10 @@ let seniors = [
         numImg: '../../assets/06.png',
       },
       {
-        cardImg: '../../assets/cards/energy/energy-splash.png',
-        numImg: '../../assets/04.png',
+         "count": 4,
+          "name": "Splash Energy",
+          "number": "113",
+          "set": "BKP",
       },
     ]
   },

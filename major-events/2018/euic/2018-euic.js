@@ -530,32 +530,46 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/greninja-break.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Greninja BREAK",
+          "number": "41",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/greninja.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Greninja",
+          "number": "40",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/frogadier-water-duplicates.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Frogadier",
+          "number": "39",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/froakie-bubble.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Froakie",
+          "number": "38",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/starmie.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Starmie",
+          "number": "31",
+          "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/staryu.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Staryu",
+          "number": "25",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-fini-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Tapu Fini GX",
+          "number": "39",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -640,8 +654,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-splash.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Splash Energy",
+          "number": "113",
+          "set": "BKP"
       },
     ]
   },
@@ -884,8 +900,10 @@ let masters = [
           "set": "FLI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zygarde.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Zygarde",
+              "number": "15",
+              "set": "PR-SM"
       },
       {
         "count": 1,
@@ -1015,8 +1033,10 @@ let masters = [
             "set": "STS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/turtonator-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Turtonator GX",
+              "number": "18",
+              "set": "GRI"
       },
       {
         cardImg: '../../assets/cards/2018-17/ho-oh-gx.png',
@@ -1083,8 +1103,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/switch.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Switch",
+          "number": "132",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -1527,8 +1549,10 @@ let masters = [
             "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/turtonator-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Turtonator GX",
+              "number": "18",
+              "set": "GRI"
       },
       {
         "count": 1,
@@ -1873,8 +1897,10 @@ let masters = [
           "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/cobalion.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cobalion",
+          "number": "74",
+          "set": "STS"
       },
       {
         "count": 1,
@@ -2944,12 +2970,16 @@ let masters = [
         "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/turtonator-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+              "name": "Turtonator GX",
+              "number": "18",
+              "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/cobalion.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cobalion",
+          "number": "74",
+          "set": "STS"
       },
       {
         "count": 4,
@@ -4554,8 +4584,10 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/turtonator-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Turtonator GX",
+              "number": "18",
+              "set": "GRI"
       },
       {
         "count": 2,
@@ -4618,8 +4650,10 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/switch.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Switch",
+          "number": "132",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -6894,32 +6928,46 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/greninja-break.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Greninja BREAK",
+          "number": "41",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/greninja.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Greninja",
+          "number": "40",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/frogadier-water-duplicates.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Frogadier",
+          "number": "39",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/froakie-bubble.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Froakie",
+          "number": "38",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/starmie.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Starmie",
+          "number": "31",
+          "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/staryu.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Staryu",
+          "number": "25",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-fini-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Tapu Fini GX",
+          "number": "39",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -7004,8 +7052,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-splash.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Splash Energy",
+          "number": "113",
+          "set": "BKP"
       },
     ]
   },
@@ -7238,28 +7288,40 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/greninja-break.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Greninja BREAK",
+          "number": "41",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/greninja.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Greninja",
+          "number": "40",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/frogadier-water-duplicates.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Frogadier",
+          "number": "39",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/froakie-bubble.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Froakie",
+          "number": "38",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/starmie.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Starmie",
+          "number": "31",
+          "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/staryu.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Staryu",
+          "number": "25",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -7268,8 +7330,10 @@ let masters = [
             "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-fini-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Tapu Fini GX",
+          "number": "39",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -7354,8 +7418,10 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-splash.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Splash Energy",
+          "number": "113",
+          "set": "BKP"
       },
     ]
   },
@@ -7449,8 +7515,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/tapu-fini-gx.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Tapu Fini GX",
+          "number": "39",
+          "set": "BUS"
       },
       {
         "count": 1,
@@ -7580,28 +7648,40 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/greninja-break.png',
-        numImg: '../../assets/03.png'
+         "count": 3,
+          "name": "Greninja BREAK",
+          "number": "41",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/greninja.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Greninja",
+          "number": "40",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/frogadier-water-duplicates.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Frogadier",
+          "number": "39",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/froakie-bubble.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Froakie",
+          "number": "38",
+          "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/starmie.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Starmie",
+          "number": "31",
+          "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/staryu.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Staryu",
+          "number": "25",
+          "set": "BKP"
       },
       {
         "count": 1,
@@ -7688,8 +7768,10 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/energy-splash.png',
-        numImg: '../../assets/04.png'
+         "count": 4,
+          "name": "Splash Energy",
+          "number": "113",
+          "set": "BKP"
       },
     ]
   },
@@ -7757,8 +7839,10 @@ let seniors = [
           "set": "PR-SM"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/cobalion.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cobalion",
+          "number": "74",
+          "set": "STS"
       },
       {
         "count": 1,
@@ -8528,8 +8612,10 @@ let seniors = [
             "set": "STS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/turtonator-gx.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+              "name": "Turtonator GX",
+              "number": "18",
+              "set": "GRI"
       },
       {
         "count": 2,
@@ -8592,8 +8678,10 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/switch.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Switch",
+          "number": "132",
+          "set": "SUM"
       },
       {
         "count": 1,
@@ -9535,8 +9623,10 @@ let juniors = [
             "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/cobalion.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Cobalion",
+          "number": "74",
+          "set": "STS"
       },
       {
         cardImg: '../../assets/cards/2018-17/dhelmise.png',
@@ -9583,8 +9673,10 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/switch.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Switch",
+          "number": "132",
+          "set": "SUM"
       },
       {
         "count": 1,

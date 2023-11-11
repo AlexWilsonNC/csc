@@ -3185,8 +3185,10 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/switch.png',
-        numImg: '../../assets/01.png'
+         "count": 1,
+          "name": "Switch",
+          "number": "132",
+          "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/exp-share.png',

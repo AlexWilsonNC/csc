@@ -2281,7 +2281,7 @@ let masters = [
         },
         {
           "count": 1,
-            "name": "Mount Coronet",
+            "name": "Mt. Coronet",
             "number": "130",
             "set": "UPR"
         },

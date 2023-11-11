@@ -10274,7 +10274,7 @@ let seniors = [
         },
         {
           "count": 2,
-            "name": "Mount Coronet",
+            "name": "Mt. Coronet",
             "number": "130",
             "set": "UPR"
         },
