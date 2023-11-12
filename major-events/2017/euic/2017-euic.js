@@ -6083,7 +6083,9 @@ let juniors = [
         "count": 1,,
       },
       {
-        cardImg: '../../assets/cards/2014-2016/carbink-bad.png',
+        "name": "Carbink",
+            "number": "49",
+            "set": "FCO",
         "count": 1,,
       },
       {

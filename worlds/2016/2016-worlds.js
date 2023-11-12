@@ -2391,7 +2391,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2014-2016/carbink-break.png',
+        "name": "Carbink BREAK",
+            "number": "51",
+            "set": "FCO",
         "count": 3,
       },
       {

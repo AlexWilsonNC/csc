@@ -338,8 +338,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 3,
@@ -1622,8 +1622,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi.png',
@@ -3853,8 +3853,8 @@ let juniors = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,

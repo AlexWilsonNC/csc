@@ -1027,8 +1027,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -1928,8 +1928,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -2340,8 +2340,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -3876,8 +3876,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -4039,8 +4039,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -5548,8 +5548,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 1,
@@ -6516,8 +6516,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -8872,8 +8872,8 @@ let seniors = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -9036,8 +9036,8 @@ let juniors = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         cardImg: '../../assets/cards/2018-17/alolan-rattata.png',
@@ -9688,8 +9688,8 @@ let juniors = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -9877,8 +9877,8 @@ let juniors = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -10036,8 +10036,8 @@ let juniors = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -10183,8 +10183,8 @@ let juniors = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,

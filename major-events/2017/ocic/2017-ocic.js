@@ -764,8 +764,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -4415,7 +4415,9 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie-sum.png',
+        "name": "Lillie",
+            "number": "122",
+            "set": "SUM",
         "count": 3,
       },
       {
@@ -4598,7 +4600,9 @@ let juniors = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie-sum.png',
+        "name": "Lillie",
+            "number": "122",
+            "set": "SUM",
         "count": 1,
       },
       {
@@ -5019,8 +5023,8 @@ let juniors = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 4,
@@ -5035,7 +5039,9 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lillie-sum.png',
+        "name": "Lillie",
+            "number": "122",
+            "set": "SUM",
         "count": 2,
       },
       {

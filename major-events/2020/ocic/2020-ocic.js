@@ -674,8 +674,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
            "count": 1,
@@ -847,8 +847,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -1509,8 +1509,8 @@ let masters = [
         {
           "count": 2,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 2,
@@ -2034,8 +2034,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -2529,8 +2529,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -4641,8 +4641,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
            "count": 1,
@@ -4802,8 +4802,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -4969,8 +4969,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -5125,8 +5125,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -5298,8 +5298,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -5479,8 +5479,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -5801,8 +5801,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -6780,8 +6780,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -7695,8 +7695,8 @@ let masters = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -8549,8 +8549,8 @@ let seniors = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,
@@ -8716,8 +8716,8 @@ let seniors = [
         {
           "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
         },
         {
           "count": 1,

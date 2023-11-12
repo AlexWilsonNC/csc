@@ -1417,7 +1417,9 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/ho-oh-gx.png',
+        "name": "Ho-oh GX",
+            "number": "21",
+            "set": "BUS",
         "count": 3,
       },
       {
@@ -2254,8 +2256,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 1,
@@ -2564,7 +2566,9 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/ho-oh-gx.png',
+        "name": "Ho-oh GX",
+            "number": "21",
+            "set": "BUS",
         "count": 4,
       },
       {
@@ -3264,7 +3268,9 @@ let masters = [
               "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ho-oh-gx.png',
+        "name": "Ho-oh GX",
+            "number": "21",
+            "set": "BUS",
         "count": 1,
       },
       {
@@ -3471,8 +3477,8 @@ let masters = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 3,
@@ -6356,8 +6362,8 @@ let juniors = [
       {
         "count": 1,
             "name": "Oranguru",
-            "number": "148",
-            "set": "SSH"
+            "number": "113",
+            "set": "SUM"
       },
       {
         "count": 1,
