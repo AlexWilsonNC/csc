@@ -89,7 +89,9 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
+        "name": "Mr. Mime",
+            "number": "97",
+            "set": "BKT",
         "count": 1,
       },
       {
@@ -377,7 +379,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
+        "name": "Kirlia",
+            "number": "69",
+            "set": "BKT",
         "count": 3,
       },
       {
@@ -1224,7 +1228,9 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
+        "name": "Mr. Mime",
+            "number": "97",
+            "set": "BKT",
         "count": 1,
       },
       {
@@ -1391,7 +1397,9 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
+        "name": "Mr. Mime",
+            "number": "97",
+            "set": "BKT",
         "count": 1,
       },
       {
@@ -2050,7 +2058,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
+        "name": "Kirlia",
+            "number": "69",
+            "set": "BKT",
         "count": 2,
       },
       {
@@ -2438,7 +2448,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
+        "name": "Kirlia",
+            "number": "69",
+            "set": "BKT",
         "count": 3,
       },
       {
@@ -2648,7 +2660,9 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
+        "name": "Mr. Mime",
+            "number": "97",
+            "set": "BKT",
         "count": 1,
       },
       {
@@ -2779,7 +2793,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
+        "name": "Kirlia",
+            "number": "69",
+            "set": "BKT",
         "count": 2,
       },
       {
@@ -3157,7 +3173,9 @@ let masters = [
             "set": "EVO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
+        "name": "Mr. Mime",
+            "number": "97",
+            "set": "BKT",
         "count": 1,
       },
       {
@@ -3461,7 +3479,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
+        "name": "Kirlia",
+            "number": "69",
+            "set": "BKT",
         "count": 3,
       },
       {
@@ -4790,7 +4810,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
+        "name": "Mr. Mime",
+            "number": "97",
+            "set": "BKT",
         "count": 1,
       },
       {
@@ -4957,11 +4979,15 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/xerneas-break.png',
+        "name": "Xerneas BREAK",
+            "number": "82",
+            "set": "STS",
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/xerneas.png',
+        "name": "Xerneas",
+            "number": "81",
+            "set": "STS",
         "count": 4,
       },
       {
@@ -5041,7 +5067,9 @@ let masters = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/fairy-garden.png',
+        "name": "Fairy Garden",
+            "number": "100",
+            "set": "FCO",
         "count": 3,
       },
       {
@@ -5488,7 +5516,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
+        "name": "Kirlia",
+            "number": "69",
+            "set": "BKT",
         "count": 2,
       },
       {
@@ -5655,7 +5685,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
+        "name": "Kirlia",
+            "number": "69",
+            "set": "BKT",
         "count": 2,
       },
       {
@@ -6578,7 +6610,9 @@ let masters = [
           "set": "BUS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
+        "name": "Kirlia",
+            "number": "69",
+            "set": "BKT",
         "count": 1,
       },
       {
@@ -9319,7 +9353,9 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/kirlia-psychic.png',
+        "name": "Kirlia",
+            "number": "69",
+            "set": "BKT",
         "count": 3,
       },
       {
@@ -9842,7 +9878,9 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/xerneas-break.png',
+        "name": "Xerneas BREAK",
+            "number": "82",
+            "set": "STS",
         "count": 1,
       },
       {
@@ -9940,7 +9978,9 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/fairy-garden.png',
+        "name": "Fairy Garden",
+            "number": "100",
+            "set": "FCO",
         "count": 2,
       },
       {
@@ -10047,7 +10087,9 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mr-mime-fairy.png',
+        "name": "Mr. Mime",
+            "number": "97",
+            "set": "BKT",
         "count": 1,
       },
       {

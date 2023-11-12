@@ -3107,7 +3107,9 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/xerneas-break.png',
+        "name": "Xerneas BREAK",
+            "number": "82",
+            "set": "STS",
         "count": 1,
       },
       {
@@ -3550,11 +3552,15 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/xerneas-break.png',
+        "name": "Xerneas BREAK",
+            "number": "82",
+            "set": "STS",
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/xerneas.png',
+        "name": "Xerneas",
+            "number": "81",
+            "set": "STS",
         "count": 4,
       },
       {
@@ -3638,7 +3644,9 @@ let seniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/fairy-garden.png',
+        "name": "Fairy Garden",
+            "number": "100",
+            "set": "FCO",
         "count": 4,
       },
       {
@@ -4588,11 +4596,15 @@ let juniors = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/xerneas-break.png',
+        "name": "Xerneas BREAK",
+            "number": "82",
+            "set": "STS",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/xerneas.png',
+        "name": "Xerneas",
+            "number": "81",
+            "set": "STS",
         "count": 3,
       },
       {
@@ -4656,7 +4668,9 @@ let juniors = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/fairy-garden.png',
+        "name": "Fairy Garden",
+            "number": "100",
+            "set": "FCO",
         "count": 3,
       },
       {

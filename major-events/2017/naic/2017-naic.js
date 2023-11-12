@@ -3657,7 +3657,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/charjabug.png',
+        "name": "Charjabug",
+            "number": "51",
+            "set": "SUM",
         "count": 1,
       },
       {
@@ -5709,7 +5711,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/charjabug.png',
+        "name": "Charjabug",
+            "number": "51",
+            "set": "SUM",
         "count": 2,
       },
       {
@@ -6703,7 +6707,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/charjabug.png',
+        "name": "Charjabug",
+            "number": "51",
+            "set": "SUM",
         "count": 2,
       },
       {
