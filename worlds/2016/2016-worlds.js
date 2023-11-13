@@ -1008,7 +1008,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
+        "name": "Genesect-EX",
+            "number": "64",
+            "set": "FCO",
         "count": 2,
       },
       {
@@ -1735,7 +1737,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
+        "name": "Genesect-EX",
+            "number": "64",
+            "set": "FCO",
         "count": 2,
       },
       {
@@ -2417,7 +2421,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2014-2016/zygarde.png',
+        "name": "Zygarde",
+            "number": "53",
+            "set": "FCO",
         "count": 1,
       },
       {
@@ -4676,7 +4682,9 @@ let juniors = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
+        "name": "Genesect-EX",
+            "number": "64",
+            "set": "FCO",
         "count": 3,
       },
       {

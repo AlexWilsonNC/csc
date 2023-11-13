@@ -604,7 +604,9 @@ let masters = [
             "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/magearna-ex.png',
+        "name": "Magearna-EX",
+            "number": "75",
+            "set": "STS",
         "count": 1,
       },
       {
@@ -1832,7 +1834,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/po-town.png',
+        "name": "Po Town",
+            "number": "121",
+            "set": "BUS",
         "count": 3,
       },
       {
@@ -2246,7 +2250,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/magearna-ex.png',
+        "name": "Magearna-EX",
+            "number": "75",
+            "set": "STS",
         "count": 1,
       },
       {
@@ -2513,7 +2519,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/po-town.png',
+        "name": "Po Town",
+            "number": "121",
+            "set": "BUS",
         "count": 2,
       },
       {
@@ -3465,7 +3473,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/magearna-ex.png',
+        "name": "Magearna-EX",
+            "number": "75",
+            "set": "STS",
         "count": 1,
       },
       {
@@ -3724,7 +3734,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/po-town.png',
+        "name": "Po Town",
+            "number": "121",
+            "set": "BUS",
         "count": 3,
       },
       {
@@ -4524,7 +4536,9 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/magearna-ex.png',
+        "name": "Magearna-EX",
+            "number": "75",
+            "set": "STS",
         "count": 1,
       },
       {
@@ -4602,7 +4616,9 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/po-town.png',
+        "name": "Po Town",
+            "number": "121",
+            "set": "BUS",
         "count": 2,
       },
       {
@@ -5113,7 +5129,9 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/po-town.png',
+        "name": "Po Town",
+            "number": "121",
+            "set": "BUS",
         "count": 3,
       },
       {
@@ -5178,7 +5196,9 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/dartrix.png',
+        "name": "Dartrix",
+            "number": "10",
+            "set": "SUM",
         "count": 4,
       },
       {
@@ -5670,7 +5690,9 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/dartrix.png',
+        "name": "Dartrix",
+            "number": "10",
+            "set": "SUM",
         "count": 3,
       },
       {
@@ -6010,7 +6032,9 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/magearna-ex.png',
+        "name": "Magearna-EX",
+            "number": "75",
+            "set": "STS",
         "count": 1,
       },
       {
@@ -6118,7 +6142,9 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/po-town.png',
+        "name": "Po Town",
+            "number": "121",
+            "set": "BUS",
         "count": 3,
       },
       {

@@ -46,7 +46,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/dartrix.png',
+        "name": "Dartrix",
+            "number": "10",
+            "set": "SUM",
         "count": 4,
       },
       {
@@ -185,7 +187,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/dartrix.png',
+        "name": "Dartrix",
+            "number": "10",
+            "set": "SUM",
         "count": 4,
       },
       {
@@ -475,7 +479,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/dartrix.png',
+        "name": "Dartrix",
+            "number": "10",
+            "set": "SUM",
         "count": 4,
       },
       {
@@ -892,7 +898,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/dartrix.png',
+        "name": "Dartrix",
+            "number": "10",
+            "set": "SUM",
         "count": 4,
       },
       {
@@ -1194,7 +1202,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/magearna-ex.png',
+        "name": "Magearna-EX",
+            "number": "75",
+            "set": "STS",
         "count": 1,
       },
       {
@@ -2676,7 +2686,9 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/dartrix.png',
+        "name": "Dartrix",
+            "number": "10",
+            "set": "SUM",
         "count": 4,
       },
       {
@@ -3137,7 +3149,9 @@ let seniors = [
             "set": "STS"
       },
       {
-        cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
+        "name": "Genesect-EX",
+            "number": "64",
+            "set": "FCO",
         "count": 1,
       },
       {
@@ -3280,7 +3294,9 @@ let seniors = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/zoroark-break.png',
+        "name": "Zoroark BREAK",
+            "number": "92",
+            "set": "BKT",
         "count": 1,
       },
       {
@@ -3290,7 +3306,9 @@ let seniors = [
               "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/zorua-bkt.png',
+        "name": "Zorua",
+            "number": "89",
+            "set": "BKT",
         "count": 4,
       },
       {
@@ -3996,7 +4014,9 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/dartrix.png',
+        "name": "Dartrix",
+            "number": "10",
+            "set": "SUM",
         "count": 4,
       },
       {
@@ -4145,7 +4165,9 @@ let juniors = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/magearna-ex.png',
+        "name": "Magearna-EX",
+            "number": "75",
+            "set": "STS",
         "count": 1,
       },
       {
@@ -4157,7 +4179,9 @@ let juniors = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/pikachu.png',
+        "name": "Pikachu",
+            "number": "RC29",
+            "set": "GEN",
         "count": 2,
       },
       {
@@ -4453,7 +4477,9 @@ let juniors = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/magearna-ex.png',
+        "name": "Magearna-EX",
+            "number": "75",
+            "set": "STS",
         "count": 1,
       },
       {

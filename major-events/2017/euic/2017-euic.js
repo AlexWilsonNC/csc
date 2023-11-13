@@ -4172,7 +4172,9 @@ let masters = [
         "count": 1,,
       },
       {
-        cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
+        "name": "Genesect-EX",
+            "number": "64",
+            "set": "FCO",
         "count": 1,,
       },
       {
@@ -6230,7 +6232,9 @@ let juniors = [
         "count": 1,,
       },
       {
-        cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
+        "name": "Genesect-EX",
+            "number": "64",
+            "set": "FCO",
         "count": 1,,
       },
       {

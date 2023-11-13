@@ -2906,7 +2906,9 @@ let sevenEvent = [
         "count": 4,
             },
             {
-        cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
+        "name": "Genesect-EX",
+            "number": "64",
+            "set": "FCO",
         "count": 3,
             },
             {
@@ -6383,7 +6385,9 @@ let meepEvent = [
         "count": 4,,
             },
             {
-        cardImg: '../../assets/cards/2014-2016/genesect-ex.png',
+        "name": "Genesect-EX",
+            "number": "64",
+            "set": "FCO",
         "count": 3,,
             },
             {
