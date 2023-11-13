@@ -761,7 +761,8 @@ let masters = [
     sprite1: '../../assets/sprites/flygon.png',
     sprite2: '../../assets/sprites/weavile.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',

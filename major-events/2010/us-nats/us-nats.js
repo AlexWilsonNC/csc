@@ -2746,7 +2746,8 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/gyarados.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010/gyarados.png',
@@ -3724,7 +3725,8 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/tyranitar.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010/tyranitar-prime.webp',

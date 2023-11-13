@@ -954,7 +954,8 @@ let masters = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -968,7 +969,8 @@ let masters = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -1919,7 +1921,8 @@ let masters = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2507,7 +2510,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/gengar.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2521,7 +2525,8 @@ let masters = [
     sprite1: '../../assets/sprites/gardevoir.png',
     sprite2: '../../assets/sprites/gallade.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2693,7 +2698,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/gyarados.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2707,7 +2713,8 @@ let masters = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2721,7 +2728,8 @@ let masters = [
     sprite1: '../../assets/sprites/gardevoir.png',
     sprite2: '../../assets/sprites/gallade.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -2896,7 +2904,8 @@ let masters = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3051,7 +3060,8 @@ let masters = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3065,7 +3075,8 @@ let masters = [
     sprite1: '../../assets/sprites/gengar.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3079,7 +3090,8 @@ let masters = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3093,7 +3105,8 @@ let masters = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3704,7 +3717,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3718,7 +3732,8 @@ let seniors = [
     sprite1: '../../assets/sprites/sableye.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -3732,7 +3747,8 @@ let seniors = [
     sprite1: '../../assets/sprites/donphan.png',
     sprite2: '../../assets/sprites/entei.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4210,7 +4226,8 @@ let seniors = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4224,7 +4241,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4383,7 +4401,8 @@ let seniors = [
     sprite1: '../../assets/sprites/gardevoir.png',
     sprite2: '../../assets/sprites/gallade.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4397,7 +4416,8 @@ let seniors = [
     sprite1: '../../assets/sprites/gardevoir.png',
     sprite2: '../../assets/sprites/gallade.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -4411,7 +4431,8 @@ let seniors = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5017,7 +5038,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5031,7 +5053,8 @@ let juniors = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5045,7 +5068,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5059,7 +5083,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5073,7 +5098,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5087,7 +5113,8 @@ let juniors = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5101,7 +5128,8 @@ let juniors = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5115,7 +5143,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5129,7 +5158,8 @@ let juniors = [
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/garchomp.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5143,7 +5173,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5157,7 +5188,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/shuppet.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',
@@ -5171,7 +5203,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2008-2010',

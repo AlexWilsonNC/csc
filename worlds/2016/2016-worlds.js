@@ -1551,7 +1551,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/greninja.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -1565,7 +1566,8 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2082,7 +2084,8 @@ let masters = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/manaphy.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2096,7 +2099,8 @@ let masters = [
     sprite1: '../../assets/sprites/bronzong.png',
     sprite2: '../../assets/sprites/genesect.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2257,7 +2261,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/audino-mega.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2271,7 +2276,8 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2285,7 +2291,8 @@ let masters = [
     sprite1: '../../assets/sprites/vespiquen.png',
     sprite2: '../../assets/sprites/vileplume.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2299,7 +2306,8 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/sprites/blank.png',
-    type: '', // galvantula
+        deckid: "eee",
+    event: "eeee", // galvantula
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2313,7 +2321,8 @@ let masters = [
     sprite1: '../../assets/sprites/vespiquen.png',
     sprite2: '../../assets/sprites/excadrill.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2327,7 +2336,8 @@ let masters = [
     sprite1: '../../assets/sprites/bronzong.png',
     sprite2: '../../assets/sprites/aegislash.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2341,7 +2351,8 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2633,7 +2644,8 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3849,7 +3861,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/greninja.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',

@@ -4918,7 +4918,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/exp-share.png',
+        "name": "Exp. Share",
+            "number": "118",
+            "set": "SUM",
         "count": 4,
       },
       {
@@ -5377,15 +5379,21 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/metagross-gx.png',
+        "name": "Metagross GX",
+            "number": "85",
+            "set": "GRI",
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/metang.png',
+        "name": "Metang",
+            "number": "84",
+            "set": "GRI",
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/beldum.png',
+        "name": "Beldum",
+            "number": "83",
+            "set": "GRI",
         "count": 4,
       },
       {
@@ -9138,7 +9146,9 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/exp-share.png',
+        "name": "Exp. Share",
+            "number": "118",
+            "set": "SUM",
         "count": 2,
       },
       {

@@ -479,7 +479,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/darkrai.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -755,7 +756,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/darkrai.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -769,7 +771,8 @@ let masters = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -783,7 +786,8 @@ let masters = [
     sprite1: '../../assets/sprites/celebi.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -797,7 +801,8 @@ let masters = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -811,7 +816,8 @@ let masters = [
     sprite1: '../../assets/sprites/celebi.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -825,7 +831,8 @@ let masters = [
     sprite1: '../../assets/sprites/mewtwo.png',
     sprite2: '../../assets/sprites/eelektrik.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1056,7 +1063,8 @@ let masters = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1070,7 +1078,8 @@ let masters = [
     sprite1: '../../assets/sprites/mewtwo.png',
     sprite2: '../../assets/sprites/terrakion.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1084,7 +1093,8 @@ let masters = [
     sprite1: '../../assets/sprites/celebi.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1098,7 +1108,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/darkrai.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1112,7 +1123,8 @@ let masters = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1126,7 +1138,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/darkrai.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1140,7 +1153,8 @@ let masters = [
     sprite1: '../../assets/sprites/chandelure.png',
     sprite2: '../../assets/sprites/accelgor.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1154,7 +1168,8 @@ let masters = [
     sprite1: '../../assets/sprites/magnezone.png',
     sprite2: '../../assets/sprites/emboar.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1168,7 +1183,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/darkrai.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1182,7 +1198,8 @@ let masters = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1196,7 +1213,8 @@ let masters = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1210,7 +1228,8 @@ let masters = [
     sprite1: '../../assets/sprites/magnezone.png',
     sprite2: '../../assets/sprites/emboar.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1357,7 +1376,8 @@ let masters = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1371,7 +1391,8 @@ let masters = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1385,7 +1406,8 @@ let masters = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -1399,7 +1421,8 @@ let masters = [
     sprite1: '../../assets/sprites/mewtwo.png',
     sprite2: '../../assets/sprites/eelektrik.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2033,7 +2056,8 @@ let seniors = [
     sprite1: '../../assets/sprites/celebi.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2047,7 +2071,8 @@ let seniors = [
     sprite1: '../../assets/sprites/terrakion.png',
     sprite2: '../../assets/sprites/eelektrik.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2061,7 +2086,8 @@ let seniors = [
     sprite1: '../../assets/sprites/mewtwo.png',
     sprite2: '../../assets/sprites/terrakion.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2075,7 +2101,8 @@ let seniors = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2089,7 +2116,8 @@ let seniors = [
     sprite1: '../../assets/sprites/tornadus.png',
     sprite2: '../../assets/sprites/eelektrik.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2103,7 +2131,8 @@ let seniors = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2117,7 +2146,8 @@ let seniors = [
     sprite1: '../../assets/sprites/celebi.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2131,7 +2161,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2145,7 +2176,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/darkrai.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2159,7 +2191,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/eelektrik.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2914,7 +2947,8 @@ let juniors = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/mewtwo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2928,7 +2962,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
@@ -2942,7 +2977,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/darkrai.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',

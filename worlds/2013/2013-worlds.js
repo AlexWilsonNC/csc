@@ -1269,7 +1269,8 @@ let masters = [
     sprite1: '../../assets/sprites/kyurem.png',
     sprite2: '../../assets/sprites/deoxys.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -1529,7 +1530,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/klinklang.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -1660,7 +1662,8 @@ let masters = [
     sprite1: '../../assets/sprites/rayquaza.png',
     sprite2: '../../assets/sprites/eelektrik.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -1674,7 +1677,8 @@ let masters = [
     sprite1: '../../assets/sprites/rayquaza.png',
     sprite2: '../../assets/sprites/eelektrik.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -1688,7 +1692,8 @@ let masters = [
     sprite1: '../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -1702,7 +1707,8 @@ let masters = [
     sprite1: '../../assets/sprites/kyurem.png',
     sprite2: '../../assets/sprites/deoxys.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2216,7 +2222,8 @@ let masters = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/sableye.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2230,7 +2237,8 @@ let masters = [
     sprite1: '../../assets/sprites/kyurem.png',
     sprite2: '../../assets/sprites/deoxys.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2506,7 +2514,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/klinklang.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2520,7 +2529,8 @@ let masters = [
     sprite1: '../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2534,7 +2544,8 @@ let masters = [
     sprite1: '../../assets/sprites/lugia.png',
     sprite2: '../../assets/sprites/deoxys.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2548,7 +2559,8 @@ let masters = [
     sprite1: '../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -2562,7 +2574,8 @@ let masters = [
     sprite1: '../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3091,7 +3104,8 @@ let seniors = [
     sprite1: '../../assets/sprites/darkrai.png',
     sprite2: '../../assets/sprites/garbodor.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3230,7 +3244,8 @@ let seniors = [
     sprite1: '../../assets/sprites/kyurem.png',
     sprite2: '../../assets/sprites/deoxys.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3377,7 +3392,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3391,7 +3407,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3405,7 +3422,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3419,7 +3437,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/klinklang.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3433,7 +3452,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3447,7 +3467,8 @@ let seniors = [
     sprite1: '../../assets/sprites/lugia.png',
     sprite2: '../../assets/sprites/cofagrigus.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3461,7 +3482,8 @@ let seniors = [
     sprite1: '../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3475,7 +3497,8 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/darkrai.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3988,7 +4011,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -4002,7 +4026,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -4016,7 +4041,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -4030,7 +4056,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -4044,7 +4071,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -4058,7 +4086,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -4072,7 +4101,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -4203,7 +4233,8 @@ let juniors = [
     sprite1: '../../assets/sprites/kyurem.png',
     sprite2: '../../assets/sprites/deoxys.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -4217,7 +4248,8 @@ let juniors = [
     sprite1: '../../assets/sprites/kyurem.png',
     sprite2: '../../assets/sprites/deoxys.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -4231,7 +4263,8 @@ let juniors = [
     sprite1: '../../assets/sprites/kyurem.png',
     sprite2: '../../assets/sprites/deoxys.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -4245,7 +4278,8 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',

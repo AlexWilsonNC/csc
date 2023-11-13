@@ -538,7 +538,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/exp-share.png',
+        "name": "Exp. Share",
+            "number": "118",
+            "set": "SUM",
         "count": 3,
       },
       {
@@ -1504,7 +1506,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/exp-share.png',
+        "name": "Exp. Share",
+            "number": "118",
+            "set": "SUM",
         "count": 3,
       },
       {
@@ -2226,7 +2230,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/exp-share.png',
+        "name": "Exp. Share",
+            "number": "118",
+            "set": "SUM",
         "count": 2,
       },
       {
@@ -2365,7 +2371,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/exp-share.png',
+        "name": "Exp. Share",
+            "number": "118",
+            "set": "SUM",
         "count": 3,
       },
       {
@@ -2707,7 +2715,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/exp-share.png',
+        "name": "Exp. Share",
+            "number": "118",
+            "set": "SUM",
         "count": 2,
       },
       {
@@ -4513,7 +4523,9 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/exp-share.png',
+        "name": "Exp. Share",
+            "number": "118",
+            "set": "SUM",
         "count": 2,
       },
       {

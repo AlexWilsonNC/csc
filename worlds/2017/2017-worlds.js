@@ -1865,7 +1865,8 @@ let masters = [
     sprite1: '../../assets/sprites/decidueye.png',
     sprite2: '../../assets/sprites/vileplume.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: []
   },
   {
@@ -2864,7 +2865,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/gardevoir.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: []
   },
   {
@@ -3042,7 +3044,8 @@ let masters = [
     sprite1: '../../assets/sprites/golisopod.png',
     sprite2: '../../assets/sprites/garbodor.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: []
   },
   {
@@ -3052,7 +3055,8 @@ let masters = [
     sprite2: '../../assets/sprites/golisopod.png',
     list: '../../assets/list-icon.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: []
   },
   {
@@ -3219,7 +3223,8 @@ let masters = [
     sprite2: '../../assets/sprites/garbodor.png',
     list: '../../assets/list-icon.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: []
   },
   {
@@ -3388,7 +3393,8 @@ let masters = [
     sprite2: '../../assets/sprites/turtonator.png',
     list: '../../assets/list-icon.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: []
   },
   {
@@ -3398,7 +3404,8 @@ let masters = [
     sprite2: '../../assets/sprites/garbodor.png',
     list: '../../assets/list-icon.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: []
   },
   {
@@ -3408,7 +3415,8 @@ let masters = [
     sprite2: '../../assets/sprites/garbodor.png',
     list: '../../assets/list-icon.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: []
   },
   {
@@ -3939,7 +3947,8 @@ let masters = [
     sprite2: '../../assets/sprites/ninetales-alola.png',
     list: '../../assets/list-icon.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: []
   }
 ]

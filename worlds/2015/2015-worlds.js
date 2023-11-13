@@ -1178,7 +1178,8 @@ let masters = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/manectric.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -1192,7 +1193,8 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -1748,7 +1750,8 @@ let masters = [
     sprite1: '../../assets/sprites/landorus-therian.png',
     sprite2: '../../assets/sprites/crobat.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3453,7 +3456,8 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/groudon-primal.png',
     list: '../../assets/sprites/blank.png',
-     type: '',
+         deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
@@ -3608,7 +3612,8 @@ let masters = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/manectric.png',
     list: '../../assets/sprites/blank.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',

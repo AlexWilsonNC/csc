@@ -4219,7 +4219,8 @@ let masters = [
     sprite1: '../../../assets/sprites/ditto.png',
     sprite2: '../../../assets/sprites/palkia-origin.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023/palkia-vmax-origin-forme.png',

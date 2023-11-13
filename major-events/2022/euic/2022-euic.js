@@ -3156,7 +3156,8 @@ let masters = [
     sprite1: '../../../assets/sprites/moltres-galar.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023/moltres.png',
@@ -9520,7 +9521,8 @@ let seniors = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/moltres-galar.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023/arceus-vstar.png',
@@ -9748,7 +9750,8 @@ let seniors = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/lycanroc-dusk.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+        deckid: "eee",
+    event: "eeee",
     deck: [
       {
         cardImg: '../../assets/cards/2022-2023/arceus-vstar.png',
@@ -10997,7 +11000,8 @@ let juniors = [
   //   sprite1: '../../../assets/sprites/blank.png',
   //   sprite2: '../../../assets/hyphen.png',
   //   list: '../../../assets/sprites/blank.png',
-  //   type: '',
+  //       deckid: "eee",
+    event: "eeee",
   //   deck: [
   //     {
   //       cardImg: '../../assets/cards/2022-2023',
@@ -11011,7 +11015,8 @@ let juniors = [
   //   sprite1: '../../../assets/sprites/blank.png',
   //   sprite2: '../../../assets/hyphen.png',
   //   list: '../../../assets/sprites/blank.png',
-  //   type: '',
+  //       deckid: "eee",
+    event: "eeee",
   //   deck: [
   //     {
   //       cardImg: '../../assets/cards/2022-2023',
@@ -11025,7 +11030,8 @@ let juniors = [
   //   sprite1: '../../../assets/sprites/blank.png',
   //   sprite2: '../../../assets/hyphen.png',
   //   list: '../../../assets/sprites/blank.png',
-  //   type: '',
+  //       deckid: "eee",
+    event: "eeee",
   //   deck: [
   //     {
   //       cardImg: '../../assets/cards/2022-2023',
@@ -11039,7 +11045,8 @@ let juniors = [
   //   sprite1: '../../../assets/sprites/blank.png',
   //   sprite2: '../../../assets/hyphen.png',
   //   list: '../../../assets/sprites/blank.png',
-  //   type: '',
+  //       deckid: "eee",
+    event: "eeee",
   //   deck: [
   //     {
   //       cardImg: '../../assets/cards/2022-2023',
@@ -11053,7 +11060,8 @@ let juniors = [
   //   sprite1: '../../../assets/sprites/blank.png',
   //   sprite2: '../../../assets/hyphen.png',
   //   list: '../../../assets/sprites/blank.png',
-  //   type: '',
+  //       deckid: "eee",
+    event: "eeee",
   //   deck: [
   //     {
   //       cardImg: '../../assets/cards/2022-2023',
@@ -11067,7 +11075,8 @@ let juniors = [
   //   sprite1: '../../../assets/sprites/blank.png',
   //   sprite2: '../../../assets/hyphen.png',
   //   list: '../../../assets/sprites/blank.png',
-  //   type: '',
+  //       deckid: "eee",
+    event: "eeee",
   //   deck: [
   //     {
   //       cardImg: '../../assets/cards/2022-2023',
@@ -11081,7 +11090,8 @@ let juniors = [
   //   sprite1: '../../../assets/sprites/blank.png',
   //   sprite2: '../../../assets/hyphen.png',
   //   list: '../../../assets/sprites/blank.png',
-  //   type: '',
+  //       deckid: "eee",
+    event: "eeee",
   //   deck: [
   //     {
   //       cardImg: '../../assets/cards/2022-2023',
@@ -11095,7 +11105,8 @@ let juniors = [
   //   sprite1: '../../../assets/sprites/blank.png',
   //   sprite2: '../../../assets/hyphen.png',
   //   list: '../../../assets/sprites/blank.png',
-  //   type: '',
+  //       deckid: "eee",
+    event: "eeee",
   //   deck: [
   //     {
   //       cardImg: '../../assets/cards/2022-2023',
