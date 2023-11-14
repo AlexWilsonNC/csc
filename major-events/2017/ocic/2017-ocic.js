@@ -115,7 +115,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -266,7 +268,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -405,7 +409,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -544,7 +550,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -711,7 +719,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -870,7 +880,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 2,
       },
       {
@@ -1043,7 +1055,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -1198,7 +1212,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -1337,7 +1353,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -1554,7 +1572,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -2129,7 +2149,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -2290,7 +2312,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -2445,7 +2469,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -2630,7 +2656,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -2644,7 +2672,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dive-ball.png',
+        "name": "Dive Ball",
+          "number": "125",
+          "set": "PRC",
         "count": 4,
       },
       {
@@ -2803,7 +2833,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -3138,7 +3170,9 @@ let seniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -3283,7 +3317,9 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -3428,7 +3464,9 @@ let seniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -3595,7 +3633,9 @@ let seniors = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -3746,7 +3786,9 @@ let seniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -3901,7 +3943,9 @@ let seniors = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -4052,7 +4096,9 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -4203,7 +4249,9 @@ let seniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -4375,7 +4423,9 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -4542,7 +4592,9 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -4864,7 +4916,9 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -5013,7 +5067,9 @@ let juniors = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -5122,7 +5178,9 @@ let juniors = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
+        "name": "Dragonite-EX",
+          "number": "72",
+          "set": "EVO",
         "count": 2,
       },
       {
@@ -5184,7 +5242,9 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -5281,7 +5341,9 @@ let juniors = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/unown.png',
+        "name": "Unown",
+          "number": "30",
+          "set": "AOR",
         "count": 4,
       },
       {
@@ -5522,7 +5584,9 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {

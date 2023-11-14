@@ -3765,7 +3765,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
+        "name": "Dragonite-EX",
+          "number": "72",
+          "set": "EVO",
         "count": 2,
       },
       {
@@ -3817,7 +3819,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -6492,7 +6496,9 @@ let juniors = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
+        "name": "Dragonite-EX",
+          "number": "72",
+          "set": "EVO",
         "count": 2,
       },
       {
@@ -6546,7 +6552,9 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {

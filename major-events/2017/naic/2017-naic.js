@@ -272,7 +272,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -606,7 +608,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/trainers-mail.png',
+        "name": "Trainers' Mail",
+          "number": "92",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -1282,7 +1286,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dive-ball.png',
+        "name": "Dive Ball",
+          "number": "125",
+          "set": "PRC",
         "count": 4,
       },
       {
@@ -1439,7 +1445,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dive-ball.png',
+        "name": "Dive Ball",
+          "number": "125",
+          "set": "PRC",
         "count": 4,
       },
       {
@@ -4581,7 +4589,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dive-ball.png',
+        "name": "Dive Ball",
+          "number": "125",
+          "set": "PRC",
         "count": 4,
       },
       {
@@ -6344,7 +6354,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
+        "name": "Dragonite-EX",
+          "number": "72",
+          "set": "EVO",
         "count": 2,
       },
       {
@@ -7294,7 +7306,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dive-ball.png',
+        "name": "Dive Ball",
+          "number": "125",
+          "set": "PRC",
         "count": 4,
       },
       {
@@ -7461,7 +7475,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
+        "name": "Dragonite-EX",
+          "number": "72",
+          "set": "EVO",
         "count": 2,
       },
       {
@@ -7674,7 +7690,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
+        "name": "Dragonite-EX",
+          "number": "72",
+          "set": "EVO",
         "count": 2,
       },
       {
@@ -8215,7 +8233,9 @@ let seniors = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dive-ball.png',
+        "name": "Dive Ball",
+          "number": "125",
+          "set": "PRC",
         "count": 4,
       },
       {
@@ -8843,7 +8863,9 @@ let seniors = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dragonite-ex.png',
+        "name": "Dragonite-EX",
+          "number": "72",
+          "set": "EVO",
         "count": 2,
       },
       {
@@ -9681,7 +9703,9 @@ let juniors = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dive-ball.png',
+        "name": "Dive Ball",
+          "number": "125",
+          "set": "PRC",
         "count": 4,
       },
       {
@@ -9846,7 +9870,9 @@ let juniors = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/dive-ball.png',
+        "name": "Dive Ball",
+          "number": "125",
+          "set": "PRC",
         "count": 4,
       },
       {
