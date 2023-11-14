@@ -2487,7 +2487,7 @@ let masters = [
         {
           "count": 1,
           "name": "Tapu Koko",
-          "number": "31",
+          "number": "30",
           "set": "PR-SM"
         },
       ],
@@ -6497,7 +6497,7 @@ let masters = [
         {
           "count": 4,
           "name": "Tapu Koko",
-          "number": "31",
+          "number": "30",
           "set": "PR-SM"
         },
         {
@@ -8066,7 +8066,7 @@ let masters = [
         {
           "count": 1,
           "name": "Tapu Koko",
-          "number": "31",
+          "number": "30",
           "set": "PR-SM"
         },
         {

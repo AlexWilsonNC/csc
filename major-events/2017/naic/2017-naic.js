@@ -83,7 +83,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -93,11 +95,15 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -222,7 +228,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 2,
       },
       {
@@ -248,7 +256,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -397,15 +407,21 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-fan-club.png',
+        "name": "Pokémon Fan Club",
+          "number": "107",
+          "set": "FCO",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -419,11 +435,15 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -544,7 +564,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 2,
       },
       {
@@ -572,7 +594,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -723,7 +747,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -749,7 +775,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -884,7 +912,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 3,
       },
       {
@@ -892,7 +922,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -1017,7 +1049,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -1051,7 +1085,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -1061,7 +1097,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -1071,7 +1109,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -1081,7 +1121,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -1218,7 +1260,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -1232,7 +1276,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -1381,11 +1427,15 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -1393,7 +1443,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -1544,7 +1596,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -1576,7 +1630,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -1592,7 +1648,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -1735,7 +1793,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -1787,7 +1847,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -1797,7 +1859,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -1807,7 +1871,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -1890,7 +1956,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -1954,11 +2022,15 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -1968,7 +2040,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -2147,7 +2221,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -2203,15 +2279,21 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-fan-club.png',
+        "name": "Pokémon Fan Club",
+          "number": "107",
+          "set": "FCO",
         "count": 1,
       },
       {
@@ -2221,7 +2303,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -2310,7 +2394,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -2344,7 +2430,9 @@ let masters = [
             "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -2366,11 +2454,15 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -2396,7 +2488,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -2519,7 +2613,9 @@ let masters = [
             "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -2535,7 +2631,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -2551,7 +2649,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -2688,7 +2788,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -2698,11 +2800,15 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -2845,7 +2951,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 3,
       },
       {
@@ -2853,7 +2961,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -3002,7 +3112,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 3,
       },
       {
@@ -3012,7 +3124,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -3022,7 +3136,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -3153,7 +3269,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -3185,7 +3303,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -3201,7 +3321,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -3211,7 +3333,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -3302,7 +3426,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -3354,11 +3480,15 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -3378,7 +3508,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -3502,7 +3634,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -3558,15 +3692,21 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-fan-club.png',
+        "name": "Pokémon Fan Club",
+          "number": "107",
+          "set": "FCO",
         "count": 1,
       },
       {
@@ -3576,7 +3716,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -3693,7 +3835,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -3715,7 +3859,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -3725,7 +3871,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-fan-club.png',
+        "name": "Pokémon Fan Club",
+          "number": "107",
+          "set": "FCO",
         "count": 1,
       },
       {
@@ -3844,7 +3992,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -3908,11 +4058,15 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -3922,7 +4076,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -4041,7 +4197,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -4075,7 +4233,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -4085,7 +4245,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -4095,7 +4257,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -4105,7 +4269,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -4240,7 +4406,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 3,
       },
       {
@@ -4260,7 +4428,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -4399,11 +4569,15 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -4411,7 +4585,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -4568,7 +4744,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -4578,7 +4756,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -4588,7 +4768,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -4888,11 +5070,15 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -4908,7 +5094,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -5109,7 +5297,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 3,
       },
       {
@@ -5119,7 +5309,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -5129,7 +5321,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -5230,7 +5424,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -5282,7 +5478,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -5292,7 +5490,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -5302,7 +5502,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -5427,7 +5629,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -5437,7 +5641,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -5451,7 +5657,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -5461,7 +5669,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -5544,15 +5754,21 @@ let masters = [
     },
     deck: [
       {
-        cardImg: '../../assets/cards/2018-17/rayquaza-ex-mega.png',
+        "name": "M Rayquaza-EX",
+          "number": "76",
+          "set": "ROS",
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/rayquaza-ex.png',
+        "name": "Rayquaza-EX",
+          "number": "75",
+          "set": "ROS",
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -5562,7 +5778,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
+        "name": "Hoopa-EX",
+          "number": "36",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -5606,11 +5824,15 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 2,
       },
       {
@@ -5632,11 +5854,15 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-fan-club.png',
+        "name": "Pokémon Fan Club",
+          "number": "107",
+          "set": "FCO",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -5664,7 +5890,9 @@ let masters = [
               "set": "STS"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rayquaza-spirit-link.png',
+        "name": "Rayquaza Spirit Link",
+          "number": "87",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -5674,7 +5902,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sky-field.png',
+        "name": "Sky Field",
+          "number": "89",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -5775,7 +6005,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -5791,7 +6023,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -5799,7 +6033,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -5807,7 +6043,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -6088,7 +6326,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -6098,7 +6338,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
+        "name": "Hoopa-EX",
+          "number": "36",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -6136,7 +6378,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -6158,7 +6402,9 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -6170,7 +6416,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -6180,7 +6428,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mega-turbo.png',
+        "name": "Mega Turbo",
+          "number": "86",
+          "set": "ROS",
         "count": 2,
       },
       {
@@ -6206,7 +6456,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/sky-field.png',
+        "name": "Sky Field",
+          "number": "89",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -6373,15 +6625,21 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -6397,7 +6655,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -6413,7 +6673,9 @@ let masters = [
             "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mega-turbo.png',
+        "name": "Mega Turbo",
+          "number": "86",
+          "set": "ROS",
         "count": 2,
       },
       {
@@ -6518,7 +6780,9 @@ let masters = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/zorua-whiny-voice.png',
+        "name": "Zorua",
+            "number": "90",
+            "set": "BKT",
         "count": 1,
       },
       {
@@ -6534,7 +6798,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -6568,7 +6834,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -6578,7 +6846,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -6588,7 +6858,9 @@ let masters = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -6598,7 +6870,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -6773,7 +7047,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -6789,7 +7065,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -6797,7 +7075,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -6807,7 +7087,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -6988,7 +7270,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -7004,7 +7288,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -7157,7 +7443,9 @@ let masters = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -7167,7 +7455,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
+        "name": "Hoopa-EX",
+          "number": "36",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -7199,7 +7489,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -7221,7 +7513,9 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -7229,7 +7523,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -7251,7 +7547,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mega-turbo.png',
+        "name": "Mega Turbo",
+          "number": "86",
+          "set": "ROS",
         "count": 2,
       },
       {
@@ -7259,7 +7557,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/sky-field.png',
+        "name": "Sky Field",
+          "number": "89",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -7356,7 +7656,9 @@ let masters = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -7366,7 +7668,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
+        "name": "Hoopa-EX",
+          "number": "36",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -7398,11 +7702,15 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 2,
       },
       {
@@ -7438,11 +7746,15 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/mega-turbo.png',
+        "name": "Mega Turbo",
+          "number": "86",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -7468,7 +7780,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/sky-field.png',
+        "name": "Sky Field",
+          "number": "89",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -7484,7 +7798,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/energy/wonder-energy.png',
+        "name": "Wonder Energy",
+            "number": "144",
+            "set": "PRC",
         "count": 1,
       },
     ]
@@ -7691,7 +8007,9 @@ let masters = [
             "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -7707,7 +8025,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -7717,7 +8037,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -7731,7 +8053,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 2,
       },
       {
@@ -7875,11 +8199,15 @@ let seniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -7897,7 +8225,9 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -7978,7 +8308,9 @@ let seniors = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -8030,7 +8362,9 @@ let seniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -8044,11 +8378,15 @@ let seniors = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -8137,7 +8475,9 @@ let seniors = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -8189,7 +8529,9 @@ let seniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -8199,11 +8541,15 @@ let seniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -8322,7 +8668,9 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -8350,7 +8698,9 @@ let seniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -8360,11 +8710,15 @@ let seniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -8471,7 +8825,9 @@ let seniors = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -8481,7 +8837,9 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hoopa-ex.png',
+        "name": "Hoopa-EX",
+          "number": "36",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -8511,7 +8869,9 @@ let seniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -8533,11 +8893,15 @@ let seniors = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -8547,7 +8911,9 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/mega-turbo.png',
+        "name": "Mega Turbo",
+          "number": "86",
+          "set": "ROS",
         "count": 3,
       },
       {
@@ -8579,7 +8945,9 @@ let seniors = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/sky-field.png',
+        "name": "Sky Field",
+          "number": "89",
+          "set": "ROS",
         "count": 4,
       },
       {
@@ -8672,11 +9040,15 @@ let seniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -8698,7 +9070,9 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -8795,7 +9169,9 @@ let seniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 3,
       },
       {
@@ -8817,7 +9193,9 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -8904,7 +9282,9 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -8932,7 +9312,9 @@ let seniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -8942,7 +9324,9 @@ let seniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -8952,7 +9336,9 @@ let seniors = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -8962,7 +9348,9 @@ let seniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -9058,7 +9446,9 @@ let juniors = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 2,
       },
       {
@@ -9102,23 +9492,33 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-fan-club.png',
+        "name": "Pokémon Fan Club",
+          "number": "107",
+          "set": "FCO",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -9158,11 +9558,15 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/sky-field.png',
+        "name": "Sky Field",
+          "number": "89",
+          "set": "ROS",
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/energy/energy-fairy.png',
+        "name": "Fairy Energy",
+            "number": "fairy",
+            "set": "SUM",
         "count": 9,
       },
       {
@@ -9249,7 +9653,9 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -9263,11 +9669,15 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -9404,7 +9814,9 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -9428,7 +9840,9 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -9531,7 +9945,9 @@ let juniors = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -9565,7 +9981,9 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -9587,7 +10005,9 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -9601,11 +10021,15 @@ let juniors = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -9718,7 +10142,9 @@ let juniors = [
             "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -9756,7 +10182,9 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -9766,7 +10194,9 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -9776,7 +10206,9 @@ let juniors = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -9786,7 +10218,9 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 4,
       },
       {
@@ -9885,7 +10319,9 @@ let juniors = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -9919,7 +10355,9 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -9945,7 +10383,9 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -9961,7 +10401,9 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -10044,7 +10486,9 @@ let juniors = [
             "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
+        "name": "Flareon",
+            "number": "13",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -10078,7 +10522,9 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/shaymin-ex.png',
+        "name": "Shaymin-EX",
+          "number": "77",
+          "set": "ROS",
         "count": 1,
       },
       {
@@ -10104,7 +10550,9 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -10114,7 +10562,9 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 1,
       },
       {
@@ -10124,7 +10574,9 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
@@ -10255,11 +10707,15 @@ let juniors = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
+        "name": "Hex Maniac",
+            "number": "75",
+            "set": "AOR",
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/lysandre.png',
+        "name": "Lysandre",
+          "number": "90",
+          "set": "FLF",
         "count": 2,
       },
       {
@@ -10269,7 +10725,9 @@ let juniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
+        "name": "Teammates",
+            "number": "141",
+            "set": "PRC",
         "count": 1,
       },
       {
@@ -10285,7 +10743,9 @@ let juniors = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
+        "name": "VS Seeker",
+            "number": "109",
+            "set": "PHF",
         "count": 3,
       },
       {
