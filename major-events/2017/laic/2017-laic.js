@@ -120,7 +120,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -265,7 +267,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -589,7 +593,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -1032,7 +1038,9 @@ let masters = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -2912,7 +2920,9 @@ let seniors = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -4221,7 +4231,9 @@ let juniors = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/rough-seas.png',
+        "name": "Rough Seas",
+          "number": "137",
+          "set": "PRC",
         "count": 1,
       },
       {
@@ -4348,7 +4360,9 @@ let juniors = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {

@@ -278,7 +278,9 @@ let masters = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -614,7 +616,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -775,7 +779,9 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/karen.png',
+        "name": "Karen",
+          "number": "177",
+          "set": "PR-XY",
         "count": 1,
       },
       {
@@ -815,7 +821,9 @@ let masters = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rough-seas.png',
+        "name": "Rough Seas",
+          "number": "137",
+          "set": "PRC",
         "count": 2,
       },
       {
@@ -1232,7 +1240,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/froakie-bubble.png',
+        "name": "Froakie",
+          "number": "38",
+          "set": "BKP",
         "count": 3,
       },
       {
@@ -1270,7 +1280,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/ace-trainer.png',
+        "name": "Ace Trainer",
+          "number": "69",
+          "set": "AOR",
         "count": 1,
       },
       {
@@ -1429,7 +1441,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ace-trainer.png',
+        "name": "Ace Trainer",
+          "number": "69",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -1509,7 +1523,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rough-seas.png',
+        "name": "Rough Seas",
+          "number": "137",
+          "set": "PRC",
         "count": 1,
       },
       {
@@ -1674,7 +1690,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 1,
       },
       {
@@ -2663,7 +2681,9 @@ let masters = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -4573,7 +4593,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ace-trainer.png',
+        "name": "Ace Trainer",
+          "number": "69",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -4653,7 +4675,9 @@ let masters = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rough-seas.png',
+        "name": "Rough Seas",
+          "number": "137",
+          "set": "PRC",
         "count": 1,
       },
       {
@@ -6424,7 +6448,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-center-lady.png',
+        "name": "Pokémon Center Lady",
+          "number": "93",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -6659,7 +6685,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-center-lady.png',
+        "name": "Pokémon Center Lady",
+          "number": "93",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -7256,7 +7284,9 @@ let masters = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/froakie-bubble.png',
+        "name": "Froakie",
+          "number": "38",
+          "set": "BKP",
         "count": 3,
       },
       {
@@ -7278,7 +7308,9 @@ let masters = [
           "set": "FCO"
       },
       {
-        cardImg: '../../assets/cards/2018-17/ace-trainer.png',
+        "name": "Ace Trainer",
+          "number": "69",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -7535,7 +7567,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-center-lady.png',
+        "name": "Pokémon Center Lady",
+          "number": "93",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -7750,7 +7784,9 @@ let masters = [
         "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-center-lady.png',
+        "name": "Pokémon Center Lady",
+          "number": "93",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -8067,7 +8103,9 @@ let masters = [
           "set": "SUM"
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -8229,7 +8267,9 @@ let seniors = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/ace-trainer.png',
+        "name": "Ace Trainer",
+          "number": "69",
+          "set": "AOR",
         "count": 1,
       },
       {
@@ -8263,7 +8303,9 @@ let seniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -8394,7 +8436,9 @@ let seniors = [
           "set": "BKT"
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-center-lady.png',
+        "name": "Pokémon Center Lady",
+          "number": "93",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -9653,7 +9697,9 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/froakie-bubble.png',
+        "name": "Froakie",
+          "number": "38",
+          "set": "BKP",
         "count": 3,
       },
       {
@@ -9681,7 +9727,9 @@ let juniors = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/ace-trainer.png',
+        "name": "Ace Trainer",
+          "number": "69",
+          "set": "AOR",
         "count": 1,
       },
       {
@@ -9745,7 +9793,9 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/rough-seas.png',
+        "name": "Rough Seas",
+          "number": "137",
+          "set": "PRC",
         "count": 2,
       },
       {
@@ -9816,7 +9866,9 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/froakie-bubble.png',
+        "name": "Froakie",
+          "number": "38",
+          "set": "BKP",
         "count": 3,
       },
       {
@@ -9844,7 +9896,9 @@ let juniors = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/ace-trainer.png',
+        "name": "Ace Trainer",
+          "number": "69",
+          "set": "AOR",
         "count": 1,
       },
       {
@@ -9888,7 +9942,9 @@ let juniors = [
           "set": "GRI"
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 1,
       },
       {

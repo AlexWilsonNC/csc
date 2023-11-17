@@ -6536,7 +6536,9 @@ let juniors = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/karen.png',
+        "name": "Karen",
+          "number": "177",
+          "set": "PR-XY",
         "count": 1,
       },
       {

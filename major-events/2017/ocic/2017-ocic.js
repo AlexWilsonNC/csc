@@ -274,7 +274,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -415,7 +417,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -725,7 +729,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -1061,7 +1067,9 @@ let masters = [
         "count": 3,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 2,
       },
       {
@@ -1218,7 +1226,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -1359,7 +1369,9 @@ let masters = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -2290,7 +2302,9 @@ let masters = [
         "count": 1,
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-center-lady.png',
+        "name": "Pokémon Center Lady",
+          "number": "93",
+          "set": "FLF",
         "count": 1,
       },
       {
@@ -2688,7 +2702,9 @@ let masters = [
         "count": 2,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 1,
       },
       {
@@ -3323,7 +3339,9 @@ let seniors = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -4102,7 +4120,9 @@ let seniors = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -4922,7 +4942,9 @@ let juniors = [
         "count": 4,
       },
       {
-        cardImg: '../../assets/cards/2018-17/level-ball.png',
+        "name": "Level Ball",
+          "number": "76",
+          "set": "AOR",
         "count": 3,
       },
       {
@@ -5045,7 +5067,9 @@ let juniors = [
           "set": "BKP"
       },
       {
-        cardImg: '../../assets/cards/2018-17/pokemon-center-lady.png',
+        "name": "Pokémon Center Lady",
+          "number": "93",
+          "set": "FLF",
         "count": 1,
       },
       {
